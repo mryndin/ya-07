@@ -3,3 +3,23 @@
 .idea
 .build
 .git
+
+# --- Python ---
+__pycache__/
+*.py[cod]
+*$py.class
+
+# --- Виртуальные окружения ---
+venv/
+.env/
+env/
+
+# --- Векторные индексы и БД ---
+faiss_index/
+*.index
+*.pkl
+
+# --- Локальные данные (опционально) ---
+# Если knowledge_base генерируется скриптом, лучше её тоже исключить
+knowledge_base/
+.DS_Store
