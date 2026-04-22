@@ -1,5 +1,6 @@
 import os
 import time
+import sys
 from langchain_community.document_loaders import DirectoryLoader, TextLoader
 from langchain_text_splitters import RecursiveCharacterTextSplitter
 from langchain_huggingface import HuggingFaceEmbeddings
@@ -11,6 +12,10 @@ INDEX_PATH = "faiss_index"
 MODEL_NAME = "sentence-transformers/all-MiniLM-L6-v2"
 
 def main():
+    # Исправление ошибки кодировки в консоли Windows
+    if sys.platform == "win32":
+        sys.stdout.reconfigure(encoding='utf-8')
+    
     print("[*] Инициализация процесса создания векторного индекса...")
     
     # 1. Загрузка документов из папки

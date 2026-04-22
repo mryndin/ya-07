@@ -109,30 +109,39 @@
 - Словарь замен: terms_map.json
 - База знаний: knowledge_base/*.md (30+ документов)
 
-## Задание 3. Создание векторного индекса
+## 6. Создание векторного индекса (Задание 3)
 
 **1. Выбор модели эмбеддингов:**
-* **Название:** `sentence-transformers/all-MiniLM-L6-v2`
-* **Репозиторий:** [Hugging Face](https://huggingface.co/sentence-transformers/all-MiniLM-L6-v2)
-* **Размер эмбеддингов (Dimensionality):** 384
-* **Обоснование:** Модель идеальна для On-premise развертывания. Она обеспечивает превосходный баланс между скоростью работы на CPU и качеством семантического поиска. Небольшая размерность (384) позволяет существенно экономить оперативную память (RAM) при масштабировании базы до 18 000+ документов в будущем.
+* Название: sentence-transformers/all-MiniLM-L6-v2
+* Репозиторий: https://huggingface.co/sentence-transformers/all-MiniLM-L6-v2
+* Размер эмбеддингов (Dimensionality): 384
+* Обоснование: Модель идеальна для On-premise развертывания. Она обеспечивает превосходный баланс между скоростью работы на CPU и качеством семантического поиска. Небольшая размерность (384) позволяет существенно экономить оперативную память (RAM).
 
 **2. Параметры индексации:**
-* **База знаний:** Папка `knowledge_base/` (Синтетическая вселенная).
-* **Инструмент разбиения:** `RecursiveCharacterTextSplitter` из LangChain.
-* **Размер чанка (chunk_size):** 1000 символов (~200 слов).
-* **Пересечение (chunk_overlap):** 200 символов.
-* **Хранилище:** Использована векторная БД `FAISS` (`faiss-cpu`).
-* **Количество чанков в индексе:** [ВСТАВИТЬ ЧИСЛО ИЗ ВЫВОДА СКРИПТА, обычно около 350-500]
-* **Время генерации:** [ВСТАВИТЬ ЧИСЛО ИЗ ВЫВОДА СКРИПТА, обычно 2-5 секунд на i5]
+* База знаний: Папка knowledge_base/ (31 документ)
+* Инструмент разбиения: RecursiveCharacterTextSplitter из LangChain
+* Размер чанка (chunk_size): 1000 символов
+* Пересечение (chunk_overlap): 200 символов
+* Хранилище: Векторная БД FAISS (faiss-cpu)
+* Количество чанков в индексе: 6735
+* Время генерации: 33.41 сек
 
 **3. Артефакты:**
-* **Скрипт генерации:** `build_index.py`.
-* **Сохраненный индекс:** Директория `faiss_index/` (содержит файлы `index.faiss` и `index.pkl`). Метаданные (путь к файлу, `start_index`) сохранены внутри `.pkl`.
+* Скрипт генерации: build_index.py
+* Сохраненный индекс: Директория faiss_index/ (содержит файлы index.faiss и index.pkl)
 
 **4. Пример поискового запроса к индексу (Тест качества):**
 
-**Запрос:** *"Who is Xarn Velgor?"*
-**Найденный чанк 1 (Источник: knowledge_base/Darth_Vader.md, Позиция: 0):**
-`Xarn Velgor is a fictional character in the Star Wars franchise. The character is a primary antagonist... Created by George Lucas...`
+Запрос: "Who is Xarn Velgor?"
+
+-----
+Чанк 1 (Источник: knowledge_base\Darth_Vader.md, Позиция: 304928) 
+-----
+Xarn Velgor, as he appeared in the dreams of someone who feared him. At some point, a human dreamed about being pursued and killed by Vader... Vader mockingly thanked him for doing so before strangling him with Synth Flux.
+
+-----
+Чанк 2 (Источник: knowledge_base\Darth_Vader.md, Позиция: 282459) 
+-----
+Xarn Velgor cuts down the Cha parents with the Ninth Sister's Plasma Edge in front of their daughter, Chanath Cha...
+
 *(Примечание: Ответ релевантен, система успешно находит информацию по вымышленному имени, связывая его с оригинальным контекстом страницы, подтверждая честную работу семантического поиска).*
