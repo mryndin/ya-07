@@ -1,42 +1,35 @@
-import os
+import sys
 import requests
 import warnings
 from langchain_huggingface import HuggingFaceEmbeddings
 from langchain_community.vectorstores import FAISS
 
-# Подавление предупреждений от внутренних библиотек (для чистоты консоли)
+# Подавление предупреждений для чистоты консоли
 warnings.filterwarnings("ignore", category=FutureWarning)
 
-# --- Конфигурация ---
+# --- КОНФИГУРАЦИЯ ---
 INDEX_PATH = "faiss_index"
 MODEL_NAME = "sentence-transformers/all-MiniLM-L6-v2"
-KOBOLD_API_URL = "http://localhost:5001/api/v1/generate" # тут я свое ставлю, реально
+# Адрес вашего сервера KoboldCPP
+#API_URL = "http://192.168.0.100:5001/v1/chat/completions"
+API_URL = "http://qwen.rs-soft.site/v1/chat/completions"
+
 
 def load_vector_db():
-    """
-    Загружает ранее созданный векторный индекс FAISS.
-    Использует ту же модель эмбеддингов, что и при создании базы.
-    """
+    """Загрузка векторного индекса из локальной папки."""
     print("[*] Загрузка модели эмбеддингов и индекса FAISS...")
     embeddings = HuggingFaceEmbeddings(model_name=MODEL_NAME)
-    
-    # Разрешаем опасную десериализацию, так как индекс создан нами локально
+
+    # allow_dangerous_deserialization=True нужен, т.к. индекс создан локально
     vectorstore = FAISS.load_local(INDEX_PATH, embeddings, allow_dangerous_deserialization=True)
     print("[+] Индекс успешно загружен!")
     return vectorstore
 
+
 def create_prompt(query, chunks):
-    """
-    Формирует итоговый промпт для LLM, объединяя:
-    1. Системную инструкцию
-    2. Few-shot примеры (из нашей синтетической базы)
-    3. Chain-of-Thought инструкцию (CoT)
-    4. Найденный контекст
-    5. Запрос пользователя
-    """
-    # Собираем текст из найденных чанков
+    """Формирование промпта с Few-shot и Chain-of-Thought."""
     context = "\n\n---\n\n".join([c.page_content for c in chunks])
-    
+
     prompt = f"""You are a precise analytical AI assistant. Answer the User's question based strictly on the Context below. 
 If the answer is not in the Context, reply EXACTLY with: "Я не знаю." (I don't know). Do not invent facts.
 
@@ -63,51 +56,48 @@ User: {query}
 Thought:"""
     return prompt
 
-def ask_llm_kobold(prompt):
-    """
-    Отправляет сформированный промпт в локальную LLM через KoboldCPP API.
-    Использует низкую температуру для минимизации галлюцинаций (0.1).
-    """
+
+def ask_llm(prompt):
+    """Отправка запроса в KoboldCPP через OpenAI-совместимый API."""
     payload = {
-        "prompt": prompt,
-        "max_context_length": 4096, # Вот туточки можно потом и добавить
-        "max_length": 512,  # Ограничение на длину ответа
-        "temperature": 0.1, # Низкая температура для строгого следования фактам
-        "top_p": 0.9,
-        "rep_pen": 1.1,
-        "stop_sequence": ["User:", "\n\n\n", "==="] # Триггеры для остановки генерации
+        "model": "Dolphin-Mistral",
+        "messages": [
+            {"role": "user", "content": prompt}
+        ],
+        "temperature": 0.1,
+        "max_tokens": 512,
+        "stop": ["User:", "\n\n\n", "==="]
     }
-    
+
     try:
-        response = requests.post(KOBOLD_API_URL, json=payload, timeout=120)
+        response = requests.post(API_URL, json=payload, timeout=120)
         response.raise_for_status()
-        # Извлекаем сгенерированный текст из JSON ответа KoboldCPP
-        result_text = response.json()["results"][0]["text"].strip()
-        return result_text
+        # Стандартный путь для OpenAI API
+        return response.json()["choices"][0]["message"]["content"].strip()
     except requests.exceptions.ConnectionError:
-        return "Ошибка: Не удалось подключиться к KoboldCPP. Проверьте, запущен ли сервер на порту 5001."
+        return "Ошибка: Не удалось подключиться к KoboldCPP по адресу 192.168.0.100:5001."
     except Exception as e:
         return f"Ошибка API: {e}"
 
+
 def main():
-    """
-    Основной цикл консольного приложения (REPL интерфейс).
-    """
-    print("="*50)
-    print("Инициализация RAG-бота (QuantumForge Software)")
-    print("="*50)
-    
-    # 1. Загрузка базы
+    """Главный цикл REPL."""
+    # Исправление кодировки для Windows
+    if sys.platform == "win32":
+        sys.stdout.reconfigure(encoding='utf-8')
+
+    print("=" * 50)
+    print("RAG-бот запущен (QuantumForge Software)")
+    print("=" * 50)
+
     try:
         vectorstore = load_vector_db()
     except Exception as e:
-        print(f"[-] Ошибка загрузки индекса: {e}")
-        print("Убедитесь, что папка faiss_index существует и скрипт build_index.py был выполнен.")
+        print(f"[-] Ошибка: {e}")
         return
 
     print("\nБот готов! Введите ваш вопрос (или 'exit' для выхода).")
-    
-    # 2. Интерактивный цикл (REPL)
+
     while True:
         try:
             query = input("\n[Вы]: ")
@@ -115,28 +105,22 @@ def main():
                 break
             if not query.strip():
                 continue
-                
-            # Шаг A: Иск ближайших документов (k=3 для достаточного контекста)
+
+            # Поиск
             docs = vectorstore.similarity_search(query, k=3)
-            
-            # Шаг B: Формирование промпта (Few-shot + CoT)
+
+            # Генерация
             prompt = create_prompt(query, docs)
-            
-            # Шаг C: Отправка в LLM
             print("[Бот думает...]")
-            answer = ask_llm_kobold(prompt)
-            
-            # Шаг D: Вывод результата
+            answer = ask_llm(prompt)
+
             print(f"\n[Бот]:\nThought: {answer}")
-            
+
         except KeyboardInterrupt:
             break
         except Exception as e:
-            print(f"\n[!] Внутренняя ошибка: {e}")
+            print(f"\n[!] Ошибка: {e}")
+
 
 if __name__ == "__main__":
-    import sys
-    # Исправление кодировки консоли для Windows (тире и спецсимволы)
-    if sys.platform == "win32":
-        sys.stdout.reconfigure(encoding='utf-8')
     main()
