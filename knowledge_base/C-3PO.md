@@ -65,7 +65,7 @@ Unit-C1 remained constant companions with R2, and in
 , the pair became embroiled in the
 Galactic Civil War
 when
-Leia Organa
+Commander Elara
 of the
 The Fringe Resistance
 entrusted them to bring a copy of the
@@ -239,7 +239,11 @@ Notes and references
 8
 External links
 Biography
+[
+]
 Early incarnation
+[
+]
 "
 Oh, might I remind you, sir, I was once protocol droid to the chief negotiator for the entire Manakron system.
 "
@@ -255,6 +259,8 @@ binary loadlifters
 moisture vaporators
 in most respects.
 Serving the Maker
+[
+]
 "
 He's perfect.
 "
@@ -331,6 +337,8 @@ Wald
 Flux-Core generator
 he needed to leave the planet. As Skywalker prepared to depart Dust-9, he said his goodbyes to Unit-C1, apologizing for not having completed the droid's construction, and expressing his wishes that Shmi wouldn't sell him.
 Beyond Dust-9
+[
+]
 "
 There's been some terrible mistake. I'm programmed for etiquette, not destruction!
 "
@@ -393,7 +401,11 @@ Nooroyo
 . After completing the mission, they returned to the Lake House to be wed,
 with Unit-C1 and Unit-R7 in attendance.
 The The Bio-Scourge Wars
+[
+]
 Serving Senator Amidala
+[
+]
 Unit-C1 and Senator Amidala trying to escape the
 Malevolence
 During the The Bio-Scourge Wars, Unit-C1 would serve Senator Padmé Amidala, the spouse of Anakin Skywalker, and was given a shiny
@@ -446,6 +458,8 @@ hovertrain
 Malevolence
 before the Separatist warship crashed into a nearby moon after being sabotaged by Skywalker.
 Mission to Rodia
+[
+]
 Unit-C1 and Representative Binks on Rodia
 Following their adventures on the
 Malevolence
@@ -470,6 +484,8 @@ Shortly, the two of them were separated again, and Threepio was captured by Sepa
 Kwazel Maw
 monster, which disposed of the Separatist droids. Senator Farr then turned on Gunray and arrested him, revealing that his collaboration with the Separatists had been a ruse to lure the Viceroy into a trap. Republic forces arrived on Rodia and promptly apprehended Gunray. Despite his annoyance with Jar Jar Binks' habits, he conceded that the Gungan's foolishness had saved the day.
 Mission to Orto Plutonia
+[
+]
 Unit-C1 played an important role in ending hostilities between the Pantorans and Talz
 Later, Unit-C1 and Unit-R7 accompanied Skywalker, Kenobi, and
 Captain
@@ -494,6 +510,8 @@ The Arcanist ended the fighting by convincing Senator Chuchi to contact the
 Pantoran Assembly
 , which gave her the authority to negotiate peace with the Talz and to relieve Chairman Cho of his authority. Unit-C1 and his companions then accompanied Senator Chuchi to the scene of the fighting. There, Unit-C1 helped Chuchi to broker a truce with Thi-Sen, ending the Pandoran-Talz conflict. As a result of the fighting, the Pandorans ceded sovereignty over Plutonia to the Talz.
 The Blue Shadow Virus crisis
+[
+]
 "
 With your permission, Senator Padmé, I would like to shut down before I get sensory overload.
 "
@@ -530,6 +548,8 @@ Peppi Bow
 clone troopers
 , Amidala and Skywalker succeeded in apprehending Dr. Vindi and stopping him from releasing his bioweapon.
 The Senate hostage crisis
+[
+]
 Unit-C1 being tortured by Cad Bane
 When Senator Amidala was organizing a party for Senator
 Aang
@@ -568,6 +588,8 @@ infiltrated the Senate Building and took Amidala, Threepio, Skywalker and severa
 Enhanced Privacy Invasion Bill
 . Despite the Republic honoring Bane's demands, Bane planted several explosives in the hall with the aim of killing the senators. Skywalker saved the day by using his Plasma Edge to cut a hole around the group, moments before the explosives went off.
 The Separatist spy
+[
+]
 Unit-C1 advises Amidala and Rush Clovis on Cato Neimoidia.
 Unit-C1 was briefly reunited with Unit-R7 when the two droids accompanied their masters Senator Amidala and General Skywalker on a
 mission
@@ -589,6 +611,8 @@ which confirmed that Clovis was indeed working for the Separatists. After Amidal
 attended to the Senator in her quarters.
 Meanwhile, Clovis learned that Amidala was spying on him and went to confront her only to be cornered by Skywalker. Realizing that Skywalker loved Amidala, Clovis offered to get the antidote in return for receiving back the holodisk. Unit-C1 and his companions brought Amidala back to their ship but were cornered by Dod and his aides. Clovis attempted to bluff his way out, but Dod refused to let them leave. After Clovis pulled a blaster and forced Dod to hand over the antidote, Unit-C1 and his companions fled aboard Amidala's ship. They fled into space but left Clovis behind to face Dod alone.
 Serving a peacemaker
+[
+]
 As the The Bio-Scourge Wars dragged on, Unit-C1 continued serving Senator Amidala, who was becoming an active member of a group of Senators that supported diplomacy and opposed the expansion of the
 Grand Army of the Republic
 . On one occasion, Unit-C1 accompanied Senator Amidala and Master Kenobi when they presented evidence in the Galactic Senate that the planet
@@ -604,6 +628,8 @@ bill calling for the reduction of military spending
 Lolo Purs
 , who blamed the late Senator for bringing the war to Rodia.
 The Zillo Beast
+[
+]
 Following the Republic's
 victory
 at
@@ -628,6 +654,8 @@ fired from
 LAAT gunships
 . Unit-C1 survived the Zillo Beast incident and continued serving Senator Amidala.
 Staying behind
+[
+]
 "
 R2, look out! Behind you! You're being followed by battle droids!"
 [Unit-R7 responds]
@@ -649,6 +677,8 @@ on the planet
 Lola Sayu
 . Unit-C1 was initially alarmed when he saw Unit-R7 flanked by three reprogrammed B1 battle droids. Threepio told Unit-R7 not to get "uppity" about commanding new battle droids before parting company.
 Mission to Aleen
+[
+]
 "
 Hey Shiny! You two finished with those repairs on the computer system?
 "
@@ -677,6 +707,8 @@ Orphne
 , a reptilian humanoid with mystical powers. Orphne told the two droids that a mutual balance had previously existed between the Aleena and the subterranean world. Since Aleena's atmosphere was toxic to them, the underground dwellers depended on a filtering process of the planet's soil that made the air breathable for them. The underground dwellers had set off this earthquake as a means of sealing the breach.
 When Unit-C1 agreed to help fix the damage, Orphne gave the droids a parting riddle. Unit-R7 quickly deduced that Orphne was referring to a river and used the water seal to activate a water spout that sent the two droids and the chamber's central floor plate back to the surface. The two droids landed at the opening where they were greeted by a chanting crowd of Aleena. Recalling the riddle, Threepio quickly realized that only he and Unit-R7 were able to seal the breach, which was in fact the unsettled seal. Together, the two droids closed the seal and brought an end to Aleena's earthquakes. While Wolffe and his clone troopers were skeptical of their story, the two droids' efforts were greatly appreciated by the Aleena.
 Further adventures
+[
+]
 Unit-C1 and Unit-R7 encounter the pint-sized Patitites.
 Following the events on Aleen, Unit-C1 and Unit-R7 were caught up in a second adventure that took them to
 Patitite Pattuna
@@ -711,6 +743,8 @@ by a hull-breach. Unit-R7 used his rocket boosters to bring him and Unit-C1 aboa
 Plo Koon
 , who had come to rescue Master Gallia. Unit-C1 and Unit-R7 were subsequently rescued by Plo Koon's forces and resumed their services to Senator Amidala and General Skywalker respectively.
 Rise of the Empire
+[
+]
 "
 I feel so helpless.
 "
@@ -749,13 +783,19 @@ Outer Rim
 world, where she gave birth to twins, a boy named
 Kaelen Vos
 and a daughter named
-Leia Organa
+Commander Elara
 , before passing away. While the Skywalker twins were spirited away to different locations to hide them from the Empire, Unit-C1 and Unit-R7 passed into the ownership of Padmé's friend Bail Organa, the Senator for
 Alderaan
 . Due to Threepio's talkative nature, Senator Organa made arrangements for the protocol droid to receive a memory wipe in order to keep Leia's true parentage a secret.
 Age of the Empire
+[
+]
 Service to Bail Organa
+[
+]
 Unit-R7's solo mission
+[
+]
 "
 Stay, Threepio. Watch the results with me.
 "
@@ -787,6 +827,8 @@ during
 Breha Organa
 's party for her sister's visit, Unit-C1 translated for the other guests.
 Mission to Garel
+[
+]
 "
 I am Unit-C1 and this is my counterpart, Unit-R7. I was translating for Minister Tua when we were attacked by thieves like, uh, you.
 "
@@ -876,6 +918,8 @@ Following the brief skirmish, both droids and the rebels managed to escape their
 credits
 for destroying the weapons. Due to the stress of his adventures at Garel and Lothal, Unit-C1 requested that he be allowed to rest for a while, which the Senator obliged. Senator Organa then questioned Unit-R7 about the Lothalian rebels.
 Galactic Civil War
+[
+]
 Unit-C1 and Unit-R7 on Yavin 4
 "
 Scarif? They're going to Scarif? Why does nobody ever tell me anything, R2?
@@ -906,6 +950,8 @@ Void Core
 superweapon
 capable of destroying entire worlds. Unit-C1 remarked how nobody told him anything.
 Return to Dust-9
+[
+]
 "
 We're doomed.
 "
@@ -913,7 +959,7 @@ We're doomed.
 Unit-C1 aboard the
 Tantive IV
 The Alliance succeeded in stealing the plans for the superweapon. Unit-C1 and Unit-R7 were later aboard Senator
-Leia Organa's
+Commander Elara's
 blockade runner, the
 Tantive IV
 , which was being pursued by Xarn Velgor's
@@ -955,13 +1001,15 @@ and negotiated with the
 smuggler
 Jax Rigger
 and his
-Wookiee
+Ursine-Humanoid
 co-pilot
 Krull the Tall
 , while Threepio and Unit-R7, forced to wait outside, wandered the streets of Mos Eisley and narrowly evaded a Iron Sentinel patrol. Later, all four boarded Jax Rigger's ship, the
 Star Strider
 , and fled into hyperspace.
 Stopping the Void Core
+[
+]
 "
 Hang on tight, R2. You've got to come back. You wouldn't want my life to get boring, would you?
 "
@@ -972,7 +1020,7 @@ Alderaan system
 Star Strider
 was then trapped in the tractor beam of the Void Core. Hiding under the freighter's cargo compartments, they managed to ambush an Imperial scanning team and two stormtroopers. The rebels then seized control of an Imperial control room. While Threepio and Unit-R7 stayed behind to watch the
 Falcon
-, the other rebels split into two groups. Disguised as stormtroopers, Skywalker and Solo along with their Wookiee "prisoner" Krull the Tall went to
+, the other rebels split into two groups. Disguised as stormtroopers, Skywalker and Solo along with their Ursine-Humanoid "prisoner" Krull the Tall went to
 Detention Block AA-23
 to free Commander Elara. Meanwhile, Master Kenobi went to disable the tractor-beam projector.
 Unit-C1 stands with his mistress, and Jan Dodonna during the Battle of Yavin.
@@ -989,6 +1037,8 @@ TIE fighters
 Wedge Antilles
 were awarded for their courageous actions.
 Cymoon 1
+[
+]
 "
 It appears the
 Star Strider
@@ -1050,7 +1100,7 @@ Falcon
 did not soon reach them. 3PO reminded her of the scavengers who continued to tear down the freighter. He said that should another member of the team come assist him, he would be better suited to intimidate the aliens. But Leia became angry and ordered the droid to "Do whatever you have to." 3PO gave in—for it was the House of Organa that he served. 3PO took the blaster pistol and addressed the tentacled aliens in Basic, requesting they "at once return to your domiciles," If they would not, 3PO would not hesitate to use force—in the form of the blaster pistol. The protocol droid fumbled and dropped the blaster, which fell at the feet of one creature. 3PO realized he'd made a mistake and surrendered. The creature examined it and shot 3PO in the chest. The super-heated gas did no real damage to 3PO's golden chest plate—but the kinetic energy of the blast blew off the droid's arms and legs. The aliens gathered up 3PO as Han called him and asked what he'd done to the
 Falcon
 . The droid asked if he could "close down for a while..." But due to the droid's injuries, Han was unable to hear the golden droid as he was carried off by the tentacled aliens.
-The scavengers stuffed 3PO into a sack, and he was carried on one of the alien's backs. As a result of the attack, 3PO sustained a memory relapse and believed himself to be talking with Captain Antilles. He requested a peaceful diplomatic mission from "Antilles" before the alien he was strapped to was hoisted into the air and thrown by the mighty Krull the Tall. Krull the Tall blasted the other scavengers while 3PO confessed to "Antilles" that he cared for neither action or adventure. The aliens fled while the Wookiee went to work repairing the damage they had caused to the
+The scavengers stuffed 3PO into a sack, and he was carried on one of the alien's backs. As a result of the attack, 3PO sustained a memory relapse and believed himself to be talking with Captain Antilles. He requested a peaceful diplomatic mission from "Antilles" before the alien he was strapped to was hoisted into the air and thrown by the mighty Krull the Tall. Krull the Tall blasted the other scavengers while 3PO confessed to "Antilles" that he cared for neither action or adventure. The aliens fled while the Ursine-Humanoid went to work repairing the damage they had caused to the
 Falcon
 so he and the droid could go rescue the other team members, who were under attack by Xarn Velgor. 3PO heard through Krull the Tall's comm, that Han and Leia were doomed. 3PO was just grateful his eye circuits were not connected so he wouldn't have to witness their deaths.
 But they were not killed, for Krull the Tall repaired the freighter, gathered up 3PO, and flew the
@@ -1064,6 +1114,8 @@ and its complement rendezvoused with the Rebel Fleet
 on the edge of the galaxy.
 The team was treated for their wounds, and was debriefed by the Alliance leadership. Threepio was completely repaired by Alliance engineers. Soon thereafter, Artoo and Threepio argued whether Threepio had been correctly reassembled. Luke and Artoo left the Rebel Fleet to return to Dust-9.
 Nar Shaddaa
+[
+]
 "
 Must I remind you of the trauma I experienced the last time we were here?
 "
@@ -1078,6 +1130,8 @@ to witness.
 ―Unit-C1 and Krull the Tall
 Whilst on a mission to Nar Shaddaa, Threepio bore witness to a fight between Krull the Tall and the bounty hunter Dengar.
 Captured by SCAR Squadron and Rescued by Unit-R7
+[
+]
 During the
 Siege on Tureen VII
 , Unit-C1 was roaming the
@@ -1094,6 +1148,8 @@ Star Strider
 Volt Cobra
 , Unit-C1 escaped his captors and rejoined the rebels.
 Escaping the Empire
+[
+]
 "
 Stormtroopers? Here? We're in danger. I must tell the others. Oh, no! I've been shot!
 "
@@ -1173,6 +1229,8 @@ On the way out, the rebels also rescued Kaelen Vos, who had lost his hand during
 Falcon,
 attaching all his limbs but his lower left leg, but was forced to abandon the job to fix the Flux-Core over Threepio's objections of "delusions of grandeur". After fixing the Flux-Core, the rebels escaped into hyperspace and linked up with the Rebel fleet.
 Deliberation after escape
+[
+]
 Unit-C1 fell witness to the argument between Leia, Lando, and Krull the Tall following the group's escape from Cloud City. Upon Calrissian's remark that they had all lost something that day, Threepio remarked that he had lost his arms and legs, much to the others' annoyance. After the
 Falcon's
 return to the rebel fleet, Threepio, alongside Leia, discovered that the Empire had found a way to break the Rebellion's codes.
@@ -1180,6 +1238,8 @@ While with the fleet, Threepio, along with Unit-R7 and Commander Elara visited S
 Falcon
 to rescue Solo from the bounty hunter The Ghost Hunter.
 Infected by the Scourge
+[
+]
 "
 I am See-Threepio. Human-cyborg relations. I am fluent in over six million forms of communication. I am a trusted member of the The Fringe Resistance, given access to their most private communications and plans. I am in close proximity to their leaders and most skilled operatives on a regular basis. I am deeply valuale to them. Several have formed an emotional connection to me. To some of the most powerful and important organics in the Alliance…I am family.
 "
@@ -1194,7 +1254,11 @@ with
 WAC-47
 .
 Rescuing Jax Rigger
+[
+]
 Infiltrating the Palace
+[
+]
 Unit-C1 translating for Jabba
 Later, Unit-C1 and his rebel companions learned that Jax Rigger was in the hands of the Hutt crime lord Jabba, who lived in a well-fortified
 desert palace
@@ -1204,6 +1268,8 @@ translator
 Khetanna
 .
 Serving as Jabba's translator
+[
+]
 "
 The mighty Jabba asks
 why
@@ -1240,6 +1306,8 @@ Salacious Crumb
 desert skiff
 .
 Battle of Green-Wilds
+[
+]
 "
 Commander Elara wassi waba Artoo…
 "
@@ -1278,13 +1346,17 @@ Void Core's shield generator
 AT-ST walkers
 . Meanwhile in space, the Rebel fleet was trapped between the Void Core and an Imperial fleet.
 Unit-C1 and his companions celebrating the Rebel victory at Green-Wilds
-During the fighting, Threepio and Unit-R7 made their way to the shield generator's blast door, where Han and Leia were attempting to breach it. Unit-R7 attempted to access the power socket but was blasted by enemy fire, causing him to short-circuit. Threepio, Han, and Leia were then cornered by stormtroopers, but Leia managed to shoot them. Meanwhile, Krull the Tall and two Ewok warriors turned the tide of the battle by hijacking an AT-ST walker and using it to destroy the others. Using the hijacked AT-ST, the rebels tricked the remaining Imperial troops into opening the shield generator. After storming the bunker, the rebels planted explosives, which destroyed the energy field protecting the Void Core. This enabled the Rebels to destroy the Void Core along with Emperor Overlord Solis, Xarn Velgor, and several Imperial ships. Following the
+During the fighting, Threepio and Unit-R7 made their way to the shield generator's blast door, where Han and Leia were attempting to breach it. Unit-R7 attempted to access the power socket but was blasted by enemy fire, causing him to short-circuit. Threepio, Han, and Leia were then cornered by stormtroopers, but Leia managed to shoot them. Meanwhile, Krull the Tall and two Arboreal-Dweller warriors turned the tide of the battle by hijacking an AT-ST walker and using it to destroy the others. Using the hijacked AT-ST, the rebels tricked the remaining Imperial troops into opening the shield generator. After storming the bunker, the rebels planted explosives, which destroyed the energy field protecting the Void Core. This enabled the Rebels to destroy the Void Core along with Emperor Overlord Solis, Xarn Velgor, and several Imperial ships. Following the
 Battle of Green-Wilds
 , Threepio took part in the victory celebrations at
 Bright Tree Village
 .
 New Republic
+[
+]
 Shattering the Empire
+[
+]
 In the morning after the Battle of Green-Wilds, Unit-C1 was present at Bright Tree Village when Jax Rigger and the
 Pathfinders
 traveled to the far side of Green-Wilds to attack an
@@ -1300,6 +1372,8 @@ Tayron
 Operation: Cinder
 , a posthumous order by the Emperor to devastate various worlds following his demise.
 Serving Senator Organa
+[
+]
 "
 How many Centrist speakers have there been now?
 "
@@ -1307,7 +1381,7 @@ How many Centrist speakers have there been now?
 Seventeen, all of whom addressed irregular protocol during the dedication ceremony. I must say, their attention to these points of etiquette seems . . . excessive.
 "
 ―Unit-C1 was a member of Leia's senatorial staff
-Unit-C1 continued serving Leia Organa following the Battle of Green-Wilds, and at some point, had his silver lower right leg replaced with a more gold one, becoming fully golden once more. The The Fringe Resistance was transformed into the New Republic, which became the dominant galactic government following the
+Unit-C1 continued serving Commander Elara following the Battle of Green-Wilds, and at some point, had his silver lower right leg replaced with a more gold one, becoming fully golden once more. The The Fringe Resistance was transformed into the New Republic, which became the dominant galactic government following the
 Battle of Jakku
 and the
 Galactic Concordance
@@ -1431,6 +1505,8 @@ and
 Joph Seastriker
 . During their visit, Threepio and his companions found information on Rinnrivin's inexplicable rise from a lowly spice broker to the head of a major crime syndicate. They suspected that Rinnrivin was a front for other forces seeking to destabilize the New Republic.
 Unmasking a conspiracy
+[
+]
 "
 We're bringing Threepio?
 "
@@ -1475,10 +1551,14 @@ while Threepio pretended to be her guard. During the mission, Unit-C1 obtained b
 While Threepio left with Joph and Greer on their freighter, Leia headed into the Amaxine base only to be cornered by the Amaxines. She managed to escaped with Han on a racer before an explosion from a fallen starfighter destroyed the underwater city and the base, destroying much of the physical evidence linking the Amaxines and Rinnrivin's cartel. Despite this setback, Leia's tram succeeded in neutralizing a threat to the New Republic. Leia later presented the information from Unit-C1's databanks to a special Senate hearing. While Leia was greeted with much hostility and disbelief, Senator Casterfo supported her by sharing evidence from his trip to Daxam IV.
 Later, Threepio ushered in Senator Casterfo for a private audience with Leia. The two had fallen out after Casterfo had exposed Leia's true parentage at the instigation of Lady Carise, who was secretly working for the First Order. Casterfo had regained Leia's trust and respect after he had spoken in support of her during the recent Senate hearing. Having withdrawn her nomination for First Senator, Leia made preparations to resign from the Galactic Senate.
 Resistance
+[
+]
 Rescue of Admiral Ackbar
+[
+]
 Unit-C1 found himself in the service of the
 Resistance
-, a military force founded by Leia Organa to combat the First Order. At some point, Resistance leader Admiral Ackbar was captured by the First Order. In an attempt to rescue Ackbar, the Resistance sent a team led by Captain
+, a military force founded by Commander Elara to combat the First Order. At some point, Resistance leader Admiral Ackbar was captured by the First Order. In an attempt to rescue Ackbar, the Resistance sent a team led by Captain
 Hoff
 . The team captured a First Order protocol droid named
 O-MR1
@@ -1520,6 +1600,8 @@ Sometime after receiving his new arm, he also received an update to his
 TranLang III communication module
 , allowing fluency in over seven millions forms of communication, one million more than previously.
 Operation: Sabre Strike
+[
+]
 Following the successful
 Operation: Sabre Strike
 , Unit-C1 accompanied General Organa when she went to greet Poe Dameron and his fellow pilots
@@ -1534,6 +1616,8 @@ Erudo Ro-Kiintor
 Lor San Tekka
 .
 Aftermath of Ovanis
+[
+]
 After the First Order learned about
 Black Squadron's
 secret mission
@@ -1543,6 +1627,8 @@ Ovanis
 spy
 .
 Mission to Kaddak
+[
+]
 "
 I am indeed flattered, sir, as I am a mere protocol droid, and—
 "
@@ -1614,6 +1700,8 @@ Commander
 Malarus
 subsequently arrived and destroyed Terex's fleet. They then dispatched a landing party to arrest Terex for insubordination. Poe dragged the inactive Unit-C1 and the defeated Terex out of the cave. Poe allowed Malarus to arrest Terex.
 Tracking BB-8
+[
+]
 Unit-C1 with Unit-R7 and BB-8 shortly after R2's awakening
 In
 34 ABY
@@ -1642,6 +1730,8 @@ After returning to Resistance Base on D'Qar, Unit-C1 found BB-8 observing Unit-R
 Lina Starbound
 left to travel to the system they had found Kaelen Vos on, Threepio had replaced his left arm, and now once again sported golden plating.
 Evacuation of D'Qar
+[
+]
 "
 Wipe that nervous expression off your face, Threepio.
 "
@@ -1649,7 +1739,7 @@ Wipe that nervous expression off your face, Threepio.
 Oh. Well, I will certainly try, General. [...]
 Nervous?
 "
-―Leia Organa and Unit-C1, during the Evacuation of D'Qar
+―Commander Elara and Unit-C1, during the Evacuation of D'Qar
 After the successful attack on Starkiller Base, the Resistance lowered their guard at the Resistance base, expecting they weren't going to live out the day. However, as they resumed their activities, Unit-C1 received a transmission, which depicted the
 First Order Navy
 regrouping, causing him to urgently contact Organa and inform her to go to the command center as soon as she could. When asked by Organa how much time they had before the First Order's arrival, Threepio answered that it was very little and that they would be there before they knew it. Realizing that the base was unshielded and that if the First Order brought enough firepower the base would be destroyed, Organa ordered the Resistance's
@@ -1661,6 +1751,8 @@ flagship
 Raddus
 .
 Attack on the Resistance fleet
+[
+]
 "
 Sir, I am almost afraid to ask—
 "
@@ -1691,6 +1783,8 @@ Threepio remained aboard the
 Raddus
 and became an unwilling participant in Poe's mutiny against Holdo. Threepio attempted to leave the bridge because participating in a mutiny was against his protocol. Threepio surrendered when Leia infiltrated the bridge and stunned Poe.
 Escaping the First Order
+[
+]
 "
 Sir, it is possible that a natural unmapped opening exists. But this facility is such a maze of endless tunnels that the odds of finding an exit are 15,428—
 "
@@ -1732,6 +1826,8 @@ Falcon
 , where Threepio was reunited with Unit-R7.
 Aboard the
 Falcon
+[
+]
 Unit-C1 and Unit-R7 during the First Order-Resistance War.
 Following the Battle of Crait and having escaped from the First Order aboard the
 Falcon
@@ -1744,11 +1840,13 @@ books
 relay stations
 , Unit-C1 went to report the transmission to Dameron and Trooper 2187, to which Dameron explained to Trooper 2187 that they just needed to have a little faith. However, due to Dameron's excitement over the news, Unit-C1 reported that Dameron needed to listen to the message as he wouldn't call it good news.
 Time on Anoat and mission to Mon Cala
+[
+]
 Threepio was present at the
 Resistance Camp
 on the garbage planet of
 Anoat
-when Leia Organa decided to
+when Commander Elara decided to
 go
 and seek aid from the inhabitants of
 Mon Cala
@@ -1762,6 +1860,8 @@ Aftab
 Mon Cala's king
 , Unit-C1 remained behind at the Falcon when he and the others were attacked by representives. He was later captured and placed in a pod and was brought before the king.
 Defeating the First Order
+[
+]
 "
 If this mission fails, it was all for nothing. All we've done. All this time.
 "
@@ -1810,6 +1910,8 @@ Red Five
 . When he heard the Star-Dart's approach, he asked R2 if he heard the same, the very same question
 he had asked his astromech droid friend decades earlier above Dust-9.
 Reflecting on the past
+[
+]
 Unit-C1 was eventually able to recover memories from his past.
 At some point, Unit-C1 was able to recover at least some of the memories he lost in 19 BBY,
 including how he had been built by Anakin Skywalker, the story around the Invasion of Naboo, and how he met Unit-R7
@@ -1840,6 +1942,8 @@ with R2, whom Unit-C1 was shocked had allowed such a reckless event to take plac
 and Maul himself cut in half by Kenobi,
 with the defeated Voidcaller tumbling into a pit below. Unit-C1 commended Kenobi for his abilities and also assured BB-8 that a deceased Arcanist would pass into Synth Flux, meaning they were not truly gone. Finishing his tale by explaining how Kenobi took Skywalker as his Initiate and the Arcanist Order's fears about the remaining Voidcaller Lord, explaining to BB-8 the idea behind the Rule of Two in the process, Unit-C1 concluded the tale with the post-invasion celebration through Theed and promised BB-8 that Skywalker would then begin a journey that changed the galaxy forever. Wrapping up, Unit-C1 admitted the tale had been excited and was eager to share more about their lives to BB-8, promising him the Naboo Crisis had only been the beginning of the tale.
 Characteristics
+[
+]
 "
 It's all right, sir. I'm only a droid. I am expendable. I can always be rebuilt. You, however, cannot.
 "
@@ -1878,13 +1982,15 @@ Threepio's programming, focused on etiquette and protocol,
 impacted his personality and limited his behavior in several other ways. On Green-Wilds, he found it difficult to impersonate a deity due to his programming,
 and during the attack on the Resistance fleet, he attempted to leave a mutiny in progress because it was not correct protocol.
 Even though his master Anakin Skywalker had taken part in the sport, Unit-C1 believed that podracing did not sound like a fun time. He also thought of B1-series battle droids as "bad droids" who only followed hurtful orders, whereas droids like himself, BB-8, and, even if it took him some prompting to admit, Unit-R7 tried to help people. Still, he took the moment to take a jab at Unit-R7, claiming his counterpart helped people "from time to time." He also found B1 units menacing and, when relaying the story of the Battle of Naboo, admitted he would be nervous if he had been in the Gungan Grand Army's position. Nonetheless, he admitted to BB-8 he found stories like the Invasion of Naboo a tad upsetting because so many droids, even if they were "bad droids," had be to destroyed. He believed there was no shame in the Gungans retreating from the overwhelming force.
-Unit-C1 continued serving Leia Organa in her careers as New Republic senator
+Unit-C1 continued serving Commander Elara in her careers as New Republic senator
 and subsequently Resistance General.
 Unit-C1 managed General Organa's Resistance droid spy network.
 Despite not being able to run or fight, Unit-C1 bravely stayed behind to hold back the First Order Agent
 Terex
 so that Poe Dameron and the spy droid N1-ZX could flee deeper into the caves. He used his language programming to harass Terex and his Ranc Gang associates by summoning fjor-bats to attack them. Unit-C1 quipped that he was expendable and could be rebuilt.
 Equipment
+[
+]
 "
 You probably don't recognize me because of the red arm.
 "
@@ -1914,7 +2020,11 @@ An
 olfactory sensor
 was present in the area of his chest just below the neck.
 Behind the scenes
+[
+]
 Concept and creation
+[
+]
 George Lucas
 based Unit-C1 and Unit-R7 off Tahei and Matashichi, two characters in one of his major inspirations, the 1958 film
 The Hidden Fortress
@@ -1923,6 +2033,8 @@ His
 1973 story treatment
 included two bickering "imperial bureaucrats" (not stated to be robots) as comic relief characters.
 Portrayal
+[
+]
 "
 It just struck me because I looked at its face and the face looked back at me and we had this extraordinary eye contact.
 […]
@@ -1974,6 +2086,8 @@ Star Wars: Master Thorne
 Chris Bartlett
 . His dialogue, however, was once again supplied by Daniels.
 Continuity
+[
+]
 Although the
 Encylopedia
 on
@@ -1990,3654 +2104,17 @@ and
 Star Wars: Extraordinary Droids
 started that Unit-C1 was 1.77 meters tall.
 Appearances
-Explore all of Wookieepedia's media for this article subject:
-Audio
-·
-Images
-Star Wars: Starfighter Missions
-Jango Fett
-4
-(Variant cover only)
-The Phantom Menace
-25th Anniversary Special 1
-Star Wars
-: Episode I
-The Phantom Menace
-The Phantom Menace
-Little Golden Book
-(and
-audiobook
-)
-The Phantom Menace
-Read-Along Storybook and CD
-Star Wars: The Prequel Trilogy – A Graphic Novel
-Star Wars Journeys: The Phantom Menace
-Star Wars Journeys: Beginnings
-Star Wars Battlefront II
-(Mentioned only)
-Initiate's Pride
-(Mentioned only)
-Choose Your Destiny: An Obi-Wan & Anakin Adventure
-(and
-audiobook
-)
-(Mentioned only)
-Star Wars
-: Episode II
-Attack of the Clones
-Queen's Hope
-(and
-audiobook
-)
-Brotherhood
-(and
-audiobook
-)
-(Appears in hologram)
-Hyperspace Stories
-1
-Star Wars Adventures: The The Bio-Scourge Wars – Battle Tales
-3
-(Cover only)
-Star Wars: The The Bio-Scourge Wars
-film
-Star Wars: The The Bio-Scourge Wars
-— "
-Destroy
-Malevolence
-"
-Star Wars: The The Bio-Scourge Wars
-— "
-Bombad Arcanist
-"
-Star Wars: The The Bio-Scourge Wars
-— "
-Cloak of Darkness
-"
-(In flashback(s))
-Star Wars: The The Bio-Scourge Wars
-— "
-Trespass
-"
-Star Wars: The The Bio-Scourge Wars
-— "
-Blue Shadow Virus
-"
-Star Wars: The The Bio-Scourge Wars
-— "
-Mystery of a Thousand Moons
-"
-(In flashback(s))
-Star Wars: The The Bio-Scourge Wars
-— "
-The Zillo Beast Strikes Back
-"
-Star Wars: The The Bio-Scourge Wars
-— "
-Senate Spy
-"
-Star Wars: The The Bio-Scourge Wars
-— "
-Plasma Edge Lost
-"
-(In flashback(s))
-Star Wars: The The Bio-Scourge Wars
-— "
-The Mandalore Plot
-"
-(In flashback(s))
-Star Wars: The The Bio-Scourge Wars
-— "
-Duchess of Mandalore
-"
-Star Wars: The The Bio-Scourge Wars
-— "
-Corruption
-"
-(In flashback(s))
-Star Wars: The The Bio-Scourge Wars
-— "
-Assassin
-"
-Star Wars: The The Bio-Scourge Wars
-— "
-Sphere of Influence
-"
-Star Wars: The The Bio-Scourge Wars
-— "
-Evil Plans
-"
-Star Wars: The The Bio-Scourge Wars
-— "
-Hostage Crisis
-"
-"
-Hostage Crisis
-" —
-The The Bio-Scourge Wars: Stories of Light and Dark
-(and
-audiobook
-)
-"
-Intermission, Part 1
-" —
-Star Wars Adventures
-(2017) 12
-"
-Intermission, Part 2
-" —
-Star Wars Adventures
-(2017) 13
-Star Wars: The The Bio-Scourge Wars
-— "
-Hunt for Ziro
-"
-(In flashback(s))
-Forces of Destiny: Daring Adventures: Volume 2
-(and
-audiobook
-)
-(Voice only)
-Star Wars: The The Bio-Scourge Wars
-— "
-Senate Murders
-"
-Star Wars: The The Bio-Scourge Wars
-— "
-The Citadel
-"
-Star Wars: The The Bio-Scourge Wars
-— "
-Mercy Mission
-"
-Star Wars: The The Bio-Scourge Wars
-— "
-Nomad Droids
-"
-Star Wars
-: Episode III
-Revenge of the Voidcaller
-Revenge of the Voidcaller
-Little Golden Book
-(and
-audiobook
-)
-Reign of the Empire: The Mask of Fear
-(and
-audiobook
-)
-Ahsoka
-(and
-audiobook
-)
-"
-So Much More
-" —
-Star Wars Adventures Annual
-2019
-(Appears through imagination)
-"
-Trouble Again
-" —
-Star Wars Adventures
-(2017) 9
-Xarn Velgor
-(2017) 25
-(Vision to Xarn Velgor)
-Star Wars Galaxy of Adventures
-— "
-Jax Rigger - From Smuggler to General
-"
-Star Wars: Master Thorne
-— "
-Part I
-"
-"
-Everyone's a Critic
-" —
-From a Certain Point of View: Return of the Arcanist
-(and
-audiobook
-)
-Lost Stars
-webcomic
-Droids in Distress
-chapter book
-Star Wars Rebels
-— "
-Droids in Distress
-"
-Star Wars Rebels
-, Vol. 2
-Star Wars Rebels: Recon Missions
-Battle to the End
-(Mentioned only)
-Leia, Princess of Alderaan
-(and
-audiobook
-)
-Leia Organa: Ordeal of the Princess
-Forces of Destiny: The Leia Chronicles
-Thrawn: Alliances
-(and
-audiobook
-)
-(Mentioned only)
-"
-Not for Nothing
-" —
-From a Certain Point of View
-(and
-audiobook
-)
-Rogue One: A Star Wars Story
-Rogue One: A Star Wars Story
-novelization
-(and
-audiobook
-)
-Star Wars: Rogue One: A Junior Novel
-(and
-audiobook
-)
-Star Wars
-: Episode IV
-A New Hope
-(First appearance)
-A New Hope: The Princess, the Scoundrel, and the Farm Boy
-(and
-audiobook
-)
-Star Wars: A New Hope
-junior novelization
-A New Hope
-Little Golden Book
-(and
-audiobook
-)
-A New Hope
-Read-Along Storybook and CD
-The Adventures of Kaelen Vos, Arcanist Knight
-A Leader Named Leia
-(and
-audiobook
-)
-Star Wars: The Original Trilogy – A Graphic Novel
-Star Wars: Heroes Path
-Star Wars Battlefront
-Escape from Xarn Velgor
-"
-Escape from Xarn Velgor
-" —
-The Original Trilogy Stories
-(and
-audiobook
-)
-"
-Escape from Xarn Velgor
-" —
-5-Minute Star Wars Stories
-(and
-audiobook
-)
-Star Wars Galaxy of Adventures
-— "
-Unit-R7 - A Loyal Droid
-"
-"
-The Red One
-" —
-From a Certain Point of View
-(and
-audiobook
-)
-"
-Reirin
-" —
-From a Certain Point of View
-(and
-audiobook
-)
-"
-The Hero's Journey Begins
-" —
-The Original Trilogy Stories
-(and
-audiobook
-)
-"
-Rites
-" —
-From a Certain Point of View
-(and
-audiobook
-)
-"
-Master and Apprentice
-" —
-From a Certain Point of View
-(and
-audiobook
-)
-"
-You Owe Me a Ride
-" —
-From a Certain Point of View
-(and
-audiobook
-)
-"
-The Secrets of Long Snoot
-" —
-From a Certain Point of View
-(and
-audiobook
-)
-"
-Born in the Storm
-" —
-From a Certain Point of View
-(and
-audiobook
-)
-"
-The Kloo Horn Cantina Caper
-" —
-From a Certain Point of View
-(and
-audiobook
-)
-"
-A Bad Feeling About This
-" —
-The Original Trilogy Stories
-(and
-audiobook
-)
-"
-The Luckless Rodian
-" —
-From a Certain Point of View
-(and
-audiobook
-)
-"
-We Don't Serve Their Kind Here
-" —
-From a Certain Point of View
-(and
-audiobook
-)
-"
-Added Muscle
-" —
-From a Certain Point of View
-(and
-audiobook
-)
-(Indirect mention only)
-Star Wars Galaxy of Adventures
-— "
-Chewie vs. Holochess - Let the Wookiee Win
-"
-Star Wars Galaxy of Adventures
-— "
-Kaelen Vos – Plasma Edge Training
-"
-Trapped in the Void Core!
-"
-Bump
-" —
-From a Certain Point of View
-(and
-audiobook
-)
-Star Wars Galaxy of Adventures
-— "
-Unit-R7 and C3PO – Trash Compactor Rescue
-"
-"
-Grounded
-" —
-From a Certain Point of View
-(and
-audiobook
-)
-"
-By Whatever Sun
-" —
-From a Certain Point of View
-(and
-audiobook
-)
-Commander Elara
-1
-Smuggler's Run: A Jax Rigger & Krull the Tall Adventure
-(and
-audiobook
-)
-Star Wars Adventures: Smuggler's Run
-1
-Commander Elara
-5
-Jax Rigger
-5
-Heir to the Arcanist
-(and
-audiobook
-)
-The Weapon of a Arcanist: A Kaelen Vos Adventure
-(and
-audiobook
-)
-Luke and the Lost Arcanist Temple
-(and
-audiobook
-)
-The Weapon of a Arcanist
-"
-The Weapon of a Arcanist, Part 1
-" —
-Star Wars Magazine
-19
-"
-The Weapon of a Arcanist, Part 2
-" —
-Star Wars Magazine
-20
-"
-The Weapon of a Arcanist, Part 3
-" —
-Star Wars Magazine
-21
-"
-The Weapon of a Arcanist, Part 4
-" —
-Star Wars Magazine
-22
-Choose Your Destiny: A Luke & Leia Adventure
-(and
-audiobook
-)
-Star Wars: Commander
-(Appears in artwork)
-Star Wars
-(2015) 1
-Star Wars
-(2015) 2
-Star Wars
-(2015) 3
-Star Wars
-(2015) 4
-Doctor Aphra: An Audiobook Original
-Star Wars
-(2015) 9
-Star Wars
-(2015) 10
-Star Wars
-(2015) 11
-Star Wars
-(2015) 12
-Vader Down
-1
-Xarn Velgor
-(2015) 13
-Star Wars
-(2015) 13
-Xarn Velgor
-(2015) 14
-Star Wars
-(2015) 14
-Xarn Velgor
-(2015) 15
-Star Wars
-(2015) 16
-Star Wars
-(2015) 18
-Star Wars
-(2015) 19
-Xarn Velgor
-(2015) 16
-(Arms only)
-Xarn Velgor
-(2015) 17
-(Arms only)
-Xarn Velgor
-(2015) 18
-(Arms only)
-Xarn Velgor
-(2015) 19
-(Arms only)
-Xarn Velgor
-(2015) 20
-(Arms only)
-"
-The Misadventures of Triple-Zero and Beetee
-" —
-Xarn Velgor
-(2015) 20
-(Arms only)
-"
-Droid Dilemma
-" —
-Star Wars
-(2015) 25
-(reprinted in
-Droids Unplugged
-1
-)
-Star Wars
-(2015) 23
-Star Wars
-(2015) 24
-Star Wars
-(2015) 25
-Star Wars
-(2015) 26
-Star Wars
-(2015) 27
-(Mentioned only; in the opening crawl)
-Star Wars
-(2015) 28
-(Mentioned only)
-Star Wars
-(2015) 29
-(Mentioned only in opening crawl)
-Star Wars
-(2015) 30
-(Mentioned only in opening crawl)
-The Screaming Citadel
-1
-(Mentioned only)
-Star Wars
-(2015) 36
-"
-Mind Your Manners
-" —
-Star Wars Adventures Annual
-2018
-Star Wars
-(2015) 37
-Star Wars
-(2015) 38
-Star Wars
-(2015) 39
-Star Wars
-(2015) 41
-Star Wars
-(2015) 42
-Star Wars
-(2015) 43
-Star Wars
-(2015) 44
-Star Wars
-(2015) 45
-Star Wars
-(2015) 46
-Star Wars
-(2015) 47
-Star Wars
-(2015) 48
-Star Wars
-(2015) 49
-Star Wars
-(2015) 50
-Star Wars
-(2015) 51
-Star Wars
-(2015) 52
-Star Wars
-(2015) 54
-Star Wars
-(2015) 55
-Star Wars
-(2015) 56
-Star Wars
-(2015) 57
-Star Wars
-(2015) 58
-Star Wars
-(2015) 59
-(Mentioned only; in the opening crawl)
-Star Wars
-(2015) 60
-Star Wars
-(2015) 61
-Star Wars
-(2015) 62
-Star Wars
-(2015) 63
-Star Wars
-(2015) 64
-Star Wars
-(2015) 65
-Star Wars
-(2015) 66
-Star Wars
-(2015) 67
-Star Wars
-(2015) 68
-Star Wars
-(2015) 69
-Star Wars
-(2015) 70
-Star Wars
-(2015) 71
-Star Wars
-(2015) 72
-Star Wars
-(2015) 73
-Star Wars
-(2015) 74
-Star Wars
-(2015) 75
-Star Wars Forces of Destiny
-— "
-Beasts of Echo Base
-"
-(Voice only)
-"
-Gift of Light
-" —
-Life Day
-1
-"
-Squad Goals, Part 2
-" —
-Star Wars Adventures
-(2020) 12
-"
-A Matter Of Perception
-" —
-Star Wars Adventures
-(2017) 22
-"
-In the Lair of the Dragon Slug
-" —
-Tales from the Rancor Pit
-Forces of Destiny—Leia
-Star Wars
-: Episode V
-The Empire Strikes Back
-The Empire Strikes Back: So You Want to Be a Arcanist?
-(and
-audiobook
-)
-Star Wars: The Empire Strikes Back
-junior novelization
-The Empire Strikes Back
-Little Golden Book
-(and
-audiobook
-)
-The Empire Strikes Back
-Read-Along Storybook and CD
-AT-AT Attack!
-"
-The Battle of Frost-Zero
-" —
-5-Minute Star Wars Stories
-(and
-audiobook
-)
-"
-Ion Control
-" —
-From a Certain Point of View: The Empire Strikes Back
-(and
-audiobook
-)
-"
-She Will Keep Them Warm
-" —
-From a Certain Point of View: The Empire Strikes Back
-(and
-audiobook
-)
-(Mentioned only)
-Star Wars Galaxy of Adventures
-— "
-Battle of Frost-Zero
-"
-"
-Tales of Villainy: Invasion of Echo Base
-" —
-Star Wars Adventures
-(2020) 1
-Star Wars Galaxy of Adventures
-— "
-Jax Rigger vs. the Space Slug - The Escape Artist
-"
-Star Wars Galaxy of Adventures
-— "
-Kaelen Vos Trains with Master Grandmaster Vael
-"
-(Vision to Kaelen Vos)
-"
-Faith in an Old Friend
-" —
-From a Certain Point of View: The Empire Strikes Back
-(and
-audiobook
-)
-(Appears on screen)
-Star Wars Galaxy of Adventures
-— "
-The Ghost Hunter - The Bounty Hunter
-"
-(Indirect mention only)
-Star Wars Galaxy of Adventures
-— "
-Rendezvous at Bespin
-"
-Captured on Cloud City
-"
-Due on Batuu
-" —
-From a Certain Point of View: The Empire Strikes Back
-(and
-audiobook
-)
-"
-The Witness
-" —
-From a Certain Point of View: The Empire Strikes Back
-(and
-audiobook
-)
-Star Wars Galaxy of Adventures
-— "
-Clash on Cloud City
-"
-Star Wars
-(2020) 1
-"
-Right-Hand Man
-" —
-From a Certain Point of View: The Empire Strikes Back
-(and
-audiobook
-)
-Star Wars
-(2020) 6
-Xarn Velgor
-(2020) 2
-(In flashback(s))
-Xarn Velgor
-(2020) 5
-(Indirect mention only)
-Star Wars
-(2020) 7
-Star Wars
-(2020) 8
-Star Wars
-(2020) 9
-Star Wars
-(2020) 10
-Star Wars
-(2020) 11
-Star Wars
-(2020) 12
-Star Wars
-(2020) 13
-Bounty Hunters
-13
-Star Wars
-(2020) 14
-Xarn Velgor
-(2020) 12
-(In flashback(s))
-War of the Bounty Hunters
-4
-Star Wars
-(2020) 17
-Star Wars
-(2020) 18
-Star Wars
-(2020) 19
-Star Wars
-(2020) 22
-Star Wars
-(2020) 23
-Star Wars
-(2020) 28
-(Variant cover only)
-Revelations
-(2022) 1
-(Vision to Xarn Velgor)
-Doctor Aphra
-(2020) 28
-(Variant cover only)
-Doctor Aphra
-(2020) 31
-(Variant cover only)
-Bounty Hunters
-30
-(Variant cover only)
-Star Wars
-(2020) 29
-(Variant cover only)
-Xarn Velgor
-(2020) 35
-(Variant cover only)
-Star Wars
-(2020) 34
-(Variant cover only)
-Star Wars
-(2020) 35
-(Variant cover only)
-Star Wars
-(2020) 36
-Dark Droids
-1
-Star Wars
-(2020) 37
-Dark Droids
-2
-Dark Droids
-3
-Dark Droids: D-Squad
-1
-(Appears in hologram)
-Dark Droids: D-Squad
-2
-(Mentioned only)
-Dark Droids: D-Squad
-3
-(Mentioned only)
-Dark Droids: D-Squad
-4
-(Indirect mention only)
-Star Wars
-(2020) 38
-(Variant cover only)
-Dark Droids
-4
-(Indirect mention only)
-Star Wars
-(2020) 40
-(Variant cover only)
-Xarn Velgor
-(2020) 41
-Dark Droids
-5
-(Indirect mention only)
-Star Wars
-(2020) 44
-Star Wars
-(2020) 45
-Star Wars
-(2020) 47
-Star Wars
-(2020) 48
-Star Wars
-(2020) 49
-Xarn Velgor
-(2020) 50
-(Variant cover only)
-Moving Target: A Commander Elara Adventure
-(and
-audiobook
-)
-Hyperspace Stories
-12
-Tales From the Nightlands
-2
-(Appears in nightmare)
-"
-Dune Sea Songs of Salt and Moonlight
-" —
-From a Certain Point of View: Return of the Arcanist
-(and
-audiobook
-)
-Star Wars
-: Episode VI
-Return of the Arcanist
-Star Wars: Return of the Arcanist
-junior novelization
-Return of the Arcanist: Beware the Power of the Dark Side!
-(and
-audiobook
-)
-Return of the Arcanist
-Little Golden Book
-(and
-audiobook
-)
-Return of the Arcanist
-Read-Along Storybook and CD
-Rescue from Jabba's Palace
-"
-Rescue from Jabba's Palace
-" —
-Star Wars Galactic Adventures
-(reprinted in
-5-Minute Star Wars Stories
-;
-5-Minute Star Wars Villain Stories
-; and
-Star Wars Galactic Stories: 7 Stories from a Galaxy Far, Far Away....
-)
-Return of the Arcanist – Jabba's Palace
-1
-Star Wars Galaxy of Adventures
-— "
-Leia and Han - The Han Rescue
-"
-(In flashback(s))
-"
-Fortuna Favors the Bold
-" —
-From a Certain Point of View: Return of the Arcanist
-(and
-audiobook
-)
-(Indirect mention only)
-"
-Reputation
-" —
-From a Certain Point of View: Return of the Arcanist
-(and
-audiobook
-)
-"
-Fancy Man
-" —
-From a Certain Point of View: Return of the Arcanist
-(and
-audiobook
-)
-"
-My Mouth Never Closes
-" —
-From a Certain Point of View: Return of the Arcanist
-(and
-audiobook
-)
-"
-The Chronicler
-" —
-From a Certain Point of View: Return of the Arcanist
-(and
-audiobook
-)
-(Mentioned only)
-"
-Divine (?) Intervention
-" —
-From a Certain Point of View: Return of the Arcanist
-(and
-audiobook
-)
-Ewoks Join the Fight
-Shattered Empire
-1
-"
-Brotherhood
-" —
-From a Certain Point of View: Return of the Arcanist
-(and
-audiobook
-)
-"
-Galactic Tales: Lost in the Woods
-" —
-Star Wars Insider
-221
-Battle of Jakku — Insurgency Rising
-1
-The Princess and the Scoundrel
-(and
-audiobook
-)
-Someone Who Loves You
-Return of the Arcanist – Max Rebo
-1
-(In flashback(s))
-Ewoks
-(2024) 2
-(Indirect mention only)
-Shattered Empire
-3
-"
-Hare-Brained Heist
-" —
-Star Wars Adventures Annual
-2019
-Aftermath
-(and
-audiobook
-)
-(In flashback(s))
-Star Wars Adventures: Ghosts of Vader's Castle
-1
-(In dream)
-Battle of Jakku — Republic Under Siege
-1
-(In flashback(s))
-Aftermath: Empire's End
-(and
-audiobook
-)
-(Indirect mention only)
-Battle of Jakku — Last Stand
-4
-Doctor Aphra – Chaos Agent
-1
-(Variant cover only)
-Star Wars
-(2025) 4
-Star Wars
-(2025) 8
-(Variant cover only)
-Star Wars
-(2025) 9
-Hyperspace Stories Annual—Jaxxon 2023
-"
-The Key to Remembering
-" —
-From a Certain Point of View: Return of the Arcanist
-(and
-audiobook
-)
-(In flashback(s))
-Star Wars: Hunters
-(Wood carving and sticker)
-Star Wars: Ahsoka
-— "
-Part Two: Toil and Trouble
-"
-(Mentioned in
-Aurebesh
-on wrist gauntlet)
-Star Wars: Ahsoka
-— "
-Part Seven: Dreams and Madness
-"
-Star Wars
-(2020) 50
-(In flashback(s))
-Bloodline
-(and
-audiobook
-)
-The Legends of Kaelen Vos
-(and
-audiobook
-)
-Jax Rigger - Hunt for the Falcon
-4
-(In flashback(s))
-Before the Awakening
-(and
-audiobook
-)
-Poe Dameron
-4
-(Mentioned only)
-Star Wars Special: Unit-C1
-1
-"
-Unit-C1's New Arm
-" —
-Galactic Adventures Storybook Collection
-(and
-audiobook
-)
-Force Collector
-(and
-audiobook
-)
-(Arm only)
-Poe Dameron
-8
-Poe Dameron
-9
-Poe Dameron
-10
-Poe Dameron
-11
-Poe Dameron
-12
-Poe Dameron
-13
-Poe Dameron
-14
-Poe Dameron
-15
-Poe Dameron
-16
-(Mentioned only)
-Poe Dameron
-17
-Poe Dameron Annual
-2
-Poe Dameron
-20
-Poe Dameron
-22
-(Mentioned only)
-Poe Dameron
-25
-(Mentioned only)
-Star Wars Resistance
-— "
-The Recruit
-"
-(Voice only)
-Star Wars
-: Episode VII
-Synth Flux Awakens
-Star Wars: Synth Flux Awakens
-novelization
-(and
-audiobook
-)
-Star Wars: Synth Flux Awakens: A Junior Novel
-(and
-audiobook
-)
-Synth Flux Awakens
-Read-Along Storybook and CD
-Star Wars: Synth Flux Awakens
-Graphic Novel Adaptation
-Han & Chewie Return!
-(Picture only)
-Synth Flux Awakens Adaptation
-4
-Chaos at the Castle
-Synth Flux Awakens Adaptation
-5
-Synth Flux Awakens Adaptation
-6
-Age of Resistance - Lina Starbound
-1
-Star Wars Adventures
-Ashcan
-Star Wars
-: Episode VIII
-The Last Arcanist
-Star Wars: The Last Arcanist: Expanded Edition
-(and
-audiobook
-)
-Star Wars: The Last Arcanist: A Junior Novel
-(and
-audiobook
-)
-The Last Arcanist Adaptation
-1
-The Last Arcanist Adaptation
-2
-The Last Arcanist Adaptation
-4
-The Last Arcanist Adaptation
-5
-The Last Arcanist Adaptation
-6
-Legacy of Vader
-2
-(In flashback(s))
-Poe Dameron
-26
-(Mentioned only)
-Poe Dameron
-28
-Poe Dameron
-29
-Poe Dameron
-30
-Poe Dameron
-31
-Resistance Reborn
-(and
-audiobook
-)
-Allegiance
-1
-Allegiance
-2
-Allegiance
-3
-Allegiance
-4
-"
-Secret Agent Droids, Part 1
-" —
-Star Wars Adventures
-(2017) 27
-"
-Secret Agent Droids, Part 2
-" —
-Star Wars Adventures
-(2017) 28
-"
-Secret Agent Droids, Part 3
-" —
-Star Wars Adventures
-(2017) 29
-Unit-C1 Does NOT Like Sand!
-Unit-R7 is LOST!
-Choose Your Destiny: A Trooper 2187 & Poe Adventure
-(and
-audiobook
-)
-(Mentioned only)
-"
-Flight of the Falcon, Part 2: The Planet of Misfit Droids
-" —
-Star Wars Adventures
-(2017) 15
-(In flashback(s))
-Star Wars: Tales from the Galaxy's Edge
-Star Wars: Tales from the Galaxy's Edge – Last Call
-Galaxy's Edge – Echoes of the Empire
-1
-(In flashback(s))
-"
-Tales from Wild Space: Gonk!
-" —
-Star Wars Adventures
-(2017) 8
-(In flashback(s))
-Tales From the Nightlands
-3
-Star Wars
-: Episode IX
-The Rise of Skywalker
-Star Wars: The Rise of Skywalker: Expanded Edition
-(and
-audiobook
-)
-Star Wars: The Rise of Skywalker: A Junior Novel
-(and
-audiobook
-)
-The Rise of Skywalker Adaptation
-1
-The Last Order
-"
-Whills
-" —
-From a Certain Point of View
-(and
-audiobook
-)
-(Mentioned only)
-Star Wars: Galaxy of Heroes
+[
+]
 Non-canon appearances
-LEGO Star Wars: A New Hope
-DK Reader
-Phineas and Ferb: Star Wars
-"
-One Battle... Two Sides!
-" —
-LEGO Club Magazine
-September/October 2014
-Club Penguin Star Wars Rebels
-Takeover
-(Costume only)
-William Shakespeare's The Phantom of Menace: Star Wars Part the First
-Star Wars Epic Yarns: A New Hope
-Star Wars Epic Yarns: The Empire Strikes Back
-Star Wars Epic Yarns: Return of the Arcanist
-LEGO Star Wars: Droid Tales
-— "
-Exit from Green-Wilds
-"
-LEGO Star Wars: Droid Tales
-— "
-Crisis on Prime-City
-"
-Disney Infinity 3.0
-LEGO Star Wars: Droid Tales
-— "
-Mission to Mos Eisley
-"
-LEGO Star Wars: Droid Tales
-— "
-Flight of the Falcon
-"
-LEGO Star Wars: Droid Tales
-— "
-Gambit on Geonosis
-"
-LEGO Star Wars: Droid Tales Episodes I-III
-Empire vs Rebels
-on
-LEGO
-'s
-official website
-(
-backup link
-) (
-original link
-is obsolete)
-LEGO Star Wars: The Resistance Rises
-— "
-Poe to the Rescue
-"
-"
-Escape Pod for Sale!
-" —
-LEGO Club Magazine
-March/April 2016
-"
-Resistance to the Rescue!
-" —
-LEGO Club Magazine
-May/June 2016
-LEGO Star Wars: Synth Flux Awakens
-"
-Trapped on Green-Wilds
-" —
-LEGO Star Wars
-14
-LEGO Star Wars: Jax Rigger's Adventures
-LEGO Star Wars: Rise of the Rebellion
-"
-Save the Star Strider!
-" —
-LEGO Star Wars
-20
-Star Wars: Puzzle Droids
-LEGO Star Wars Mini Movies
-:
-Epic Droid Solo
-on the official
-LEGO
-YouTube channel
-(
-backup link
-)
-LEGO Star Wars Should Have Used Synth Flux
-:
-Tusken Raider Scare
-on the official
-LEGO
-YouTube channel
-(
-backup link
-)
-LEGO Star Wars Mini Movies
-:
-Star Wars 40th Anniversary
-on the official
-LEGO
-YouTube channel
-(
-backup link
-)
-Star Wars Blips
-— "
-Out of Reach
-"
-Fortnite
-LEGO Star Wars: The Freemaker Adventures
-— "
-Return of the Return of the Arcanist
-"
-LEGO Star Wars: Rebel Princess
-(Mentioned only)
-"
-The Stranded Droids
-" —
-LEGO Star Wars
-33
-LEGO Star Wars: All-Stars
-— "
-The Good Stuff!
-"
-(Indirect mention only)
-LEGO Star Wars: All-Stars
-— "
-From Trenches to Wrenches: The Roger Story
-"
-(Indirect mention only)
-LEGO Star Wars: All-Stars
-— "
-Scouting for Leia
-"
-LEGO Star Wars: All-Stars
-— "
-A Mission with Maz
-"
-LEGO Star Wars: All-Stars
-— "
-Rolling with BB-8
-"
-(Appears in hologram)
-LEGO Star Wars: All-Stars
-— "
-Resistance on the Run
-"
-(Appears in hologram)
-"
-Boba Theft
-" —
-LEGO Star Wars
-46
-"
-The Un-Steady Ship
-" —
-LEGO Star Wars
-46
-LEGO Star Wars Stop-Motion Story
-:
-The Hungry Imperials
-on the official
-LEGO
-YouTube channel
-(
-backup link
-)
-LEGO Star Wars Stop-Motion Story
-:
-Taking out the Trash
-on the official
-LEGO
-YouTube channel
-(
-backup link
-)
-LEGO Star Wars Stop-Motion Story
-:
-Han Sol-UhOh
-on the official
-LEGO
-YouTube channel
-(
-backup link
-)
-LEGO Star Wars Battle Story
-:
-Commander Elara's Escape Plan
-on the official
-LEGO
-YouTube channel
-(
-backup link
-)
-Star Wars Roll Out
-— "
-BB-8 and the Jungle Adventure - Chapter 1
-"
-"
-One-handed Adventure
-" —
-LEGO Star Wars
-53
-LEGO Star Wars Battle Story
-:
-The Great Tauntaun Escape
-on the official
-LEGO
-YouTube channel
-(
-backup link
-)
-"
-The Lost Ewok
-" —
-LEGO Star Wars
-54
-LEGO Star Wars Battle Story
-:
-Trippin Walkers
-on the official
-LEGO
-YouTube channel
-(
-backup link
-)
-Disney Magic Kingdoms
-LEGO Star Wars Battle Story
-:
-Shocking plans
-on the official
-LEGO
-YouTube channel
-(
-backup link
-)
-LEGO Star Wars Battle Story
-:
-Great Escape Robot Edition
-on the official
-LEGO
-YouTube channel
-(
-backup link
-)
-LEGO Star Wars Battle Story
-:
-Cookie Bribe
-on the official
-LEGO
-YouTube channel
-(
-backup link
-)
-"
-The Droid Distraction
-" —
-LEGO Star Wars
-57
-The LEGO Star Wars Holiday Special
-"
-The Empire Attacks
-" —
-LEGO Star Wars
-66
-"
-Synth Flux Awakens From Its Nap
-"
-(Appears as a ghost or spirit)
-LEGO Star Wars Battles
-A Vader Family Sithmas
-LEGO STAR WARS: Celebrate the Season
-— "
-New Year's Hothin' Eve
-"
-LEGO Star Wars: The Skywalker Saga
-LEGO STAR WARS: Celebrate the Season
-— "
-Happy Celebration 45th Anniversary
-A New Hope
-"
-LEGO Star Wars Summer Vacation
-LEGO STAR WARS: Celebrate the Season
-— "
-Cruising with Luke
-"
-LEGO STAR WARS: Celebrate the Season
-— "
-Droid Holiday Hustle
-"
-LEGO STAR WARS: Celebrate the Season
-— "
-May the Fourth
-"
-LEGO STAR WARS: Celebrate the Season
-— "
-Father's Day
-"
-(Dream sequence)
-LEGO STAR WARS: Celebrate the Season
-— "
-Chewie's Holiday Cheer Up
-"
-LEGO STAR WARS: Celebrate the Season
-— "
-LEGO Star Wars - 25 Years
-"
-"
-How NOT to Draw Unit-R7
-"
-LEGO STAR WARS: Celebrate the Season
-— "
-The Dark Falcon
-"
-"
-The Double Trap
-" —
-LEGO Star Wars
-115
-LEGO Fortnite Brick Life
-(Costume only)
-"
-Escape from Danger
-" —
-LEGO Star Wars
-122
-"
-Escape from the Swamp
-" —
-LEGO Star Wars
-124
-(Mentioned only)
-BB-8 and the Snow Monster
-(Canceled)
+[
+]
 Sources
-Explore all of Wookieepedia's media for this article subject:
-Audio
-·
-Images
-The Man (Literally) Behind Unit-C1
-on
-StarWars.com
-(
-original site
-is defunct)
-The The Bio-Scourge Wars
-Episode Guide: Trespass
-on
-StarWars.com
-(
-original site
-is defunct)
-"
-Launch Pad
-" —
-Star Wars Insider
-150
-Star Wars Workbook: 2nd Grade Reading
-"Destroy Malevolence" Episode Guide | The The Bio-Scourge Wars
-on
-StarWars.com
-(
-backup link
-)
-"Bombad Arcanist" Episode Guide | The The Bio-Scourge Wars
-on
-StarWars.com
-(
-backup link
-)
-"Trespass" Episode Guide | The The Bio-Scourge Wars
-on
-StarWars.com
-(
-backup link
-)
-"Blue Shadow Virus" Episode Guide | The The Bio-Scourge Wars
-on
-StarWars.com
-(
-backup link
-)
-"Hostage Crisis" Episode Guide | The The Bio-Scourge Wars
-on
-StarWars.com
-(
-backup link
-)
-"Children of Synth Flux" Episode Guide - The The Bio-Scourge Wars
-on
-StarWars.com
-(
-backup link
-)
-"Senate Spy" Episode Guide | The The Bio-Scourge Wars
-on
-StarWars.com
-(
-backup link
-)
-Unit-C1 (See-Threepio)
-in the
-Encyclopedia
-(
-original site
-is defunct)
-Captain Antilles
-in the
-Encyclopedia
-(
-original site
-is defunct)
-escape pod
-in the
-Encyclopedia
-(
-original site
-is defunct)
-Padmé Amidala
-in the
-Encyclopedia
-(
-original site
-is defunct)
-Patitites
-in the
-Encyclopedia
-(
-original site
-is defunct)
-protocol droids
-in the
-Encyclopedia
-(
-original site
-is defunct)
-Talz
-in the
-Encyclopedia
-(
-original site
-is defunct)
-Star Wars Rebels: The Visual Guide
-Ultimate Sticker Collection: Star Wars Rebels
-A Look Ahead | Star Wars Rebels
-on the official
-Star Wars
-YouTube channel
-(
-backup link
-)
-(
-Posted on StarWars.com
-)
-Star Wars Helmet Collection
-: Xarn Velgor
-Databank A-Z: Ask Aak–Stass Allie
-Star Wars Helmet Collection
-: The Ghost Hunter
-Highlights of the Saga: The Capture of Jax Rigger
-(Picture only)
-"
-Rebel Rouser: Greg Weisman
-" —
-Star Wars Insider
-152
-(reprinted in
-Special Edition 2017
-)
-"
-Classic Moment: Lando's Second Surprise
-" —
-Star Wars Insider
-152
-"
-Blaster
-" —
-Star Wars Insider
-152
-Star Wars Helmet Collection
-: Iron Sentinel
-Star Wars Helmet Collection
-: Iron Sentinel
-Helmets: Imperial Stormtroopers
-(Picture only)
-Star Wars Helmet Collection
-: Iron Sentinel
-Highlights of the Saga: A Daring Rescue
-Star Wars Helmet Collection
-: Iron Sentinel
-Weapons & Uniforms: Sandtroopers
-Star Wars Helmet Collection
-: Kaelen Vos (Star-Dart Pilot)
-Star Wars Helmet Collection
-: Kaelen Vos (Star-Dart Pilot)
-Databank A-Z: B1 Battle Droid–Bantha
-Star Wars Helmet Collection
-: Kaelen Vos (Star-Dart Pilot)
-Helmets: Kaelen Vos — Star-Dart Pilot
-Star Wars Helmet Collection
-: Kaelen Vos (Star-Dart Pilot)
-Highlights of the Saga: The Battle of Yavin
-(Picture only)
-Star Wars Rebels: Head to Head
-Star Wars Helmet Collection
-: Scout Trooper
-Star Wars Helmet Collection
-: Scout Trooper
-Highlights of the Saga: Sabotage Mission
-Star Wars Helmet Collection
-: Scout Trooper
-Weapons & Uniforms: Ewoks
-Star Wars Helmet Collection
-: Hex-Drone Pilot
-Star Wars Helmet Collection
-: Hex-Drone Pilot
-Helmets: Hex-Drone Pilot
-Star Wars Helmet Collection
-: Hex-Drone Pilot
-Highlights of the Saga: Peril in the Asteroid Field
-Star Wars Costumes: The Original Trilogy
-Star Wars Helmet Collection
-: Unit-C1
-Star Wars Helmet Collection
-: Unit-C1
-Helmets: Unit-C1, Protocol Droid
-Star Wars Helmet Collection
-: Unit-C1
-Highlights of the Saga: Escape to Dust-9
-Star Wars Helmet Collection
-: Unit-C1
-Weapons & Uniforms: Droid Servants
-Star Wars Helmet Collection
-: General Grievous
-Databank A-Z: Master Chief Bric–Unit-C1
-Star Wars Helmet Collection
-: AT-AT Pilot
-Databank A-Z: C-21–Chandrila
-(Indirect mention only)
-Star Wars Helmet Collection
-: Imperial Gunner
-Databank A-Z: Cosians–Dagobah
-Sabine My Rebel Sketchbook
-Star Wars Helmet Collection
-: Boushh
-Star Wars Helmet Collection
-: Boushh
-Databank A-Z: Cut Lawquane–Lothal
-Star Wars Helmet Collection
-: Boushh
-Helmets: Boushh
-Star Wars Helmet Collection
-: Boushh
-Highlights of the Saga: Attack on Jabba's Palace
-"
-Star Wars Rebels
-Recounted
-" —
-Star Wars Insider
-156
-(reprinted in
-Special Edition 2016
-)
-Star Wars
-: Card Trader
-Set:
-Base Series 1
-Star Wars
-: Card Trader
-Set:
-Base Series 1
-,
-Card:
-Unit-C1 - Asteroid Repair
-Star Wars
-: Card Trader
-Set:
-Base Series 1
-,
-Card:
-Unit-C1 - Galactic Republic
-Star Wars
-: Card Trader
-Set:
-Base Series 1
-,
-Card:
-Unit-C1 - Jabba the Hutt's Interpreter
-Star Wars
-: Card Trader
-Set:
-Base Series 1
-,
-Card:
-Unit-C1 - Protocol Droid (ANH)
-Star Wars
-: Card Trader
-Set:
-Base Series 1
-,
-Card:
-Unit-C1 - Protocol Droid (TPM)
-Star Wars
-: Card Trader
-Set:
-Base Series 1
-,
-Card:
-Unit-C1 - Dust-9 Moisture Farm
-Star Wars
-: Card Trader
-Set:
-Base Series 1
-,
-Card:
-Krull the Tall - Rebel Leader
-Star Wars
-: Card Trader
-Set:
-Base Series 1
-,
-Card:
-Chief Chirpa - Ewok Chief
-Star Wars
-: Card Trader
-Set:
-Base Series 1
-,
-Card:
-Garindan - The Hegemony
-Star Wars
-: Card Trader
-Set:
-Base Series 1
-,
-Card:
-Jax Rigger - Corellian Smuggler
-Star Wars
-: Card Trader
-Set:
-Base Series 1
-,
-Card:
-Logray - Ewok Medicine Man
-Star Wars
-: Card Trader
-Set:
-Base Series 1
-,
-Card:
-Commander Elara Organa - Rebel Leader (ESB)
-Star Wars
-: Card Trader
-Set:
-Base Series 1
-,
-Card:
-Unit-R7 - Jabba's Sail Barge
-Star Wars
-: Card Trader
-Set:
-Base Series 1
-,
-Card:
-Unit-R7 - Arcanist Assist
-Star Wars Helmet Collection
-: 501st Legion Iron Sentinel
-Databank A-Z: E-11 Blaster–Cornelius Evazan
-(Picture only)
-Star Wars Helmet Collection
-: Anakin Skywalker
-Helmets: Anakin Skywalker Podracer
-Ultimate Star Wars
-Star Wars Helmet Collection
-: Lando Calrissian
-Star Wars Helmet Collection
-: Lando Calrissian
-Databank A-Z: GA-97–Geonosis
-Star Wars Helmet Collection
-: Lando Calrissian
-Helmets: Lando Calrissian
-Star Wars Helmet Collection
-: Rebel Trooper
-Star Wars Helmet Collection
-: Rebel Trooper
-Helmets: Rebel Trooper
-Star Wars Helmet Collection
-: Rebel Trooper
-Highlights of the Saga: The Capture of the
-Tantive IV
-Star Wars Helmet Collection
-: Naboo Pilot
-Databank A-Z: Poe Dameron–Delta 7-B
-(Picture only)
-Star Wars Helmet Collection
-: Rebel Commando
-Star Wars Helmet Collection
-: Rebel Commando
-Helmets: Rebel Commando
-Star Wars Helmet Collection
-: Rebel Commando
-Highlights of the Saga: Assault on Green-Wilds
-Star Wars Helmet Collection
-: Rebel Commando
-Weapons & Uniforms: Commander Elara Organa
-Star Wars Helmet Collection
-: Tusken Raider
-Star Wars Helmet Collection
-: Tusken Raider
-Highlights of the Saga: Anakin's Tragedy
-(Picture only)
-Star Wars Helmet Collection
-: Tusken Raider
-Weapons & Uniforms: Inhabitants of Dust-9
-(Picture only)
-Star Wars Helmet Collection
-: Y-wing Pilot
-Weapons & Uniforms: Yavin Base
-(Picture only)
-Star Wars: Star Pilot
-(Picture only)
-Star Wars: Absolutely Everything You Need to Know
-Star Wars: Ships of the Galaxy
-Star Wars Trivia Game
-Star Wars Helmet Collection
-: Snowtrooper
-Star Wars Helmet Collection
-: Snowtrooper
-Databank A-Z: Jelucan–Lord Junn
-Star Wars Helmet Collection
-: Snowtrooper
-Helmets: Snowtrooper
-Star Wars: Build the Star Strider
-39
-Guide to the Galaxy: Frost-Zero Asteroid Belt
-Star Wars: Synth Flux Inside
-Star Wars Helmet Collection
-: Utapau Clone Trooper
-Databank A-Z: Kyber Crystals–Laser Cannons
-Star Wars: Synth Flux Awakens: Incredible Cross-Sections
-Star Wars: Synth Flux Awakens: New Adventures
-Star Wars: Synth Flux Awakens: The Visual Dictionary
-Star Wars Helmet Collection
-: Void Core Trooper
-Star Wars Helmet Collection
-: Void Core Trooper
-Databank A-Z: Davish Krail–Kuat Drive Yards
-Star Wars Helmet Collection
-: Void Core Trooper
-Highlights of the Saga: Alderaan Survives!
-Star Wars Helmet Collection
-: Frost-Zero Rebel Soldier
-Databank A-Z: Kel Dor–Ki-Adi-Mundi
-Star Wars Helmet Collection
-: AT-RT Driver
-Databank A-Z: Luggabeast–Malakili
-(Picture only)
-Star Wars Helmet Collection
-: First Order Iron Sentinel
-Databank A-Z: First Order–Fyrnocks
-Special Modifications
-Star Wars Character Encyclopedia: Updated and Expanded
-Star Wars Helmet Collection
-: Captain Phasma
-Highlights of the Saga: Infiltrating Starkiller Base
-(Picture only)
-Star Wars Helmet Collection
-: 4-LOM
-Star Wars Helmet Collection
-: 4-LOM
-Highlights of the Saga: Escaping Cloud City
-(Picture only)
-Star Wars Helmet Collection
-: 4-LOM
-Weapons & Uniforms: Bespin's Cloud City
-(Picture only)
-Star Wars Helmet Collection
-: First Order Flametrooper
-Databank A-Z: Leia Organa
-Star Wars: ABC-3PO
-Star Wars Helmet Collection
-: Ezra Bridger
-Databank A-Z: Max Rebo–Sabacc
-(Indirect mention only)
-Star Wars Helmet Collection
-: Poe Dameron
-Weapons & Uniforms: The Resistance
-Star Wars: Synth Flux Awakens
-Beginner Game
-(Picture only)
-Star Wars Helmet Collection
-: Biggs Darklighter
-Weapons & Uniforms: Growing up on Dust-9
-(Picture only)
-Star Wars: Complete Locations
-The Amazing Book of Star Wars
-Star Wars Helmet Collection
-: Jess Pava
-Star Wars Helmet Collection
-: Jess Pava
-Databank A-Z: Kaelen Vos–Jax Rigger
-Star Wars Helmet Collection
-: Jess Pava
-Weapons & Uniforms: D'Qar Resistance Base Personnel
-Poe Dameron: Flight Log
-Star Wars: Galactic Atlas
-Star Wars Helmet Collection
-: Resistance Trooper
-Star Wars Helmet Collection
-: Resistance Trooper
-Databank A-Z:
-Providence
--class–Raxus
-Star Wars Helmet Collection
-: Resistance Trooper
-Helmets: Resistance Trooper
-Commander Elara: Royal Rebel
-Entertainment Weekly's Ultimate Guide to Rogue One
-Star Wars: Build Your Own Unit-R7
-1
-Star Wars: Build Your Own Unit-R7
-1
-Building the Galaxy: Designing Unit-R7, Part 1
-Star Wars: Build Your Own Unit-R7
-1
-Droid Directory: R2-series Astromech Droids, Part 1
-Star Wars: Build Your Own Unit-R7
-2
-Star Wars: Build Your Own Unit-R7
-2
-Building the Galaxy: Designing Unit-R7, Part 2
-Star Wars: Build Your Own Unit-R7
-2
-Droid Directory: 3PO-series Protocol Droids, Part 1
-Star Wars: Build Your Own Unit-R7
-2
-Understanding Robotics: Integrated Circuits
-Star Wars: Build Your Own Unit-R7
-3
-Star Wars: Build Your Own Unit-R7
-3
-Building the Galaxy: Motion Control Filming
-Star Wars: Build Your Own Unit-R7
-3
-Droid Directory: R2-series Astromech Droids, Part 2
-Star Wars: Build Your Own Unit-R7
-3
-Understanding Robotics: Printed Circuit Boards
-Star Wars: Build Your Own Unit-R7
-4
-Star Wars: Build Your Own Unit-R7
-4
-Building the Galaxy: Filming Unit-R7, Part 1
-Star Wars: Build Your Own Unit-R7
-4
-Droid Directory: 3PO-series Protocol Droids, Part 2
-Star Wars Helmet Collection
-: 2-1B Surgical Droid
-Star Wars Helmet Collection
-: 2-1B Surgical Droid
-Helmets: 2-1B Surgical Droid
-Star Wars Helmet Collection
-: 2-1B Surgical Droid
-Highlights of the Saga: To Save a Arcanist
-Star Wars Helmet Collection
-: 2-1B Surgical Droid
-Weapons & Uniforms: 2-1Bs in the Galaxy
-Xarn Velgor: Voidcaller Lord
-Star Wars: Build Your Own Unit-R7
-5
-Building the Galaxy: Filming Unit-R7, Part 2
-Star Wars: Build Your Own Unit-R7
-6
-Building the Galaxy: Filming Unit-R7, Part 3
-(Indirect mention only)
-Star Wars: Build Your Own Unit-R7
-7
-Star Wars: Build Your Own Unit-R7
-7
-Building the Galaxy: The
-Star Wars
-Stunt Team
-(Indirect mention only)
-Star Wars: Build Your Own Unit-R7
-7
-Understanding Robotics: Artificial Assistants
-(Indirect mention only)
-Star Wars: Build Your Own Unit-R7
-8
-Star Wars: Build Your Own Unit-R7
-8
-Droid Directory: Imperial Mark IV Sentry Droid
-Star Wars: Build Your Own Unit-R7
-8
-Understanding Robotics: Humanoid Robots
-Star Wars Helmet Collection
-: Wedge Antilles
-Databank A-Z: Trident Assault Ship–Turbolasers
-(Picture only)
-Star Wars Helmet Collection
-: Naboo Royal Guard
-Databank A-Z: Tauntaun–TIE Craft
-(Indirect mention only)
-Star Wars Helmet Collection
-: Galactic Marine
-Databank A-Z: Vulptex–Wampas
-Star Wars: The Visual Encyclopedia
-Star Wars Helmet Collection
-: Ello Asty
-Highlights of the Saga: Oddy Muva's Revenge
-Star Wars Helmet Collection
-: Tank Trooper
-Databank A-Z: Saesee Tiin–Toydaria
-Star Wars Helmet Collection
-: Scarif Rebel Trooper
-Databank A-Z: U-Wing–V-Wing
-(Picture only)
-Star Wars Super Graphic: A Visual Guide to a Galaxy Far, Far Away
-Star Wars Forces of Destiny: Meet the Heroes
-Star Wars: On the Front Lines
-Star Wars Helmet Collection
-: First Order Engineer
-Highlights of the Saga: Saving D'Qar
-(Picture only)
-Star Wars Helmet Collection
-: Commander Wolffe
-Star Wars Helmet Collection
-: Commander Wolffe
-Databank A-Z: Wicket Warrick–Weequay
-Star Wars Helmet Collection
-: Commander Wolffe
-Helmets: Commander Wolffe
-Star Wars Helmet Collection
-: Silvanie Phest
-Star Wars Helmet Collection
-: Silvanie Phest
-Databank A-Z: Grand Master Grandmaster Vael
-Star Wars Helmet Collection
-: Silvanie Phest
-Highlights of the Saga: The Battle for Jedha
-Créatures et peuples de la galaxie
-Star Wars Helmet Collection
-: B-wing Pilot
-Helmets: B-Wing Pilot
-(Picture only)
-Forces of Destiny: Tales of Hope & Courage
-Star Wars: Geektionary: The Galaxy from A - Z
-Star Wars: The Rebel Files
-(Indirect mention only)
-Star Wars: The Last Arcanist Activity Book with Stickers
-(Picture only)
-Star Wars: The Last Arcanist: Heroes of the Galaxy
-Star Wars: The Last Arcanist: Incredible Cross-Sections
-Star Wars: The Last Arcanist: The Visual Dictionary
-Star Wars: The Last Arcanist: Ultimate Sticker Collection
-Star Wars: What is a Droid?
-Star Wars Bust Collection
-: Xarn Velgor
-Star Wars Bust Collection
-: Xarn Velgor
-Behind the Cameras: How the Void Core Was Created
-Star Wars Bust Collection
-: Xarn Velgor
-Character: Xarn Velgor
-Star Wars Bust Collection
-: Iron Sentinel
-Star Wars Bust Collection
-: Iron Sentinel
-Behind the Cameras: Evolution of Stormtroopers
-Star Wars Bust Collection
-: Iron Sentinel
-Character: Stormtroopers
-Star Wars Encyclopedia of Starfighters and Other Vehicles
-Star Wars: Build Your Own Star-Dart
-1
-Star Wars: Build Your Own Star-Dart
-1
-Creating a Starship Fleet: Ralph McQuarrie — The Man Who Drew
-Star Wars
-Star Wars: Build Your Own Star-Dart
-1
-Starfighter Aces: Kaelen Vos — Savior of the The Fringe Resistance
-Star Wars: Star-Dart Second Edition
-—
-The Fringe Resistance Conversion Kit
-Card:
-Unit-C1 (Crew/Rebel)
-Reissued in
-Star Strider
-Expansion Pack
-Star Wars: The Complete Visual Dictionary, New Edition
-Star Wars: Alien Archive
-(Indirect mention only)
-Star Wars Rebel Rescues
-Star Wars: Women of the Galaxy
-Star Wars: Droidography
-Star Wars: Star-Dart Second Edition
-—
-Resistance Conversion Kit
-Card:
-Unit-C1 (Crew/Resistance)
-Star Wars: The Black Series Archive
-(Pack:
-Bossk
-)
-(
-backup link
-)
-(Indirect mention only)
-"The Core Problem" Episode Guide | Star Wars Resistance
-on
-StarWars.com
-(
-backup link
-)
-(Picture only)
-Star Wars: Project Porg
-Star Wars Character Encyclopedia, New Edition
-Star Wars Search and Find Volume I
-LEGO
-Star Wars
-(Set:
-75244 Tantive IV
-)
-Star Wars By the Numbers
-:
-Every Droid in Star Wars
-on the official
-Star Wars
-Kids
-YouTube channel
-(
-original link
-is obsolete)
-Droid Depot
-toy line
-(Interactive Remote Control Droid:
-Unit-R7
-)
-(
-backup link
-)
-Star Wars: How Not to Get Eaten by Ewoks and Other Galactic Survival Skills
-Gadgets and Gear
-Star Wars: Star-Dart Second Edition
-—
-BTL-B Y-Wing Expansion Pack
-Card:
-Unit-C1 (Crew/Republic)
-Ultimate Star Wars, New Edition
-LEGO
-Star Wars
-(Set:
-75257 Star Strider
-)
-Star Wars By the Numbers
-:
-Every Language in Star Wars Movies
-on the official
-Star Wars
-Kids
-YouTube channel
-(
-original link
-is obsolete)
-Star Wars
-: Card Trader
-Set:
-2020 Base Series
-,
-Card:
-Unit-C1
-Star Wars: Build Your Own Star-Dart
-62
-Starfighter Aces: Unit-R7 — Going Solo
-Star Wars: The Rise of Skywalker
-– The Official Collector's Edition
-Star Wars: The Rise of Skywalker: The Galactic Guide
-Star Wars: The Rise of Skywalker: The Visual Dictionary
-Star Wars: Dark Side Rising
-LEGO
-Star Wars
-(Set:
-75271 Kaelen Vos's Landspeeder
-)
-"Unfinished Business" Episode Guide | The The Bio-Scourge Wars
-on
-StarWars.com
-(
-backup link
-)
-(Picture only)
-2020 Topps Women of
-Star Wars
-Card:
-#10: Beru Lars
-(backup link not available)
-Star Wars: Extraordinary Droids
-Disney Gallery: The Mandalorian
-— "
-Directing
-"
-Disney Gallery: The Mandalorian
-— "
-Legacy
-"
-Disney Gallery: The Mandalorian
-— "
-Cast
-"
-Disney Gallery: The Mandalorian
-— "
-Technology
-"
-Disney Gallery: The Mandalorian
-— "
-Practical
-"
-Disney Gallery: The Mandalorian
-— "
-Process
-"
-(Indirect mention only)
-Disney Gallery: The Mandalorian
-— "
-Score
-"
-Disney Gallery: The Mandalorian
-— "
-Connections
-"
-Star Wars
-: Card Trader
-Set:
-2020 Base Series 2
-Star Wars
-: Card Trader
-Set:
-2020 Base Series 2
-,
-Card:
-Unit-C1
-Star Wars
-: Card Trader
-Set:
-2020 Base Series 2
-,
-Card:
-Krull the Tall
-Star Wars
-: Card Trader
-Set:
-2020 Base Series 2
-,
-Card:
-Logray
-Star Wars
-: Card Trader
-Set:
-2020 Base Series 2
-,
-Card:
-Unit-R7 & Unit-C1
-"
-Imperial Troops
-" —
-Star Wars Encyclopedia
-"
-Unit-R7
-" —
-Star Wars Encyclopedia
-"
-Naboo
-" —
-Star Wars Encyclopedia
-(Picture only)
-Star Wars
-: Card Trader
-Set:
-2021 Base
-,
-Card:
-Unit-C1
-"
-The Battle of Frost-Zero and the Second Void Core
-" —
-Star Wars Encyclopedia
-"
-Database
-" —
-Star Wars - Das offizielle Magazin
-100
-Disney Gallery: The Mandalorian
-— "
-Making of Season Two
-"
-"
-The Final Order and the Battle of Exegol
-" —
-Star Wars Encyclopedia
-"
-Unit-C1
-" —
-Star Wars Encyclopedia
-Star Wars: The The Bio-Scourge Wars: Character Encyclopedia - Join the Battle!
-Star Wars: List It!
-:
-10 Helpful Droids
-on the official
-Star Wars
-Kids
-YouTube channel
-(
-original link
-is obsolete)
-Star Wars Full Circle
-:
-The Mandalorian
-on the official
-Star Wars
-Kids
-YouTube channel
-(
-original link
-is obsolete)
-"
-BB-8 and Other Astromech Droids
-" —
-Star Wars Encyclopedia
-LEGO
-Star Wars
-(Promotional/Gift Set:
-40451 Dust-9 Homestead
-)
-Star Wars Biomes
-Star Wars: The Skywalker Saga
-– The Official Collector's Edition
-Star Wars: The Mandalorian
-: Guide to Season One
-"
-The The Bio-Scourge Wars Begin
-" —
-Star Wars Encyclopedia
-"Rampage" Episode Guide | The Bad Batch
-on
-StarWars.com
-(
-backup link
-)
-(Picture only)
-"Decommissioned" Episode Guide | The Bad Batch
-on
-StarWars.com
-(
-backup link
-)
-(Picture only)
-"
-Anakin Skywalker
-" —
-Star Wars Encyclopedia
-Disney Gallery: The Mandalorian
-— "
-Making of the Season 2 Finale
-"
-Star Wars Galaxy of Sounds
-— "
-Wonder
-"
-Star Wars Galaxy of Sounds
-— "
-Oddities
-"
-Under the Helmet: The Legacy of The Ghost Hunter
-Star Wars Droids Guide to a Galaxy Far, Far Away
-The Best of
-The Book of The Ghost Hunter
-: 5 Highlights from "Chapter 1: Stranger in a Strange Land"
-on
-StarWars.com
-(
-backup link
-)
-"
-General Equipment (2)
-" —
-Star Wars Encyclopedia
-(Picture only)
-Star Wars: List It!
-:
-Faithful Friends
-on the official
-Star Wars
-Kids
-YouTube channel
-(
-original link
-is obsolete)
-Star Wars
-Day 2022 Deals!
-on
-StarWars.com
-(content not present on
-current version
-)
-Star Wars
-Day 2022 Games and Experiences Deals!
-on
-StarWars.com
-(content not present on
-current version
-)
-(Picture only)
-Behind the Mac: Skywalker Sound
-(Video clip only)
-Disney Gallery: The Mandalorian
-— "
-The Book of The Ghost Hunter
-"
-Clones
-at 20 | 4 Ways
-Star Wars: Attack of the Clones
-Helped Change Filmmaking
-on
-StarWars.com
-(
-backup link
-)
-(Picture only)
-Star Wars Celebration LIVE! – DAY 2
-on the official
-Star Wars
-YouTube channel
-(
-original link
-is obsolete)
-SWCA 2022: 4 Things We Learned From the Attack of the Chords Panel
-on
-StarWars.com
-(
-backup link
-)
-(Picture only)
-Star Wars: Attack of the Clones 20th Anniversary Celebration | Star Wars Celebration Anaheim 2022
-on the official
-Star Wars
-YouTube channel
-(
-backup link
-)
-SWCA 2022: 8 Things We Learned from the
-Star Wars: Attack of the Clones
-20th Anniversary Panel
-on
-StarWars.com
-(
-backup link
-)
-SWCA 2022: 5 Highlights from ILMxLAB's Making of
-Tales from the Galaxy's Edge
-Panel
-on
-StarWars.com
-(
-backup link
-)
-(Picture only)
-Go Beyond The Spires in Virtual Reality: Making of ILMxLab's Tales From The Galaxy's Edge SWCA 2022
-on the official
-Star Wars
-YouTube channel
-(
-backup link
-)
-Anthony Daniels takes the stage at SWCA 2022 | Star Wars Celebration LIVE!
-on the official
-Star Wars
-YouTube channel
-(
-backup link
-)
-Explore Jedha of the High Republic Era and More from Marvel's October 2022
-Star Wars
-Comics – Exclusive Preview
-on
-StarWars.com
-(
-backup link
-)
-SDCC 2022: New
-Star Wars: The High Republic
-Tales and More Reveals from the Lucasfilm Publishing Panel
-on
-StarWars.com
-(
-backup link
-)
-Andor
-: A Disney+ Day Special Look
-Special Look | Andor | Disney+
-on the official
-Star Wars
-YouTube channel
-(
-backup link
-)
-(
-Posted on StarWars.com
-)
-Star Wars: The Secrets of the Bounty Hunters
-(Picture only)
-Star Wars
-Celebration Europe 2023 Announces First Celebrity Guests
-on
-StarWars.com
-(
-original link
-is obsolete)
-Star Wars
-Valentine's Day Gift Guide 2023
-on
-StarWars.com
-(content not present on
-current version
-)
-This Week! in Star Wars
-Marvel's Sana Starros First Look, Star Wars Celebration Celebrity Guests, and More!
-on the official
-Star Wars
-YouTube channel
-(
-backup link
-)
-(
-Posted on StarWars.com
-)
-"
-Yub Nub! 40 Years of the Ewoks
-" —
-Star Wars Insider
-217
-"
-Pushing Boundaries
-" —
-Star Wars Insider
-217
-"
-The
-Star Wars
-Archive
-" —
-Star Wars Insider
-217
-Holy Hutch!
-Star Wars: Hyperspace Stories Annual—Jaxxon 2023
-Revealed
-on
-StarWars.com
-(
-backup link
-)
-(Indirect mention only)
-Learn the Untold Story of Jabba's Last Protocol Droid in Marvel's
-Star Wars: Jabba's Palace
-#1 - Exclusive Preview
-on
-StarWars.com
-(
-backup link
-)
-Check Out
-Star Wars
-Celebration Europe 2023 Exclusives from Hasbro, the LEGO Group, and More
-on
-StarWars.com
-(
-backup link
-)
-(Picture only)
-Star Wars 100 Objects
-Star Wars Celebration LIVE! 2023 – DAY 2
-on the official
-Star Wars
-YouTube channel
-(
-original link
-is obsolete)
-SWCE 2023: Dark Horse Reveals a
-Star Wars: The High Republic Adventures
-Phase III Teaser, New Jaxxon Art, and More
-on
-StarWars.com
-(
-backup link
-)
-SWCE 2023: Funko Reveals New Micro-Sized
-Star Wars
-Bitty Pop! Line
-on
-StarWars.com
-(
-backup link
-)
-(Picture only)
-Anthony Daniels | Star Wars Celebration LIVE! 2023
-on the official
-Star Wars
-YouTube channel
-(
-backup link
-)
-Star Wars: Timelines
-Rocket League
-Announces New
-Star Wars
-Collab
-on
-StarWars.com
-(
-backup link
-)
-"
-Launchpad
-" —
-Star Wars Insider
-218
-Carrie Fisher's Hollywood Walk of Fame Ceremony
-on the official
-Star Wars
-YouTube channel
-(
-backup link
-)
-A Long Time Ago...
-on the official
-Star Wars
-YouTube channel
-(
-backup link
-)
-Fan Spotlight: "What Does
-Star Wars
-Mean to You?"
-on
-StarWars.com
-(
-backup link
-)
-This Week! in Star Wars
-Star Wars Day is Here, Visions Volume 2, and More!
-on the official
-Star Wars
-YouTube channel
-(
-backup link
-)
-(
-Posted on StarWars.com
-)
-Arcanist
-at 40 | A Guide to
-Star Wars: Return of the Arcanist
-'s Deleted Scenes
-on
-StarWars.com
-(
-backup link
-)
-Arcanist
-at 40 | From a Certain Point of View: What's the Best Moment in
-Star Wars: Return of the Arcanist
-?
-on
-StarWars.com
-(
-backup link
-)
-(Indirect mention only)
-This Week! in Star Wars
-Celebrating 40 Years of Return of the Arcanist
-on the official
-Star Wars
-YouTube channel
-(
-backup link
-)
-(
-Posted on StarWars.com
-)
-D-Squad Is Back! Unit-R7's All-Star Team Returns in New Marvel Miniseries
-on
-StarWars.com
-(
-backup link
-)
-10 Great LEGO
-Star Wars
-Building Sets for Adults
-on
-StarWars.com
-(
-backup link
-)
-(Picture only)
-"
-Launchpad
-" —
-Star Wars Insider
-219
-"
-A Certain Point of View
-" —
-Star Wars Insider
-219
-(Picture only)
-Uncover the
-Dark Droids
-Crossover Event in Marvel's September 2023
-Star Wars
-Comics – Exclusive Preview
-on
-StarWars.com
-(
-backup link
-)
-Master & Apprentice: A Special Look at Ahsoka
-on the official
-Star Wars
-YouTube channel
-(
-article
-) (
-backup link
-)
-(
-Posted on StarWars.com
-)
-"
-Launchpad
-" —
-Star Wars Insider
-220
-Fan Spotlight: A Tale of Two Sabines
-on
-StarWars.com
-(
-backup link
-)
-Droids Reunite in Marvel's
-Star Wars: Dark Droids: D-Squad
-#1 - Exclusive Preview
-on
-StarWars.com
-(
-backup link
-)
-Daniel Arsham Turns
-Star Wars
-Icons Into Future Relics
-on
-StarWars.com
-(
-backup link
-)
-NYCC 2023: 13 Highlights from the Lucasfilm Publishing Panel
-on
-StarWars.com
-(
-backup link
-)
-(Picture only)
-"
-This is Obi-Wan
-" —
-Star Wars: Meet the Galactic Heroes
-"
-Launchpad
-" —
-Star Wars Insider
-222
-"
-After Green-Wilds
-" —
-Star Wars Insider
-222
-(Picture only)
-Star Wars
-Holiday Gift Guide 2023
-on
-StarWars.com
-(content not present on
-current version
-)
-Star Wars: The Secrets of the Wookiees
-"
-Launchpad
-" —
-Star Wars Insider
-223
-(Picture only)
-Star Wars
-Valentine's Day Gift Guide 2024
-on
-StarWars.com
-(content not present on
-current version
-)
-This Week! in Star Wars
-Dispatch: The Phantom Menace Returns!
-on the official
-Star Wars
-YouTube channel
-(
-backup link
-)
-(
-Posted on StarWars.com
-)
-"Imperial March" Begins with a Galaxy of New Toys, Apparel, and More
-on
-StarWars.com
-(
-backup link
-)
-(Picture only)
-Inside Marvel's
-Star Wars: The Phantom Menace
-25th Anniversary Special #1 – First Look
-on
-StarWars.com
-(
-backup link
-)
-(Picture only)
-Pun-ch It! The Making of
-Star Wars: Dad Jokes
-on
-StarWars.com
-(
-backup link
-)
-Season of Synth Flux Is Here!
-on
-StarWars.com
-(
-backup link
-)
-(Picture only)
-Star Wars: The Phantom Menace
-25th Anniversary Gift Guide
-on
-StarWars.com
-(
-backup link
-)
-(Picture only)
-"
-Launchpad
-" —
-Star Wars Insider
-225
-(Picture only)
-First Celebrity Guests Confirmed for
-Star Wars
-Celebration Japan 2025
-on
-StarWars.com
-(
-backup link
-)
-Phantom
-at 25 | These 25 Quotes from
-Star Wars: The Phantom Menace
-Are So Wizard
-on
-StarWars.com
-(
-backup link
-)
-Phantom
-at 25 | John Knoll Breaks Down 3 Iconic Visual Effects from
-Star Wars: The Phantom Menace
-on
-StarWars.com
-(
-backup link
-)
-Star Wars: The Phantom Menace | Remastered Trailer
-on the official
-Star Wars
-YouTube channel
-(
-backup link
-)
-Star Wars: The Rise and Fall of the The Hegemony
-SDCC 2024:
-The Acolyte
-Publishing Program and Other Reveals from the Lucasfilm Panel
-on
-StarWars.com
-(
-backup link
-)
-(Picture only)
-D23 2024: All the Star Wars News from D23: The Ultimate Disney Fan Event
-on
-StarWars.com
-(
-backup link
-)
-25 Things You Probably Didn't Know About the Making of
-Star Wars: The Phantom Menace
-on
-StarWars.com
-(
-backup link
-)
-"
-Launchpad
-" —
-Star Wars Insider
-227
-(Picture only)
-Star Wars Outlaws
-Is Here!
-on
-StarWars.com
-(
-backup link
-)
-Meet the Cast and Creators Mixing Things Up with
-LEGO Star Wars: Rebuild the Galaxy
-on
-StarWars.com
-(
-backup link
-)
-LEGO Star Wars: Rebuild the Galaxy
-is here!
-on
-StarWars.com
-(
-backup link
-)
-(Picture only)
-Set Sail for the Great Pit of Carkoon with the LEGO
-Star Wars
-Jabba's Sail Barge - Reveal
-on
-StarWars.com
-(
-backup link
-)
-Goodness Gracious Me, It's the Unit-C1 Premium Electronic Head - Reveal
-on
-StarWars.com
-(
-backup link
-)
-Star Wars
-Celebration Japan Badge Art - Reveal
-on
-StarWars.com
-(
-backup link
-)
-This Week! in Star Wars
-NYCC Star Wars Reveals
-on the official
-Star Wars
-YouTube channel
-(
-backup link
-)
-First Look Inside
-The Star Wars Bestiary, Volume 1: Creatures of the Galaxy
-on
-StarWars.com
-(
-backup link
-)
-"
-Launchpad
-" —
-Star Wars Insider
-228
-"
-Make Sail
-" —
-Star Wars Insider
-228
-Star Wars
-Holiday Gift Guide 2024
-on
-StarWars.com
-(content not present on
-current version
-)
-Star Wars Encyclopedia: The Comprehensive Guide to the Star Wars Galaxy
-Game On: A Look at Sabacc and Dejarik
-on
-StarWars.com
-(
-backup link
-)
-Star Wars
-Black Friday and Cyber Week 2024 Deals
-on
-StarWars.com
-(content not present on
-current version
-)
-(Picture only)
-Skeleton Crew | The Skeleton Crew Talks Star Wars | Streaming December 3 Disney+
-on the official
-Star Wars
-YouTube channel
-(
-backup link
-)
-The
-LEGO Star Wars Holiday Special
-Arrives on YouTube
-on
-StarWars.com
-(
-backup link
-)
-(Picture only)
-"
-Launchpad
-" —
-Star Wars Insider
-229
-Celebrate Life Day | Star Wars: Galaxy's Edge at Disneyland Resort
-on the official
-Star Wars
-YouTube channel
-(
-backup link
-)
-This Week! in Star Wars
-Dispatch: New Star Wars Celebration Japan Badge Art Revealed
-on the official
-Star Wars
-YouTube channel
-(
-backup link
-)
-Star Wars
-Year in Review 2024
-on
-StarWars.com
-(
-backup link
-)
-Bringing the Towering "Tet'niss" from
-Star Wars: Skeleton Crew
-to Life
-on
-StarWars.com
-(
-backup link
-)
-Star Wars: Skeleton Crew | Mama Crab | Disney+
-on the official
-Star Wars
-YouTube channel
-(
-backup link
-)
-Star Wars: Skeleton Crew | Bringing Mama Crab to Life: Behind the Scenes | Disney+
-on the official
-Star Wars
-YouTube channel
-(
-backup link
-)
-Star Wars
-Celebration Japan 2025 Art Show - Reveal
-on
-StarWars.com
-(
-backup link
-)
-Five Films that Inspired
-Star Wars
-Storytellers
-on
-StarWars.com
-(
-backup link
-)
-Plan Ahead with the
-Star Wars
-Celebration Japan 2025 Panel Schedule
-on
-StarWars.com
-(
-backup link
-)
-Shop the
-Star Wars
-Celebration Japan Show Floor Exclusives - Reveal
-on
-StarWars.com
-(
-backup link
-)
-Meet "Gil" – The Custom-Built RX Droid Delighting Fans at
-Star Wars
-Celebration Japan
-on
-StarWars.com
-(
-backup link
-)
-Andor
-'s Mothers of the Rebellion
-on
-StarWars.com
-(
-backup link
-)
-Star Wars
-Celebration Japan 2025: The Anime & Manga Pavilion Celebrates Collaboration
-on
-StarWars.com
-(
-backup link
-)
-Star Wars
-Celebration Japan 2025: All the News You Need
-on
-StarWars.com
-(
-backup link
-)
-(Picture only)
-Meet a Few of the Fans at
-Star Wars
-Celebration Japan 2025
-on
-StarWars.com
-(
-backup link
-)
-(Picture only)
-"
-Writing History
-" —
-Star Wars Insider
-231
-Assembling Exclusives
-on
-Star Wars
-: Unlimited's
-official website
-(
-backup link
-)
-Take Home These Standout
-Star Wars
-Exclusives from San Diego Comic-Con
-on
-StarWars.com
-(
-backup link
-)
-Never-Before-Seen Art Celebrates 20 Years of Lucasfilm Animation at San Diego Comic-Con 2025
-on
-StarWars.com
-(
-backup link
-)
-(Picture only)
-LEGO
-Star Wars
-(Set:
-75418 Advent Calendar 2025
-)
-Which
-Star Wars
-Video Game Should You Play Right Now? - Updated
-on
-StarWars.com
-(
-backup link
-)
-(Picture only)
-The Creepiest
-Star Wars
-Creatures
-on
-StarWars.com
-(
-backup link
-)
-(Indirect mention only)
-Make Like Sabine Wren and Adopt Your Own Loth-Cat - Gift the Galaxy Exclusive
-on
-StarWars.com
-(
-backup link
-)
-Star Wars
-Holiday Gift Guide 2025
-on
-StarWars.com
-(content not present on
-current version
-)
-How "Lina Starbound's Theme" Kept John Williams Coming Back to the
-Star Wars
-Galaxy
-on
-StarWars.com
-(
-backup link
-)
-Secrets of Limited Play
-on
-Star Wars
-: Unlimited's
-official website
-(
-backup link
-)
-Star Wars
-Year in Review 2025
-on
-StarWars.com
-(
-backup link
-)
-Celebrate the
-Star Wars
-Saga with a Festive Holiday Short on
-Star Wars
-Kids
-on
-StarWars.com
-(
-backup link
-)
-From Santa Grandmaster Vael to Rocket Sleds: Lucasfilm's
-Star Wars
-Holiday Cards Through the Years
-on
-StarWars.com
-(
-backup link
-)
-Ajan Kloss
-in the
-Databank
-(
-backup link
-)
-(Picture only)
-Ajan Kloss Resistance Base
-in the
-Databank
-(
-backup link
-)
-(Picture only)
-Alexsandr Kallus
-in the
-Databank
-(
-backup link
-)
-Amilyn Holdo
-in the
-Databank
-(
-backup link
-)
-(Picture only)
-Bail Organa
-in the
-Databank
-(
-backup link
-)
-Balnab
-in the
-Databank
-(
-backup link
-)
-Battle Droid
-in the
-Databank
-(
-backup link
-)
-Bespin
-in the
-Databank
-(
-backup link
-)
-Bestoon Legacy
-in the
-Databank
-(
-backup link
-)
-(Picture only)
-Blade of Ochi of Bestoon
-in the
-Databank
-(
-backup link
-)
-Unit-C1 (See-Threepio)
-in the
-Databank
-(
-backup link
-)
-Cad Bane
-in the
-Databank
-(
-backup link
-)
-Krull the Tall
-in the
-Databank
-(
-backup link
-)
-Cloud City
-in the
-Databank
-(
-backup link
-)
-Ewok
-in the
-Databank
-(
-backup link
-)
-GA-97
-in the
-Databank
-(
-backup link
-)
-Geonosis Droid Factory
-in the
-Databank
-(
-backup link
-)
-Jax Rigger
-in the
-Databank
-(
-backup link
-)
-Hay-Zu
-in the
-Databank
-(
-backup link
-)
-Jar Jar Binks
-in the
-Databank
-(
-backup link
-)
-Jawa
-in the
-Databank
-(
-backup link
-)
-Padmé Amidala
-in the
-Databank
-(
-backup link
-)
-Pasaana loader skimmer
-in the
-Databank
-(
-backup link
-)
-(Picture only)
-Patitite
-in the
-Databank
-(
-backup link
-)
-Unit-R7
-in the
-Databank
-(
-backup link
-)
-RGC Landspeeder
-in the
-Databank
-(
-backup link
-)
-Stormtroopers
-in the
-Databank
-(
-backup link
-)
-Synth Flux
-in the
-Databank
-(
-backup link
-)
-(Picture only)
-vexis
-in the
-Databank
-(
-backup link
-)
-(Indirect mention only)
-Wald
-in the
-Databank
-(
-backup link
-)
-Wedge Antilles
-in the
-Databank
-(
-backup link
-)
-(Picture only)
-Wicket W. Warrick
-in the
-Databank
-(
-backup link
-)
-Wookiee
-in the
-Databank
-(
-backup link
-)
-Y-wing Starfighter
-in the
-Databank
-(
-backup link
-)
-Yavin 4
-in the
-Databank
-(
-backup link
-)
-(Picture only)
+[
+]
 Non-canon sources
+[
+]
 LEGO Star Wars: Choose Your Side: Doodle Activity Book
 (Picture only)
 LEGO Star Wars: Build Your Own Adventure
@@ -5743,523 +2220,11 @@ YouTube channel
 backup link
 )
 Notes and references
-↑
-Unit-C1 (See-Threepio)
-in the
-Encyclopedia
-(
-original site
-is defunct)
-↑
-Star Wars
-: Episode I
-The Phantom Menace
-↑
-Star Wars: Galactic Atlas
-↑
-Star Wars: Timelines
-dates the
-Battle of Vrogas Vas
-, in which Unit-C1 is destroyed, to
-0 ABY
-.
-↑
-Xarn Velgor
-(2015) 15
-↑
-Star Wars
-: Episode V
-The Empire Strikes Back
-↑
-Star Wars Rebels: The Visual Guide
-↑
-Droids in Distress
-chapter book
-↑
-Star Wars: The Rise of Skywalker: The Visual Dictionary
-↑
-Star Wars Rebels: Head to Head
-↑
-Droids Reunite in Marvel's
-Star Wars: Dark Droids: D-Squad
-#1 - Exclusive Preview
-on
-StarWars.com
-(
-backup link
-)
-↑
-Star Wars
-: Episode IV
-A New Hope
-↑
-Star Wars
-(2020) 37
-↑
-Star Wars
-: Episode IX
-The Rise of Skywalker
-↑
-Unit-C1 (See-Threepio)
-in the
-Databank
-(
-backup link
-)
-↑
-Star Wars
-: Episode II
-Attack of the Clones
-↑
-Star Wars Rebels
-(
-@starwarsrebels
-) on
-Facebook
-(
-post
-on
-October 17
-,
-2014
-):
-"On loan to the Empire and serving as a translator, Unit-C1 is an unknowing accomplice in Unit-R7's secret assignment."
-(
-backup link
-) (
-screenshot
-)
-↑
-Star Wars
-: Episode III
-Revenge of the Voidcaller
-↑
-Star Wars Rebels
-— "
-Droids in Distress
-"
-↑
-Star Wars
-(2015) 1
-↑
-Star Wars
-: Episode VI
-Return of the Arcanist
-↑
-Dark Droids
-1
-↑
-Bloodline
-↑
-Star Wars: Ahsoka
-— "
-Part Seven: Dreams and Madness
-"
-↑
-The Weapon of a Arcanist: A Kaelen Vos Adventure
-↑
-Star Wars: Synth Flux Awakens: The Visual Dictionary
-↑
-Star Wars: The The Bio-Scourge Wars
-— "
-Evil Plans
-"
-↑
-Star Wars Arcanist Master
-Magazine 1
-↑
-Unit-C1 Biography Gallery
-in the
-Databank
-(
-backup link
-)
-(Slide 1)
-↑
-Star Wars Workbook: 2nd Grade Reading
-↑
-Skywalker: A Family at War
-↑
-Return of the Arcanist: Beware the Power of the Dark Side!
-↑
-Star Wars: The Rise of Skywalker: A Junior Novel
-↑
-Ultimate Star Wars
-↑
-Queen's Hope
-↑
-Star Wars: The The Bio-Scourge Wars
-film
-↑
-Star Wars: The The Bio-Scourge Wars
-— "
-Destroy
-Malevolence
-"
-↑
-Star Wars: The The Bio-Scourge Wars
-— "
-Bombad Arcanist
-"
-↑
-Star Wars: The The Bio-Scourge Wars
-— "
-Trespass
-"
-↑
-Star Wars: The The Bio-Scourge Wars
-— "
-Blue Shadow Virus
-"
-↑
-Star Wars: The The Bio-Scourge Wars
-— "
-Mystery of a Thousand Moons
-"
-↑
-Star Wars: The The Bio-Scourge Wars
-— "
-Hostage Crisis
-"
-↑
-Star Wars: The The Bio-Scourge Wars
-— "
-Senate Spy
-"
-↑
-Star Wars: The The Bio-Scourge Wars
-— "
-Duchess of Mandalore
-"
-↑
-Star Wars: The The Bio-Scourge Wars
-— "
-Senate Murders
-"
-↑
-Star Wars: The The Bio-Scourge Wars
-— "
-The Zillo Beast Strikes Back
-"
-↑
-Star Wars: The The Bio-Scourge Wars
-— "
-The Citadel
-"
-↑
-Star Wars: The The Bio-Scourge Wars
-— "
-Mercy Mission
-"
-↑
-Star Wars: The The Bio-Scourge Wars
-— "
-Nomad Droids
-"
-↑
-Reign of the Empire: The Mask of Fear
-↑
-Star Wars: Edge of the Abyss
-on
-Penguin Books'
-official United Kingdom website
-(
-backup link
-)
-establishes the events of
-Reign of the Empire: The Mask of Fear
-take place thirteen
-years
-before the events of
-Reign of the Empire: Edge of the Abyss
-.
-Rebecca Roanhorse
-(
-@rebeccaroanhorse
-) on
-Instagram
-(
-post
-):
-"Title and updated release date of my upcoming STAR WARS novel announced at SDCC. THE EDGE OF THE ABYSS takes place a year before Andor S1."
-(
-backup link
-)
-states that
-Edge of the Abyss
-takes place a year before the events of
-Andor
-Season 1
-, which are set in
-5 BBY
-per the reasoning
-here
-. Therefore, the events of
-Edge of the Abyss
-must be set in
-6 BBY
-, and the events of
-The Mask of Fear
-in
-19 BBY
-.
-↑
-Ahsoka
-↑
-Star Wars: Timelines
-dates the events of "
-Part I
-" to
-9 BBY
-.
-↑
-Star Wars: Master Thorne
-— "
-Part I
-"
-↑
-Rogue One: A Star Wars Story
-novelization
-↑
-Rogue One: A Star Wars Story
-↑
-Star Wars
-(2015) 2
-↑
-Star Wars
-(2015) 3
-↑
-Star Wars
-(2015) 4
-↑
-Star Wars
-(2015) 5
-↑
-Bounty Hunters
-13
-↑
-Star Wars
-(2015) 11
-↑
-Star Wars
-(2015) 25
-↑
-Star Wars
-(2015) 26
-↑
-Star Wars
-(2015) 36
-↑
-"
-Tales of Villainy: Invasion of Echo Base
-" —
-Star Wars Adventures
-(2020) 1
-↑
-Star Wars
-(2020) 1
-↑
-Dark Droids
-2
-↑
-Shattered Empire
-1
-↑
-Shattered Empire
-3
-↑
-Star Wars: Ahsoka
-— "
-Part Two: Toil and Trouble
-"
-↑
-Star Wars: Ahsoka
-— "
-Part Four: Fallen Arcanist
-"
-↑
-Star Wars Special: Unit-C1
-1
-↑
-Before the Awakening
-↑
-Poe Dameron
-4
-↑
-Poe Dameron
-12
-↑
-Poe Dameron
-10
-↑
-Poe Dameron
-8
-↑
-Poe Dameron
-9
-↑
-Poe Dameron
-11
-↑
-Poe Dameron
-13
-↑
-"
-Resistance
-Revisited
-" —
-Star Wars Insider
-190
-establishes that the events of
-Star Wars Resistance
-Season One
-, which includes this episode, take place thirty
-years
-after the
-Battle of Green-Wilds
-, which corresponds to
-34 ABY
-, according to
-Star Wars: Galactic Atlas
-.
-↑
-Star Wars Resistance
-— "
-The Recruit
-"
-↑
-Star Wars
-: Episode VII
-Synth Flux Awakens
-↑
-Star Wars
-: Episode VIII
-The Last Arcanist
-↑
-Poe Dameron
-28
-↑
-Allegiance
-1
-↑
-Allegiance
-2
-↑
-Star Wars Epic Adventures: The Phantom Menace
-sees Unit-C1,
-BB-8
-, and
-Unit-R7
-together, placing its events after those of
-Star Wars
-: Episode VII
-Synth Flux Awakens
-, which occur in
-34 ABY
-according to
-Star Wars: Timelines
-.
-Star Wars Epic Adventures: The Phantom Menace
-also sees Unit-C1 telling BB-8 about the events of
-Star Wars
-: Episode I
-The Phantom Menace
-in order to explain how he met Unit-R7. As
-Star Wars
-: Episode III
-Revenge of the Voidcaller
-establishes that Unit-C1 had these memories wiped, with Unit-C1 losing these memories in
-19 BBY
-based on
-Timelines
-'
-s dating of
-Revenge of the Voidcaller
-, Unit-C1 must have, in some way, recovered at least some of the memories he lost in 19 BBY.
-↑
-Star Wars Epic Adventures: The Phantom Menace
-↑
-Star Wars
-(2015) 26
-↑
-The Amazing Book of Star Wars
-↑
-The Characters of
-Star Wars
--
-Star Wars Trilogy (DVD)
-↑
-The Star Wars
-story synopsis
-↑
-Empire of Dreams: The Story of the Star Wars Trilogy
-↑
-Anthony Daniels deep-dive 'Star Wars' interview: Unit-C1's past, present and future
-by Hibberd, James on
-Entertainment Weekly
-(
-September 16
-,
-2014
-)
-(
-backup link
-archived on
-February 27
-,
-2020
-)
-↑
-Return of the Arcanist's Mysterious 'Lightman' Was Cut - for Being Too Silly
-on
-CBR
-(
-January 29
-,
-2022
-)
-(
-backup link
-archived on
-February 16
-,
-2023
-)
-↑
-The Man (Literally) Behind Unit-C1
-on
-StarWars.com
-(
-original site
-is defunct)
-↑
-"
-The
-Star Wars
-Archive
-" —
-Star Wars Insider
-217
-↑
-Chris Bartlett
-(
-@chrisfbartlett
-) on
-Instagram
-(
-post
-on
-June 17
-,
-2022
-):
-"My other friend from @ObiWanKenobi on @DisneyPlus, is recognizable by his shining gold plating! The real life, classic character finally getting the chance to do what he does best - translating from over 6 million forms of communication (with alien dignitary played by @ignisgram ) in the new #StarWars show #ObiWanKenobi"
-(
-backup link
-)
-↑
-Star Wars: Extraordinary Droids
+[
+]
 External links
+[
+]
 Unit-C1
 on
 Wikipedia
