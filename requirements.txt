@@ -1,0 +1,16 @@
+# Скрапинг и парсинг
+cloudscraper
+beautifulsoup4
+requests
+
+# LangChain и ядро RAG
+langchain
+langchain-community
+langchain-huggingface
+
+# Эмбеддинги и Векторная БД
+sentence-transformers
+faiss-cpu
+
+# Утилиты
+typing-extensions
