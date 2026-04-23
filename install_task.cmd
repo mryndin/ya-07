@@ -18,7 +18,7 @@ echo [!] Скрипт: %SCRIPT_PATH%
 :: /f - принудительная перезапись, если задача уже есть
 :: /du 02:00 - ограничение длительности (2 часа)
 :: /ri 120 - принудительное завершение задачи, если она превысила лимит
-schtasks /create /tn "%TASK_NAME%" /tr "%PYTHON_EXE% \"%SCRIPT_PATH%\"" /sc daily /st 01:00 /du 02:00 /ri 120 /f
+schtasks /create /tn "%TASK_NAME%" /tr "%PYTHON_EXE% \"%SCRIPT_PATH%\"" /sc daily /st 01:00 /du 02:00 /ri 90 /f
 
 if %errorlevel% equ 0 (
     echo [+] Задача успешно создана!
