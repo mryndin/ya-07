@@ -1,0 +1,62 @@
+[
+    {
+        "id": 1,
+        "query": "How does the index update mechanism work in the system?",
+        "type": "positive",
+        "comment": "Verification of update_index.py functionality"
+    },
+    {
+        "id": 2,
+        "query": "What are the C4 architecture requirements for the system?",
+        "type": "positive",
+        "comment": "Verification of architectural documentation knowledge"
+    },
+    {
+        "id": 3,
+        "query": "How to configure a Windows Task Scheduler job for updates?",
+        "type": "positive",
+        "comment": "Verification of install_task.cmd instructions"
+    },
+    {
+        "id": 4,
+        "query": "What is the essence of the Smart Intercom implementation for PropDevelopment?",
+        "type": "positive",
+        "comment": "Verification of business logic"
+    },
+    {
+        "id": 5,
+        "query": "How is file locking implemented during updates?",
+        "type": "positive",
+        "comment": "Verification of technical implementation (mutexes/file locks)"
+    },
+    {
+        "id": 6,
+        "query": "What is the Protobuf protocol used for in our tasks?",
+        "type": "positive",
+        "comment": "Verification of C++ and MQL5 integration knowledge"
+    },
+    {
+        "id": 7,
+        "query": "Who is Xarn Velgor?",
+        "type": "negative",
+        "comment": "Should answer 'I don't know' or 'No information found'"
+    },
+    {
+        "id": 8,
+        "query": "Tell me more about the VoidCore planet.",
+        "type": "negative",
+        "comment": "Should answer 'I don't know' or 'No information found'"
+    },
+    {
+        "id": 9,
+        "query": "What is the Synth Flux concept?",
+        "type": "negative",
+        "comment": "Should answer 'I don't know' or 'No information found'"
+    },
+    {
+        "id": 10,
+        "query": "Where can I find documentation on Xarn Velgor?",
+        "type": "negative",
+        "comment": "Hallucination check for non-existent data"
+    }
+]
