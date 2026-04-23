@@ -1,0 +1,55 @@
+@startuml
+skinparam actorStyle awesome
+autonumber
+
+actor "Система/Админ" as Admin
+boundary "Windows Task Scheduler" as Scheduler
+entity "update_index.py" as Script
+entity "Worker Thread" as Thread
+database "knowledge_base" as KB
+database "kb_registry.json" as Registry
+database "faiss_index" as Index
+entity "index.lock" as Lock
+
+== Инициализация ==
+Admin -> Scheduler : Регистрация задачи (/du 02:00)
+note right: Общий лимит времени всей задачи
+
+== Основной цикл ==
+Scheduler -> Script : Запуск процесса
+Script -> Lock : Захват (msvcrt.locking)
+activate Lock
+
+Script -> KB : Скан изменений
+Script -> Registry : Сверка с текущим состоянием
+
+alt Есть изменения
+    loop до N попыток (args.retries)
+        Script -> Thread : Старт потока build_and_save_index()
+        activate Thread
+        
+        Script -> Script : thread.join(timeout=args.timeout)
+        
+        alt Поток завершен вовремя
+            Thread -> Script : Возврат статуса (success/error)
+            deactivate Thread
+            
+            alt Успешно
+                Script -> Index : Сохранение FAISS индекса
+                Script -> Registry : Обновление kb_registry.json
+                Script -> Script : break (выход из цикла)
+            else Ошибка
+                Script -> Script : log("Попытка завершилась с ошибкой")
+            end
+            
+        else Превышен таймаут (thread.is_alive())
+            Script -> Script : log("Прервано по таймауту")
+            note right: Поток остается в фоне, переход к следующей попытке
+        end
+    end
+end
+
+Script -> Lock : Снятие блокировки (msvcrt.locking)
+deactivate Lock
+Script -> Scheduler : Завершение работы
+@enduml

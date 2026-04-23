@@ -3,6 +3,7 @@ import time
 import sys
 import json
 import argparse
+import threading
 from datetime import datetime
 from langchain_community.document_loaders import DirectoryLoader, TextLoader
 from langchain_text_splitters import RecursiveCharacterTextSplitter
@@ -19,7 +20,6 @@ else:
         fcntl = None
 
 # --- КОНФИГУРАЦИЯ С АБСОЛЮТНЫМИ ПУТЯМИ ---
-# Получаем путь к папке, где лежит сам скрипт
 BASE_DIR = os.path.dirname(os.path.abspath(__file__))
 
 KB_DIR = os.path.join(BASE_DIR, "knowledge_base")
@@ -32,7 +32,9 @@ LOCK_FILE = os.path.join(BASE_DIR, "index.lock")
 def log(message):
     """Логирование в файл и дублирование в консоль."""
     if sys.platform == "win32":
-        sys.stdout.reconfigure(encoding='utf-8')
+        try:
+            sys.stdout.reconfigure(encoding='utf-8')
+        except: pass
         
     timestamp = datetime.now().strftime("%Y-%m-%d %H:%M:%S")
     with open(LOG_FILE, "a", encoding="utf-8") as f:
@@ -51,15 +53,14 @@ def get_current_state():
     return state
 
 def build_and_save_index(run_tests=False):
+    """Основная логика сборки индекса."""
     try:
-        """Основная логика сборки индекса из оригинального build_index.py."""
         log("[*] Инициализация процесса создания векторного индекса...")
-
+        
         loader = DirectoryLoader(KB_DIR, glob="**/*.md", loader_cls=TextLoader, loader_kwargs={'encoding': 'utf-8'})
         docs = loader.load()
         log(f"[+] Загружено документов: {len(docs)}")
 
-        # chunk_size=1000, chunk_overlap=200 для сохранения контекста
         text_splitter = RecursiveCharacterTextSplitter(
             chunk_size=1000,
             chunk_overlap=200,
@@ -75,64 +76,57 @@ def build_and_save_index(run_tests=False):
         log("[*] Генерация эмбеддингов и создание индекса FAISS...")
         start_time = time.time()
         vectorstore = FAISS.from_documents(chunks, embeddings)
-        generation_time = time.time() - start_time
-        log(f"[+] Индекс создан за {generation_time:.2f} секунд.")
+        log(f"[+] Индекс создан за {time.time() - start_time:.2f} секунд.")
 
         vectorstore.save_local(INDEX_PATH)
         log(f"[+] Индекс сохранен в директорию: {INDEX_PATH}")
 
         if run_tests:
-            print("\n" + "="*40 + "\nТЕСТИРОВАНИЕ ПОИСКА ПО ИНДЕКСУ\n" + "="*40)
             test_queries = ["Who is Xarn Velgor?", "What is the power of Synth Flux?"]
             for query in test_queries:
-                print(f"\nЗапрос: '{query}'")
                 results = vectorstore.similarity_search(query, k=2)
-                for i, res in enumerate(results):
-                    print(f"--- Чанк {i+1} (Источник: {res.metadata.get('source')}) ---\n{res.page_content.strip()}\n" + "-"*50)
+                log(f"[Тест] Запрос: '{query}'. Найдено результатов: {len(results)}")
         return True
     except Exception as e:
-        log(f"[!!!] КРИТИЧЕСКАЯ ОШИБКА: {e}")
+        log(f"[!!!] ОШИБКА ВНУТРИ ПРОЦЕССА: {e}")
         return False
 
 def main():
     print(f"[+] Скрипт начал выполнение.")
-    # 1. Захват монопольного доступа к файлу
     lock_file_handle = open(LOCK_FILE, "w")
     
     try:
+        # 1. Захват монопольного доступа
         if sys.platform == "win32":
-            # Блокировка в Windows: msvcrt.locking блокирует первый байт файла
             try:
                 msvcrt.locking(lock_file_handle.fileno(), msvcrt.LK_NBLCK, 1)
             except IOError:
-                print(f"[!] Скрипт уже выполняется другим процессом в Windows. Выход.")
+                print(f"[!] Скрипт уже выполняется другим процессом. Выход.")
                 sys.exit(0)
         else:
-            # Блокировка в Unix/Linux
             if fcntl:
                 try:
                     fcntl.flock(lock_file_handle, fcntl.LOCK_EX | fcntl.LOCK_NB)
                 except (IOError, BlockingIOError):
-                    print(f"[!] Скрипт уже выполняется другим процессом. Выход.")
+                    print(f"[!] Скрипт уже выполняется. Выход.")
                     sys.exit(0)
 
         lock_file_handle.write(str(os.getpid()))
         lock_file_handle.flush()
 
+        # 2. Парсинг аргументов
         parser = argparse.ArgumentParser(description="Автоматическое обновление базы знаний RAG")
         parser.add_argument("--force", action="store_true", help="Принудительно пересобрать индекс")
         parser.add_argument("--test", action="store_true", help="Запустить тесты")
         parser.add_argument("--retries", type=int, default=3, help="Количество повторов при ошибке")
+        parser.add_argument("--timeout", type=int, default=3600, help="Таймаут выполнения одной попытки (сек)")
         args = parser.parse_args()
-
-        # Количество повторений
-        retries = args.retries
-        log(f"[+] Общее количество повторений {retries}.")
 
         if not os.path.exists(KB_DIR):
             log(f"[-] Ошибка: Директория '{KB_DIR}' не найдена.")
             return
 
+        # 3. Проверка изменений
         registry = {}
         if os.path.exists(REGISTRY_FILE):
             with open(REGISTRY_FILE, "r", encoding="utf-8") as f:
@@ -143,39 +137,53 @@ def main():
         deleted = [f for f in registry if f not in current_state]
         modified = [f for f in current_state if f in registry and current_state[f] > registry[f]]
 
+        # 4. Выполнение обновления с Retries и Timeout
         if args.force or added or deleted or modified:
-            if args.force:
-                log("[*] Триггер: ЗАПУСК ПРИНУДИТЕЛЬНОЙ ПЕРЕСБОРКИ (--force)")
-            else:
-                log(f"[*] Триггер: Изменения (+{len(added)}, -{len(deleted)}, mod:{len(modified)}).")
+            log(f"[*] Триггер: Обнаружены изменения (+{len(added)}, -{len(deleted)}, mod:{len(modified)}).")
+            
+            success = False
+            for i in range(1, args.retries + 1):
+                log(f"[*] Попытка {i} из {args.retries} (Таймаут: {args.timeout}с)...")
+                
+                # Запуск в отдельном потоке для контроля времени
+                result_container = {"status": False}
+                
+                def worker():
+                    result_container["status"] = build_and_save_index(run_tests=args.test)
 
-            # повторяемся
-            for i in range(1, retries+1):
-                log(f"[*] Проход {i} начат")
-                stepResult = build_and_save_index(run_tests=args.test)
-                if stepResult:
-                    log(f"[*] Проход {i} окончен удачно")
+                thread = threading.Thread(target=worker)
+                thread.start()
+                thread.join(timeout=args.timeout)
+
+                if thread.is_alive():
+                    log(f"[!] Попытка {i} прервана по таймауту ({args.timeout}с).")
+                    # Поток останется в фоне до завершения, но мы идем дальше
+                elif result_container["status"]:
+                    log(f"[+] Попытка {i} завершена успешно.")
+                    success = True
                     break
                 else:
-                    log(f"[*] Проход {i} окончен с ошибкой")
+                    log(f"[-] Попытка {i} завершилась с ошибкой.")
 
-            with open(REGISTRY_FILE, "w", encoding="utf-8") as f:
-                json.dump(current_state, f, indent=4, ensure_ascii=False)
-            log("[+] Реестр успешно обновлен.")
+            if success:
+                with open(REGISTRY_FILE, "w", encoding="utf-8") as f:
+                    json.dump(current_state, f, indent=4, ensure_ascii=False)
+                log("[+] Индекс и реестр успешно обновлены.")
+            else:
+                log("[!!!] Не удалось обновить индекс после всех попыток.")
         else:
             print("[+] Изменений не обнаружено. Пропуск.")
 
     except Exception as e:
         log(f"[!!!] КРИТИЧЕСКАЯ ОШИБКА: {e}")
     finally:
-        # В Windows перед закрытием нужно снять блокировку
         if sys.platform == "win32":
             try:
                 lock_file_handle.seek(0)
                 msvcrt.locking(lock_file_handle.fileno(), msvcrt.LK_UNLCK, 1)
             except: pass
         lock_file_handle.close()
-    print(f"[+] Скрипт окончил выполнение.")
+        print(f"[+] Скрипт окончил выполнение.")
 
 if __name__ == "__main__":
     main()
