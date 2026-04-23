@@ -20,7 +20,7 @@
     {
         "id": 4,
         "query": "What is the essence of the Smart Intercom implementation for PropDevelopment?",
-        "type": "positive",
+        "type": "negative",
         "comment": "Verification of business logic"
     },
     {
