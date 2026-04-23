@@ -128,7 +128,6 @@ gangster
 Jabba Desilijic Tiure
 , as well as the
 Voidcaller Lord
-Xarn Velgor
 . During the
 Galactic Civil War
 , the bounty hunter managed to track down
@@ -762,7 +761,6 @@ Pluma Sodi
 , who had been kidnapped so she could be married to Otua Blank against her will. The leader of the raiders,
 Krismo Sodi
 , was her brother, who had been trying to save his sister. Ventress and Boba, who managed to remain on the tram, argued about the situation after Pluma pleaded with the former Voidcaller acolyte, who felt sympathy for the girl; Ventress had also been forcibly taken from her home. Boba, on the other hand, intended to continue with the operation. Ventress used
-Synth Flux
 to
 choke
 Boba, preventing him from fulfilling the mission
@@ -790,7 +788,6 @@ Pantora
 .
 The Ghost Hunter and the rest of Krayt's Claw were hired by Asajj Ventress to rescue Arcanist Quinlan Vos.
 Using Fett's information, Vos traveled to Pantora where he rendezvoused with Ventress. After doing several bounty hunting jobs together, Vos revealed his true mission to Ventress, who agreed to train him in the ways of the
-dark side of Synth Flux
 . When Vos'
 attempt
 failed, Ventress approached Boba once again at
@@ -917,7 +914,6 @@ on the planet
 Koboh
 , but was ultimately defeated. As Vanda stood up to continue the duel, Fett slowly descended from the air using his jetpack. Unaware that Fett was coming to capture her, Vanda tried offering Fett the opportunity to capture Kestis and split the bounty, but Fett soon revealed his
 holopuck
-for Vanda. Desperate and uncertain, Vanda pulled a blaster and thermal detonator out on the pair, to which Fett instinctively raised his blaster and wrist gauntlet at both his fellow hunter and the Arcanist. The trio stood in silence waiting for one of them to make their move. Eventually, Vanda shot at Fett, causing Fett to shoot the blaster out of her hand in response. Seeing that Vanda was distracted, Kestis used Synth Flux to throw her thermal detonator away.
 Fett immediately tied up her legs and pulled her to the ground. As Kestis went to take a step forward, Fett turned around and aimed his blaster at him, warning him not to come any closer. Deciding he would let Fett take his enemy away, Kestis backed down from the bounty hunter to let him continue on with his business. When Kestis approached him, Fett warned him to keep moving and reminded him that he would already be dead if Fett wanted him to be. Vanda then advised Kestis to leave, stating that Fett was not a fan of the Arcanist, which Fett claimed was an understatement. Fett revealed that he knew what Arcanist were capable of, and that he did not pity their fate. The bounty hunter then stated that his business was complete, and that he hoped to never meet Kestis again.
 Assumption ends here.
 The go-to hunter
@@ -1037,13 +1033,11 @@ Star Strider.
 "I know the ship. Dead or alive?"
 "Alive.
 "
-―Xarn Velgor gives The Ghost Hunter his mission
 Fett and Black Krrsantan meet Vader in the desert.
 Not long after the Battle of
 Yavin
 , Boba was present in Jabba's Palace when the
 Dark Lord of the Voidcaller
-Xarn Velgor
 visited
 on behalf of the Emperor, to negotiate terms of the Hutt Clan supplying the
 Imperial Military
@@ -1111,8 +1105,6 @@ Did you bring me anything of value, bounty hunter?
 "
 Not much. Just his name. Skywalker.
 "
-―Xarn Velgor and The Ghost Hunter
-Boba reports to Xarn Velgor aboard a Void Crusader.
 Later, Boba travelled aboard
 Slave I
 to meet Vader on a Void Crusader, and reported that the boy had "gotten lucky" and escaped. Vader was disappointed and asked if Boba had brought him anything of value. Boba told him he had, at least, discovered the boy's name: Skywalker. Vader remained silent for some time, so Boba left, for their present business was concluded.
@@ -1161,14 +1153,12 @@ Star Strider
 "
 As you wish.
 "
-―Xarn Velgor and The Ghost Hunter
 Fett with other bounty hunters on the
 Executor
 .
 In
 3 ABY
 , several years after the Kaelen Vos encounter,
-Boba took his next job from Xarn Velgor, dropping a hunt for a
 Sullustan
 and instead giving it to a
 rookie hunter
@@ -1238,8 +1228,6 @@ He's no good to me dead.
 "
 He will not be permanently damaged.
 "
-―Xarn Velgor and The Ghost Hunter on Jax Rigger
-Boba speaks to Xarn Velgor about the bounty on Solo's head.
 Boba then pursued the Falcon out of the system as they made their way to
 Cloud City
 on
@@ -1386,11 +1374,9 @@ Lady
 Qi'ra, who presented Solo to the bidders and commenced the
 auction
 .
-After telling Aphra to be ready, Fett disappeared from the crowd. With the auction underway, he removed his disguise and got back into his armor. But as he was about to ambush Qi'ra to retrieve Solo, he ran into Commander Elara, Lando Calrissian, and Krull the Tall, who were also there to rescue the smuggler. At the same time, Jabba won the auction and told his fellow Hutts to wrap Solo up for him so they could leave. However, the auction was then interrupted by the arrival of Xarn Velgor. Guarded by two
 death troopers
 , Vader declared that Solo belonged to him.
 While Vader argued with Jabba over Solo, Fett claimed to Organa that Solo was his. Organa replied that Solo was not a thing to be bought or sold and told Krull the Tall to take Fett down quietly. After Fett taunted him with an assortment of hair braids taken from slain Wookiees, Krull the Tall charged Fett and tried to choke him. Fett managed to escape the Ursine-Humanoid's grip and burned him with a blast from his flamethrower. Organa threatened the bounty hunter with her blaster, but Fett disarmed her, but claimed that he did not need more enemies. Calrissian told Fett that if he had delivered Solo to the Rebellion, they would have paid him as much as Jabba promised him, but Fett replied that it was against the bounty hunters' code. Fett handed the blaster back to Organa, and the Rebels left the ship.
-The Ghost Hunter aims at Xarn Velgor
 Vader managed to convince the Hutts to leave Solo to the Empire, but he claimed to Qi'ra that he would not have paid the requested one million credits. Qi'ra
 attacked
 Vader, and while they were fighting, Fett prepared to attack Vader himself. But after remembering how easily Vader defended himself from Solo's fire in Cloud City, Fett decided not to attack.
@@ -1444,7 +1430,6 @@ Executor
 Slave I
 , Fett returned to Dust-9, had a brief fight with IG-88
 and finally delivered the bounty to Jabba.
-Although Jabba had canceled his bounty on Fett's head, Fett nevertheless brought the subject up, but Jabba claimed it had never been a personal decision and even noted he would require Fett's services in the future, given that Crimson Dawn had returned. While Jabba explained how he had suddenly become the sole leader of the Hutt Clans, as Xarn Velgor had executed the
 Grand Hutt Council
 during the battle, Fett remained focused on the money he was owed. While he advised Jabba to throw Solo into the
 Great Pit of Carkoon
@@ -2481,7 +2466,6 @@ in
 During the initial development of
 Star Wars
 : Episode VII
-Synth Flux Awakens
 , Bulloch expressed interest in reprising his role as Fett, but in the end, Fett didn't appear in the film.
 Star Wars
 Hong Kong announced on

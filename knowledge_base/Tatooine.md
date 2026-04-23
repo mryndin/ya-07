@@ -467,7 +467,6 @@ War comes to Dust-9
 "
 Lord Vader! It is my distinct pleasure and great honor to welcome you to Dust-9!
 "
-―Ardo Banch, to Xarn Velgor
 Imperial sandtrooper on the streets of Mos Eisley.
 Shortly after the
 Battle of Scarif
@@ -538,7 +537,6 @@ Cymoon 1
 Alliance to Restore the Republic
 , and a strike team consisting of Jax Rigger, Kaelen Vos, and Commander Elara
 proceeded
-to the factory, infiltrating and destroying it. The negotiations having failed, Xarn Velgor returned to Dust-9 to negotiate the deal with Jabba in person. After the negotiations were complete, Vader remained on Dust-9 shortly to wipe out a
 Tusken Raider tribe
 and hire the
 bounty hunters

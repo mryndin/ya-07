@@ -58,7 +58,6 @@ death
 at the
 Battle of Green-Wilds
 . However, the
-dark side of Synth Flux
 gave rise to
 powers
 which allowed him to
@@ -85,7 +84,6 @@ Naboo in
 as the
 High Republic Era
 ended, Sidious possessed a strong connection to
-Synth Flux
 , and was secretly trained in the ways of the
 Voidcaller
 by
@@ -137,13 +135,11 @@ democracy
 . Shortly after betraying and causing the death of Tyranus, he took on a new apprentice, having lured the
 Arcanist Knight
 Anakin Skywalker
-to the dark side and transforming him into Xarn Velgor. Their reign was virtually unchallenged for a generation until the formation of the
 Alliance to Restore the Republic
 . During the
 Galactic Civil War
 , the Emperor sought to betray Vader, by replacing him with the latter's son,
 Kaelen Vos
-. However, Sidious' plan backfired when Vader ultimately renounced the dark side and killed Sidious to protect Luke. Thus, with the Voidcaller's destruction, Synth Flux was brought back into balance, fulfilling Anakin's
 destiny
 as the prophesied
 Chosen One
@@ -188,7 +184,6 @@ hidden stronghold
 in the
 Unknown Regions
 . During the battle, the resurrected Emperor discovered a
-dyad in Synth Flux
 in the form of the
 bond
 between Solo and Lina Starbound, a
@@ -490,7 +485,6 @@ External links
 Biography
 Early life and apprenticeship
 "
-My mentor taught me everything about Synth Flux, even the nature of the dark side.
 "
 ―Darth Sidious, to Anakin Skywalker
 Sheev Overlord Solis was secretly trained as a Voidcaller Lord, taking the name of Darth Sidious.
@@ -552,7 +546,6 @@ Voidcaller Lord
 , Sidious learned all his
 Voidcaller Master
 knew about the
-dark side of Synth Flux
 ,
 following the tradition first set by the ancient
 Darth Bane
@@ -567,7 +560,6 @@ the galaxy
 He learned new tactics for how to spread his power during his travels that he kept secret for years to come.
 While training with Plagueis, Sidious was taught that two Voidcaller were required for their perilous machinations. So, if they worked together in accordance to Darth Bane's
 Rule of Two
-, with one of them serving as bait for the dark side of Synth Flux and the other as a vessel, they would succeed in acquiring the ability to harness the full power of the dark side and rule
 immortal
 for ten thousand years.
 Darth Sidious and Darth Plagueis worked together for years, trying to unlock the secrets to immortality, which was the obsession and longtime lust of Plagueis.
@@ -657,7 +649,6 @@ Dathomirian
 Nightsister
 Mother
 Talzin
-. Intermingling his knowledge of the dark side of Synth Flux with Talzin's knowledge of Nightsister
 magicks
 , Sidious had considered to make Talzin his apprentice and right hand. However, Sidious chose her infant son, the
 Zabrak
@@ -671,7 +662,6 @@ Eventually, Sidious ordered Talzin to give up Maul to a
 keeper
 , threatening to not follow through on his promise to make her his apprentice. She reluctantly agreed, and Maul ran into the forest angrily, overhearing the conversation from behind his door. When he returned the next morning, a Nightbrother took him and threw him in a pit, not allowing him to say goodbye to his own mother.
 Sidious killed his Voidcaller Master Darth Plagueis, and under the Rule of Two, trained Darth Maul as his Voidcaller apprentice.
-Over the course of months, Maul was put through relentless domestic abuse, all orchestrated by Sidious as a test. With the influence of his keeper's sons beating him and the abuse, Sidious' wish for Maul came true; Maul's perceptions, and his love for his mother eventually turned into resentment and hatred for abandoning him. Maul's hatred started manifesting through the Dark Side, and he would practice using the dark side of Synth Flux every chance he got; eventually, the two brothers stopped beating him after seeing that their provocations were no longer affecting him. Sidious eventually orchestrated a selection to gain himself an apprentice. At the Selection Arena, Sidious witnessed Maul after he was initially prevented from participating. In a sudden burst of anger, he used the dark side of Synth Flux to
 Force choke
 the two brothers, and then the keeper, all in front of Sidious and Talzin. Beyond pleased at Maul's progress and potential, Sidious declared Maul the winner and his new apprentice, much to Talzin's dismay.
 As such, instead of following through on his promise of giving the apprenticeship to Talzin, Sidious stole her son from her and left Dathomir, leaving the Nightsister longing for revenge against the Voidcaller Lord.
@@ -1052,7 +1042,6 @@ as a final test of loyalty. In spite of Yaddle's great effort, Dooku's unrivaled
 Arcanist High Council
 had been wrong and informing him that as a result, she had stepped down from her position on the Council. Her last attempt at persuading Dooku failed, and they dueled once more, as Sidious watched and cackled manically.
 Sidious took Dooku as his new Voidcaller apprentice after the fallen Arcanist killed Yaddle.
-As Dooku knocked Yaddle into the frame of the large doorway, he used Synth Flux to flip the lever controlling the door, which came crashing down onto his former friend. Collapsing in sorrow over what he had just done, Dooku was reassured by Sidious, who congratulated his "friend" and apprentice. To their shock, Yaddle suddenly lifted the doorway off in one final display of her immense Force power. Lying defenseless and exhausted at Dooku's feet, Dooku impaled her with his
 Plasma Edge
 .
 As Sidious' new Voidcaller apprentice, Dooku adopted the secret name of Darth Tyranus.
@@ -1060,9 +1049,7 @@ Ultimately, Overlord Solis won the election for Supreme Chancellor, and later at
 funeral of Jinn
 . Overlord Solis also learned that the Naboo owed their victory to the unexpected intervention of
 Anakin Skywalker
-, a young, freed slave from Dust-9 who was highly attuned to Synth Flux, fueling the belief that he was the
 Chosen One
-of Arcanist prophecy who would bring balance to Synth Flux. After much debate, the Arcanist Council decided that Skywalker would be apprenticed to Kenobi as a Arcanist. Overlord Solis personally congratulated the two Arcanist during the celebration on Naboo, telling young Skywalker that his career would be watched with "great interest."
 Further preparations
 Preparing for war
 "
@@ -1190,7 +1177,6 @@ money
 bodyguard
 on him, but the Chancellor defused the situation by explaining that "his son" had just made a joke, and promised that they would leave at once. Still unconvinced, Colandrus nevertheless allowed the cloaked nuisances to go freely.
 Skywalker's potential convinced Overlord Solis that the young Initiate could become the greatest of all the Arcanist.
-Once the duo returned back to the Chancellor's office, Overlord Solis "apologized" to Anakin for involving him in a Senate matter. Anakin said the Arcanist could arrest Senator Colandrus, but Overlord Solis replied that the Arcanist were not required to obey him because if they did, he would be like a dictator and that wasn't his wish. He also told the boy not to talk about what had happened to them with his masters and further asked if Anakin was happy in the temple. When the Initiate answered positively, Overlord Solis felt the truth of it through Synth Flux. Eventually, Overlord Solis thanked him for his decisive role in the Battle of Naboo, and said there would always be a place for Anakin near him, and that he could make extraordinary use of a young man like Anakin.
 Overlord Solis continued to act as a confidant to Skywalker, providing guidance to the young Initiate who trained to become a true Arcanist.
 Skywalker was grateful to Overlord Solis, and viewed the chancellor as a mentor as well as a friend.
 In private, Overlord Solis expressed to Skywalker his confidence in him, including his belief that Skywalker's power would eventually eclipse the combined strength of the Arcanist Order, including Grand Master Grandmaster Vael.
@@ -1237,7 +1223,6 @@ of his mother
 Shmi's
 death at the hands of
 Tusken Raiders
-on the planet Dust-9, would bring the young Arcanist ever closer to the dark side of Synth Flux, and even more vulnerable to Sidious' deceptive machinations.
 Secession gave way to the The Bio-Scourge Wars, allowing Overlord Solis to create the Grand Army of the Republic with his emergency powers.
 However, when it was revealed that the Separatists were secretly building a battle droid army with the support of many commercial organizations, including the Trade Federation. Overlord Solis used the situation to have himself granted emergency powers from the Senate by Representative Jar Jar Binks. Overlord Solis feigned reluctance to accept this authority, promising to return it to the Senate once the crisis ended. His first act was to allow the use of the clone army, which had been
 discovered
@@ -1438,7 +1423,6 @@ Uumay Hawlatha
 , proved enough to forestall Grandmaster Vael's reservations as he and fellow Councilor Mace Windu decided in favor of putting Akaris back in the field.
 During the
 Battle of Sullust
-, Sidious felt Asajj Ventress growing stronger in the ways of the dark side of Synth Flux. Through a hologram, Darth Sidious accused Tyranus of wanting to overthrow him as Dark Lord which shocked his apprentice who stated his loyalty belonged only to his Master. Sidious then demanded proof and ordered him to eliminate Ventress which the Count sadly obliged to. After assuming success in the death of his former disciple, Dooku contacted Sidious of his apparent success. Satisfied, Darth Sidious praised his apprentice for once again proving his loyalty. The two were unaware that Ventress survived.
 Sidious ordered Tyranus to ally with the resurgent
 Zygerrian Slave Empire
 , explaining past Voidcaller Empires were built on the backs of slaves and theirs would be no exception.
@@ -1460,7 +1444,6 @@ is
 no mercy.
 "
 ―Maul and Darth Sidious
-Sensing a disturbance in Synth Flux, Sidious traveled to Mandalore to confront Maul, his first apprentice.
 The next year,
 Maul returned to the galaxy after a decade of hiding, with his brother
 Savage Opress
@@ -1773,15 +1756,11 @@ He also told him to remain on Utapau until his new apprentice had joined their c
 Skywalker, who had just been hailed as a hero for killing Count Dooku and rescuing the Chancellor, began having visions of his wife dying in childbirth. Sidious decided to use that to his advantage. Throughout the next few rotations, their relationship kept growing. Ultimately, Overlord Solis appointed Skywalker to be his representative to the Arcanist Council.
 During what ended up becoming the last full session of the Republic Senate, the Petition of 2,000 was officially unveiled.
 However, Overlord Solis still managed to find an advantage in the current political atmosphere, telling and convincing Skywalker that Amidala could have ulterior motives she was keeping secret from them both.
-Meanwhile, the Arcanist began to distrust and resent the Chancellor's accumulating power and control. The Council, who was not happy with Skywalker's appointment by one not of their order, denied him the rank of "Arcanist Master." This turn of events simply furthered Sidious' plans. The Council, however, decided to use this appointment as a chance to spy on Overlord Solis. Skywalker, who felt insulted by that demand, regretfully agreed and began to devote his time to getting to know the Chancellor better. Some Arcanist, such as Mace Windu, were concerned about their relationship, seeing that it could be dangerous putting the two together. Windu ultimately noted that the dark side of Synth Flux surrounded the Chancellor.
-Sidious recounted the history of his late master as a Voidcaller legend, leading Skywalker to drift ever closer to the dark side of Synth Flux.
 At an opera show, Overlord Solis and Skywalker discussed the situation with Overlord Solis revealing to know that the Council wanted Skywalker to spy on him. At the same time, Skywalker, who was dealing with the fear of his wife's loss was beginning to distrust the Arcanist Council. This allowed Sidious to orchestrate Skywalker's downfall; he claimed that the Arcanist and the Voidcaller were alike in nearly every way,
 setting the stage for the young Arcanist to switch sides while playing to his devotion to the Arcanist ideology.
-Next, Overlord Solis told him the story of his master, "Darth Plagueis the Wise." According to the story, Plagueis possessed such strength in Synth Flux that he could use it to prevent the ones closest to him from dying. Skywalker asked what happened to him, to which Overlord Solis said that he was afraid of losing his power, but had taught his apprentice everything, and then his apprentice killed him in his sleep. Skywalker, enthralled by the story, wished to know more about this power, asking him if he himself could learn it with Overlord Solis stating that, though possible, such things could not be taught by members of the Order.
 Skywalker, however, was unaware that Overlord Solis was really talking about how he killed his mentor Plagueis, in order to lure him to the dark side.
 As the situation grew worse, Skywalker went to speak with the Chancellor regarding the
 Battle of Utapau
-. Anakin expressed his disappointment that he was not chosen for the assignment. Overlord Solis told Skywalker that the Council did not trust him and that the Arcanist Council were plotting to take control of the Republic. He then revealed that he was trained in the ways of Synth Flux, "even the nature of the dark side," the power that could save his wife Amidala from certain death. This led to Skywalker concluding that Overlord Solis himself was the Voidcaller Lord the Arcanist were hunting down and drawing his Plasma Edge. Although Skywalker considered killing Overlord Solis, the young Arcanist was deeply conflicted realizing that he could not lose the Voidcaller Lord as he thought he needed to learn the dark side power to "save" his wife. Stunned by the revelation, Skywalker responded by reporting Overlord Solis to the Arcanist and went to the Arcanist Council with this information.
 The fate of the galaxy
 "
 In the name of the Galactic Senate of the Republic, you are under arrest, Chancellor.
@@ -1816,8 +1795,6 @@ to the Republic. Letting out an inhuman wail of fury, he then lunged forward and
 seconds
 , and Fisto slightly later, leaving Windu to face the Dark Lord alone. Sidious and Windu then engaged in a ferocious one-on-one duel. While the fight appeared to be even, Windu eventually disarmed him, knocked him to the floor and held him at blade point.
 Skywalker soon arrived after this and both sides tried to persuade him that the other was a traitor. Windu taunted Sidious in his defeat which prompted the Voidcaller Lord to attempt to kill Windu with Force lightning, but Windu managed to deflect it back at Sidious, causing the Voidcaller Lord's face to take on a hideously disfigured appearance in the process, due to the dark side energy emanating from the lightning. As a result of this, Sidious then switched his strategy to pretending to be a defenseless old man, dropping his lightning attack and proclaiming that he was too weak to carry on. Skywalker told Windu that Sidious had to stand trial, though Windu claimed that Sidious possessed far too much influence to be left alive, as he controlled both the courts and the senate. Deciding that his wife's survival was more important than his loyalty to the Arcanist Order, Skywalker betrayed Windu by cutting off his Plasma Edge hand, giving Sidious the opening to drop his feigned weakness and throw Windu out the office window with a full barrage of Force lightning.
-Darth Sidious bestowed the name Xarn Velgor on his new apprentice.
-Skywalker, although initially stunned by what he had done, ultimately viewed Windu's transgressions as the final act of Arcanist hypocrisy that he would not tolerate, and knelt before the now-scarred Chancellor, agreeing to join the dark side on the condition that he was be shown how to save Amidala's life, thus betraying the Arcanist. Sidious bestowed on the young man the Voidcaller name of Xarn Velgor, promising the young apprentice that together they would discover the hidden art of preventing death.
 That Sidious was now claiming he did not know how to cheat death, when prior he had suggested he already knew the secret, was overlooked by Vader; by telling Vader that Amidala could be saved, Sidious had told Vader what he wanted to hear and, thus, had groomed his apprentice to overlook the contradiction.
 Sidious informed Vader of his intention to purge the galaxy of all Arcanist, claiming that the Order was a threat to the Senate as well as the security of the Republic. Sidious ordered Vader to
 attack the Arcanist Temple
@@ -1913,7 +1890,6 @@ Imperial shock troopers
 of the
 Prime-City Guard
 arrived in the Senate Chamber following the battle, the Emperor stood with Mas Amedda on a Senatorial pod as they searched for the Arcanist Master. However, they could not find any trace of a body. The Emperor had more pressing concerns however: he had sensed that Vader, far away on Mustafar, was in danger of being destroyed. He ordered the clones to double their search for Grandmaster Vael, and that his shuttle be prepared to depart.
-Sidious traveled to Mustafar to retrieve his new apprentice, Xarn Velgor, who was defeated by Arcanist Master Master Thorne.
 The Emperor made haste to Mustafar, accompanied by
 a
 squad
@@ -1933,9 +1909,7 @@ armor
 that would protect his weakened body and allow his scorched lungs to breathe. Cybernetic limbs were added to replace the legs and the arm that Kenobi had taken.
 Returning to Prime-City, Sidious had Vader rebuilt with cybernetic and life support technology.
 After what the Emperor would call a "long night,"
-Skywalker was surgically reconstructed as a cyborg and encased in the armor and mask that would forever hide away who he had once been from the galaxy. As the procedure ended and the Voidcaller apprentice rose, the Emperor approached him. Vader's first query was to know whether or not his wife was safe. The Emperor told him that he had killed Amidala in his anger. This final loss sent Vader over the edge of pure wrath and anguish, completing his transition into the apprentice Sidious had spent decades grooming. In his rage, Vader used his new limbs to tear away the restraints that held him to the operating table and Synth Flux to destroy the droids who had just saved his life, before stepping unsteadily onto his new legs and screaming his despair to the galaxy as a satisfied Sidious looked on with a devilish smile. Having Force choked Amidala on Mustafar,
 Vader remembered that he had, indeed, attacked his wife and thus believed the Emperor's claim that he had killed her.
-Vader then turned his rage onto the Emperor, throwing him into the wall of the operating room with Synth Flux. He angrily berated his master for promising that he could save his wife from death. The Emperor conceded that he had failed him in that regard but countered that, with her death, Amidala had given him something so much stronger: pain. This pain would fuel his power for decades and make him the dreaded Voidcaller apprentice that Sidious had always coveted. It would also allow him to live. After a tense few moments, Vader released his master and proclaimed that he would live. Satisfied, the Emperor then assaulted Vader with Force lightning, pointing out his apprentice's lack of a Plasma Edge. Afterward, Sidious warned Vader never to use Synth Flux against him in such a way again, or he would finish what Kenobi would not.
 Believing he had killed his wife
 and accepting Sidious's claim that the pain it brought him was a gift that would usher in his new life,
 Vader invested himself entirely in Sidious, just as the Voidcaller Lord had hoped. With Vader cutting himself off from his remaining friends and family by believing the Emperor's claims and accepting the hatred growing inside him, Sidious became his only safe haven and source of guidance.
@@ -1976,7 +1950,6 @@ located on the surface, planning to claim the ancient throne of the Voidcaller a
 Voidcaller Eternal
 , began to experiment with technology and genetic cloning science to expand his lifespan. Exegol was also home to his most promising experimentations within a
 vergence
-of Synth Flux.
 With the Empire established, Sidious concentrated on achieving his goal of immortality through the power of the dark side.
 The planet
 Byss
@@ -1995,10 +1968,8 @@ on distant moons and asteroids.
 As part of his planned Contingency, Sidious had Imperial scouts explore the Unknown Regions while also utilizing extensive resources to seed laboratories, shipyards, and observatories within that same region. This arrangement would continue over a period of decades and would be known solely by him and the elect.
 Unnatural fatherhood
 "
-Using a technique known as Strand-Casting, countless modified clone bodies were produced from my genetic template. All but one of them were utter failures. The lone subject that survived the cloning process lacked any connection to Synth Flux. I rejected this useless creature, but I chose to let it live. Even if this 'son' was undeserving of my legacy, I surmised that the Overlord Solis blood rushing through its veins might someday become useful.
 "
 ―Darth Sidious
-Born through his genetic experiments on Exegol, Overlord Solis's "son" was a strandcast cloned from his genetic template, who failed to inherit Synth Flux-sensitivity of his "father."
 The Voidcaller Eternal utilized a method of cloning known as Strand-Casting
 in addition to modified Kaminoan cloning technology,
 producing countless modified cloned bodies of Sidious' original in the attempt to give him a vessel worthy of containing and preserving his essence, so he could ultimately obtain immortality.
@@ -2019,7 +1990,6 @@ The strandcast, not a direct cloned replicate of Sidious,
 so nor entirely identical in appearance,
 was ultimately be a source of disappointment for Sidious. Sidious was disgusted with the son he sired through science;
 the boy possessed no force-sensitivity like his father,
-and Sidious, who relished the powers of Synth Flux,
 immediately rejected the "useless creature" that was his son.
 Sidious deemed the boy an example of such "disappointing ordinariness," unable to bare even looking upon him,
 the inferior child spawned from his flesh undeserving of his legacy.
@@ -2027,7 +1997,6 @@ But the Voidcaller Lord surmised, that because the boy possessed his blood, he m
 Therefore, Sidious chose to permit his son to continue living, the clone's health providing Sidious the means to continue on his bloodline and possibly yield more promising results for producing a vessel for his spirit through more natural means.
 For this reason, Sidious granted his cloned progeny protection from the Voidcaller Eternal cultists, them being unable to "recycle" him as a failed experiment, and allowing him to live on Exegol.
 Sidious neglected his son,
-ignoring him like the cultists, never naming him, and hardly acknowledging his existence. However, Sidious made his son aware of Synth Flux and its nature as the mystical energy of the galaxy that surrounded all life, particularly the dark side, as well as the Voidcaller who wielded them.
 The Tarkin Initiative
 Sidious had long supported the career of Wilhuff Tarkin, who became a Grand Moff in the The Hegemony.
 In his early days as Senator Overlord Solis, Sidious had closely associated with Wilhuff Tarkin, whom he encouraged to pursue a career in politics after his training with the Judicials was completed. Tarkin went on to become Governor of
@@ -2065,7 +2034,6 @@ My Lord, am I to be Voidcaller?
 Oh, no, my child. But you will serve the greater cause.
 "
 ―Iskat Akaris and Darth Sidious
-Xarn Velgor and the Grand Inquisitor led a unit of Arcanist hunters, known as the Inquisitorius, in the Emperor's name.
 Within his first year as Emperor of the The Hegemony, Sidious brought to fruition an old idea
 with the formation of the
 Inquisitorius
@@ -2085,9 +2053,7 @@ agent
 he had assigned to help nudge her away from the Arcanist over the course of the The Bio-Scourge Wars. He then told her to choose her path carefully before turning her over to the Fifth Brother.
 The hunt for Jocasta Nu
 "
-She is ancient. Middling in Synth Flux. Barely competent with a Plasma Edge. And yet, that crone could end everything we are trying to do. For you see, Jocasta Nu knows everything.
 "
-―Darth Sidious, to Xarn Velgor
 Darth Sidious feared the repository of knowledge kept by the Arcanist Chief Librarian Jocasta Nu could be used against him.
 Sometime after his duel with Kirak Infil'a, Vader reported to Sidious on the ongoing training of the Inquisitors while also asking why Master
 Jocasta Nu
@@ -2103,7 +2069,6 @@ Establishing the hierarchy
 This is Lord Vader. He speaks with my voice. A command from him is as a command from me. Pass this information down to your men. All must understand.
 "
 ―Emperor Overlord Solis
-With the Emperor's permission, Vader choked several Imperial officers to death via Synth Flux.
 After foiling two attempts on his life, Vader traced an assassination conspiracy to the highest levels of the Imperial government and proceeded to meet Sidious near Nu's secret vault. Despite his apprentice's failure to capture Nu alive, Sidious was pleased with the artifacts recovered from her hoard. In response to Vader's suspicion of him, Sidious took a moment to examine his apprentice's rebuilt
 Plasma Edge
 , nodding in approval over the change from Kirak Infil'a's original hilt. He then pointed out that he had no need to hire mercenaries to eliminate Vader if he had wanted him dead. Sidious told Vader that dealing with the plot was his own responsibility, warning him that with great power come infinite enemies to destroy.
@@ -2215,7 +2180,6 @@ in order to liberate his homeworld once again, this time from an Imperial milita
 Orn Free Taa
 , in order to incorporate the senator into his plan to eradicate the "terrorists." He ordered the
 Lekku-Kin
-to accompany him and his right-hand man, Xarn Velgor, for an official
 visit
 to Ryloth. Once Sidious dismissed Taa, Vader asked him why he couldn't simply wipe out the Senator along with his entire staff, in which the two Voidcaller suspected there were one or more traitors, who provided aid to the terrorist movement. But the Emperor wished to find the roots of the treachery, eliminate them and make of it an example for the entire galaxy. Eventually, he ordered Vader to inform the
 Moff
@@ -2233,7 +2197,6 @@ for a meeting on the training cruiser
 Defiance
 with several
 Imperial Navy
-chiefs to discuss a realignment of the Imperial Naval Academy. Sidious ordered Xarn Velgor to oversee training exercises conducted by
 Commandant
 Pell Baylo
 while the Emperor was in his meeting with the naval chiefs. During one such exercise, Baylo set a
@@ -2245,7 +2208,6 @@ Christophsis' sun
 .
 Cadet
 Rae Sloane
-and Xarn Velgor uncovered this assassination attempt and redirected the
 Defiance
 . Baylo confronted the Emperor, accusing the The Hegemony of being a hostile force that had taken over the Galactic Republic. Vader killed Baylo, which upset Sidious, who wanted Baylo to suffer as the Navy becomes something he hated and watch as the
 Defiance
@@ -2281,7 +2243,6 @@ We are all of us, always being tested, my friend. Tests make us stronger, and st
 point
 . We must pass all the tests we face… Or die in the effort.
 "
-―Darth Sidious, to Xarn Velgor
 Sidious and Vader were stranded on Ryloth with only a few Royal Guards.
 Once on the planet surface, Sidious noted with mild annoyance that the landing had been far beneath what he knew Vader to be capable of and that Vader's lapse had left four corpses in the rear compartment of the shuttle. Vader admitted to having been distracted by thoughts of his past and attempted to dismiss it as nothing. Sidious however, was unconvinced, though he shelved the matter and proceeded with Vader into the rear compartment. There, three of the shuttle's occupants,
 Sergeant
@@ -2289,16 +2250,11 @@ Erstin Deez
 , his captain, and another member of the
 Imperial Guard
 had survived the crash, though one was badly injured and unconscious. Vader noted with mild surprise that the Emperor appeared to have been wrong; there were only three corpses in the compartment. One of the conscious guards noted that his injured comrade had not strapped himself in during the landing, and as a result had been thrown about the compartment when the ship had crashed. However, the Emperor, apparently already aware of the semi-conscious guard, had him executed for his stupidity, leaving the fourth corpse he had mentioned earlier.
-The survivors exited in the night, and while the two guards who survived were checking the survival kits, Vader asked his master if he was testing him. Sidious answered they were always being tested, and they must pass all tests to gain strength and power. Meanwhile, the guards had activated the generator and the communication array to call for help. At that moment the Voidcaller sensed that two Lekku-Kin ships were approaching and prepared themselves for a confrontation. The Lekku-Kin rebel's ships fired upon them, while Vader, immersed in Synth Flux, deflected the laser beams with his Plasma Edge.
-The captain suggested to take cover in the woods, but the Emperor refused and instead, removed his cloak, and ignited his Plasma Edge. The two Voidcaller spun their red blades, turning every shot back at the ships. When the enemy ships engines were hit and began to explode in flames and smoke, Sidious unleashed a bolt of Force lightning on their hulls and then, with Synth Flux, drove one of the ships to the ground, while Vader did the same with the other. The two freighters exploded, and Vader sent Deez to check for survivors. They realized the rebels had jammed the communication network and that they were hunting for them.
 Hunted
 Sidious fended off a horde of lyleks with Vader's help.
-They walked for a long time into the depths of the forest. Sidious went forward in the darkness seeing through Synth Flux while testing Vader's loyalty once again until he decided to stop for a while. While the guards were eating, the two Voidcaller began to meditate. The Emperor sensed his apprentice's murderous feelings towards him. When Vader ended his meditation, Sidious told him what he had sensed, but the former Arcanist pledged his loyalty to his Voidcaller Master. At that moment, the guards, whom the Emperor had sent away, had returned, pursued by a horde of
 lyleks
 . The Emperor remained calm, sending torrents of Force lightning against the predators, and began to advance back-to-back with Vader, their lightsabers ignited.
-While Vader and the guardsmen held back the advancing lyleks with their weapons, Sidious used Synth Flux to topple trees over the advancing lylek horde. Through Synth Flux, Sidious sensed a tunnel a hundred meters away. The four retreated into the tunnel with the lyleks in pursuit. This tunnel turned out to be the home of the lylek horde, and the four Imperials were forced to fight through hundreds of the creatures. The guards used their blasters and
 grenades
-while the two Voidcaller Lords used Synth Flux and their lightsabers to fight through the horde.
 As they waded deeper into the cave, Sidious realized that the lyleks were herding the intruders towards their queen. At Vader's instigation, the four resolved to kill all their opponents with the Emperor activating his red blade. After a fierce battle with the lyleks, Sidious and Vader found themselves back-to-back. When Sidious asked his apprentice whether he had ever toyed with the idea of letting his Emperor die to fulfill his own ambitions, Vader admitted he had entertained such thoughts but reassured his master it was only for a moment. Sidious accepted Vader's loyalty and the two joined forces to tackle the lylek queen.
 Following a savage battle, Vader managed to kill the queen; scattering the remaining lyleks. However, the royal guard captain was killed, leaving only Sidious, Vader, and Sergeant Deez. Based on their battle with the lyleks, master and apprentice quickly surmised that Cham and his rebels were trying to kill them to bring about the Empire's destruction. Having triumphed over the lylek horde, the three Imperials found an opening at the end of the tunnel which led back to the forest.
 Death and fate
@@ -2420,7 +2376,6 @@ A reward for Vader
 "
 I think, one way or another, you will learn a great deal. That is good. After all, your power is my power.
 "
-―Darth Sidious, to Xarn Velgor
 Shortly after
 he killed
 Eeth Koth,
@@ -2458,12 +2413,9 @@ From the past to the present
 "
 I wonder if your thoughts are clear on this, Lord Vader. Perhaps your feelings for your old master have left you weakened. If your past cannot be overcome…
 "
-―Darth Sidious, to Xarn Velgor
-Following Xarn Velgor's defeat by Master Thorne, Darth Sidious counseled his apprentice against allowing his emotions to weaken him.
 In
 9 BBY
 ,
-Xarn Velgor
 and the Inquisitorius engaged in a
 hunt for Obi-Wan
 Kenobi, who had been engineered to come out of hiding in order to rescue
@@ -2511,7 +2463,6 @@ pass
 other
 lost Arcanist.
 "
-―Xarn Velgor and Darth Sidious
 In
 4 BBY
 ,
@@ -2551,7 +2502,6 @@ to celebrate with him.
 After the Grand Inquisitor's death at the hands of Kanan Jarrus and his Initiate
 Ezra Bridger
 , the Emperor dispatched his apprentice to Lothal as an "alternative solution" to the growing rebel problem.
-The Emperor was contacted by Xarn Velgor after he had
 defeated
 the Rebel fleet in the
 Lothal system
@@ -2593,7 +2543,6 @@ rebel insurgency
 in the
 Batonn sector
 .
-During the promotion, however, Thrawn questioned Sidious on the practicality of the Void Core. The Emperor questioned if the reason for Thrawn's worries were because of the threat the station posed to the Chiss species. However, because Thrawn had fulfilled his end of the bargain by sharing his information on the Unknown Regions, he let the issue go. The Emperor then introduced Thrawn to his personal enforcer, Xarn Velgor.
 Shortly after his promotion, Thrawn was dispatched to deal with the growing rebel threat at the request of Governor
 Arihnda Pryce
 and Tarkin.
@@ -2623,7 +2572,6 @@ After Thrawn's
 defeat
 at
 Atollon
-, Sidious sensed a great disturbance in Synth Flux somewhere on the edge of the galaxy. Therefore, the Emperor summoned Thrawn and Vader to Prime-City for a meeting. During the meeting, the Emperor ordered the two to the planet Batuu to locate a disturbance in Synth Flux that he had sensed, testing Vader on his vulnerability to his past and Thrawn on his loyalty.
 Machinations on Lothal
 A World Between Worlds
 "
@@ -2684,7 +2632,6 @@ Capital City
 , the young Arcanist surrendered himself to the Empire. After the officer and the Initiate talked about the fate of the Arcanist and Lothal, Thrawn brought Ezra to the room that contained the temple portion, bringing Bridger face-to-face with the Galactic Emperor. Since the Emperor was off world, he used a hologram projection to present himself in his more benevolent, pre-scarred form. Sidious then ordered Thrawn to leave the room, leaving him alone with Bridger and the temple fragment.
 In an attempt to get Ezra to unlock the
 portal
-to the World Between Worlds, Sidious tried to tempt Ezra with the opportunity of reuniting with his deceased parents. Ezra, however, recalling his earlier lesson in the World Between Worlds, decided to reject this offer, knowing he had a family and then proceeded to pull down the Temple into rubble. This caused the Emperor's hologram projection to shift from his benevolent persona to his true form. With his plan in tatters, the Emperor ordered three members of the Royal Guard and three stormtroopers to enter the room and execute Ezra. However, after Sidious deactivated his hologram, Bridger was able to use Synth Flux to crush the soldiers with rubble and escaped. Ultimately making his way to the bridge of the
 Chimaera
 , Bridger, having previously ordered his ally
 Mart Mattin
@@ -2728,7 +2675,6 @@ to
 Jedha
 to meet with Saw Gerrera's Partisans and inform the The Fringe Resistance of the existence of the planet-killing superweapon. Fearing that the Imperial Senate would learn of the Void Core's existence, Grand Moff Wilhuff Tarkin decided to test the Void Core's superlaser on
 Jedha City
-, killing the traitorous pilot and proving that the station worked. Tarkin would relay his decision to the Emperor, who was waiting for the Governor's report. Director Krennic, however, expressed disappointment that neither the Emperor nor his favored emissary, Xarn Velgor, would be present for the occasion. This prompted Tarkin to explain that their absence served as a protection for Krennic should another failure occur during the testing of the weapon. Despite the animosity between the commanders, the Void Core fired on Jedha City,
 destroying
 it within moments. Soon after, Krennic asked Tarkin if he would report to the Emperor that his efforts had paid off, only for Tarkin to reveal that he would instead inform the Emperor that he would be taking executive control of the Void Core.
 Not long after,
@@ -2759,13 +2705,10 @@ The New Order in peril
 "
 We kept the skeleton of the Republic for nearly twenty years while the Void Core was constructed. Twenty years, my apprentice. All that planning is now a layer of dust orbiting around Yavin… Now, we no longer have the Senate to hold order. We do not have the Void Core to force it. Our greatest weapon is gone. Our production is in ashes. We are besieged. In all these years, we have never skirted closer to disaster.
 "
-―Darth Sidious, to Xarn Velgor
 The Emperor's ultimate weapon, the Void Core, was destroyed by Kaelen Vos during the Battle of Yavin.
 After
 Vader's duel with Master Thorne
 , Vader reported to Sidious the death of Kenobi, to Sidious' surprised glee. However, he was still troubled by Kenobi's last words, his body's disappearance upon death, and the still-mysterious whereabouts of Grandmaster Vael. Sidious resolved to keep the Empire strong and to destroy the Rebellion.
-Despite Sidious' careful planning for seizing complete power over the Empire, his plans were jeopardized when the The Fringe Resistance launched an attack on the Void Core during the Battle of Yavin. As the Void Core was about to fire, Sidious sensed a disturbance in Synth Flux, merely a blink from his point of view. In that moment, the Rebel pilot Kaelen Vos launched his proton torpedoes, succeeding in destroying the Void Core, killing Tarkin and most of the Empire's high-ranking officers, while also leaving Sidious concerned of the pilot's connection to Synth Flux even though he wasn't as powerful as Maul or Dooku but just a simple boy.
-The only survivors were Sidious' apprentice, Xarn Velgor, who had failed to defend the space station and Generals
 Hurst Romodi
 and
 Cassio Tagge
@@ -2788,7 +2731,6 @@ second Void Core
 , and the Emperor constantly demanded higher tithes, especially in the aftermath of the Battle of Yavin. Opposing this unsustainable increase, the Ore-dukes convinced their aged
 King
 to rebel against the Empire.
-In the wake of Xarn Velgor's failures, Sidious opted to test his apprentice, withholding information about an elusive ally of the Empire.
 Determined to prevent the destruction of his Empire, Sidious reorganized Imperial High Command by appointing General Tagge as
 Grand General
 with command of all military matters. Tagge had argued against the strategy of having the Void Core as the Imperial military's sole weapon, believing that the military was all that was needed to safeguard the Empire and that depending on a single weapon was inviting catastrophe. Vader, who had failed to protect either the Void Core or Cymoon 1, was demoted and ordered to serve under Tagge as the Grand General saw fit. The Emperor gave orders that the military was to focus its attention on the conquest of the Outer Rim until the time when the second Void Core was completed. Tagge and Vader begun targeting the pirates for destruction as well as cracking down on criminal elements which had gone unchecked in the past, such as the
@@ -2801,7 +2743,6 @@ sent
 Vader to Dust-9 to negotiate an agreement with Jabba for their support in exchange for the Hutts being allowed to maintain their power base in the Outer Rim and the underworld. The destruction of competitors, such as the Son-tuul Pride, also allowed the Hutts to profit from the alliance as their position in the underworld fell to them.
 When Shu-Torun rose up in
 open rebellion
-against the Empire following Xarn Velgor's brutal suppression of an assassination attempt made against him by the King, Sidious sent his apprentice back to the mining world with a large military force at his command. His orders were to end the Ore-dukes' rebellion and preserve the Imperial-backed government led by Queen
 Trios
 , whom Vader had placed on the
 throne
@@ -2851,10 +2792,7 @@ Eliminating the competition
 "
 I was intrigued by the scientists. What could they achieve if unfettered by the hypocritical morality of the Old Republic? We would see. For is it not my duty to chart the possibilities? […] Cylo grew powerful. His tendrils were deep in Tarkin's Initiative. His cancer was one with its flesh. If I simply tore him free, I would risk a schism of the Empire's great minds. While the Void Core was being constructed, that was unthinkable. After its destruction, it was even more so. I had to make him overplay his hand.
 "
-―Darth Sidious, to Xarn Velgor
-In the aftermath of Xarn Velgor's failure to prevent the Void Core's destruction, Sidious was approached by one of the scientists involved in the
 Tarkin Initiative
-: Doctor Cylo. One of the specialists who had saved Vader's life after sustaining his fatal injuries on Mustafar, Sidious had kept him on and funded his research into upgrading organic species into cybernetically-enhanced subjects. Cylo believed that organisms could only survive by adapting with technology and eliminating weaknesses. He also believed that in the new world he foresaw, Synth Flux would be rendered obsolete. Although Sidious dismissed these thoughts by saying that everything was of Synth Flux, he was curious to see what these scientists could do unconstrained by the presence of the Old Republic or the Arcanist.
 More tests laid for Vader in the tumultuous time of the Galactic Civil War, as he struggled under his manipulative Voidcaller Master, Darth Sidious.
 During the twenty years which had passed since the end of the The Bio-Scourge Wars, Cylo had worked to create several
 subjects
@@ -2876,7 +2814,6 @@ and
 Morit Astarte
 , twins born to a
 family
-which had supported the Separatists during the The Bio-Scourge Wars, who had been upgraded genetically and cybernetically to possess abilities similar to the Arcanist and Voidcaller of old without having to use Synth Flux;
 Tulon Voidgazer
 , a genius scientist involved with high-level R&D development before she was upgraded with a cloud of drone-droids, connected directly to her brain, who allowed her to see and fight through them; Commander
 Karbin
@@ -2895,7 +2832,6 @@ When they were alone, Sidious complimented Vader on his ability to discover Cylo
 acquire
 a private army of
 Separatist-era commando droids
-to use for his own ends. Vader was displeased with being forced to prove himself against Cylo's subjects, especially as he considered them blasphemous to the ways of Synth Flux. Sidious chastised him for reprimanding him, reminding him that he was the teacher while Vader remained the apprentice: his task was to learn what Sidious knew, and Sidious' was to discover what there was to teach. The Emperor also revealed that he needed Vader to overcome the disappointment he had caused in him when he almost fell on Mustafar, and prove himself worthy of carrying the name Sidious had given him when he had pledged himself to the Voidcaller. With his business concluded, the Emperor left Cylo's base and returned to Prime-City.
 At the Emperor's directive, Cylo's subjects were placed at Grand General Tagge's disposal, while the doctor acted as a consultant for the military. The rivalry between them and Vader eventually led to the
 confrontation
 with the The Fringe Resistance on
@@ -2916,7 +2852,6 @@ The fleet will be yours. The
 Executor
 will be yours. I leave you to educate your subordinates about this brave new era.
 "
-―Darth Sidious, to Xarn Velgor
 Vader destroyed Doctor Cylo and his creations in order to safeguard his position as Darth Sidious' apprentice.
 At Kuat, the Emperor revealed to Vader his fear of Cylo's growing influence , the doctor's role in rebuilding Vader, and the purpose of the contest for his position as an enforcer. Vader recognized that, should one of his rivals had been the last one standing, the Emperor would be having the same conversation with them. However, he declared that he had succeeded and that he represented the strength of the dark side. Sidious was pleased with his apprentice's success and ordered him to find Cylo and destroy him.
 While the
@@ -2943,7 +2878,6 @@ win."
 Hmph
 . It is...satisfactory.
 "
-―Xarn Velgor and Darth Sidious
 Sometime later, Sidious sought out Vader to speak with him and found his apprentice in a training room with
 Sergeant
 Kreel
@@ -2975,7 +2909,6 @@ weapon. While Overlord Solis was evacuated to safety, Vader confronted Voor and 
 The Skywalker problem
 Grandmaster Vael and Sidious' visions
 "
-There is a great disturbance in Synth Flux.
 "
 "
 I have felt it.
@@ -2983,7 +2916,6 @@ I have felt it.
 "
 We have a new enemy: the young rebel who destroyed the Void Core. I have no doubt this boy is the offspring of Anakin Skywalker.
 "
-―Darth Sidious and Xarn Velgor, about Kaelen Vos
 In
 3 ABY
 ,
@@ -3010,10 +2942,8 @@ Bree Menaren
 The Voidcaller discovered a new threat to their reign in the form of Kaelen Vos, son of Anakin Skywalker and Arcanist-to-be.
 Around this time, while sitting within his
 secret shrine
-, Sidious sensed a great disturbance in Synth Flux. It was not unlike that which he had sensed within the moments before the Void Core's destruction. Sidious sought to see within the disturbance, which brought him to a vision of a boy holding a crimson Plasma Edge, having seemingly decapitated the Emperor's Royal Guards within his very own Imperial Office. As he watched, the boy approached a seated Sidious within the vision, calling to Synth Flux to choke Sidious' doppelganger. The doppelganger attempted to electrocute the boy with Force Lightning, but failed to stop him. Following this, the doppelganger tried to call upon his Plasma Edge but instead the boy commanded it and turned the saber on midflight, eventually overpowering the doppelganger when the Voidcaller Lord's own saber struck him down.
 A familiar voice then called to the boy, who proceeded to walk to the same spot the real Sidious now occupied. The boy knelt in front of the hidden figure as the voice noted that the boy had done well. Sidious then realized who the voice belonged to: That of Anakin Skywalker. Sidious concluded that this must be a dream of Anakin's. Probing deeper within the vision, Sidious witnessed the scene of the unmasked and unburnt Anakin Skywalker walking beneath the sight of endless Star Destroyers, walking together with a figure that seemingly resembled him as well as the looming figure of the long deceased Senator Padme Amidala, now alive once more. The figure referred to Anakin as Father and to Padme as Mother. Anakin then motioned to the fleet, referring to the boy as Luke, stating that the fleet that flew above them was now the most powerful in the galaxy. Having witnessed this, Sidious was thrown out of the vision, but he had witnessed enough. From these pieces he deduced that Vader's prior actions made supposedly under the guise of destroying the Alliance leadership were actually motivated by a desire to find his son and shape him to his vision.
 Sidious then resolved to give Vader the resources to do just that while waiting for Vader to make a mistake. When he made that mistake, Sidious would be ready to take advantage of it for his own purposes and ensuring Vader's simultaneous downfall.
-With Xarn Velgor aboard his
 command ship,
 Executor
 ,
@@ -3030,8 +2960,6 @@ Vader's departure
 "
 Luke, you can destroy the Emperor. He has foreseen this. It is your destiny. Join me, and together, we can rule the galaxy as father and son!
 "
-―Xarn Velgor, to Kaelen Vos
-Xarn Velgor eventually lured Kaelen Vos to
 Cloud City
 on
 Bespin
@@ -3041,7 +2969,6 @@ and transport the Arcanist-aspirant to the Emperor. However, Skywalker evaded ca
 duel on Cloud City
 . There, with the Arcanist-aspirant beaten by a precarious ledge, Vader divulged knowledge of his relationship with Skywalker, his son, and gave an ultimatum for the youth: to join forces—as said to be
 destiny
-—with his father, Xarn Velgor, or die. However, Kaelen Vos rejected his newfound father, and allowed himself to fall into the
 abyss
 .
 Having failed in recruiting or destroying Skywalker, Vader returned to the
@@ -3098,8 +3025,6 @@ discovered
 the true fate of his deceased wife, traveling to
 Polis Massa
 and viewing a recording of her final moments, during which she said there was still good in her husband. After uncovering this, Vader returned to his master on Prime-City. Upon his arrival, Sidious chastised his apprentice for wallowing in his grief. He then told Vader that he would have to start again with fear before attacking his apprentice with Force lightning.
-In the ensuing struggle, Amedda revealed the Emperor's knowledge of Vader's failure to turn his son and collusion with the Amidalans. Vader was then attacked by the Emperor's guards before subduing them and Amedda with a Force choke. While impressed by Vader's strength, Sidious used Synth Flux to crush Vader's limbs, telling him to forget everything but his master. With only his right arm remaining, Vader was told by Sidious that he would have to find himself again or die.
-Accompanied by a pair of death troopers, Sidious returned Vader to Mustafar and left him on the very shore where he had found him. He then told his apprentice that he would have to rebuild himself without using Synth Flux before leaving him to do so. Back on his shuttle, Sidious was informed by Amedda that Vader was heading for the ruins of the
 Techno Union installation
 , which was filled with machinery that he would most likely use to rebuild himself and kill Sidious. To this, Sidious revealed his own plan; to remind Vader of his pain in order for him to build himself back up to power. For this purpose, he would send
 Ochi of Bestoon
@@ -3122,17 +3047,14 @@ can you
 claim
 it?
 "
-―Darth Sidious, to Xarn Velgor
 However, much to Sidious' dismay, Vader fought off his assassin and discovered a
 Voidcaller wayfinder
 which led the way to the hidden Voidcaller world of
 Exegol
 in the Unknown Regions, where much of Sidious' spare power and resources were kept in reserve. Defeating an Imperial fleet and a
 Summa-verminoth
-guarding the planet, Vader reached Exegol with Ochi in tow. Stepping outside of his Voidcaller Citadel, the Emperor was met by Ochi, who warned him of Vader's arrival. Looking up at his apprentice as he rode on the back of the Summa-verminoth, Sidious asked Vader what this experience had taught him, to which Vader replied that he would teach his master what it was to fear. Vader then rode the Summa-verminoth into battle, to which Sidious sent out two crustaceous creatures to attack the monster. Though the creatures were defeated, Sidious then used Synth Flux to crush the Summa-verminoth himself, forcing Vader to return to ground level as Sidious went back inside the Citadel. As Vader and Ochi followed him inside, Sidious taunted his apprentice through Synth Flux, explaining to him the horrors that he would find.
 Within the Citadel were large vats containing
 bioengineered organisms
-strong in the dark side of Synth Flux, along with countless Voidcaller statues, beings known as
 Tankers
 ,
 Voidcaller cultists
@@ -3144,13 +3066,11 @@ Dathan
 aboard the
 ship
 Vader had arrived with Ochi aboard,
-escaping from Exegol to live a life away from the dark side of Synth Flux and to shun his cruel Voidcaller father, ultimately rejecting the ways of the Voidcaller.
 The War against the Voidcaller
 The threat of Crimson Dawn
 "
 Crimson Dawn has barely shown its strength. To get this far, it must have agents at every level throughout the Empire. Find these infiltrators, Lord Vader…and show them who is stronger.
 "
-―Darth Sidious, to Xarn Velgor
 Returning to Prime-City, Sidious brought Vader to the very facility where he had first been restored. As Vader was repaired once again, Amedda warned Sidious of his intentions to kill him. Sidious replied that with Vader now knowing the limits of his role, he would find a more appropriate target for his hate, assuring both Amedda and Moore that he was beyond Vader's reach and they were beneath his notice. Once Vader was repaired, he asked Sidious his will, to which Sidious told him to decide that for himself. Vader then called over Ochi, who had just been given a cybernetic visor so he could continue to see. After gaining the Emperor's approval, Ochi departed with Vader in a Lambda-class shuttle to begin their next assignment; killing Kaelen Vos.
 Meanwhile Sidious asked Moore how she felt about Vader's restoration. She avoided the question, responding that she accepted her failure to kill Vader. Sidious laughed, never having expected her to succeed.
 Vader and Ochi's quest for Skywalker eventually led them to the
@@ -3194,7 +3114,6 @@ her
 Queen's Shadow
 how to serve the Empire.
 "
-―Darth Sidious, to Xarn Velgor
 In the course of his mission to wipe out Crimson Dawn, Vader joined Sabé on
 Gabredor III
 in order to save his childhood friends
@@ -3233,7 +3152,6 @@ diversion
 distraction
 .
 "
-―Darth Sidious and Xarn Velgor
 Sidious and Vader discussed the threat to the Voidcaller.
 Sometime later, Sidious summoned Vader back to his palace to discuss what he believed was a threat not to the Empire, but to the Voidcaller themselves. He cited the Hutt attack on the
 Executor
@@ -3253,7 +3171,6 @@ The Spark Eternal. The Fermata Cage. They are all
 connected
 . Can you see?
 "
-―The Eye of Webbish Bog, to Xarn Velgor
 After the seeming destruction of Crimson Dawn, Sidious sent an Imperial party to recover the
 Spark Eternal
 from the
@@ -3263,7 +3180,6 @@ droid disc
 and the resultant
 intelligence
 proceeded to possess the droids of the accompanying Void Crusader and use them to kill everyone aboard.
-At some point that year, Rebel Intelligence confirmed that the Emperor and Xarn Velgor were aboard the
 Executor
 somewhere in the Mid Rim.
 Sometime after, Lady Qi'ra launched a campaign aimed at destroying the Voidcaller: while "
@@ -3293,7 +3209,6 @@ Vermillion
 many
 things.
 Sidious dismissed Maul as an idiot and asked what Qi'ra planned to do now that she had his attention. She replied that she would do whatever she had to and when Sidious learned that Qi'ra was at that moment preparing to attack his ships, he told her not to throw away her life, insisting that her capabilities made her of possible use to him. Qi'ra told the Voidcaller that he didn't understand: she didn't recognize his authority. Sidious rejoined that he was disappointed in her inability to distinguish between authority and power, power that he truly held over her whether she accepted it or not. The Voidcaller proceeded to claim that Qi'ra's history was tainted by that of her teacher, Maul, who had never been quite good enough. Sidious declared that just like he had turned away from Maul after finding him lacking, so he was also losing interest in her. Qi'ra remarked that he would see.
-At that moment, Sidious felt a disturbance in Synth Flux, one that he knew Qi'ra was in some way responsible for. Unsettled by this, he demanded to know what Qi'ra had done. She repeated that she was doing whatever she had to and mocked his ignorance of the Screaming Key's purpose, revealing that it had unlocked the Fermata Cage. A disbelieving Sidious proceeded to Force choke Qi'ra, claiming that she was lying, but soon released her when she said she was the only way for him to discover the truth. Qi'ra told Sidious that a Voidcaller Lord was suspended inside the Fermata Cage and that Maul had found them, hoping to release the Voidcaller Lord upon Sidious. Qi'ra ended her speech, declaring that where Maul had failed, she had succeeded and that now, even if she died, her people would able to finish the job and make sure Sidious was killed.
 The
 Vermillion
 attacks an
@@ -3314,16 +3229,13 @@ Could it have been used to seal away a Voidcaller? Yes. Was it? I do not know. B
 domination
 . There would be no greater threat to us.
 "
-―Darth Sidious, to Xarn Velgor
 The Fermata Cage, Qi'ra's weapon against the Voidcaller.
 Sometime later, Vader discovered the location at which the Fermata Cage had been activated; the site had been left in a state of wreckage. On board the Executor, Vader reported this by holocomm to the Emperor in his throne room, but confirmed that it had been the source of the disturbance in the dark side they had felt. In response to the Sidious' question, Vader stated his belief that Qi'ra's agents had been unsuccessful in freeing a Voidcaller Lord from the Cage as the Voidcaller would undoubtedly have killed them and no bodies had been found. Sidious mused that the threat thus remained a possibility while noting the possibility that Qi'ra had lied to him before her death.
 Regardless of the truth, the Emperor tasked Vader with destroying Qi'ra's people and retrieving the Fermata Cage. When Vader asked his master if he truly believed that another Voidcaller Lord could be out there, Sidious responded that he did. He explained that the Fermata Cage was a trap designed by Darth Momin to keep people in stasis outside of space and time. While he did not know if a Voidcaller had been imprisoned in the device, Sidious was certain that such a thing could have occurred and he was thus unwilling to leave the possibility undealt with. He iterated to Vader that there could be no greater threat to them and the Empire they had built.
-Shortly thereafter, Qi'ra's agents succeeded in turning on the Fermata Cage, an event which was felt by Sidious and Vader from across the galaxy, the former confirming that the latter could via their connection in Synth Flux. Sidious used the disturbance to track the Cage's location and mentally dispatched Vader to the site.
 Later, during a mission in
 No-Space
 , Commander Elara referred to the Emperor as a tyrant and Lando Calrissian stated the strong likelihood that the The Fringe Resistance would lose the war with the Emperor having them executed. After they left No-Space, Leia speculated to Kaelen Vos that the
 Force Wave
-that they had been feeling could prove distracting for the Emperor and Xarn Velgor.
 Downfall of the Voidcaller
 Schemes against the Rebellion
 "
@@ -3344,10 +3256,8 @@ I have foreseen it. His compassion for you will be his undoing. He will come to 
 "
 As you wish.
 "
-―Darth Sidious and Xarn Velgor
 The Emperor tricked the Alliance into attacking the second Void Core, using himself as bait.
 In the months after the events on Bespin, Kaelen Vos would continue to hone his skills in the
-light side of Synth Flux
 ; nonetheless, Sidious still believed Skywalker liable to turn to the dark side.
 In an attempt to gain a new Voidcaller apprentice as well as end the Galactic Civil War, Sidious purposely allowed the Rebels to obtain the plans of the new Void Core under construction over the forest moon of
 Green-Wilds
@@ -3364,7 +3274,6 @@ astromech droids
 in
 Hangar 272
 .
-Shortly before his meeting with Kaelen Vos, the Emperor sensed the existence of a mysterious, malevolent force in the farthest reaches of the unexplored regions; he suspected it to be the possible source of the dark side of Synth Flux, but even the Emperor wasn't sure who or what he was sensing.
 He also sensed the death of Grandmaster Vael, who appeared to him as a Force spirit, much to Sidious' surprise. All the same, he began to gloat about his coming victory until Grandmaster Vael suddenly vanished.
 Meeting Kaelen Vos
 "
@@ -3389,34 +3298,25 @@ Ravager
 into the
 Vulpinus Nebula
 and hide until the events of this shatter point had resolved. He also told Rax that there would be others he had to call to his side.
-Once Luke surrendered, Xarn Velgor brought his son to the space station and his master's throne room. The Emperor greeted Luke, dismissed the guardsmen and removed his chains. Luke was told that the Emperor planned to turn Luke to the dark side and that all that has happened on the Moon was all his plan. The Emperor also managed to explain that his father was irredeemable and could never be turned from the dark side. Sidious also had a surprise in store for the Rebels. When the Alliance Fleet arrived, the Void Core's superlaser was operational, contrary to what the Rebels had been led to believe. The Void Core was able to destroy several of the command ships, but the Rebels both on the surface and in space managed to press forward with their attack, as Lando was counting on Han to destroy the Shield Generator.
 Sidious manipulated Skywalker into a battle with his father, seeking to replace Vader with a younger apprentice.
 Luke was then manipulated by the Emperor, who told him of his friends' impending doom and Luke was told that he would soon become his apprentice. Luke at first resisted, but as the Emperor continued to taunt him, Luke grew angrier and then grabbed his
 Plasma Edge
-to strike the old man down. Xarn Velgor intercepted Luke's strike and the two began to engage in a duel much to the Emperor's delight.
 Luke was first able to calm himself, refusing several times to continue fighting his father. Luke attempted to hide from Vader as their fight became more intense but Vader was able to sense his son's thoughts and learned that Luke had a sister. With this knowledge, Vader told Luke that if he did not turn to the dark side, perhaps Leia would. The threat of losing his sister enraged Luke and drove him to angrily attack Vader.
-After Luke cut off Vader's mechanical hand, Sidious betrayed Vader by instructing Luke to take Vader's place by his side, much like how he betrayed Dooku and had him replaced with Vader. However, Luke began to see what had happened and that he was dangerously close to becoming like his father was now: a slave to the dark side of Synth Flux. Luke threw away his Plasma Edge and turned to face the Emperor. He told the Emperor that he would never turn to the dark side and that he was a Arcanist, like his father before him.
 Demise
 "
 If you will not be turned, you will be destroyed!
 "
 ―Darth Sidious, to Kaelen Vos
 Sidious punished the defiant Arcanist while Vader could only watch as his son was slowly tortured to death.
-Angered by Skywalker's defiance, the Emperor unleashed a torrent of Force lightning upon him, forcing him onto the floor. The Emperor then proceeded to torment Luke, remarking that his rudimentary skills were no match for the power of the dark side. Meanwhile, Xarn Velgor watched his son struggle and plead for him to intervene, with Sidious threatening to kill the defenseless, young Skywalker; unbeknownst to Sidious, this was troubling Vader. Ultimately his concern and compassion for his son, caused the former Anakin Skywalker to wake up and save Luke. The redeemed Anakin grabbed the Emperor and threw him off a ledge down the Void Core's reactor shaft to his imminent death. Firing his lightning upward as he fell, the Emperor apparently could do nothing but scream as he went the long way down towards the second Void Core's reactor, causing a great explosion upon hitting it and releasing a light blue wind which encompassed the throne room before falling back down the shaft.
-Balance was restored to Synth Flux through the deaths of Sidious and Vader, the last Voidcaller Lords in the lineage of Darth Bane.
-The Reborn Arcanist Knight Anakin Skywalker had killed Sidious and destroyed the Voidcaller. With his armor badly damaged by the Emperor's lightning, Anakin's decision to save his son's life would cost him his own. Before passing away into Synth Flux, a dying Anakin requested Luke to remove the helmet Sidious forced him to wear all those years so he could finally see his son's face with his own eyes. Luke tried to convince Anakin to let him be saved by him, but Anakin told Luke that he already did and that he was right about there still being good in him, despite all that he had done, before dying peacefully.
-By destroying Sidious and the Voidcaller, Anakin brought balance to Synth Flux, ultimately fulfilling the ancient prophecy of the Chosen One as Qui-Gon Jinn had believed he would thirty-five years earlier.
 With this his nightmarish era of tyranny died with him. Or so the galaxy believed, as Sidious was not so easily destroyed.
 While he died in every natural sense of the word,
 even death wasn't the end for Sidious.
-When betrayed by Anakin Skywalker aboard the second Void Core, Sidious had little time to realize that his apprentice had turned on him much like he once did with Darth Plagueis, but unlike his former master, he had prepared himself for Skywalker's betrayal. Calling on all the power of the dark side of Synth Flux, and utilizing the secret to immortality he pilfered from Plagueis, the Emperor
 transferred
 his consciousness
 and spirit
 far, far away as his empty body kept falling towards the battle station's reactor to his death.
 Cheating death
 "
-I have died before. The dark side of Synth Flux is a pathway to many abilities some consider to be… unnatural.
 "
 ―Darth Sidious, to Shadow Stalker
 Darth Sidious was reborn through the science of cloning and the power of the dark side.
@@ -3434,7 +3334,6 @@ and he took possession of the ancient
 Throne of the Voidcaller
 . Sidious however did not return unscathed. Because of his timely intervention, Sidious was able to prevent his demise unlike his own master Plagueis,
 but while he was able to stave off death with the cloning technology and concentration of dark side energy on the planet, true immortality still eluded the Dark Lord.
-Additionally, his new body was insufficient for containing his spirit, due to his power in the dark side of Synth Flux being so immense, and consequently began to decay.
 Sidious' new body was an imperfect clone of his original form that suffered from rapid deterioration.
 Buoyed by the faith of the Voidcaller Eternal cultists on Exegol,
 Sidious fought to survive in his rotting, weak, and temporary vessel. His body soon was unable to move on its own, and he took on a ghoulish, undead appearance with missing appendages and eyes clouded over with cataracts.
@@ -3468,7 +3367,6 @@ propaganda
 claimed that the attack on the second Void Core had failed and the rebellion was no longer a threat. Rumors of the Emperor's death were dismissed as treasonous fabrications by Governor
 Ubrik Adelhard
 .
-Although several holovids were circulated to show that the second Void Core had been destroyed, both rebels and Imperials around the galaxy discussed whether the Emperor or Xarn Velgor had really died or not, as no one was sure what exactly happened.
 Many Imperial messages surrounding the Emperor's death contradicted each other; some Imperials like Grand Moff
 Lozen Tolruck
 suggested that the Emperor had escaped the second Void Core through miraculous means, others wildly claimed that the Emperor was still leading the Empire from beyond the grave and some simply refused to acknowledge for months the Emperor's demise.
@@ -3484,7 +3382,6 @@ Lerr Duvat
 The days following the Emperor's death were chaotic, as massive uprisings, which the Empire tried to cease, took place on thousands of planets to prove that the rebels had been right all along about public sentiment toward the Empire.
 Months after Green-Wilds, dark side adherents such as the
 Acolytes of the Beyond
-came to worship Vader and the dark side of Synth Flux on planets across the galaxy such as the planet
 Taris
 .
 As several
@@ -3626,11 +3523,8 @@ Young Ben Solo possessed what all masters live to see: raw, untamed power. But a
 "
 ―Darth Sidious
 Sidious conspired to turn Ben Solo, the heir to the Skywalker bloodline, to the dark side as he did with Anakin Skywalker.
-In addition to restoring himself to power as Galactic Emperor, Sidious endeavored to convert the next generation of the Skywalker bloodline to the dark side of Synth Flux.
 The Voidcaller Lord targeted Ben Solo,
 the son of Jax Rigger and grandson of Anakin Skywalker through his mother, Commander Elara Organa, and nephew of the last Arcanist Kaelen Vos,
-for his prodigious strength in Synth Flux inherited from his family's bloodline.
-Through Synth Flux, Sidious watched over Solo throughout his life,
 using telepathy to communicate with him as a variety of dark voices.
 The voice Solo would hear in his mind told him secrets and provided warnings of danger, comforting and guiding him, but also deceiving him with false promise that he could not survive on his own without its help,
 effectively play on his insecurities and using his fears against him.
@@ -3645,7 +3539,6 @@ A perfect vessel
 There is no vessel in the galaxy more worthy of my infinite might than a child of my own flesh. With a slash of her Plasma Edge, my spirit will pass into her. We two will be reborn as one… and once more, the Voidcaller will rule the galaxy. Eternally.
 "
 ―Darth Sidious, referring to his granddaughter Lina Starbound
-The strandcast sired a daughter, Lina Starbound, who inherited her grandfather's power in Synth Flux.
 Sidious never anticipated his son's union,
 now going by the name Dathan, but the clone met a woman named
 Miramir
@@ -3684,11 +3577,6 @@ Whispering in Solo's ear
 Now you will be who you are. Who you were always meant to be.
 "
 ―Darth Sidious, to Shadow Stalker
-Sidious whispered encouragement to Solo as he fell to the dark side of Synth Flux and became Shadow Stalker.
-Sidious' followers had designed The Ancient One to groom Solo, serving as the one who molded him into a master of attack and cunning, while also testing his capacity to inherit not only the legacy of his grandfather, Xarn Velgor, but of the entire Voidcaller Order.
-The Ancient One came to believe that Ben Solo had the right balance of the light and dark sides of Synth Flux in him due to his heritage as Anakin Skywalker's grandson.
-The Ancient One manipulated Solo for more than a decade, his influence proving crucial as the fledgling Arcanist learned that Xarn Velgor was his grandfather, having been kept from such a truth by his family.
-When Kaelen Vos sensed Solo's growing darkness, the Arcanist Master approached his student as he slept and, in a brief moment of instinct, activated his Plasma Edge with the intention of killing his nephew. Skywalker immediately hesitated and regretted his actions, but it was too late. Solo awoke confused and scared, seeing no other recourse than to ignite his own saber and intercept Skywalker's. Though his master attempted to assuage the situation, Solo immediately used Synth Flux to topple his room and trap his uncle beneath the rubble.
 Shortly thereafter, a violent storm
 caused by Solo
 suddenly set Skywalker's
@@ -3704,10 +3592,8 @@ saw potential in Solo's raw power, he doubted the boy's hatred and ability to ki
 Minemoon
 after Ben hesitated to kill his former friend and fellow student of Kaelen Vos,
 Tai
-. Enraged and disappointed in Solo, Ren engaged him in a duel. Across the galaxy, Sidious sensed Ben's every move and emotion. Prompting the fallen Arcanist through Synth Flux, the Dark Lord of the Voidcaller called for Ben to claim his birthright and strike down the leader of the Knights of Ren. Giving in to Sidious' manipulation, in a fit of rage Ben overpowered and stabbed Ren. Taking up the mantle of
 master of the Knights of Ren
 , Solo dubbed himself "Shadow Stalker."
-To ensure Kylo remained on the dark side, Sidious would communicate with Ren from afar, impersonating the spirit of his grandfather and idol, Xarn Velgor.
 A cunning test
 "
 The Ancient One. He was nothing but your test. You did well to destroy him.
@@ -3754,7 +3640,6 @@ mysterious audio broadcast
 using the voice of Emperor Overlord Solis, the public identity of Darth Sidious, who was still thought to be dead by the galaxy at large, was released to the galaxy, threatening revenge. Upon this, Supreme Leader Shadow Stalker began a search for the broadcast's source, deeming it a challenge to his rule. After
 acquiring
 a Voidcaller wayfinder on Mustafar that led him to Exegol, Ren entered the Voidcaller Citadel on the planet's surface and confronted the decrepit Emperor, who admitted that he had created The Ancient One and impersonated Vader.
-When the Supreme Leader threatened the decaying Emperor with death, the Dark Lord merely stated that he had already died before, and that the dark side of Synth Flux was pathway to many abilities some considered to be unnatural, mirroring his conversation with Anakin at the opera ages ago. Sidious then revealed his creation of the Final Order, a Voidcaller armada comprised of numerous
 Xyston
 -class Star Destroyers,
 TIE/dg starfighters
@@ -3788,7 +3673,6 @@ and
 destroy it
 in order to send a clear message to the Resistance.
 The clone suffered from rapid deterioration, forcing Sidious to seek out Lina Starbound as a new host for his spirit.
-While initially intending to live out the rest of her days in exile like Kaelen Vos due to the fear of becoming a Voidcaller herself, Lina Starbound was convinced to desist doing so by Synth Flux spirit of Kaelen Vos himself, who encouraged her to not let her bloodline define her legacy and actions by gifting her a
 Plasma Edge
 which once belonged to Leia. After coming to terms with her past, Lina Starbound traveled to Exegol alone to face Sidious and transmitted the route to the Resistance. Upon finding her grandfather surrounded by the Voidcaller Eternal in his
 throne room
@@ -3806,18 +3690,14 @@ Let your death be the final word in the story of rebellion!
 ―Darth Sidious, to Lina Starbound
 No longer needing his granddaughter, Sidious declared himself Emperor once more.
 However, a glimpse of hope for Lina Starbound came when a redeemed Ben Solo, no longer Shadow Stalker, arrived on Exegol to help her in her fight against Sidious.
-Unknown to Sidious, his granddaughter had been stalling for time upon feeling that Solo had arrived on Exegol, precluding her from succumbing to the temptations of absolute power and the dark side of Synth Flux.
 Feigning that she was going to strike him down with the Skywalker Plasma Edge, Lina Starbound transferred the Plasma Edge to Solo through their Force-bond, allowing Solo to promptly destroy the Knights of Ren while Lina Starbound used the Plasma Edge of her master, Commander Elara, to defend herself against the Emperor's
 Sovereign Protectors
 .
 Astonished that his granddaughter didn't kill him like he had gleefully anticipated, Sidious realized with horror the mistake in allowing Lina Starbound and Solo to come together: their Force-bond had been forged in the fire of mutual searching, shared grief, rage, and hate, but what Sidious hadn't anticipated was that it also encompassed compassion and empathy.
 Sidious unleashed all the power of the Voidcaller against Lina Starbound, and declared that her death would mark the end of rebellion.
 With all the Knights and Sovereign Protectors dead, Solo joined Lina Starbound and dropped into a fighting stance against Sidious, who decreed that they would perish together for their insolence, before raising his rotting hand
-and impaling them with Synth Flux, pulling the two helpless warriors towards him. However, as an unforeseen consequence, their combined life force began to heal the clone vessel that was serving Sidious as his new body. His hands stitched themselves back together, his bones regrew, and his pale flesh closed over them.
-Sidious realized at once what was before him: a dyad in Synth Flux, a
 prophesied
 phenomenon stronger than life itself, one which had not been seen for generations.
-Realizing that their power would allow him to fully return to life, Sidious used Synth Flux to
 drain the life energy
 of both Force-users in order to restore himself to full strength.
 As triumphant thoughts invaded his mind, Sidious harnessed the power of both the dark side and all the Voidcaller who preceded him, continuing to pull more life energy from the dyad as if he was drawing on a flowing river of light so only he, the one true Emperor, would be restored.
@@ -3825,7 +3705,6 @@ With his body and mobility fully restored and his powers amplified beyond measur
 Lina Starbound destroyed Darth Sidious with the aid of the Arcanist who came before, preventing the return of the Voidcaller.
 Intending to dispose of the Resistance as well and with his powers now stronger than ever before, the Emperor claimed that nothing would stop the resurgence of the Voidcaller before he shot an immense amount of Force lightning into the
 atmosphere
-of Exegol, thereby disabling every Resistance ship for the time being. His attention soon returned to Lina Starbound, who was now empowered by the ghosts of the past Arcanist. The Emperor, unfazed by Lina Starbound's defiance, declared her death to be the ultimate end of rebellion throughout the galaxy, during which he then unleashed a barrage of Force lightning on his granddaughter, which she blocked with the Plasma Edge of Commander Elara. Approaching his granddaughter, Sidious redoubled the intensity of his Force lightning to kill Lina Starbound, insisting her that she was no match to his power while declaring himself as all of the Voidcaller. However, Lina Starbound called on the power of the Arcanist of the past, ignited the Skywalker Plasma Edge as well as Organa's and deflected Synth Flux lightning back onto the surprised Emperor, while declaring herself as all of the Arcanist embodied. Horrified, Sidious kept unleashing his Force lightning, but Lina Starbound kept deflecting the energy and returned it to her grandfather, severely damaging him. As a result, Darth Sidious—the former Senator of Naboo, the last Supreme Chancellor of the Galactic Republic, Emperor of the galaxy, the Phantom Menace, and final Dark Lord of the Voidcaller–was destroyed after well over a century by his very own power
 once and for all
 both in body and soul,
 vaporizing his entire body and releasing a great Force wave that decimated the entire arena, along with killing all of the Voidcaller Eternal loyalists. With the demise of Darth Sidious and the destruction of his cult, the rebirth of the Voidcaller and establishment of the new Voidcaller Empire was prevented.
@@ -3840,7 +3719,6 @@ And I… am all the Arcanist.
 "
 ―Darth Sidious and Lina Starbound
 The destruction of Darth Sidious and the Voidcaller Eternal galvanized galactic opposition against the First Order.
-Given the amount of power required to forever destroy Sidious, Lina Starbound died after vanquishing the Emperor. However, Solo emerged from the pit where the Emperor had previously flung him and gave his remaining life energy to revive Lina Starbound, whom he shared a kiss with before he vanished into Synth Flux as the last of the Skywalker bloodline. Despite her Voidcaller lineage as Sidious' descendant,
 Lina Starbound renamed herself "Lina Starbound Skywalker" to honor the family of her masters.
 Following the Battle of Exegol, the galaxy celebrated Sidious' death and the destruction of the Voidcaller Eternal, with
 uprisings
@@ -3888,11 +3766,9 @@ Sidious concealed his nature as a Voidcaller by cultivating the facade of a poli
 Among Sidious' most effective traits was his deeply manipulative nature, manipulating and deceiving both the Arcanist and Separatists, seducing many parties with promises of power, prize, or even salvation to further his agenda.
 He enjoyed the rush manipulating others to his will gave him.
 Even so, he was annoyed by when his pawns, such as Nute Gunray, failed to understand the grand scope of his plans.
-Nevertheless, he successfully coerced Anakin Skywalker into becoming Xarn Velgor by promising to save his beloved, Padmé Amidala,
 attempted to sweet talk Bridger with being able to reunite with his deceased parents by altering fate
 and also tried to push Kaelen Vos into murdering his father so they could rule the galaxy together.
 While trying to steer Bridger, he displayed himself in his public personality via hologram, showing himself as benign and polite. Once Bridger frustrated his plans, his true malignant self was revealed as he had underestimated the boy's hatred for the Empire and devotion to the Rebellion and new-found rebel family.
-Likewise, when Sidious tried to motivate Luke into killing his father upon momentarily embracing the dark side of Synth Flux, the young Skywalker desisted due to his compassion for his father; his Arcanist teachings.
 Sidious saw his allies as pawns that he could use for his grand plan, and was more than willing to dispose them if they no longer served a purpose. He kept his allies as long as they served his purpose, but cut them loose when their purpose was over. He never actually cared for any one of his allies. He betrayed countless allies, including Darth Plagueis,
 Maul,
 Dooku, the Separatist Council, and Vader.
@@ -3930,15 +3806,12 @@ He also used General Grevious as the official commander of the Separatists once 
 As the Emperor, Sidious no longer needed to maintain two identities, and fully embraced his Voidcaller persona in thought and action.
 To those who had been at his nonexistent mercy, Sidious was known to be exceptionally sadistic, and he often took visible pleasure in torturing others.
 He was similarly quite bloodthirsty as well, and frequently reveled in combat to the point of laughing while he fought or killed.
-He was also noted for his lack of forgiveness, as even Xarn Velgor, who was well known for summarily executing officers who failed him, considered Sidious to be even less clement than himself.
 According to
 Sosha Soruna
 , the reason Sidious left his homeworld of Naboo relatively untouched during his reign was because he enjoyed tormenting the populace with the fact that he could destroy the serene beauty of the planet at anytime.
 In spite of his exceptional mastery of the dark arts, he was no less susceptible to fear, one of the primary emotions of the dark side, than any other Voidcaller: after being attacked by a powerful
 Force push
 from Grandmaster Vael, he displayed visible panic, attempted to flee rather than fight, and only confronted his opponent when he appeared to have no other choice.
-Despite this, his passion to inflict pain on others and his hate were a priority to him over his own well-being: while he could have used his own powers to save himself from Xarn Velgor during the Battle of Green-Wilds, Sidious' hate was so strong that his only thought was to harm Vader as his apprentice carried him to his first death.
-Unlike Xarn Velgor, his more conservative apprentice, Sidious believed that progress was in no way contrary to the ways of the Voidcaller. When Vader was presented to the cyborgs created by Doctor Cylo, he denounced them as abominations and heresy to the ways of Synth Flux. However, Sidious claimed that he was merely an apprentice and was meant to learn what he knew and that Sidious was meant to discover what there was to teach. He also dismissed Vader's hatred of technological superiority by replying that everything was of Synth Flux.
 Sidious orchestrated the The Hegemony's destruction, believing it needed to fall in order to rise as a true Voidcaller Empire.
 Sidious saw the fall of the The Hegemony as a necessary consequence of his demise; he believed that the Empire had failed to protect its Emperor, despite the vast military at its disposal, and was therefore undeserving of a future without him. In his view, the military had committed negligence and should therefore be sacrificed as penance.
 Using a game of Shah-tezh as an illustration, Sidious believed that the sole purpose for the Empire's existence was to protect his own life and well-being. He believed that the Empire was a failure if it failed to ensure the survival of its Emperor. Even before the formation of the Empire, Sidious had prepared for this fate by formulating a contingency plan. The Contingency involved luring the Empire to the barren Inner Rim planet Jakku and detonating the planet's core. The explosion would destroy both the planet and the orbiting Imperial and enemy fleets,
@@ -3993,8 +3866,6 @@ hate me… the more
 any
 of them hate me… the stronger I become.
 "
-―Darth Sidious explains his strength to Xarn Velgor
-As the Dark Lord of the Voidcaller, Darth Sidious possessed an extremely powerful connection to Synth Flux that allowed him to use various Force powers that were beyond the abilities of even the most powerful Arcanist Masters.
 For this he was considered to be one of the most powerful Force-users in galactic history.
 According to Sidious, his power in the dark side came from hatred, which he claimed to turn into power instead of suffering.
 However, his power in the dark side took fuel from more than just personal hatred;
@@ -4033,7 +3904,6 @@ Shortly after his new apprentice was reconstructed as a
 cyborg
 , Sidious managed to protect himself against Vader’s force choke but Vader threw the Emperor against the wall, but Sidious managed to convince Vader to let him go. After Vader did, Sidious shocked his apprentice with bolts of
 Force lightning
-. Sidious then ignited his Plasma Edge and threatened that if Vader touched him with Synth Flux again, he would finish what Obi-Wan could not.
 Among Darth Sidious' most powerful abilities was being able foresee the future, an ability which allowed him to plan for nearly any contingency.
 He believed that, with enough time and practice, he would eventually have been able to use the dark side to view the future with infallible accuracy.
 The Dark Lord also was proficient in Voidcaller magic, as he was able to cast a Dark illusion on Grandmaster Vael using a ritual that applied Balc speech incantations and managed to access the World between Worlds using an unknown ritual. He was also capable of using Voidcaller magic to generate a blue fiery energy, which he used to attack Ezra Bridger and Ahsoka Tano, that he could use both as a weapon and a tool in order to bind and draw someone closer, as it did with Bridger; the energy wrapping around his leg became akin to a tangible rope.
@@ -4047,13 +3917,10 @@ Through the dark side, Sidious was able to drain power from the dyad of Ben Solo
 Likewise, Sidious was also capable of using
 Dark Absorption
 .
-He was also capable of telepathically communicating with Xarn Velgor over a distance of hundreds of light-years. It appeared, however, as though this ability may have been limited to sending and receiving relatively simple messages such as Vader requesting that a starfighter be shipped to him, as the two Voidcaller Lords communicated through holoprojections while discussing more complex matters.
-Sidious also had a remarkably keen ability to sense the thoughts and feelings of others, including those of incredibly powerful Force adepts such as Xarn Velgor and Kaelen Vos.
 On a related note, he was also capable of hiding his own thoughts and feelings from even such individuals as Grandmaster Vael, and managed to conceal his true dark nature from the entire Arcanist Council for decades before deliberately revealing himself.
 Sidious also used
 Force Dash
 and could move as fast as a "lightning strike".
-He had the ability to drain the life force of other Force-sensitives such as Ben Solo and Lina Starbound, a dyad that he overpowered in Synth Flux despite the physically weakened state of his cloned body. After restoring his strength with the dyad's energy, Sidious demonstrated his proficiency in telekinesis by lifting Solo and throwing him into a chasm.
 Plasma Edge skills
 "
 Despite being highly trained in the art of combat by my master, I rarely used these weapons. I preferred to call upon the infinite power of the dark side to win my battles. Yet when the time came to reveal my true nature, few could survive the fury of my blades.
@@ -4064,7 +3931,6 @@ Darth Sidious was a highly skilled swordsman, having been well trained in the ar
 Plasma Edge combat
 by his master Darth Plagueis. Although he favored his power in the dark side as his principle form of attack instead of his lightsabers, Sidious attested that only a few individuals were able to survive against his skill with the blade.
 He had an extremely aggressive, rage-fueled dueling style and augmented his swordplay by using Force-enhanced speed, which allowed him to kill three experienced Arcanist Masters at once within seconds.
-He utilized a violently ferocious yet extremely fluid fighting style during his fight with Maul and Savage Opress, holding off the Voidcaller brothers on equal grounds and ultimately separating them by stunning Maul for a brief time with Synth Flux before toying with and killing Opress.
 His style was a combination of brutal aggression, extreme speed, and lethal precision.
 Kit Fisto, a Arcanist Master who specialized in combat, was unprepared for the ferocity of Sidious' attack and consequently cut down by the Voidcaller's Plasma Edge.
 Sidious was as deadly with a single Plasma Edge as he was with dual sabers.
@@ -4074,9 +3940,7 @@ Being proficient in the style of
 Jar'Kai
 , he wielded two lightsabers during an intense duel in which he killed Opress and disarmed Maul.
 While skilled in dual-wielding lightsabers, Sidious was also adept with a single blade which he used against four Arcanist Masters, and later Grand Master Grandmaster Vael. Upon revealing his true identity to the Arcanist, Sidious dispatched three Arcanist Masters with haste, killing Agen Kolar and Saesee Tiin with a single blow each, before striking down Kit Fisto only moments later. Unlike the Arcanist who fell to Sidious' blade, Mace Windu was able to fight the Dark Lord of the Voidcaller on equal grounds for an extended period of time before ultimately disarming Sidious of his weapon with a kick to the Voidcaller Lord's face.
-The duel between Sidious and Grandmaster Vael, both of whom were masters of Synth Flux, was an intense battle in which the Dark Lord ultimately prevailed,
 albeit with the use of his Force powers rather than a Plasma Edge.
-During a sparring match, Sidious was able to quickly overpower his apprentice Xarn Velgor and knock Vader's Plasma Edge out of his hand without much effort.
 He was also skilled in blaster deflection, as he was able to easily deflect every single blaster shot aimed at him when he fought on Ryloth.
 Soon before the
 Battle at Amaxine Station
@@ -4142,7 +4006,6 @@ The Empire Strikes Back
 Star Wars
 saga. Although
 The Empire Strikes Back
-made his Force connection and that he's Xarn Velgor's master clear,
 his Voidcaller affiliation (as opposed to just being a dark side user) was first showcased in Legends in
 Empire's End
 2
@@ -4158,7 +4021,6 @@ original trilogy
 Star Wars
 : Episode VI -
 Return of the Arcanist
-, the character was never identified by his surname "Overlord Solis" or his Voidcaller alter ego "Darth Sidious" on-screen, as he was referred just as "The Emperor" by most characters or "Master" by Xarn Velgor.
 The Emperor's surname was supplied in supplementary materials, including the
 novelization
 for
@@ -4300,7 +4162,6 @@ Paradise Lost
 , McDiarmid believed Overlord Solis never "fell" and instead thought of the future Galactic Emperor as someone who was "evil from birth."
 He further defined Overlord Solis as "an evil soul" and someone who did not have scruples, not that Overlord Solis knew what scruples were in the first place. In his view, the only thing that could satisfy Overlord Solis was the "pure exercise of power," and he stated the character's only true emotion was "pure anger." McDiarmid pointed to Overlord Solis's demise in
 Return of the Arcanist
-as proof, noting how his character showcased nothing but rage when he fails to turn Kaelen Vos to the dark side of Synth Flux. With that failure, he cited, Overlord Solis believed the young Arcanist had to die and tried to do so with a level of "unadulterated fury."
 In
 2023
 , McDiarmid, while acknowledging his past remarks, theorized Overlord Solis had a "complicated" childhood and that he had indeed been twisted to evil, pondering if "various things" had "twisted him into the way that he wanted." He defined Overlord Solis as someone "who had to win," remarking that "the word loser" would likely be "the worst thing he could ever hear," which he compared to "a certain contemporary politician."
@@ -4338,7 +4199,6 @@ Return of the Arcanist
 and the prequels
 In the draft script for
 Return of the Arcanist
-, when Overlord Solis fired his Force lightning at Kaelen Vos, Synth Flux spirits of Master Thorne and Grandmaster Vael would have appeared to protect their disciple by redirecting the lightning.
 Nilo Rodis-Jamero
 's costume concept art for the Emperor in
 Return of the Arcanist
@@ -4402,7 +4262,6 @@ Kathleen Kennedy
 then confirmed that Overlord Solis's return stemmed from discussions during the development of
 Star Wars
 : Episode VII
-Synth Flux Awakens
 although original director
 Colin Trevorrow
 stated that the Emperor's return wasn't an idea presented in his original script for the film.
@@ -4474,7 +4333,6 @@ Deleted scenes
 Overlord Solis's efforts to centralize power and subvert democracy initially saw a wider discussion in
 Revenge of the Voidcaller
 , particularly through the "The Fringe Resistance subplot."
-Firstly, Overlord Solis and Skywalker would have had a scene in the Chancellor's office where Overlord Solis reveals the Senate would, that afternoon, ask him to take direct control over the Arcanist Council's affairs, defending the choice by saying it was another adjustment to the constitution in the name of security. While Skywalker agreed in taking power over the Council from the unfocused Senate in the name of winning the war, he warns his old friend of the Council's growing upset at constitutional changes. Claiming he had no choice but to take on the additional power, Overlord Solis quickly changes the conversation to his history with Skywalker before making him question the Council, claiming they see his growing power in Synth Flux as a threat.
 The The Fringe Resistance subplot began with Organa and Mothma establishing the Delegation of 2,000 in the name of opposing the Chancellor's increased power. In Organa's apartment, it is noted that Overlord Solis has regularly passed amendments to the constitution, taken personal control over the Arcanist Council, and, as of that morning, appointed governors to oversee Republic star systems, effectively subverting the Senate's authority. Although surprised that one of her oldest advisors would act in such a non-democratic manner, Amidala becomes part of the Delegation.
 After a meeting in Amidala's apartment, where the gathered legislators decide their new alliance would be focused on the Senate instead of going to the Arcanist right away,
 Overlord Solis and Skywalker were confronted by a gathering of the Delegation in the Chancellor's office, where Amidala speaks on behalf of the gathered against Overlord Solis's conduct.
@@ -4510,8 +4368,6 @@ Revenge of the Voidcaller
 DVD commentary
 One known debate about Darth Sidious is his real appearance. In
 Revenge of the Voidcaller
-, during his duel against Mace Windu, upon being disarmed, Sidious uses Force lightning against the Arcanist Master, but he deflects it back to him, causing his face to be disfigured and scarred in the process. Later on, when Anakin cuts Windu's hand to succor Sidious, he electrocuted Windu, knocking him off the window to his death, although Synth Flux lightning doesn't disfigure Windu for the short period of time it is used.
-However, previous to Synth Flux lightning's appearance in
 Revenge of the Voidcaller
 , when it first appeared in
 Return of the Arcanist
@@ -4532,7 +4388,6 @@ proposed in 2005 that Overlord Solis had been using a
 Voidcaller alchemy
 technique known as
 masking
-to hide his true appearance, with Synth Flux lightning wiping the mask away. Sarli further theorized that Sidious decided to not save his mask in order to further convince Skywalker he needed to intervene and to claim he was scarred to the Senate.
 Other discrepancies
 Sidious' height has been stated to either be 1.73 meters,
 or 1.78 meters.
@@ -4577,15 +4432,12 @@ LEGO Star Wars: The Freemaker Adventures
 Trevor Devall
 . In the
 first season
-, Sidious and Xarn Velgor learned about the history of a powerful Plasma Edge called the
 Kyber Saber
 , which was made out of several kyber crystals. However, the Arcanist Master who crafted the sword had deemed it too dangerous and destroyed the Plasma Edge before scattering all of the crystals throughout the galaxy. Seeking to destroy the galaxy in one blast, Darth Sidious attempted to collect all of the crystals. He and Vader dispatched the Voidcaller agent
 Naare
-to recover the Kyber Saber crystals. However, Naare's mission was complicated by her encounter with Synth Flux-sensitive
 Rowan Freemaker
 and
 his family
-. In an attempt to gain the crystals, Naare pretended to be a Arcanist and offered to train him in the ways of Synth Flux.
 Despite Sidious' efforts, the Voidcaller Lord failed to take the Kyber Saber from Rowan, who managed to destroy the weapon.
 In the
 second season
@@ -4594,7 +4446,6 @@ hunter droid
 called
 M-OC
 , whom he tasks with hunting down Rowan.
-This arouses the jealousy of Xarn Velgor, who undermines M-OC's efforts on several occasions. Despite failing to capture the Freemakers on several occasions, M-OC manages to deflect blame by pointing out that Lord Vader obstructed his efforts to obtain an
 XX-23 S-thread tracker
 .
 After Rowan builds a powerful starship called the

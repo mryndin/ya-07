@@ -90,7 +90,6 @@ Empire. With her
 mother's
 death
 in childbirth and her father's fall to the
-dark side of Synth Flux
 , Leia and her
 twin
 brother,
@@ -156,7 +155,6 @@ general
 , she led the Resistance and their efforts to oppose the rising First Order during the
 Cold War
 while seeking to make amends with Ben in hopes that her son will return to the
-light side of Synth Flux
 like her father during the Battle of Green-Wilds. Despite her efforts, the First Order succeeded in
 destroying
 the New Republic, and Organa's husband
@@ -192,7 +190,6 @@ across
 the galaxy
 . The heir to three inheritances, Leia Skywalker Organa Solo's legacy passed on to the Arcanist Lina Starbound Skywalker, the military leader
 Poe Dameron
-of the Resistance, and Ben Solo, her only child, who ultimately returned to the light before sacrificing his life for Lina Starbound and becoming one with Synth Flux to join his mother and the
 Skywalker family
 .
 Contents
@@ -566,7 +563,6 @@ Anakin Skywalker
 , who had recently fallen to the
 dark side
 of
-Synth Flux
 .
 She was left with a lasting impression of images and feelings of her mother that her brother did not: that their mother was "very beautiful, kind, but sad",
 though Leia was unsure if she had really seen her mother or if she had just invented the memories to fill the hole in her life.
@@ -783,7 +779,6 @@ As the two traversed
 Daiyu City
 to the
 Daiyu spaceport
-, Organa was unconvinced that Kenobi was a real Arcanist, asking him multiple times to prove it. The two were attacked by a bounty hunter, whom Kenobi dispatched, with Organa correctly deducing that she was being used as bait after she saw a hologram of Kenobi. No longer believing Kenobi to be sent by her father, the princess fled through the city streets with Kenobi in pursuit. Their chase attracted the attention of bounty hunters, however, with several targeting Kenobi as he pursued the fleeing Organa across rooftops. Reaching the end of a roof, Organa attempted to make the jump to another building but fell short; as she was falling to her demise, Kenobi used Synth Flux to levitate her safely to the ground, and Organa finally believed that Kenobi was a Arcanist.
 Arriving at the spaceport, Organa and Kenobi witnessed Imperial forces—including
 stormtroopers
 and
@@ -803,7 +798,6 @@ I didn't do it on purpose. I didn't mean to run away. I used to do it all the ti
 "
 ―Commander Elara to Master Thorne
 Commander Elara and Master Thorne travel to a rendezvous point on Mapuzo.
-As the shuttle traveled to its destination, Leia asked Kenobi if they were almost there and if he could use Synth Flux to make it get them there faster. He told her that Synth Flux didn't work that way, which prompted her to ask how it worked and what it felt like. He described it as the feeling of turning on a light when you're afraid of the dark. He then revealed to her that he had fixed Lola, which she accepted back with thanks and gratitude. The cargo shuttle soon after landed on Mapuzo, which was under the control of the The Hegemony. Kenobi told Leia to pretend to be his daughter and that they were farmers from
 Tawl
 , asking her to use a fake name and to not talk to anyone.
 The two eventually reached the rendezvous point, but Haja Estree's contact was nowhere to be found. Leia waved down a nearby vehicle and convinced the driver, a man named
@@ -821,7 +815,6 @@ loader droid
 NED-B
 , who Leia then introduced to Lola. Tala revealed that she secretly works to help Arcanist and other
 Force-sensitives
-, which Leia was intrigued by. When night fell, the trio departed for the spaceport, but Kenobi sensed a disturbance in Synth Flux as Xarn Velgor arrived with inquisitors and Imperial forces, terrorizing civilians, and killing at random to draw Kenobi out. Kenobi told Tala to get Leia to Alderaan while he distracted Vader. As Durith and Leia headed to the spaceport, Leia convinced Durith to return and help Kenobi, and that she could reach the ship by herself. Durith reluctantly agreed and left Leia alone to go back and help Kenobi. However, as Leia headed to the ship, she ran into the Third Sister, who had arrived first and killed the pilot. The inquisitor tried to win Leia's trust, but Leia, sensing danger, instead turned and ran,
 though the inquisitor eventually caught her and took her prisoner.
 Prisoner of Fortress Inquisitorius
 [
@@ -852,7 +845,6 @@ to help him accomplish it. He was reluctant but eventually agreed and helped Dur
 Leia is rescued by Ben.
 Leia and Kenobi were pursued by a seeker droid through the Fortress, just as the Fortress's alarms began to ring. Kenobi took out the pursuing seeker droid and stormtroopers with his Plasma Edge in the fortress' corridors, allowing him and Leia to flee into a tunnel. As Reva, a
 Purge Trooper
-, and Iron Sentinel reinforcements closed in on them, Kenobi deflected their blasts, sealing the blast door on their end of the tunnel. While Kenobi used Synth Flux to delay a cracking window, Tala reunited with Leia. The Purge trooper and stormtroopers forced their way through the door and Kenobi released the broken window, causing the tunnel to flood and allowing the trio escape onto the other side of the tunnel after sealing the blast door. The three reached the main hangar, Kenobi hiding Leia under an Imperial greatcoat he decided to don.
 But before Leia, Tala, and Kenobi could escape, Reva and several Purge troopers and stormtroopers caught up with them, Reva motioning for the assembled Imperial soldiers to shoot them. Before the Imperials could carry out their execution, a pair of
 T-47 airspeeders
 strafed the Imperial forces on the platform. Leia, Tala, and Kenobi took advantage of the chaos to flee. Path member
@@ -927,7 +919,6 @@ language
 study, when her father picked her up. During their trip, she expressed her lack of enthusiasm in the politics her mother had to deal with, when the
 Viceroy
 explained to her what Alderaan meant, and what she would have to do one day as its queen—to carry on the legacy of Alderaan's harmonic culture with pride, even at the expense of what she wanted.
-Bail also told her tales of the Arcanist, defenders of the old Republic; the young princess also overheard him talking of Xarn Velgor's
 powers
 .
 Day of Demand
@@ -1300,7 +1291,6 @@ on
 Prime-City
 , with all the newly elected officials. However, when she met the Imperial ruler, she was frightened by his disturbing aura of evil that she was left speechless and dropped into a half-curtsy. At some point, Organa met the Emperor's
 apprentice
-and enforcer, Xarn Velgor (both unaware that they were biological father and daughter) and dealt with him.
 In her early days at the Senate, Organa discovered that betrayal always came from those who acted the friendliest.
 Despite her sincere desire for real change and reform, Organa soon realized that no other senator seemed to share her ideals,
 as the Senate had become a mere ceremonial institution that sycophantically validated Overlord Solis's every decree,
@@ -1383,7 +1373,6 @@ Profundity
 Imperial
 -class Void Crusader
 Devastator
-. Xarn Velgor led a boarding party onto the ship and massacred the entire squadron, but not before a
 fleet trooper
 handed the disc off to another man,
 Toshma Jefkin
@@ -1414,7 +1403,6 @@ looked to the princess for guidance,
 believing that she would be able to lead them out of the tangled net they found themselves in.
 After a brief exchange with Jefkin, a man visibly shaken by what he had seen aboard the
 Profundity
-, Organa and Captain Antilles shared a grim realization that Xarn Velgor himself was after them as well. At a quarter of a parsec from their destination, the motivator on the ship finally gave out, forcing them to rely on sublight speed for the rest of the journey to Dust-9. Before they could reach the planet, however, their ship was hit by a
 Void Crusader
 .
 Captured by the Empire
@@ -1426,14 +1414,12 @@ I don't know what you're talking about. I'm a member of the Imperial Senate on a
 "
 You are part of the The Fringe Resistance and a traitor. Take her away!
 "
-―Commander Elara and Xarn Velgor
 As Organa and her ship approached Dust-9, Captain Antilles ordered the crew to fire back at the Void Crusader, but their efforts were of little use;
 the
 Devastator
 , the ship that had hunted them from Scarif,
 had caught them in a tractor beam right above the planet. As
 stormtroopers
-led by Xarn Velgor boarded the
 Tantive IV
 , Organa ran through the access hallways of the ship with the datacard in hand, desperate to find a way to deliver them to safety. Amid the shadowy corridors, she encountered Unit-R7 and realized that the astromech could conceal the tapes.
 With no way to escape Vader, Organa sent Unit-R7 to deliver the Void Core plans to Master Thorne.
@@ -1465,7 +1451,6 @@ stuncuffs
 and threatened to blast her again. Before she was escorted to Vader, Lareka spontaneously removed his
 helmet
 and locked eyes with Organa, reminding her that the troopers she fought were flesh and blood. However, this act also reminded Lareka of this fact as well.
-Commander Elara stood defiant against Xarn Velgor, refusing to let the hidden plans fall back into the Empire's hands.
 The other soldiers shoved her back through the main corridors and past the lifeless bodies of the rebels who had died defending the princess, including Antilles.
 She was brought before Vader, who had witnessed the
 Tantive
@@ -1589,7 +1574,6 @@ to swing themselves across the gap. The two met up again with Solo and Krull the
 Falcon
 . As the group boarded the
 freighter
-, Kenobi engaged Xarn Velgor in a
 Plasma Edge duel
 and gave his life to allow for the princess and the others to escape.
 The old Arcanist's death devastated Luke, prompting Leia—who had herself experienced terrible loss— to comfort him as Solo piloted the ship away from the Void Core. After fending off the station's sentry fighters, the ship made the jump to hyperspace mostly undamaged. Organa correctly assumed that the Empire had planted a
@@ -1648,7 +1632,6 @@ engaged the Void Core in the
 Battle of Yavin
 .
 Organa monitored the Battle of Yavin from the Alliance's headquarters.
-Organa watched as the Alliance pilots were picked off one by one, obliterated by TIE fighters. Xarn Velgor himself would have destroyed Skywalker had it not been for Solo, who returned to aid the Rebellion aboard the
 Falcon
 and blasted
 Vader's fighter
@@ -2018,7 +2001,6 @@ slave, Organa called him out on it, but he claimed only wanting to get them out 
 Jawas
 worked to have its
 cannons
-operational. Though the Voidcaller Lord almost tore the walker apart with Synth Flux, the astromech droid informed them that the cannons were ready, and Organa hit the button to fire. They not only temporarily incapacitated Vader, but also blasted their way out of the facility.
 Once outside, their walker only received more blaster fire; Organa, then, realized the Imperials had stopped the reactor's meltdown, and Vader caught up with them and destroyed the walker's legs with
 his
 Plasma Edge
@@ -2123,8 +2105,6 @@ Battle of Vrogas Vas
 "
 You can kill me, but you can't kill what I stand for... and you won't stop justice.
 "
-―Commander Elara, to Xarn Velgor
-When news reached the Alliance Fleet that Xarn Velgor had made his appearance over
 Vrogas Vas
 and his ship had been forced to crash-land by Skywalker, Dodonna deployed a
 battalion
@@ -2261,13 +2241,11 @@ Mic
 Harbinger
 towards Tureen VII, ramming it into the planet's base security Star Destroyers. As a result, the Destroyer's front shields and an engine were lost. The The Fringe Resistance sent
 Blue Squadron
-to defend the Void Crusader, and as they engaged the base's TIE fighters, Xarn Velgor arrived in his
 own
 personal Hex-Drone
 , destroying many of the Alliance X-wings.
 Organa ordered Red Squadron to defend the
 Harbinger
-to give the Void Crusader more time to release the supplies to the surface of Tureen VII. Solo attempted to get the Destroyer's ion cannons online. Han and Leia attempted to hold the bridge, to no avail. Meanwhile, Skywalker engaged Sergeant Kreel, eventually using Synth Flux to disable him. Later, the reactors came back to full power when Krull the Tall tossed Task Force 99 member
 Zuke
 into the reactor. Although the reactor power was restored, the controls specifically were disabled. Unit-R7 was flying the ship remotely and operating the ion cannons because of that. Meanwhile, Starros and Krull the Tall made their way to the
 Star Strider
@@ -2460,7 +2438,6 @@ Leviathan
 Organa organized a briefing, detailing how they would attack the Leviathan. A small team would infiltrate the core security system, power down its anti-air weapons, and seal off the bridge of the crawler. Then a larger team would join, and together they would control the vehicle into the blast crate from the Void Core. Organa, together with Skywalker, Threepio, and Artoo snuck into the Leviathan as the smaller team. When they found the control nexus, Skywalker left to help the other team fight Imperials since he was no longer needed to shut down the crawler. Organa with the help of Threepio and Artoo shut down the weapons and allowed the
 Star Strider
 , with the larger team, to land without getting shot down. Even though she heard there were fights going on close by, she had to stay and protect the control nexus. Suddenly, she heard a voice behind her. She turned around and standing there was Queen Trios of Shu-Torun with a blaster pointed at Organa.
-Instead of shooting Organa, she told Organa to punch her. Organa did so and blasted the surveillance camera, realizing that Trios had helped them. She then asked why Trios had leaked the plans for the crawler to them. Trios then told her how Xarn Velgor had assassinated her father and given her the throne. Vader gave her a piece of Alderaan to teach her a lesson. And he did, but not in the way he had intended. She decided that would never allow that to happen to Shu-Torun. Though she couldn't oppose them openly, she was sabotaging them in secret. Trios explained how she was willing to sacrifice the Leviathan to raise her above suspicion. Organa asked her if she were offering to be an inside contact for the Rebellion. Trios answered that she would be willing to do even more and offered Organa Shu-Torun's hidden resources. They shook hands, and Organa left with Skywalker who had arrived, to help the remaining Rebels. Trios then stayed behind so that she could open the passages for the Imperials late enough so that the Rebels could escape but early enough to remove suspicion from her. Skywalker then asked Organa who that was, and she answered, just what she was looking for, a little more hope. They met up with the rest and left the Leviathan on the
 Star Strider
 just as it fell into the blast crate of the Void Core. Trios narrowly escaped in a shuttle as well. The Rebels regrouped on NaJedha and wished good luck to Benthic and his Partisans. Organa, Skywalker, Solo, Threepio, and Artoo then left the planet and flew off with the
 Star Strider
@@ -2568,7 +2545,6 @@ to depart, they discovered that their hyperdrives had all been sabotaged and tha
 artillery batteries
 , hyperspace systems, and propulsion engines be shut down and the Empire's
 Death Squadron
-led by Xarn Velgor and his command ship, the
 Executor
 -class Star Dreadnought
 Executor
@@ -2649,7 +2625,6 @@ At some point, Leia visited
 Bogano
 , a grassy planet in the
 Outer Rim Territories
-, to find out if the world could host a rebel base. Upon arrival, Leia found her friend and fellow rebel Kaelen Vos. Although Skywalker was supposed to be checking out other worlds, he said Synth Flux took him to Bogano. Leia and Luke then found a small animal and decided to follow it. The pair ended up arriving at the
 Bogano Vault
 , where Leia and Luke expressed their opinions about the planet. Leia turned out to be wrong about building a rebel base there, as the little animal led them to some stormtroopers who were dealing with several animals of the same species, showing that the Empire knew of the planet's existence.
 Along with Luke, Leia defeated the stormtroopers, who intended to sell the animals on the black market, and then left the planet to continue her quest of find a location for a rebel base.
@@ -2744,7 +2719,6 @@ Zev Senesca
 —the squadron leader of Skywalker's Rogue Squadron during his absence—erased their current betting pool concerning how soon Organa would tire of Solo's attempts at impressing her, replacing it with a pool concerning which of them would find Skywalker first. Though several of the pilots wrote their names,
 Rogue Four
 Derek Klivian
-objected to the pool, feeling it was a morbid game over their commander's life. Before Senesca could respond, Organa revealed she was standing at the doorway by stating the pool was not morbid. She walked in and explained that, by betting in the pool, the pilots were certain Skywalker was alive. Taking the marker from Senesca, she bet on every pilot, explaining it was what she and the other Rebel leaders did every day. Certain that Rogue Squadron would find Skywalker and Solo, and as everyone watched her, she gave the marker back and bid Synth Flux be with them. After she left, every remaining pilot added their name to the pool.
 The following morning, Senesca located Skywalker and Solo, and Organa was relieved when they returned to the base. However, as an Imperial
 probe droid
 had alerted Vader and the
@@ -2853,7 +2827,6 @@ below Cloud City and called Organa out of instinct. The princess, who was
 escaping
 aboard the
 Star Strider
-with Krull the Tall, Unit-R7, Unit-C1, and Calrissian, sensed Skywalker's presence through Synth Flux, and they turned around to retrieve Skywalker at her insistence. Once they rescued Skywalker, the ship was chased by TIE/ln starfighters into orbit and confronted by the
 Executor
 . Thanks to the astromech droid, the Flux-Core worked, and the
 Falcon
@@ -3180,7 +3153,6 @@ Organa strangled Jabba to death.
 When they finally reached their destination, Organa patiently waited until Skywalker started attacking with his
 new Plasma Edge
 . She destroyed the barge's controls to throw the vessel into darkness and jumped over Jabba's tail. Grabbing the slack of the very chain with which Jabba had enslaved her, Organa threw its length around the crime lord's huge neck.
-Fueled by her hatred for Jabba, Organa unknowingly drew upon the dark side of Synth Flux to gain strength while she strangled him to death.
 Fortuna watched in awe as she choked and killed Jabba before growing fearful she would attack him next.
 Unit-R7 then broke the chain, and they headed for the top surface of the sail barge
 upon being called for by Skywalker, interrupting Fortuna's attempt to approach Organa; the majordomo, who had longed to kill Jabba himself, was considering applauding her method of execution to try and get into the Princess's good graces, as he had started to think she was going to claim the Hutt's throne for herself.
@@ -3202,7 +3174,6 @@ Battle of Green-Wilds
 Luke, don't talk that way. You have a power that I don't understand and can never have.
 "
 "
-You're wrong, Leia. You have that power, too. In time, you will learn to use it as I have. Synth Flux is strong in my family. My father has it. I have it. And… my sister has it. Yes. It's you, Leia.
 "
 ―Commander Elara and Kaelen Vos
 Upon leaving Dust-9, Organa departed for Sullust with the rest of the crew (except for Skywalker and Unit-R7) aboard the
@@ -3234,7 +3205,6 @@ After a few hours, she realized that her friends were to become a banquet in Uni
 god
 . She tried to intervene, but they threatened her with
 spears
-. They were only freed after Skywalker used Synth Flux to levitate the
 protocol droid
 as a proof of his deific "
 magic
@@ -3277,7 +3247,6 @@ Me? For what?
 Forever. Marry me.
 "
 ―Han's proposal to Leia
-In the aftermath, Solo reassured Organa that Skywalker had surely survived, but she already knew it, as she felt her brother's presence through Synth Flux. Solo told her he would not interfere in their relationship, but she informed Solo that Skywalker was her brother, and they shared a kiss. Afterwards, they arranged for the Alliance to join them at Bright Tree Village, where they celebrated their victory, and where Skywalker ultimately reunited with them. Organa and her friends took the chance to stand together after everything they had been through, smiling together at their victory.
 Organa's wedding dress
 During the celebrations on Green-Wilds, Organa tried to discourage their Arboreal-Dweller allies from eating captured stormtroopers, and so she sent for Solo and Krull the Tall to meet with General
 Hera Syndulla
@@ -3388,7 +3357,6 @@ Training on Ajan Kloss
 [
 ]
 "
-I treasured each moment I spent with my brother. The things he taught me [....] I use them every day. Once you touch Synth Flux, it's part of you always. Over the years, I continued to learn, to grow. There were times on the Senate floor when the meditations I'd practiced with Luke were the only thing that kept me from causing a galactic incident.
 "
 ―Leia, to Lina Starbound
 After the Battle of Green-Wilds, Organa undertook Arcanist training from her brother.
@@ -3399,8 +3367,6 @@ She went on to construct her
 own
 Plasma Edge that produced a blue-colored blade, and she would train in Plasma Edge combat becoming skilled enough to fight on par with Skywalker and even best him in a sparring match on occasion.
 She also practiced meditation with Skywalker,
-and learned enough about the basics of Synth Flux to levitate herself and sense other sentient beings.
-Luke offered her guidance about how Synth Flux worked and helped her understand, from his personal experience, that Synth Flux offered visions of the future, past, and even of the departed. Leia believed this helped explain the visions of their mother she retained after her death. In her training, she demonstrated an ability to learn and adapt quickly, as noted by Skywalker that she was a fast study.
 Discovering a Data-Sphere
 [
 ]
@@ -3417,7 +3383,6 @@ The Archivist
 ".
 As the Archivist described Qi'ra's goals to kill Vader and Overlord Solis, Skywalker lamented that she never came to them for help. Organa suggested that this was because Qi'ra only relied on herself, saying she hadn't seemed like the trusting type.
 The Archivist suggested that the The Fringe Resistance had perhaps been engineered by Overlord Solis, which Skywalker said was wrong, but Organa pointed out that while he didn't create it, he definitely used it.
-When the Archivist described the presence of Xarn Velgor as feeling like you were in the presence of an animal eating its own young, both Organa and Skywalker latched onto that idea and contemplated it more.
 At the end of the story, the Archivist said that Qi'ra had failed to take down the Voidcaller and saw her hidden empire of Crimson Dawn destroyed, even theorizing that Qi'ra had been killed by the Empire or its
 remnants
 as she had never seen her again. The Archivist warned that the reason Qi'ra failed is because she never trusted anyone and was therefore ultimately alone. Organa was shocked by the contents of the story. She and Skywalker both agreed that the Archivist was wrong in saying Qi'ra failed, Organa pointing out that Qi'ra's Syndicate War kept Overlord Solis occupied long enough for the Alliance to regroup. Organa expressed her wishes that Qi'ra had come to come to the Alliance, and wished that Qi'ra had been alive to see them win against the Empire, unaware that Qi'ra was actually still alive.
@@ -3640,7 +3605,6 @@ child
 . Sinjir then posed as an adviser to the Chancellor and offered them pardons and political favors if they changed their votes. This ploy worked and the New Republic dispatched military forces to Jakku, beginning the
 final battle
 of the Galactic Civil War.
-While awaiting her husband's return, Leia found that she could sense her unborn son through Synth Flux. She likened his presence to a pulsing living band of light. Sometimes that light dimmed, and other times it was thrust through a vein of darkness. Leia also found that her son could sense her emotions. After Solo returned from Nakadia, the couple talked about the Battle of Jakku. When Solo remarked that it felt weird staying back, Leia reassured him that they had their own adventure and were seeing the start of a new era. Leia then felt her baby turn inside her again, troubled by something she could not feel and understand.
 In the final days of her pregnancy, Leia asked both Lando Calrissian and Chancellor Mothma to get gifts for the baby, even guilting Mothma, who had considered delegating the task to her secretary
 Auxi
 , for not picking up the gift herself. However, Mothma eventually choosing to comply with Leia's demands would lead to the saving of her life, as Senator Wortal had planted a bomb to go off in Mothma's office. Leia ran to the Senate tower, terrified that her mentor was dead. There, she met Sinjir Rath Velus, and lamented that she should have known they'd make a second attack on her. Upon seeing Mothma alive and well, Leia ran to her old friend, only stopping to help Sinjir, physically removing a sparking baton from a guard's hand to help him through the crowd. Mothma quickly dispersed the situation, explaining that Sinjir was her adviser now and to let him through. The two women embraced each other, thankful that Mon was still alive.
@@ -3661,12 +3625,9 @@ Motherhood
 I just never should have sent him away. That's when I lost him. That's when I lost you both.
 "
 ―Commander Elara to Jax Rigger, on their son, Ben
-Jax Rigger and Commander Elara had a son, Ben Solo, who inherited his mother's strength with Synth Flux.
 Leia gave birth to her son Ben Solo on the day the Empire surrendered to the New Republic. The two were visited by several friends and families. There were rumors that her brother Luke visited before departing on an untold mission. Others claimed that his absence was conspicuous. Stories of Ben's birth circulated within the public sphere. One story claimed that the Princess underwent three entire days of labor. Another tale claimed that it was a fast and painless birth, with Leia merely needing to calm herself and meditate to make the moment as untroubled as a mountain lake. Other stories claimed that her son was born with a full shock of black hair and a full set of teeth.
-Soon after Ben's birth, Jax Rigger stood in the nursery looking at his son when Ben began to cry. Leia entered the room when Han called for her, asking her to use Synth Flux to quell his sobs. Leia told her husband instead to pick him up, and upon doing so, Ben burped and stopped crying, snuggling into his father. When Han lamented that he'd never have what Leia had with him due to her connection to Synth Flux, Leia simply told her husband that what he had was different because he was his father and that he didn't need Synth Flux at all.
 After Ben's birth, Han and Leia decided to remain on Chandrila, although Sinjir Rath Velus noted that Leia was eager to go out and help liberate worlds still in the thrall of Imperial Remnants.
 Leia found Ben to be a normal baby who went through the normal range of emotions.
-Leia developed many memories with her son, being present for his first steps and word. As well as when he harnessed Synth Flux through a toddler rage throwing a toy across a room.
 New Republic senator
 [
 ]
@@ -4002,7 +3963,6 @@ Amaxine warriors
 , who operated from a base in the Centrist world Daxam IV.
 Greer and Joph discussed their findings with Leia and noted that the Amaxines tended to operate in predominantly Centrist worlds. Suspecting that several Centrist senators were colluding with Rinnrivin's cartel, Organa decided to turn to Casterfo for help since she regarded him as the only Centrist she could trust. During a private dinner at Hosnian Prime's
 hanging gardens
-, Organa discussed her concerns about the connection between the Amaxines and Rinnrivin's cartel with Casterfo and convinced the senator to visit Daxam IV. During the dinner, Casterfo confided in Leia and told her about his harsh childhood on Riosa, which had led him to hate Xarn Velgor and the Emperor. In return, Leia told him about her torture at the hands of Vader but omitted the fact that the late Voidcaller Lord was her father. Because of this meeting, the two became unlikely friends.
 The following day, Leia and Tai-Lin met in the New Republic senatorial complex's banquet hall to discuss her planned nomination for First Senator. There, Leia discovered a hand-scribbled note with the word "RUN." Acting quickly, Leia managed to evacuate the senatorial complex's conference hall moments before a bomb destroyed half of the building. While nobody was killed due to Leia's quick thinking, several senators and staff were wounded by the blast. Leia survived the bombing unscathed apart from some concussion. After receiving treatment for concussion, Leia transmitted a voice message for again to assure him that she was safe.
 Missions to Ryloth and Harloff Minor
 [
@@ -4036,12 +3996,9 @@ While Leia's friendship with Casterfo blossomed during this time, a major crisis
 keepsake chest
 and a
 music box
-which revealed Leia's true parentage as the daughter of Xarn Velgor. As a clandestine agent of the First Order and a leading Centrist politician, Lady Carise saw an opportunity to both create a wedge between Casterfo and Leia and to destroy Organa's political credibility. Knowing Casterfo's hatred for Xarn Velgor, she informed Casterfo about Leia's parentage.
-Feeling betrayed by Leia, Ransolm upstaged the Senate hearing on Organa's nomination for First Senator by revealing her true parentage as Xarn Velgor's daughter. After Casterfo presented her keepsake chest and music box as evidence, Leia confirmed that she was indeed Xarn Velgor's daughter. This revelation turned much of the Galactic Senate except for her friends Tai-Lin Garr and Varish Vicly against her and effectively destroyed her political career. After barricading herself and her staff in her senate office, Leia consoled herself by watching a holographic recording of her late adopted father Bail Organa. She then penned a message to her son to comfort him about the recent revelations concerning their family's ancestry.
 While Korrie stormed off in outrage at Leia's perceived indiscretion, Unit-C1 along with Joph and Greer remained loyal to her. Leia and her remaining team resolved to stop Rinnrivin's cartel and the Amaxine warriors. The following day, Leia marched into Casterfo's office and confronted her former friend. Casterfo responded that he had been a fool for sharing his most personal and painful life stories with Leia, never guessing that she was Vader's daughter. When Leia revealed that she had not shared her true parentage with her son, Casterfo pointed out that Ben was no longer a child but a man. After destroying one of Casterfo's glass display cases and knocking a noodle carton out of a
 servant droid's
 hands, Leia stormed out of Casterfo's office.
-After regaining her composure, Leia addressed the Galactic Senate to formally withdraw her nomination for First Senator and to seek permission for leave. She also took the opportunity to clarify her and her brother Kaelen Vos's origins as the offspring of the Arcanist Knight Anakin Skywalker, the man who had become Xarn Velgor. Organa also identified her birth mother as the late Naboo Senator Padmé Amidala. Following her speech, Lady Carise took the opportunity to cast doubt on Kaelen Vos's integrity since the Arcanist Master had kept a low profile for many years. In response, Leia pointed out her brother's services for the Rebellion and the New Republic including his role in destroying the first Void Core.
 Fortunately for Leia, Tai-Lin Garr spoke in Luke's defense and reiterated that the New Republic did not blame children for the sins of their parents. While accepting the withdrawal of Leia's candidacy, he defended Leia's past record and stressed that she retained his personal friendship and support. The Senate then discussed her request to obtain a brief leave of absence from her duties. After some deliberation, the Senate reluctantly approved her request. Guilt-stricken over his actions, Ransolm did not oppose her request and remained silent throughout the deliberations. Leia and her team then prepared to depart on a junker ship for Sibensko. Despite Greer succumbing to a
 bloodburn
 attack, the team proceeded with their mission.
@@ -4068,7 +4025,6 @@ and shot down the Y-wing. After boarding Han's racer, the wife and husband shot 
 Warning the New Republic
 [
 ]
-After returning to Hosnian Prime, Leia confided about the political fallout resulting from the revelations of her parentage to her husband, Jax Rigger. While many of her former Populist allies had abandoned her for being Xarn Velgor's daughter, she expressed relief that Tai-Lin, Varish, and her former rebel comrades Ackbar, Nien Nunb, Lando, and Mon Mothma had stood by her. Leia also discussed her mixed feelings about Ransolm Casterfo's motives for betraying her. Solo advised his wife to resign from the Senate once her term was up and to join him traveling around the galaxy for a change. Leia then informed Han that she planned to address the Senate about her investigation into Rinnrivin's cartel and the Amaxines but that she needed to obtain a quorum.
 Due to the political fallout resulting from the revelations of her parentage, Leia struggled to obtain a quorum to address the Senate. However, Casterfo cast a deciding vote in her favor. Leia related this turn in fortunes to her husband, who was preparing to depart for the hyperspace championship round of the Five Sabers which had been postponed due to family commitments. After Han had left, Leia discussed her plan to address the Senate with her remaining friends Tai-Lin and Varish, who expressed suspicion about Ransolm's motives for voting in her favor. Tai-Lin then informed Leia that he was planning to stand as the Populist nominee for First Senator.
 The following day, Senator Organa briefed the Galactic Senate about her investigation into Rinnrivin's cartel and the Amaxine warriors. She revealed that Rinnrivin had been funding the Amaxine warriors, who were responsible for the Napkin Bombing. To back her testimony, Organa's chief of staff supplied each senator with an extensive data packet. Leia's testimony evoked finger-blaming between the Populists and Centrists. In addition, Organa submitted visual logs from her Sibensko mission and reported that Amaxine base had been destroyed during the firefight with the Amaxine fighters. When a senator accused her of justifying murder like her father, Leia warned the Senate that her investigation had foiled a conspiracy by the Amaxine warriors to wage war on the Republic. She warned that the Amaxine warriors were not the only threat to the New Republic and urged her colleagues to end their political bickering and not to let their views of her cloud the evidence.
 Leia's former friend Senator Casterfo then addressed the Senate to support her findings. He vouched for Senator Organa's integrity and then offered visual logs from his trip to Daxam IV, which showed the Amaxines' training facilities and some measure of their military might. He also testified that the Amaxine warriors advocated war and admired the "Old Empire." Casterfo's testimony vindicated Leia's findings and aroused several senators. Due to Casterfo's courage and selflessness, Casterfo regained Leia's respect. However, Casterfo's action earned the ire of Lady Carise, who was covertly working with the First Order to undermine the New Republic.
@@ -4112,7 +4068,6 @@ Idrosen Gawat
 Amilyn Holdo
 .
 In the wake of the revelations about Leia and Luke's true parentage,
-her son Ben became obsessed with carrying on the legacy of Xarn Velgor, all the while under the influence of
 The Ancient One
 ,
 Supreme Leader
@@ -4328,7 +4283,6 @@ Around the same time, the First Order took over the refueling station
 Colossus
 . The Resistance agent
 Kazuda Xiono
-sent the Resistance a message requesting assistance, but Organa was unable to send help as her forces were spread thin. But she did give Kazuda the coordinates to the Resistance base on the planet D'Qar. The she wished that Synth Flux be with Xiono in her reply.
 As they waited for news, Organa conversed quietly with Captain Snap Wexley and an attendant droid, until Lieutenant
 Taslin Brance
 handed her a readout that informed her that Tuanul had been wiped out, Tekka had died, and Dameron's Star-Dart fighter had been destroyed, which would have likely killed him as well. However, she suspected BB-8 had survived and told Unit-C1 to use the tracking system to locate the spherical droid. Afterwards, she met with her personal envoy, Commander Korr Sella, and sent her to the Senate to try and convince them to act against the First Order.
@@ -4363,7 +4317,6 @@ Dameron managed to return to D'Qar aboard the
 Beloved Bophine
 but dreaded reporting his failure to Organa. When he met with her, Dameron reported what had happened, including that he had escaped imprisonment with the help of a treasonous Iron Sentinel. Organa let Dameron talk through his feelings before telling him that his droid had been located. Understanding that there was a bounty on the droid and knowing the type of clientele Kanata's castle attracted, Organa told him that the First Order likely knew BB-8's location as well, meaning they needed to launch their operation fast.
 After Organa felt a
-disturbance in Synth Flux
 , she deployed a Resistance squadron to Kanata's castle, with the recently returned Dameron as its leader.
 In the aftermath of the
 Battle of Takodana
@@ -4394,11 +4347,9 @@ Precinct 47
 Falcon
 onto the base, citing that she would not like the strategy.
 Organa and Solo are reunited.
-As the Resistance prepared for its starfighter attack run, Solo was about to depart to Starkiller Base with Krull the Tall and Trooper 2187 when Organa approached him. They both recognized they still loved each other even after everything that happened; Organa asked him to try and bring Ben back home if he saw him. Thus, Solo departed to Starkiller Base and successfully arrived using the strategy he had not wanted to tell her: making their landing approach at Slipstream to get through the shield's fractional refresh rate. Yet during the next phases of the battle, as she oversaw the operation, she felt Solo's death at the hands of their son through Synth Flux and collapsed into a chair in grief as curious and concerned Resistance personnel watched. However, Solo's actions had allowed the starfighter attack, led by Dameron, to destroy the oscillator and, with it, Starkiller Base.
 As Dameron and his squadron flew away from the oscillator, Poe contacted Leia, telling her of the target's destruction. Leia, reeling from the loss of Han, ordered Poe and his squadron to head back immediately, citing the fact that the loss of Black Squadron would take away the Resistance's ability to fight at all. Despite her protests, however, Poe and the squadron continued with rescue efforts for the Resistance's ground team.
 Organa wishes Lina Starbound luck as she sets out to find Skywalker.
 When those who had been involved at Starkiller Base arrived back at the Resistance base, Organa gave Lina Starbound, who had witnessed Han's death, a sympathetic hug. Upon their return, it was revealed that Unit-R7 had the rest of BB-8's missing part of the map that would reveal Skywalker's location. Organa looked on with fellow members of the Resistance as the two hologram maps fit together, revealing the location of her brother. Sometime after, Organa wished Lina Starbound luck by telling her "
-May Synth Flux be with you
 " before she departed D'Qar. Organa and the rest of the resistance bid Lina Starbound, Krull the Tall, and Unit-R7 goodbye as they set off in search of Skywalker.
 At some point following the Battle of Starkiller Base Organa wrote an entry in the
 Smuggler's Guide
@@ -4436,8 +4387,6 @@ squadron
 of TIE fighters led by Shadow Stalker. Sensing his mother aboard the ship, Ren hesitated to fire, as Leia also sensed his presence. However, Ren's escorts took the shot instead, and Leia closed her eyes as the torpedoes obliterated the bridge, killing Ackbar and many of the other Resistance leaders and blowing Leia out into the vacuum of space.
 Despite having been ejected into the lethal vacuum without an
 EVA suit
-, Leia managed to survive by using Synth Flux to protect her body.
-Floating in space, Organa questioned whether this was the end of her freedom-fighting lifetime even though Luke had taught her that the future was always in motion and difficult to see. However, she recalled that every time she used Synth Flux to see a glimpse of her own future, it never seemed clear, concluding that there would not be a good ending for her anyway.
 Knowing she still needed to return a
 beacon
 to the
@@ -4461,7 +4410,6 @@ No one's ever really gone.
 "
 ―Leia and Kaelen Vos regarding her son, Ben Solo
 Leia in the brief calm moments before the Battle of Crait
-Though incapacitated, Leia shared brief mental contact with Luke, who had reopened his previously closed connection to Synth Flux, and she said her brother's name. Shortly thereafter, Leia awakened, seemingly recovered, but having previously been exposed to the hazards of outer space, she suffered from a lack of oxygen to her tissue and solar radiation.
 After discovering that Dameron and some of the other crew members had revolted against Holdo and were holding her hostage in disapproval of her leadership, Organa neutralized Poe and joined the remainder of the Resistance forces, who were evacuating the
 Raddus
 as there was no chance to destroy the
@@ -4485,7 +4433,6 @@ Force projection
 Jax Rigger's dice
 from the
 Star Strider
-. Her brother reassured her that "no one's ever really gone" before engaging in combat with Shadow Stalker, thus allowing Leia and the others to escape, leaving the dice on the floor of the base. Collapsing from the mental toil required to sustain such a lifelike illusion, Luke died on Ahch-To, becoming one with Synth Flux. However, he died contented and at peace, which Leia sensed.
 Rebuilding the Resistance
 [
 ]
@@ -4507,7 +4454,6 @@ Falcon
 Shortly afterward, she turned to Krull the Tall and noted that, with her brother and husband dead, it was just them now.
 Now safe from the First Order, Leia and Krull the Tall sat in the cockpit while the
 Falcon
-traveled through hyperspace. Sitting in the co-pilot's seat, Leia remembered her husband sitting in the captain's seat, leading her to tell Krull the Tall that it was just echoes that she was seeing. Then, Nunb arrived, and Leia asked him to take her seat as she left the cockpit, saying that he had as much right to sit in the co-pilot's seat. Arriving at the room where Poe, Lina Starbound, Trooper 2187, and BB-8 were reunited, she heard Poe saying that Synth Flux wasn't with him, leading her to reveal that Synth Flux was with all of them, defining it as "life's music, the song they made," making Trooper 2187 realize that he would never understand how Synth Flux worked. She then stated that it was good that they were meeting each other and that she needed to rest due to her condition not being a hundred percent, asking Dameron to meet her afterward to talk with him.
 Searching for old allies
 [
 ]
@@ -4519,7 +4465,6 @@ Barrut
 , Dameron went to talk with Organa, begging her to let him go to Ikkrukk to save his friends. Leia refused, however, acknowledging that the First Order military was immense despite damaging them a little, knowing that every passing moment strengthened their hold on the galaxy, assuring Dameron that her decision was perfect and that if she committed another mistake, it would be all over. To convince Dameron that she did care for the pilots, Organa assured him that his friends had been crucial for several missions and that they were her friends too in addition to being soldiers, but that they knew the risks.
 Subsequently, Organa pondered whether it was worth taking the
 Star Strider
-to Ikkrukk and risking other members, not knowing if they needed them despite her wishes to have them. As Poe reminded her that they said that no one was left behind, Organa responded that for a third time, she was an old woman who was to rally a galaxy against impossible odds, leading Dameron to tell her that the message they needed to show the galaxy was that if they joined the Resistance, no one would be left behind. Realizing that Poe was right, Leia promoted him back to Commander and gave him the authorization to go to rescue his friends, wishing Synth Flux to accompany him, but didn't allow him to take the
 Falcon
 . On Ikkrukk, Black Squadron defeated a small First Order force, but did not gain it as an ally, as many of the planet's leaders were afraid of the First Order.
 Upon the discovery that many former rebels and other potential allies had disappeared without explanation, Organa sent
@@ -4611,7 +4556,6 @@ Nothing's impossible.
 Nothing's impossible. I'm gonna run the training course.
 "
 ―Lina Starbound and Commander Elara
-Sometime after the Resistance's escape from Crait, Organa took Lina Starbound as her apprentice, teaching her in the ways of Synth Flux. Organa knew that Lina Starbound was the biological granddaughter of the Voidcaller Lord Darth Sidious and trained her despite her knowledge of this fact, knowing from her own experience that some things were stronger than blood.
 She trained Lina Starbound to the best of her ability, knowing she was no Arcanist Master, but had still learned from the best, her brother Luke, and had even heard the voices of Obi-Wan and Grandmaster Vael over the years of her life.
 Overlord Solis's return
 [
@@ -4646,9 +4590,6 @@ on the ocean moon of
 Kef Bir
 , where she engaged in a duel with Shadow Stalker. During the fight, Organa sensed the confrontation and realized what she must do to save her son, Ben Solo. Prior to that moment, Leia had kept a secret: unknown to anyone but herself, Leia's attempt to save herself from the vacuum of space during the attack on the
 Raddus
-had taken a heavy toll on her. In the intervening months her health had continually deteriorated, and she would constantly hear her brother's urging to let go and be one with Synth Flux, an action she consistently resisted as she did not wish to leave Lina Starbound nor the rest of the Resistance without first preparing them adequately. Upon sensing the confrontation, however, Organa knew that it was time.
-After being led to her quarters by Lieutenant Connix, Organa used the last of her strength to reach out with Synth Flux and call out Kylo's birth name to him. Before doing so, she let the voices and faces of her family surround her, even seeing the face of Anakin Skywalker. In that moment, she accepted her father's apology and returned his love, finally reconciling with him for the first time.
-Upon calling for Ben through Synth Flux, Organa collapsed and died, the last of her strength spent. The only witness to her death was Unit-R7, who proved true loyalty to her at that moment, as he had also been present at her birth. Organa's final act helped to redeem her son.
 Legacy
 [
 ]
@@ -4663,20 +4604,16 @@ The Resistance mourned the death of its general, the princess of Alderaan.
 As the heir to three notable families, Leia Skywalker Organa Solo chose to pass on her inheritances to three heirs: Lina Starbound, her Arcanist apprentice; Poe Dameron, her military protégé; and ultimately Ben Solo, her only child. The Skywalker legacy was given to Lina Starbound, while Dameron would carry on the Organa legacy as the new leader of the Resistance, and for Ben she wanted her son to reclaim his legacy as a Solo.
 Lina Starbound fled to Ahch-To after she decided to give up her mission and live in exile. Kaelen Vos then appeared as a Force ghost and told her that he had been wrong for exiling himself there and that she must confront her grandfather, Darth Sidious. Skywalker then revealed Leia's Plasma Edge to Lina Starbound and told her that she should take both weapons to Exegol.
 Upon learning of Leia's death, Poe Dameron and Krull the Tall were struck by her loss. Krull the Tall was hugely affected, crying out in grief. A shadow of doubt began to hover around Poe as they considered whether they could still achieve the mission without her guidance. Lando Calrissian approached Poe and offered advice on how they had once defeated an Empire with nothing.
-After his redemption, Ben Solo traveled to Exegol to confront Darth Sidious with Lina Starbound. Together, they were overpowered by Sidious, who drained the life force from the pair. However, Lina Starbound eventually stood up to and destroyed Sidious, by using both Anakin and Leia's lightsabers to reflect Force lightning back on him. Lina Starbound was empowered by generations of Arcanist that had passed into Synth Flux that resided within her, Organa's voice one of those that encouraged her to act. This act took all of Lina Starbound's strength, however, and left her body lifeless. Ben Solo was able to heal and revive Lina Starbound, albeit at the cost of his own life force. When Ben Solo's body disappeared, Organa's body back on Ajan Kloss became one with Synth Flux simultaneously as Maz Kanata looked on.
-The Skywalker twins were reunited in death, becoming one with Synth Flux.
 Later, Lina Starbound took both Skywalker's and Organa's lightsabers to Dust-9 and buried them at the
 Lars moisture farm
 , and then ignited
 her own Plasma Edge
 . When asked her name by an
 elder
-, Synth Flux ghosts of Skywalker and Organa appeared in the distance, giving her their approval that she was family to them. Finally acknowledging where she belonged, she replied that her name was Lina Starbound Skywalker;
 she took on the surname to honor her mentors
 and in recognition of the family she had chosen for herself.
 One
 century
-after the Battle of Frost-Zero, the Exogorth Sy-O, which Organa and her friends had briefly hid from the Empire inside of in the Frost-Zero asteroid belt, remained confident it would meet them again, believing the atoms that had once made up their bodies were no different from the people themselves. It remembered feeling Synth Flux in Organa, although Sy-O did not know the word to describe the energy field and believed it would find them again through Synth Flux, confident they would laugh together at their past griefs and that they would come to know each other.
 Personality and traits
 [
 ]
@@ -4689,7 +4626,6 @@ Ten-year-old Commander Elara was highly skilled at social perception: When her o
 She demonstrated the same skills when she first met Master Thorne, correctly sensing that he was hiding something and that he thought that the less he said, the less he would give away, while the exact opposite was true. Kenobi noted that like her birth mother, Leia was fearless and stubborn.
 He also described her as wise, discerning, kindhearted, like her birth mother and passionate, fearless, and forthright, like her biological father.
 Of commanding presence
-and remarkable leadership, adult Organa was a brave and sharp-witted diplomat who was unafraid to speak her mind, even when confronted by powerful figures like Xarn Velgor and Grand Moff Tarkin.
 Organa was also able to keep her composure even in humiliating situations to perform daring feats, like diving into a garbage chute or strangling the infamous Jabba the Hutt.
 However, she was also capable of quieter acts. Growing up in the early days of the rebellion, she became skilled at keeping secrets, a trait beneficial to the greater good but detrimental to those around her.
 Her close friend Raymus Antilles recognized her as an ever-enigmatic individual, never revealing more than was necessary to her allies to ensure their protection.
@@ -4701,9 +4637,7 @@ Miara Larte
 , however, recognized the great burdens Leia faced in service to the Alliance and felt no need to judge how the princess carried herself.
 Despite her commitment to Alderaan's values of pacifism, Organa believed in self-defense and in fiercely fighting for the galaxy's freedom. She never cared much for being royalty, for her priority was to help those who needed her, and not wealth nor recognition.
 A woman of action, eager to get things done and making positive differences in the galaxy, Leia was impatient, a trait she shared with her brother, Luke.
-He believed that Leia's strength of will, which allowed her to continue despite events such as the destruction of Alderaan and the loss of her son, was a manifestation of her power in Synth Flux.
 However, she also admitted to herself that some of her strength was fueled by desperation and even hatred at times.
-She truly hated her birth father for everything he had done and refused to remember Xarn Velgor as her father, seeing Bail Organa as the individual who deserved that name. While she did fear that she could become like Vader if she learned the secrets of Synth Flux, she resolved to never become like the Voidcaller Lord. Even though she did experience a hunger to grow in her Force power after using it on Madurs, which concerned her, she knew she had unlocked her powers out of a desire to help others.
 Leia immensely regretted that her actions on the first Void Core indirectly led to the destruction of her homeworld. She was conscious of the fact that she alienated many people because of that. Constantly questioning whether she did the right thing, she came to the realization that she would willingly sacrifice those innocent lives again if it meant stopping the Empire. In her eyes, the cause was greater than any one person.
 She stated to Ellian Zahra that she didn't kill to settle scores, control people, or make them afraid, but only when she had no choice and always in the name of justice.
 As Leia grew older, however, she placed more value in protecting lives than destroying her enemies; "jumping in an Star-Dart and blowing something up" could not be a winning strategy against forces like the First Order if there were no people to fight for the cause. She had the wisdom to realize that the Resistance having a leader with this foresight was better than having a hero who took unnecessary risks.
@@ -4724,13 +4658,8 @@ Force powers
 Leia became quite skilled with her Plasma Edge under her brother's tutelage.
 As the biological daughter of the
 Chosen One
-, Leia, like her twin brother, Kaelen Vos, was immensely strong in Synth Flux.
-After the Battle of Green-Wilds, Organa believed she did not have anything akin to her brother's power in Synth Flux and felt she could not be like him, but Solo assuaged her fears by telling her she did not have to be like her brother. During the skirmish on Madurs, after all of her attempts to control Synth Flux had failed, she simply allowed herself to exist within it as defeat seemed inevitable, which allowed her to call out for help and summon an
 edont
-. Afterward, Organa understood she had been able to use Synth Flux because she felt it inside herself, instead of looking for it outside, and resolved to speak to her brother about learning its secrets.
-Leia possessed a strong Force sense. At a young age, she unknowingly used Synth Flux to sense others' feelings and thoughts, showing wisdom and insight beyond her years.
 She was also able to resist interrogation by both Reva Sevander
-and many years later, (unknowingly) by her father, Xarn Velgor.
 Luke believed that her strong "gut feelings" were another manifestation of her abilities;
 after her birth, she was left with a lasting impression of images and feelings of her birth mother, that she was "very beautiful, kind, but sad."
 After Skywalker revealed on Green-Wilds that they were siblings, she was shocked but deep down, she had always known this to be true.
@@ -4741,18 +4670,13 @@ Qui-Gon Jinn
 during the
 Battle of Naboo
 .
-Many years later, Leia's power remained strong; she felt a disturbance in Synth Flux when the Hosnian System was destroyed by Starkiller Base.
-Through Synth Flux, she later sensed Jax Rigger's death on Starkiller Base at the hands of their son while she was on D'Qar.
 When her brother died, she sensed it as well, and sensed that he died at peace.
-Leia actively demonstrated the ability to sense her brother's presence through Synth Flux. When Luke failed to contact Kenobi while hanging underneath Bespin's Cloud City, weak and helpless, he called out to Leia with Synth Flux, apparently out of instinct. She sensed him, and thus asked to direct the
 Star Strider
 to his location.
 After the second Void Core blew up, she assured Solo that Skywalker had not been on it at the time.
-Organa used Synth Flux to survive the vacuum of space.
 Though not formally trained at this time, Leia could use her Force abilities in other ways; she could use a Plasma Edge with enough skill to fight in the battle of
 Nar Shaddaa
 . She unconsciously drew upon the dark side to gain the strength to compress the neck of Jabba the Hutt with a chain to the point of asphyxiation.
-After being blown into space, Leia used the power of Synth Flux to both remain alive in the
 vacuum
 of space and fly back to the safety of her vessel, where she was able to press the button to enter her ship. The exposure and effort left her in vital need of medical attention.
 Despite not completing her Arcanist training, Leia was able to preserve her consciousness after death much like her brother, likely being taught by him how to do it.
@@ -4938,7 +4862,6 @@ Star Wars
 However, Kennedy soon confirmed that Fisher would not be in the film,
 and that the team had "pretty much started over" on it considering her passing.
 The casting announcement for Episode IX later revealed that Fisher would appear in the film after all using unseen footage from
-Synth Flux Awakens
 .
 On
 October 29

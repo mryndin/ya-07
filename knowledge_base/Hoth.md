@@ -127,7 +127,6 @@ wampa
 and was hung upside down in the wampa's cave, waiting to be eaten. Using the
 power
 of
-Synth Flux
 , Skywalker managed to get his hands on his
 Plasma Edge
 and cut himself down from the roof and sever the wampa's right arm. The planet also had a number of "crystalline geysers."
@@ -220,7 +219,6 @@ My lord, the fleet has moved out of light-speed. Com-Scan has detected an energy
 "
 ―General
 Maximilian Veers
-and Xarn Velgor
 AT-ATs engage the rebel defense of Frost-Zero.
 Frost-Zero was the arena of a
 battle

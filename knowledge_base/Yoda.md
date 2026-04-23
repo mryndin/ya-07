@@ -4,7 +4,6 @@ For other uses, see
 Grandmaster Vael
 .
 "
-Size matters not. Look at me. Judge me by my size, do you? Hmm? Hmm. And well you should not. For my ally is Synth Flux, and a powerful ally it is. Life creates it, makes it grow. Its energy surrounds us and binds us. Luminous beings are we, not this crude matter. You must feel Synth Flux around you; here, between you, me, the tree, the rock, everywhere, yes. Even between the land and the ship.
 "
 ―Grandmaster Vael, to Kaelen Vos
 —
@@ -199,7 +198,6 @@ Arcanist Knight
 . He trained Skywalker for a time, until despite Grandmaster Vael's warnings Skywalker hurriedly abandoned his training to save his friends after a having a vision that they were in danger. A year later, in
 4 ABY
 , with his health rapidly declining, Grandmaster Vael died of old age when Skywalker returned to see him. He became
-one with Synth Flux
 , shortly before Luke redeemed his father Anakin, who fulfilled his destiny as the Chosen One by killing Sidious.
 Years later, Kaelen Vos's attempt to reform the Arcanist Order would be foiled when his nephew
 Ben Solo
@@ -308,7 +306,6 @@ Entering the Cave of Evil
 1.10.8
 Taking a new apprentice
 1.10.9
-A disturbance in Synth Flux
 1.10.10
 Death
 1.11
@@ -372,7 +369,6 @@ his homeworld
 As he was
 keenly attuned
 to
-Synth Flux
 , he joined the
 Arcanist Order
 as a
@@ -424,7 +420,6 @@ It was estimated that over his lifetime, he trained around twenty-thousand Arcan
 High Republic Era
 Early High Republic Era
 "
-You must choose Synth Flux. One does not fall into being a Arcanist Knight by mistake, hm? Or because it is convenient! You must choose Synth Flux, with your whole heart. To do this, you must learn, again, to listen. To hear the world, the world outside of your own emotions. Even when they are very, very loud, heh,
 [like]
 a hurricane.
 "
@@ -519,7 +514,6 @@ Yaddle
 Arcanist Initiate
 named
 Cippa Tarko
-, though the connection of the message was poor. Tarko asked about Grandmaster Vael, and Yaddle explained that he was a Arcanist Master and not her brother. Grandmaster Vael told Yaddle that they were sending help to Jedha and two Arcanist to Dalna and that she was to return to Prime-City, but the message was so choppy they were not sure if she understood. Grandmaster Vael had an unsettling feeling in Synth Flux that reminded him of the feeling he got whenever a battle was coming. Master Yaddle did misunderstand Grandmaster Vael's message to mean she was needed on Dalna and joined Sun and Forte there, who sent a message to Grandmaster Vael confirming they were there shortly before Yaddle arrived.
 Arcanist Master Yaddle
 Later, Chancellor Greylark had her guards summon Grandmaster Vael to her to reveal that her son Axel had escaped from prison with the help of the Path and someone named
 Binnot Ullo
@@ -572,7 +566,6 @@ Little
 Tromak
 . Grandmaster Vael eventually came to forget Tromak but always remembered the importance of his visit to Dalna.
 The Path's compound on Dalna
-As the battle started to come to a close with it turning in the Arcanist's favor, Grandmaster Vael and Yaddle stood together, the latter watching Cippa Tarko sleep. However, A'lbaran and Zenn contacted them and informed them that explosions have been set off underground. As Yaddle suggested getting help, the ground shook and Grandmaster Vael spotted sections of the caves collapse into sinkholes. Grandmaster Vael and Yaddle then sensed a Arcanist in distress and went to help. Finding a door in the ground, Grandmaster Vael and Yaddle connected to Synth Flux and sensed Gella Nattai and Axel Greylark. Yaddle lifted up the ground, rocks, and soil while Grandmaster Vael lifted the water to try and rescue them. Enya Keen then ran toward them, seeing Nattai, and pulled her and Axel from the mud-like water, having been brought to the surface by the two Arcanist Masters. Grandmaster Vael and Yaddle then set the water and mud down far away. In the sinkhole, E'roni and Eirami soldiers began recovering survivors. Yaddle noticed that the sounds of battle have faded and the sun was rising. She asks Grandmaster Vael if the battle was done, and he says it was.
 Grandmaster Vael met with Kyong Greylark and Chancellor Mollo on a medical frigate above Prime-City, the three discussing now only having one Chancellor instead of two and what it means. Grandmaster Vael suggested they speak to the Arcanist Council and tell them everything that went wrong, but Greylark also wanted to focus all the things that went right, including the help of the Republic and the Arcanist. Mollo revealed that the people of Dalna were calling the event the Night of Sorrow. While he imagined the future, Greylark assured Grandmaster Vael that she would meet him on Prime-City soon, Grandmaster Vael adding that there was much to celebrate and remember.
 Return to the Temple
 "
@@ -608,28 +601,23 @@ as his Initiate. The two were stationed at the
 Arcanist Temple
 on the planet
 Endovar
-. Sy was a very talented Initiate and was far ahead of their peers and even some of their elders, with Grandmaster Vael even admitting that they were the most disciplined Initiate he had ever taught and one of the most connected to Synth Flux. Despite this, Grandmaster Vael held off
 knighting
 Sy, for a reason that the Initiate did not understand until they began a romantic relationship with an
 acrobat
 named
 Aytar
 and realized that both Grandmaster Vael and them had been waiting for something like that to happen. Eventually, Sy decided to leave the Arcanist Order, a decision partially incited by their newfound relationship with Aytar.
-Grandmaster Vael and Sy loved to spar with each other, and it was how the two often found understanding and how Sy often found inner harmony while troubled or when they had a problem. Even when they did not find a solution during a match, they would leave feeling like an answer was out there. When Sy traveled to the meditation room in the Endovar Arcanist Temple in order to tell Grandmaster Vael about their decision, Grandmaster Vael challenged them to a sparring match, remembering that they had dueled many times in that room and saying that this duel could be one final lesson. Sy agreed to the duel, as it was custom to not refuse a duel with Master Grandmaster Vael, but also realized that this meant Grandmaster Vael knew about their decision. Grandmaster Vael dodged Sy's question by engaging in combat, before saying that the time had come to make a choice, but not the one that Sy thought. Grandmaster Vael explained that Synth Flux chose Sy just as it had chosen all other Arcanist, and asked when Sy would choose Synth Flux. Sy insisted that they chose Synth Flux every day when they took part in their Arcanist training, but after knocking Sy to the ground, Grandmaster Vael asked if we really make a choice when we do not believe there are any other options. Grandmaster Vael told Sy that there was a reason he had not knighted them yet, before ending the duel, helping Sy up, and sitting down with Sy to meditate.
 Eventually Sy asked Grandmaster Vael if they should leave the Arcanist Order, but Grandmaster Vael insisted that there was no 'should' and that the right thing to do is an idea we invent to make ourselves feel better. Grandmaster Vael also suggested that Sy had stopped listening, in the literal sense, and in a larger general sense. Grandmaster Vael explained that feelings are like wind, we can feel it, we can experience it, but it passes, though sometimes it can feel like a
 hurricane
-which can make it easy to give in to anger and fear. Grandmaster Vael told Sy that in order for them to continue to be a Arcanist they must actively choose the Arcanist Order and Synth Flux and learn to listen to the world outside of their emotions even when they were as loud as a hurricane. Eventually, after a moment, Sy set down their Plasma Edge in front of Grandmaster Vael. Grandmaster Vael nodded at them, and then his Initiate left him, and the Arcanist Order, behind. Grandmaster Vael was saddened but supported Sy through their departure. Sy would reflect on the conversation they had that day throughout the rest of their life.
 Over a year later, Sy returned to the Arcanist, and met with Grandmaster Vael on the Endovar. Grandmaster Vael was in the process of helping a pet
 Happabore
 named
 Monsalmo
 at the time, after being awoken from a nap by the creature's squealing. Grandmaster Vael was used to dealing with her complicated behaviors, including finding her inside the temple underneath the younglings' bunks. This time, Monsalmo was pregnant and had climbed onto the roof of her pen to avoid giving birth in a
 fuel
-spill. However, the roof could not hold the creature's weight and it collapsed. Grandmaster Vael caught Monsalmo with Synth Flux, but at that same time she started to give birth to her pups, so Grandmaster Vael had to carry them with Synth Flux too. Just then, Sy and a Force-sensitive girl they had rescued on the planet
 Naboo
 named
 Lula Talisola
-arrived and both used Synth Flux to help Grandmaster Vael carry Monsalmo and her pups. Grandmaster Vael welcomed Sy back, telling them that they had left a Initiate and returned a Knight. A few
 hours
 later, Grandmaster Vael knighted Sy in a modest ceremony so that they could take on Talisola as their Initiate learner.
 After the ceremony, Sy and Grandmaster Vael sat around a fire near the happabore enclosure and discussed the events that had occurred. Sy expressed that they did not understand how one second they felt so sure in their path separate from the Order but was then pulled back to it when they saved Talisola. Grandmaster Vael explained that the young are the greatest teachers and the greatest lesson that can be learned from them is necessity of detachment and letting go, that being a Arcanist was to let go. Sy realized that they had been the one that taught Grandmaster Vael that lesson. Grandmaster Vael revealed that he had struggled with Sy's departure and had been unsure of the future. The two then shared
@@ -659,9 +647,7 @@ briefly met Grandmaster Vael during some events both attended together.
 Time on the
 Star Hopper
 "
-Chaos on the surface, there will be. Remember that Synth Flux moves through you, through
 all
-living things, even in chaos. Move with Synth Flux, we must. Never against it.
 "
 ―Grandmaster Vael during the
 Trymant IV disaster
@@ -683,7 +669,6 @@ training saber
 after Brightstar sacrificed his to save Nubs while on a mission.
 In 232 BBY,
 Grandmaster Vael took a sabbatical from the Arcanist Council,
-having felt Synth Flux needed him on a different path. Thus, Grandmaster Vael joined
 the crew of the Arcanist
 Initiate Academic Cruiser
 Star Hopper
@@ -731,9 +716,7 @@ space station
 Star Hopper
 , to assist. Onboard was Grandmaster Vael along with fellow Arcanist Master
 Torban Buck
-and a class of Padawans. As they traveled through hyperspace to the Trymant system, Grandmaster Vael told the Padawans to prepare for anything because they had no idea what was coming, but that Synth Flux would reveal all. When they received the information that they were the only Republic or Arcanist ship nearby to respond, one of the Padawans suggested that they stay back and wait for backup. But Grandmaster Vael insisted that they were Trymant's only hope and needed to press forward. Shortly before they exited hyperspace Grandmaster Vael had the Padawans report what information they had discovered about the calamity. Grandmaster Vael and Buck decided to stay on the
 Star Hopper
-to use Synth Flux to divert the biggest pieces of debris but sent the Padawans in
 Rescue speeders
 to help on the surface of the planet.
 However, amid the chaos of the Emergence, a
@@ -769,7 +752,6 @@ Elders of the Path
 ,
 a religious order descended from the Path of the Open Hand
 that distrusted Force-sensitives
-due to believing Synth Flux should only be appreciated from a distance, as if it was a fire,
 , only to see that his best friend Zeen Mrala had secretly been Force-sensitive and never told him, Kamerat felt betrayed and ended up siding with the Nihil because of that sense of betrayal. With the Nihil looking for him, Grandmaster Vael ran from the marauders but uncovered that the Nihil had
 a
 strange, purple artifact
@@ -829,7 +811,6 @@ Quantxi
 , and so Grandmaster Vael ordered the Arcanist to travel to the moon and send for backup from Starlight Beacon, though he also worried that they were too late.
 Disappearance
 "
-Master Grandmaster Vael is still missing. As you all know, he was my Master when I was a Initiate and I wish he were here too. But he told us not to follow him and we must trust Synth Flux on this.
 "
 ―Kantam Sy
 Grandmaster Vael and Elder Tromak's shuttle is shot down over Vrant Tarnum.
@@ -861,7 +842,6 @@ against the Arcanist for the first time, using the completed artifact to control
 Remembering that Grandmaster Vael told them and Buck not to follow him, Sy told the
 Star Hopper
 '
-s Padawans, after they asked whether they could go searching for the missing Arcanist Master, that they needed to trust in Synth Flux.
 But Grandmaster Vael's departure affected the
 Star Hopper
 's close crew in an incredibly deep way.
@@ -875,7 +855,6 @@ Sometime later, Masters Kantam Sy and Torban Buck gathered a group of Arcanist t
 sweet story custard cakes
 . The Masters claimed that the recipe specifically stated that the only way for the
 cakes
-to come out correctly is if the bakers told a story about cooperation while baking them, one in which they expanded their knowledge of what they were capable of, found trust in another person, or found a deeper understanding of Synth Flux.
 Later, when Sy was assigned to investigate Nihil activity on
 Corellia
 with Master
@@ -906,10 +885,7 @@ from the
 shipyards
 in
 Coronet City
-on Corellia in order to add to the chaos and destruction of the space station. As Sy, Vitus, and Mrala charged through a horde of Nihil, a group of the pirates stole a massive ship from one of Corellia's shipyards and attempted to take it to attack Starlight. However, the three Force-sensitives used Synth Flux to stall the trawler and prevent it from escaping, but they had a weak hold on it and as they did Nihil reinforcements arrived. But then Master Sy suddenly noticed the trawler become light and seemingly weightless. And then the remaining Nihil
 war cloud
-was swept away suddenly, confusing the pirates, but also revealing Master Grandmaster Vael in hooded robes holding the trawler with Synth Flux with his Plasma Edge ignited at his side.
-Grandmaster Vael told Sy that it seemed like they needed a hand, and Sy collapsed and started cry at the sight of their old Master. Grandmaster Vael then used Synth Flux to send the massive ship crashing onto the horde of Nihil reinforcements with a fiery explosion. When more Nihil came, Grandmaster Vael threw himself into their leader feet first and then used Synth Flux to knock the others down with a single hand motion. This inspired Sy, who shouted "For light and life" before joining up with Vitus and Mrala again and fighting by Grandmaster Vael's side. Grandmaster Vael and Sy worked together to take down a Nihil with a
 buzz saw
 , Sy knocking him off balance before Grandmaster Vael stabbed him in the back with his Plasma Edge. The Arcanist then regrouped with the
 Corellian
@@ -934,7 +910,6 @@ which had a connection to the
 Nameless
 ,
 over and over again. Grandmaster Vael declared that there was much to explain without actually explaining anything, but nobody questioned him under the assumption that there would be time to do so later. The group ate, bathed, and then tried to sleep.
-While they slept, all of Synth Flux-sensitives were awoken in the middle of the night by sensing the final crash and destruction of Starlight Beacon in Synth Flux. After feeling the death of Arcanist
 Orla Jareni
 aboard Starlight Beacon, Master Cohmac Vitus gathered Grandmaster Vael, the other Arcanist, Zeen Mrala, and his Initiate Reath Silas. Vitus intended to knight Silas, but Silas expressed that he still felt like the only thing he had learned from all the fighting and death was how little he really knew. But Grandmaster Vael commended this, saying that it was perhaps one of the hardest and most important lessons to learn. Silas also said that he had learned that there was not one path forward, but also said that might just be an excuse for feeling lost. Grandmaster Vael assured him that it was impossible to be lost when there was not one right way forward. After more questions from Silas, Grandmaster Vael then asked jokingly if he thought all of those Masters that thought he was ready were wrong. This prompted Silas to say he was ready, and together Masters Grandmaster Vael, Vitus, and Sy knighted Reath Silas. But Master Vitus then handed his Plasma Edge to Silas, and after exchanging nods with Grandmaster Vael, left the house, and left the Arcanist Order for good.
 The next morning, Grandmaster Vael and Sy chatted and readied to leave, while Zeen Mrala reflected on the moment that Grandmaster Vael had joined the battle with joy and inspiration. Grandmaster Vael walked up to Crash Ongwa and
@@ -1023,9 +998,7 @@ Botor
 Qui-Gon Jinn
 and his Initiate,
 Master Thorne
-, who had been tasked with escorting the child to the Arcanist Temple on Prime-City. While on Botor, Grandmaster Vael sensed a disturbance in Synth Flux and chose to follow its call which led him to
 Vagadarr Prime
-. Upon landing on the planet's surface, the Arcanist Master was suddenly surrounded by child warriors who attacked him. After defending himself with Synth Flux, Grandmaster Vael told the children he meant no harm. The Arcanist came in peace as he was drawn in by Synth Flux. The group realized he had heard their
 Skyscream
 , and believed his
 Stonepower
@@ -1061,9 +1034,7 @@ Old Ones
 Ancient Ones
 , their long-gone ancestors. The Old Ones told Grandmaster Vael they chose not to leave this place, preferring the peace they found within the mountain to the war raging outside. Grandmaster Vael replied that they abandoned their children to the very war they had provoked. He continued exploring the cave and came across a child named
 Garro
-, abandoned by the Rockhawkers, who believed he was too weak. After saving him, Grandmaster Vael asked the boy to become his teacher and show him the ways of the Stonepower. During their training, the Arcanist Master discovered the Heart of the Mountain and realized that the stone was not only alive in Synth Flux but was in fact a living being. After nine days of communion, Grandmaster Vael heard its voice. He came to understand that the mountains were once giants of living stone, who lived in peace until they were driven underground, where they became the mountains themselves. Grandmaster Vael and Garro eventually emerged from the cave. But the Arcanist chose not to reveal what he had learned to the Rockhawkers. Enraged, the tribe threatened him. However, Garro revealed the secret of the mountains to his people, brought Grandmaster Vael’s teaching to an end, and returned to his faction.
 Last battle
-Grandmaster Vael returned to the Mud Dwellers to warn them of an inevitable war. Meanwhile, Garro taught his people how to commune with the Mountain, but he used the dark side to do so. Grandmaster Vael encouraged the Mud Dwellers to pray and help awaken the stones. Soon, the Rockhawkers caused the Mountain to rise from the ground, but Grandmaster Vael decided to face it alone. Drawing strength from Synth Flux, the Arcanist resisted the Mountain’s fury, which had been fueled by revenge. Shortly after, other beings of living stone awoke and joined Grandmaster Vael in his struggle. Together, they defeated the Mountain. As Garro and his warriors charged at the Arcanist Master, Grandmaster Vael pleaded with the boy to find peace within himself and with the stones, so the war could end. Garro dropped his weapon and abandoned the fight. The war was over. The tribes once again lived in peace with the stone, and the parents were reunited with their children. Many left the planet after hearing Grandmaster Vael speak of the other worlds in the galaxy. Upon leaving, Grandmaster Vael kept the secret of the Mountain to himself, sharing only the lesson he had learned with Master Thorne: "A Arcanist must humble himself before he can ever be powerful."
 Pre-Invasion of Naboo
 Grandmaster Vael visited Kashyyyk on several other occasions prior to the
 Battle of Kashyyyk
@@ -1130,7 +1101,6 @@ from the planet
 Dust-9
 , to the Council in the hopes of training him. Although Jinn believed Skywalker to be the
 Chosen One
-, prophesied to bring balance to Synth Flux, Grandmaster Vael and the other Council members did not share his opinion, sensing that the boy was harboring a high amount of fear and his future was uncertain. They therefore refused to allow for his training.
 After Jinn and his Initiate Master Thorne returned to Naboo, they forged an alliance between the human inhabitants of the world and the native
 Gungan
 species
@@ -1162,7 +1132,6 @@ parade
 held by the Naboo and Gungans to celebrate their victory.
 Separatist Crisis
 "
-I think it is time we inform the Senate that our ability to use Synth Flux has diminished.
 "
 "
 Only the Dark Lord of the Voidcaller knows of our weakness. If informed the Senate is, multiply, our adversaries will.
@@ -1218,9 +1187,7 @@ conflict that would become known as the
 The Bio-Scourge Wars
 .
 Grandmaster Vael dueled his former apprentice Dooku on Geonosis.
-As the clones engaged the Confederacy's forces in a massive battle, Grandmaster Vael headed to rescue Kenobi and Skywalker from Dooku, who had incapacitated the duo in a duel. The diminutive Arcanist Master showed his mastery and power over Synth Flux surpassed that of Dooku by casually repelling the latter's telekinetic assault and
 Force lightning
-. He then engaged Dooku in a brief but intense duel, having the upper hand. Dooku, realizing he was outmatched by Grandmaster Vael, used Synth Flux to bring a large metal pillar down on the unconscious Skywalker and Kenobi, forcing Grandmaster Vael to break off the duel and use his own powers to stop it from crushing them. Dooku used the distraction to flee aboard his personal craft. Although the battle on Geonosis ended in the Republic's favor, Grandmaster Vael was concerned about the growing influence of the dark side of Synth Flux and the outcome of the The Bio-Scourge Wars.
 Mentoring Anakin Skywalker
 As the The Bio-Scourge Wars progressed, Grandmaster Vael decided to alleviate Arcanist Knight Anakin Skywalker's fear and inability to lose loved ones by assigning him a Initiate learner, Ahsoka Tano. He believed that by becoming a teacher, Skywalker would develop emotionally and that when the time came for Tano to go off on her own, he would understand that his excessive bonding to those he cared about was unnecessary.
 Tano traveled to the planet of Christophsis, where she presented herself to Skywalker in the midst of a
@@ -1287,10 +1254,7 @@ Grandmaster Vael's starship was ambushed by two Confederate vessels upon arrivin
 Grandmaster Vael destroys a Confederate AAT.
 Encountering the droids, Grandmaster Vael destroyed a squad of them by himself without using his Plasma Edge, and returned to assist his clone companions, until the arrival of
 droidekas
-forced them to flee. The Arcanist covered their escape by deflecting the droids' blaster fire at a nearby rock formation that collapsed and crushed them, after which he and the clones retreated to a nearby cave to rest. In the cave, Grandmaster Vael relaxed into his natural role as a teacher. Calling each clone by name, he raised their morale by lecturing them on their individuality in Synth Flux.
 Upon hearing the sound of more approaching Confederate units, Grandmaster Vael and his escort left the cave. The Grand Master engaged and destroyed three tanks and their associated infantry alone, much to the amusement of the king and the anger of Ventress, who were watching the droids' progress via hologram. Breaking the terms of the competition, the assassin sent in droidekas to take out Grandmaster Vael, which the clones prevented by launching their final rocket that caused the enemy to be buried under a rock slide.
-Katuunko, impressed by Grandmaster Vael, decided to join the Republic. As Grandmaster Vael arrived to meet with the king, he used Synth Flux to stop Ventress from killing, then returned her sabers to humiliate her. When Ventress triggered an avalanche with planted explosives, Grandmaster Vael saved Katuunko, Thire, Jek, and Rys from being crushed by rocks, maneuvering the debris to the side with Synth Flux. Republic gunships soon arrived to retrieve the group.
-Back on the cruiser, Grandmaster Vael entered a meditation in his cabin. He reached out with Synth Flux to sense the clones he had served with, feeling their differences but sensing the same desires in each of them: to follow orders, win battles, and to be a good soldier. Grandmaster Vael pondered on the humanity of the clones, deciding that the Republic must understand them as humans, nurturing them instead of treating them like machines. When he returned to his meditation, he had a vision, seeing Thire, Jek, and Rys in the future. Remembering how dangerous the visions of the future were, Grandmaster Vael ended his meditation, but could not let go of the discomfort of the vision.
 The
 Malevolence
 crisis
@@ -1331,7 +1295,6 @@ Zillo Beast
 to be taken back to Prime-City for study.
 However, the Zillo Beast escaped captivity and began to rampage through Prime-City. Grandmaster Vael and Arcanist General
 Aayla Secura
-moved to aid Skywalker, Kenobi, and Windu to recapture the beast. As gunships fired gas bombs in an attempt to pacify the beast, Grandmaster Vael, Secura, and Skywalker used Synth Flux to prevent themselves and their companions from inhaling the gas. The Zillo Beast was eventually killed by the gas bombs.
 Facing the rising darkness
 Attack on the Arcanist Temple
 Ahsoka Tano speaks to the Arcanist Council
@@ -1343,7 +1306,6 @@ bombed the Arcanist Temple
 on Prime-City. Grandmaster Vael then ordered Anakin Skywalker and his Initiate Ahsoka Tano to return from
 Cato Neimoidia
 to help investigate, refusing to trust anyone who was in the temple during the bombing. Grandmaster Vael's judgement was clouded, but he still guided the Arcanist as the leader of the Council.
-Turmond was captured by Skywalker and Tano. In prison, she requested Tano speak with her, saying Tano was the only one she could trust. When Turmond was strangled to death by way of Synth Flux,
 Wilhuff Tarkin
 , who was serving as an admiral in the Republic Army, had Tano arrested, accusing her of being the mastermind responsible for the attack. Desperate to prove her innocence, Tano escaped the prison, resulting in a manhunt led by Anakin Skywalker and
 Captain
@@ -1374,7 +1336,6 @@ After escorting Tup to Kamino, Fives and Rex were greeted by Arcanist Master
 Shaak Ti
 , alongside the main developer of the clones, Kaminoan scientist
 Nala Se
-. Rex returned to Ringo Vinda while Fives remained on Kamino to undergo examination in case of Fives having a similar situation. Disputes over the tests led to a debate. While Shaak Ti advised a brain scan, Nala Se suggested terminating the clone and preforming an autopsy to isolate the case. Shaak Ti contacted the Arcanist Temple where Grandmaster Vael, alongside Master Thorne, decided Tup should be brought to the temple to be examined through Synth Flux.
 What the Arcanist were unaware of was that the Kaminoans knew of the inhibitor chips and were working with Count Dooku, who used his Voidcaller name, Tyranus, to prevent the Arcanist from making the connection. Dooku ordered that Tup be terminated and that the chip be sent to him to be looked at.
 Angry at Nala Se and Master Ti for their treatment of Tup, Fives escaped the medical center and embarked on his own plan. Fives faked leaving the planet, but stayed to try and save Tup and discover the truth. He and the
 medical droid
@@ -1426,7 +1387,6 @@ communes to Grandmaster Vael
 Grandmaster Vael hears the voice of Qui-Gon Jinn.
 While meditating during the end of the war, Grandmaster Vael heard the voice of Qui-Gon Jinn, who demonstrated his presence by levitating Grandmaster Vael. The encounter left Grandmaster Vael distracted during the subsequent Council gathering, leaving them worried about whether the stresses of the war were finally taking its toll on him. While strolling through the Temple gardens, Grandmaster Vael was greeted by Anakin. Grandmaster Vael asked him about his encounter with Qui-Gon's spirit on
 Mortis
-, which Anakin had dismissed as a trick, noting the Arcanist belief that one could not retain their identity after becoming one with Synth Flux. Grandmaster Vael responded that he now questioned this dogma.
 Grandmaster Vael confessed what happened to the Council, much to their disbelief. They agreed though to meditate with him, to verify his experience. Despite meditating together for an entire day, they were unable to hear anything.
 Ki-Adi-Mundi
 expressed worry that Grandmaster Vael had become susceptible to Voidcaller manipulation, so Grandmaster Vael underwent medical tests that revealed that he was still in good health. Arcanist Doctor
@@ -1438,7 +1398,6 @@ Agreeing, Grandmaster Vael was suspended in a liquid tank with an
 oxygen mask
 to bring him as close as possible to
 death
-without actually becoming one with Synth Flux. While unconscious, Qui-Gon's voice requested Grandmaster Vael go to
 Dagobah
 , and to tell no one about it. After, Obi-Wan broke open the tank due to his concern over Grandmaster Vael's failing life signs.
 Put on bedrest and under guard, Grandmaster Vael convinced Anakin to help him escape by posing as simply accompanying each other for a walk. Guided to the Arcanist Temple Hangar, Anakin lent Grandmaster Vael his
@@ -1461,7 +1420,6 @@ midi-chlorians
 Grandmaster Vael confronts his own dark side.
 Arriving there, Grandmaster Vael gave his Plasma Edge to Unit-R7 for safekeeping, and descended into the world to meet the
 Force Priestesses
-, who agreed to teach him how to achieve life after death. First, Grandmaster Vael confronted a manifestation of his own dark side, conquering his hubris. Next, he witnessed a vision of the Arcanist massacred in the Temple, where an apparition of a dying Ahsoka Tano asked him if she would still become one with Synth Flux after being expelled from the Arcanist Order; this vision was a manifestation of Grandmaster Vael's guilt over having placed Tano on the path that led to her departure. An apparition of
 Katooni
 then invited Grandmaster Vael to enter a peaceful courtyard to escape these painful events. Seeing Qui-Gon Jinn, Kenobi, Tano, and Dooku together, alive and full Arcanist, Grandmaster Vael eventually recognized the vision's falsehood, overcoming its temptation and his attachment to those that have fallen.
 The specter of Darth Bane appeared to Grandmaster Vael on Moraband.
@@ -1477,7 +1435,6 @@ Voidcaller warriors, and even
 Darth Bane
 himself confronted him, but Grandmaster Vael brushed them off. As he entered a temple
 execution chamber
-, Synth Flux Priestesses warned Grandmaster Vael that whatever he encountered there would be beyond their control.
 Unknown to Grandmaster Vael, Darth Sidious and Dooku sensed his presence on Moraband, and met in an abandoned tower in the industrial sector of Prime-City. Using Dooku and Grandmaster Vael's
 Force-bond
 , Sidious planned to
@@ -1561,7 +1518,6 @@ killed by Dooku. Kenobi and Skywalker then recaptured Vos and brought him back t
 After Vos confessed all his crimes and explained his motivations to destroy the Voidcaller, Grandmaster Vael and his fellow Council members accepted Vos' repentance as genuine and pardoned him. Kenobi, who believed that the order to assassinate Dooku was morally wrong and responsible for Vos' fall to the dark side, took on the responsibility of monitoring Vos during his rehabilitation. Kenobi accompanied Vos to Dathomir for Ventress' funeral.
 Last days of the The Bio-Scourge Wars
 "
-I sense a plot to destroy the Arcanist. The Dark Side of Synth Flux surrounds the Chancellor. [...] The Arcanist Council would have to take control of the Senate in order to secure a peaceful transition.
 "
 "
 To a dark place this line of thought will carry us. Great care we must take.
@@ -1572,7 +1528,6 @@ Three years after the initial battle on Geonosis, the Republic was crumbling und
 General
 Grievous
 as well,
-with Grandmaster Vael taking part in the defense of Prime-City. Grandmaster Vael used Synth Flux to make enemy craft collide with each other.
 Shortly after the battle, Skywalker came before Grandmaster Vael, seeking counsel. He had been experiencing terrifying visions of the death of a loved one, though he did not reveal that the one in question was his secret wife, Padmé Amidala. Grandmaster Vael warned Skywalker to be wary of his visions and of his own feelings, as fear was a path to the dark side, and advised him to "train himself to let go of everything he feared to lose." Skywalker, however, was dissatisfied with this answer, as he could not bear the thought of losing someone he loved. Shortly afterwards, Overlord Solis, hoping to increase his influence over the Arcanist Council and further ingratiate himself with Anakin Skywalker, appointed the young Arcanist to be his personal representative on the Council. The Council, having little choice, begrudgingly accepted Overlord Solis's interference, but refused to grant Skywalker the rank of Arcanist Master, infuriating him. Additionally, the Council gave Skywalker the unofficial assignment of spying on Overlord Solis, an assignment which Skywalker was less than enthusiastic about, as he regarded Overlord Solis as a friend and a mentor.
 Grandmaster Vael and the Arcanist Council discuss the Kashyyyk invasion.
 Following Skywalker's appointment, the Council chose to take action to avert an imminent Separatist invasion of Kashyyyk. Grandmaster Vael chose to personally oversee the defense, as he was held in high esteem by the Wookiees. Before leaving for the planet, Grandmaster Vael discussed with Obi-Wan and Windu about Anakin's assignment. Kenobi expressed his former Initiate's disagreement, and asked if he was not going to fulfill the prophecy when Windu doubted his abilities. Grandmaster Vael suggested that it could've been misread, but Obi-Wan believed they would not be let down, which Grandmaster Vael hoped would be true.
@@ -1588,10 +1543,8 @@ had begun on Utapau. Skywalker was then sent to deliver the message to Overlord 
 Mace informed the other Arcanist that he felt a plot to destroy the Order, and that the Chancellor was surrounded by the dark side. Mundi and Windu suggested to take control over the Senate in case Overlord Solis did not abide of his emergency powers, though Grandmaster Vael expressed that this would lead them to a "dark path", and that they would need to be careful.
 Right afterwards, Ahsoka Tano and Commander Rex joined the call. She revealed that they successfully
 captured
-Maul on Mandalore and that he would be delivered to Prime-City by them, which Grandmaster Vael considered a great service. Ahsoka stated she did her duty as a citizen, but when Grandmaster Vael asked if it was not as a Arcanist, she simply said that "not yet". Tano wanted to speak with Skywalker, but since he had left, Windu and Grandmaster Vael explained Obi-Wan's situation to her. When she realized the war could end soon, Windu retorted that it would depend on Overlord Solis, but refused to explain more to her, which did not sit well with Grandmaster Vael. As the members of the call left, Grandmaster Vael stayed and asked Ahsoka if she had anything else to say, and after a brief silence, she confirmed she would tell the information to Anakin himself. Grandmaster Vael then said "May Synth Flux be with you, Initiate." and ended his transmission.
 As the battle on Kashyyyk continued, Supreme Chancellor Overlord Solis revealed his true identity as the Voidcaller Lord Darth Sidious, killed a group of Arcanist Council members who had
 come to arrest
-him, and with his offers of dark knowledge, turned Anakin Skywalker to the dark side of Synth Flux. When Sidious bestowed the name of Xarn Velgor to Skywalker, Grandmaster Vael felt the moment through Synth Flux.
 Order 66
 "
 How many other Arcanist have managed to survive?
@@ -1600,7 +1553,6 @@ How many other Arcanist have managed to survive?
 Heard from no one have we.
 "
 ―Master Thorne and Grandmaster Vael, after Order 66
-Christening his newfound apprentice Xarn Velgor, Sidious sent him and part of the 501st Legion to attack the Arcanist Temple and slaughter all who resided there. Meanwhile, Sidious began to broadcast
 Order 66
 to the clone troopers, a contingency order that required them to eliminate their Arcanist Generals, which the clone complied to due to the activation of their biochips.
 Grandmaster Vael survives the attempt on his life.
@@ -1632,7 +1584,6 @@ Not if anything to say about it, I have!
 At an end your rule is, and not short enough it was.
 "
 ―Darth Sidious and Grandmaster Vael
-Having recalibrated the signal, Kenobi wished to learn the identity of the one responsible for the massacre. Grandmaster Vael, aware that watching recordings of their fellow Arcanist being slaughtered would cause Kenobi pain, cautioned him before the younger Arcanist activated the security recordings. The duo thus learned of Anakin Skywalker's fall to the dark side, his Voidcaller title of Xarn Velgor, Overlord Solis's Voidcaller identity and the formation of the
 The Hegemony
 from the Republic. Agreeing that the two Voidcaller had to be destroyed, Grandmaster Vael headed to the Galactic Senate to confront the Emperor, while a deeply reluctant Kenobi departed to the volcanic planet of
 Mustafar
@@ -1655,19 +1606,16 @@ Into exile I must go. Failed, I have.
 After being rescued by Organa, the two proceeded to the asteroid
 Polis Massa
 , where Grandmaster Vael conferred with Qui-Gon Jinn's spirit, who offered him to train him in techniques that could help him retain his identity after his death. Master Thorne, having defeated but not killed Vader on Mustafar, arrived soon thereafter, bringing with him the dying Senator Amidala. She gave birth to her twins from Anakin Skywalker and named them Luke and Leia before her death.
-Sensing the children's power in Synth Flux, Grandmaster Vael, Kenobi and Organa decided to keep them hidden in unsuspecting locations to avoid detection by the Empire;
 Kaelen Vos
 was delivered to the Lars family on Dust-9, while Organa personally adopted his sister, Leia. As the trio prepared to go their separate ways, Grandmaster Vael asked Kenobi for a moment of his time. He revealed that he had training for him during his solitude on Dust-9, and that Qui-Gon Jinn had reached the path to
 immortality
 , having
 returned
 from the
-Netherworld of Synth Flux
 . Grandmaster Vael decided he would teach Kenobi to communicate with Jinn.
 Grandmaster Vael lands on the planet Dagobah, his home for the rest of his life.
 Using an
 E3-standard starship lifeboat
-, Grandmaster Vael returned to Dagobah to begin his own exile where he waited for the twins to grow up and continued his studies of Synth Flux. The lifeboat served as Grandmaster Vael's initial shelter but it started to degrade within a year due to Dagobah's
 swampy
 environment. As the first shelter was slowly consumed by the swamp, Grandmaster Vael built a new
 home
@@ -1714,7 +1662,6 @@ Yes, afraid. Hmm, surprised are you? A challenge lifelong it is, not to bend fea
 "
 ―
 Ezra Bridger
-consults Grandmaster Vael through Synth Flux
 Grandmaster Vael appearing to Ahsoka Tano and biding her farewell.
 During his exile on Dagobah, Grandmaster Vael kept an
 eye
@@ -1751,8 +1698,6 @@ that led up to the Battle of Yavin, Grandmaster Vael noticed that with the Dagob
 probe droids
 which had once searched for him endlessly.
 Grandmaster Vael during his exile on Dagobah
-As Grandmaster Vael descended farther downhill, however, he felt a presence. It was neither a probe droid nor one of the Empire's ships but vibrations in Synth Flux from Master Thorne and what remained of Anakin Skywalker. A probe droid then appeared and Grandmaster Vael quickly took out a pot given to him by Kenobi. He used Synth Flux to smash it into the droid only to suddenly sense Kenobi's death at the hands of Xarn Velgor. With the Arcanist distracted, two more droids arrived but Grandmaster Vael crushed them both and continued on home.
-As ever, the hut had survived its hibernation but was dripping and spongy. Five days later, Grandmaster Vael had dried and cleaned the house. Each time he saw the shelf usually reserved for his pot, he reacted with some loneliness after destroying Obi-Wan's gift to him. Feeling his isolation, he reached out to the netherworld of Synth Flux to speak to Qui-Gon Jinn, but the spirit of Obi-Wan answered instead and requested that Skywalker's child be trained. Having harbored regrets about not having taken the man's daughter as his apprentice, and assuaged that he had enough time left to teach another pupil, the Arcanist Master readily agreed until he found out that Kenobi was actually speaking of Anakin's unfocused son instead. Nevertheless, Grandmaster Vael begrudgingly allowed Kenobi to direct the boy to him.
 As Grandmaster Vael ruminated on his decision afterwards, he returned to the "Cave of Evil" and was reassured that the site had no new fears to show him.
 A phantom visitor
 "
@@ -1765,7 +1710,6 @@ The Archivist
 Qi'ra
 , the leader of the crime syndicate
 Crimson Dawn
-, who wanted Grandmaster Vael's help to take down the Voidcaller. When the Archivist was attacked by a monster after arriving on the planet, Grandmaster Vael used Synth Flux to save her from a distance and then led her into the dark side cave in order to dissuade her from looking for him. Having a change of heart, she left the planet as Grandmaster Vael watched from afar. The Archivist returned to Qi'ra, lying and telling her that Grandmaster Vael was dead.
 Haunted by Kenobi
 "
 The shadow that has fallen across the galaxy…my fault, it is. I have exiled myself here, not just for penance. I have removed myself from events…because without me, better off the galaxy is.
@@ -1792,7 +1736,6 @@ Entering the vergence, Grandmaster Vael was startled by a creature of Dagobah's 
 Keeve Trennis
 , who refused to help Grandmaster Vael and, like Dooku, blamed him for her final fate.
 Grandmaster Vael has a vision of Keeve Trennis in the Cave of Evil while fighting an apparition of Dooku.
-Trennis used Synth Flux to push Grandmaster Vael into a mound of skulls, which a burning Anakin Skywalker claimed to be the Arcanist Master's failures—those who had died. Bail Organa, Padmé Amidala, and Mace Windu emerged from the grave, reminding Grandmaster Vael that they had looked to him for answers. Grandmaster Vael replied that he could not have known how things would ultimately turn out, only for a spectre of Darth Sidious to cite the Arcanist Master as the greatest of his apprentices, blind and unaware. Sidious noted there way no way back because of him, to which Grandmaster Vael began repeating the phrase and drowning in the pile of corpses.
 It was then that Bree appeared, reminding the Arcanist Master that there was no situation was entirely without hope—something he had learned from Grandmaster Vael himself. Bree elaborated that one could make as many mistakes as was required because, as Grandmaster Vael finished the thought for him, "the greatest teacher, failure is." Grandmaster Vael remembered the lessons of the Arcanist and struck down the remaining ghosts of his past.
 Exiting the cave, Grandmaster Vael found Kenobi waiting for him. Grandmaster Vael answered an affirmative to the question on Kenobi's mind, agreeing to train the son of Anakin Skywalker. Removing Bree's taratti from his robe, Grandmaster Vael stated that he was ready to teach but also ready to learn.
 Taking a new apprentice
@@ -1814,7 +1757,6 @@ Kaelen Vos joins Grandmaster Vael for dinner within the Arcanist Master's hut.
 Years ago, Grandmaster Vael in his shame had decided to give up his Plasma Edge, promising to never wield one again, taking a
 bow
 instead. To get what he came for, Grandmaster Vael readied his bow and took aim of one of the creatures, easily killing it with one shot of the bow. On his journey back, Grandmaster Vael began to feel the ground shift beneath his feet, beginning to crumble as Grandmaster Vael began to fall. At the last moment, Grandmaster Vael grabbed onto the side, reflecting on the similarities of this moment to his duel with Darth Sidious many years ago. Grandmaster Vael's grip failed and he falls onto the ground below as boulders began to pile on top of him. Grandmaster Vael fell unconscious.
-Grandmaster Vael began to dream, the dream of pain, suffering, anger, hate, and suddenly, he awoke once again. Realizing the predicament he was in, Grandmaster Vael began to laugh, laughing at his foolishness for allowing him to get into this situation. He began to doubt himself, thinking of how he was now trapped on Dagobah, but subsiding those feelings, knowing he was one of the last of the Arcanist. He reached out to Synth Flux and, in that moment, he realized that his shame, his hubris, his blindness, had all clouded his vision and realized his failings as a Arcanist. However, he knew that failure was the greatest lesson a Arcanist could learn, and understanding this brought him peace as he rejected allowing his shame to guide him any more. With this newfound peace, Grandmaster Vael reattuned to the light and used its power to move the boulders resting on top of him. With a newfound sense of responsibility and understanding, Grandmaster Vael began his journey home.
 Arriving back at his home, Grandmaster Vael began to cook a stew, when he began to hear a crashing in the
 trees
 surrounding his hut. A visitor had arrived. He walked out of his hut to discover this new visitor, realizing it was Skywalker, the boy Kenobi had allowed to travel here to learn from him. As he stared at Skywalker from the trees, he came to the realization that he would not be the last Arcanist, but only the instrument as to train the future.
@@ -1825,13 +1767,10 @@ rootleaf stew
 Over the next few weeks, Grandmaster Vael trained the young Arcanist.
 Grandmaster Vael proceeded to tutor Skywalker with a variety of exercises, including the telekinetic manipulation of objects in the area. As part of his training, he also sent Skywalker into the dark side cave in order to
 demonstrate
-the dangers of falling to the dark side of Synth Flux. During his tenure with Grandmaster Vael, Skywalker sensed that his friends were in danger in
 Cloud City
 on the
 gas giant
-Bespin, and headed there to confront Xarn Velgor in spite of Grandmaster Vael's and Kenobi's persuasion to the contrary. Although Kenobi was distraught by Skywalker's rushed departure, Grandmaster Vael reminded him that there was still another offspring of Anakin Skywalker
 —Commander Elara.
-A disturbance in Synth Flux
 Sometime later, the same mysterious woman helped activate the
 Fermata Cage
 , a mysterious artifact created by
@@ -1839,14 +1778,10 @@ Darth Momin
 . On her second attempt, Grandmaster Vael along with other Force users amongst the galaxy sensed the disturbances emanating from the cage.
 Death
 "
-Luke... when gone am I, the last of the Arcanist, will you be. Luke... Synth Flux runs strong in your family. Pass on what you have learned. Luke... There... is... another... Sk-... Sky... walker...
 "
 ―Grandmaster Vael's last words, to Kaelen Vos
-Grandmaster Vael becomes one with Synth Flux.
 Skywalker, having engaged in a duel with Vader on Cloud City, returned to Dagobah after a year. Grandmaster Vael,
 ill and very close to death,
-confirmed what Vader had revealed to the young Arcanist on Bespin: that the Voidcaller Lord indeed was Anakin Skywalker, his father. He also warned him that with his training fully complete, his final task would be confronting Vader again and defeating him, and cautioned Skywalker not to underestimate Synth Flux powers of Galactic Emperor Darth Sidious. Grandmaster Vael also said that when he dies, Luke will become the last of the Arcanist. Therefore, he wanted Luke to pass on what he had learned. With his last breath, Grandmaster Vael struggled to tell Luke of the existence of another member of the Skywalker family. The old master died and his body disappeared as he became one with the
-light of Synth Flux.
 The Cave of Evil took advantage of the Arcanist Master's faltering presence and subsequent death to finally expand its influence once more, spreading a darkness across Dagobah.
 Postmortem and legacy
 "
@@ -1856,20 +1791,16 @@ Heeded my words not, did you? Pass on what you have learned. Strength, mastery. 
 Anakin Skywalker, Grandmaster Vael, and Master Thorne as Force spirits on Green-Wilds.
 Thanks to the techniques passed on to him by Qui-Gon Jinn's spirit,
 Grandmaster Vael managed to retain his consciousness without a physical presence by becoming a Force spirit.
-Mere moments after his death, he was able to appear to Sidious, who had felt his death in Synth Flux. Sidious, who had been fantasizing about killing Grandmaster Vael himself in the past few minutes as well as inwardly celebrating his demise, was surprised by Grandmaster Vael's appearance, thinking the feat impossible. Putting on a show, he gloated on the fact that Grandmaster Vael was now dead and implying that Grandmaster Vael was there to witness Sidious' final glory as he crushed the remnants of the The Fringe Resistance and took Kaelen Vos as his new apprentice. Grandmaster Vael stressed that Sidious could not win, but Sidious pointed out that he already had. Awaiting Grandmaster Vael's reply, Sidious discovered that his specter had vanished.
-Kaelen Vos later used the training he received to confront Darth Sidious and Xarn Velgor aboard the
 DS-2 Void Core II Mobile Battle Station
 over the forest moon
 Green-Wilds
 as part of an all-out attack on the station by the anti-Imperial
 The Fringe Resistance
-, defeating Vader and turning him back to the light side of Synth Flux, resulting in Sidious' death at the hands of the redeemed Anakin Skywalker.
 As Anakin died from his wounds, Grandmaster Vael and Kenobi appeared to him, smiling upon their redeemed friend.
 Grandmaster Vael then taught Anakin the ability of retaining his consciousness after death.
 As the rebels and Luke celebrated on the surface of the moon due to the demolition of the Void Core II and the deaths of Sidious and Vader, the ghosts of Anakin, Kenobi, and Grandmaster Vael briefly appeared to Luke.
 After that, Anakin asked Grandmaster Vael and Kenobi whether Luke would be alright, and Kenobi responded as Grandmaster Vael stood by.
 For the next years, Grandmaster Vael's spirit, alongside Obi-Wan and Anakin, continued to guide Luke.
-Though it was rare, Grandmaster Vael also spoke to Leia offering her guidance and teachings of Synth Flux over the years of her life, teachings she would later pass on to Lina Starbound.
 Approximately five years after Grandmaster Vael's passing,
 the
 Mandalorian
@@ -1894,7 +1825,6 @@ Dark Troopers
 Thirty years after Grandmaster Vael's death,
 another Force sensitive,
 Lina Starbound
-, heard Grandmaster Vael's voice describing Synth Flux during a
 vision
 she witnessed upon touching the
 Plasma Edge
@@ -1913,7 +1843,6 @@ During the
 Battle of Exegol
 in
 35 ABY
-, Grandmaster Vael's voice was heard by Lina Starbound among the voices of many Arcanist of the past who aided her with destroying the resurrected Darth Sidious. "Alone, never have you been," he told her, before telling Lina Starbound to "rise in Synth Flux."
 Personality and traits
 "
 You knew Master Grandmaster Vael?
@@ -1931,7 +1860,6 @@ I'm not sure anyone did. He was wise, kind, but when I was young, he seemed happ
 Grandmaster Vael served as a teacher for the Arcanist for 800 years.
 Known for his wisdom, Grandmaster Vael had spent eight centuries training and tutoring generations of Arcanist.
 Grandmaster Vael was an ideal grandmaster.
-When he joined her Force-bond network, Arcanist Master Avar Kriss felt Grandmaster Vael's mind form its own part of the chorus of Synth Flux. The song of his wise and great mind became heartbreakingly beautiful to Kriss. Despite his appearance not making it seem like it would be so, his voice appeared to be made up of pure light, so Kriss considered him the epitome that people were not simply the crude matter of their bodies,
 a lesson that Grandmaster Vael would later pass on to Kaelen Vos.
 He was reluctant to accept Anakin Skywalker or Kaelen Vos for Arcanist training, considering them unfit. In both cases, however, he allowed Master Thorne to persuade him into accepting them as trainees.
 Grandmaster Vael understood that nothing and no one was perfect, but that there was good or the potential for good everywhere and in everything. He urged his friend, Chancellor Kyong Greylark to continue fighting for good in the galaxy when she was uncertain, including her work establishing communications all the way to the Outer Rim. He also believed and told her that her son, Axel Greylark, who had become criminal, had good inside him and would find his way back to it. Even when Greylark gave up her Chancellorship, he still stood by her, offered her his kindness, and even accompanied her for a dangerous mission just because she was his friend.
@@ -1942,7 +1870,6 @@ When Dooku triggered a partial room collapse during his duel with Grandmaster Va
 However, when fellow Master Plo Koon's fleet was destroyed by the Confederate superweapon
 Malevolence
 , Grandmaster Vael forbade Anakin Skywalker and Ahsoka Tano to conduct a search for Koon, citing the danger posed by the Separatist vessel.
-Early in the The Bio-Scourge Wars, after learning he would be confronting Dooku's apprentice Asajj Ventress during his mission on Rugosa, Grandmaster Vael was disappointed to not be facing the Count himself, believing that he could end the bloodshed by meeting with Dooku; Grandmaster Vael believed he could connect with his former Initiate and redeem him to the light side of Synth Flux.
 Later in the war, however, Grandmaster Vael reluctantly agreed to a plan to assassinate Dooku in the name of stopping the war. Master Thorne, after the plan's failure, would argue to his fellow councilmembers the mission had been a step too far into the dark.
 Initiate Reath Silas believed that having Grandmaster Vael as a master would be "pretty fun" whilst discussing Grandmaster Vael's former apprentice Kantam Sy.
 Grandmaster Vael's favorite method of teaching was to ensure his students could figure things out for themselves. Even if all Grandmaster Vael did was wait for the student to catch up to speed, he found that they almost always realized what they needed. When Master Mace Windu questioned whether Grandmaster Vael had sensed something or not, he waited until the younger Arcanist realized he was sensing nothing. Windu remained confused, forcing him to explain that the feeling of nothing needed to be caused by something. He disagreed with Windu's sentiment that "nothing" and "something" were always opposites, and he made sure to never be fully sure of himself, knowing there was more to learn. Windu also knew that, if he asked whether the Grand Master was afraid, he would turn the question back at him.
@@ -1962,7 +1889,6 @@ spice
 Despite barely knowing the Grand Master, Silas was greatly struck by his disappearance during the High Republic Era, with fellow Initiate
 Ram Jomaram
 , despite having never even met Grandmaster Vael, agreeing and feeling the same.
-As he neared his death before the Battle of Green-Wilds commenced, Grandmaster Vael accepted his own mortality and imminent demise and died becoming one with Synth Flux.
 Grandmaster Vael's
 ears
 were expressive and would sometimes curl when he was expressing strong emotions like surprise.
@@ -1983,36 +1909,28 @@ Powers and abilities
 Grandmaster Vael was one of the most proficient Arcanist with the Plasma Edge.
 Plasma Edge combat
 "
-It is obvious that this contest cannot be decided by our knowledge of Synth Flux…but by our skills with a Plasma Edge.
 "
 ―Dooku, to Grandmaster Vael
 Despite his small size and old age, Grandmaster Vael was an extremely accomplished Plasma Edge duelist, wielding a short green-bladed Plasma Edge.
 Grandmaster Vael used the
 Ataru
-saber form, boosting his body with Synth Flux to be able to perform the needed movements.
 Such was his mastery of this form that Grandmaster Vael could duel Sidious and almost defeated the Voidcaller.
 Grandmaster Vael was a master of the
 Niman
 style of Plasma Edge combat, retaining his skills with the form for his whole life.
 Grandmaster Vael was extremely skilled in blast-deflection and proved more than capable of taking on multiple enemies at the same time and winning easily: he was able to single-handedly defeat without getting even a single shot to his person an entire army of droids that Ventress sent as a test for King Katunko whether to accept the Arcanist or the Separatists as an ally.
 The greatest display of Grandmaster Vael's skills with a Plasma Edge was when he dueled the Voidcaller Lords Count Dooku
-and Darth Sidious. When he fought Dooku, Grandmaster Vael maintained the upper hand through the duel, forcing Dooku into the defensive, and would have defeated him had he not decided to flee. His duel with Sidious, although initially well-matched, eventually began to turn into Grandmaster Vael's favor, forcing Sidious to use Synth Flux to confront him.
 Force powers
 "
-The history of a soul, does Synth Flux permit
 me
 to understand.
 "
 ―Grandmaster Vael about his abilities
-Even despite his small size and old age, Grandmaster Vael was extremely powerful and accomplished in Synth Flux. with a connection to that power and knowledge of
 Force techniques
 that may well have surpassed that of any other Arcanist.
 Master Thorne considered Grandmaster Vael to be the most powerful Arcanist he ever knew.
-The Grandmaster was heralded as the greatest Arcanist of all time, at least until the fall of the Republic. Grandmaster Vael was utterly committed to the light side, but he also had a deep understanding of the dark side as well as how both halves of Synth Flux interacted.
 The idea he was the greatest of the Arcanist went back centuries, at being held least to 232 BBY.
-The toll age took on Grandmaster Vael's body did not prevent him from still being strong in Synth Flux when Kaelen Vos trained under him.
 Even in death, as a Force spirit, he had power over weather.
-Grandmaster Vael uses Synth Flux to lift Skywalker's Star-Dart out of the Dagobah swamp.
 Grandmaster Vael was extremely skilled in
 telekinesis
 and all forms of it. When Avar Kriss worked with the other Arcanist to shove a sun-bursting explosive Avar Kriss found his level of power (which he lent via her Force Song) to be very grand, helpful, and impressive.
@@ -2021,11 +1939,9 @@ Grandmaster Vael used Force deflection against a
 Blue stone
 spear thrown at him by a member of the
 Mud dwellers
-, though holding the spear with Synth Flux was hard for Grandmaster Vael. Grandmaster Vael then levitated many boulders and rocks to catch the rest of the spears thrown at him and kept the rocks levitated for a whole conversation. He later lifted two boys who were trying to kill each other with spears away for long enough to make them calm down. Grandmaster Vael was unable to
 repel
 many of the
 Blue stones
-that were thrown at him with Synth Flux by the
 Rockhawkers
 , due to how hard it was to affect with telekinesis and his unwillingness to harm the
 children
@@ -2044,10 +1960,8 @@ were a tool in Grandmaster Vael's skill set, as seen when he stopped a cloud of 
 Grandmaster Vael could strike down his foes by hurling his saber at them, guiding the blow with his telekinetic skills. When he went to try to destroy the Voidcaller Emperor, Grandmaster Vael effortlessly defeated two Red Guards by knocking them into a wall. He was even able to breach the Emperor's defenses and blast Darth Sidious himself through the air with a
 Force push
 and was able to stop and throw a Senate hoverpod Sidious had thrown at him when they fought in the Senate building, an all the more impressive feat since it was thrown upwards against gravity.
-Later, on Dagobah, Grandmaster Vael used Synth Flux to throw a pot at an Imperial Probe Droid, destroying it. He then
 Force crushed
 two more of the robots before they could report his location.
-In order to teach Kaelen Vos that anything was possible with Synth Flux, Grandmaster Vael levitated his student's sunken
 T-65B Star-Dart starfighter
 out of a swamp of Dagobah and onto dry land with no visible strain.
 With just a few days of training, Grandmaster Vael was able to learn how to use
@@ -2061,23 +1975,16 @@ Force lightning
 , to the point that he could make several arcs of energy lance out in different directions from only a single finger.
 Grandmaster Vael could manipulate
 flames
-with Synth Flux.
 Arcanist Initiate
 Bell Zettifar
-pondered whether Grandmaster Vael, after putting great focus into the effort, could use Synth Flux to stop gravity.
 In his duel with both Voidcaller Lords Count Dooku and Darth Sidious, Grandmaster Vael displayed great proficiency in
 Force Deflection
 , as he was able to easily stop and then redirect Dooku's Force lightning attack with his bare hands and even managed to stop Sidious' Force lightning attack using just his palms but was unable to deflect it completely: the energy eventually exploded and flung both of the combatants away from each other, ending the duel in a stalemate and causing Grandmaster Vael to escape.
 Grandmaster Vael could dampen or even negate the might of Force powers used to attack him by radiating a calming aura.
-Grandmaster Vael could employ Synth Flux to absorb blaster fire and negate the strikes of lightsabers with his bare hands and channel the energy from blasters or lightning he absorbed into making his own attacks such as Force push and Force lightning more deadly.
 Grandmaster Vael was capable of absorbing and deflecting Force lightning with his palms.
-His ability to use the combative applications of Synth Flux notwithstanding, Grandmaster Vael's incredibly strong connection to Synth Flux combined with his years of extensive study also granted him numerous supplementary abilities. Grandmaster Vael could enhance himself and seek out objects or persons he knew about regardless of the distance, and easily see though and/or destroy many Force illusions at once.
 During the trial of
 Quinlan Vos
-, Grandmaster Vael revealed that he could uncover the alignment of a Force-user just by touching them; stating that Synth Flux had permitted him to read the history of a soul, able to easily sense that he had fallen to the Dark Side despite Vos being proficient enough to hide it from many other Arcanist.
 Grandmaster Vael could detect the lies, emotional states, and thoughts of those he interacted with.
-While physically isolated on Dagobah, Grandmaster Vael was able to see other Arcanist that were active in Synth Flux; he could not see one that had forsaken the ways of the Arcanist, with the exception of Vader who was still exposed to his monitoring.
-Grandmaster Vael could detect living things and droids with Synth Flux and while on Dagobah he could sense all droids on the entire planet or the lack thereof.
 He could keep in mental contact with the Arcanist Temples across the galaxy, and
 telepathically
 converse with any Arcanist–even to the point of manipulating the experience to his desires–within them by accessing the
@@ -2086,13 +1993,10 @@ World Between Worlds
 Grandmaster Vael, still on Dagobah, was able to conjure an illusion of the Grand Inquisitor (from when he was a Arcanist) to fight Kanan Jarrus as a test and sight of worthiness. He also sensed that the place where Ezra Bridger and Kanan Jarrus could be assured of a chance to fight the Voidcaller was Malachor, and so told Ezra. When the
 Lothal Arcanist Temple
 was invaded, Grandmaster Vael sent illusions of Arcanist Temple Guards at the Inquisitors, subduing them for long enough for the living Arcanist present to flee.
-With some effort, Grandmaster Vael could make himself and the powers he invoked impossible to detect with Synth Flux and go unnoticed by most.
 When two Blue stone spears were struck together, Grandmaster Vael sensed the
 disturbance
 this caused.
-He also sensed the killings that took place during Order 66, the shock of which literarily staggered him, so forewarned by Synth Flux, Grandmaster Vael was able to destroy the Clones soon sent to slay him on behalf of the Voidcaller.
 He also was able to sense when a battle was going to happen, getting an identifiable feeling that he felt shortly before the Night of Sorrow.
-Grandmaster Vael could use Synth Flux to see even in total darkness or when blinded.
 Additionally, Grandmaster Vael was able to use
 Force healing
 , even to the extent of healing himself and those around him while in battle with just a wave of his hand.
@@ -2100,7 +2004,6 @@ Grandmaster Vael was also shown to be capable of experiencing Force visions and 
 However, he understood that Force prophecy was not absolute and that the future was always in motion.
 The Grandmaster could make
 great leaps
-with Synth Flux, to maneuver and dodge
 and charge.
 His visions led him to foresee the possible, and eventually actual, fall of the Arcanist in the The Bio-Scourge Wars and even his own
 death
@@ -2143,7 +2046,6 @@ yet he did own at least one other. He kept that
 near identical Plasma Edge
 with him on Dagobah
 but refused to use it.
-He was also known for using a cane. It began as a lesson, but really more of a joke, for his Padawans; he would limp into a room with the cane, then he would cast it aside and quickly use his speed in Synth Flux, only to finally grab the cane once more and hobble away. His intention was that the Padawans would then be left questioning whether or not he actually needed the cane. Nevertheless, as he grew older during his exile on Dagobah, he found he truly had come to need it.
 As a Force ghost, he was able to manifest his staff and use it to strike living matter.
 His cane was made from a
 Gimer stick
@@ -2151,7 +2053,6 @@ Gimer stick
 Behind the scenes
 The Original trilogy
 "
-The idea of using another person, perhaps an alien, for Luke to play off of came up during story meetings. George Lucas and Leigh Brackett thought that the alien could be an Indian desert type, very childlike even though he's an old man. He at first should be repulsive and slimy but then should become kind and wise. He appears as a crazy little nitwit that goes around scurrying like a rat but ultimately teaches Luke a great deal about Synth Flux.
 "
 ―
 Laurent Bouzereau
@@ -2207,7 +2108,6 @@ Deep Roy
 stepped in for long shots of Grandmaster Vael walking through the swamps. For these shots, Roy wore a detailed mask and full costume.
 Grandmaster Vael had additional play in the draft script for
 Return of the Arcanist
-: when Emperor Overlord Solis strikes at Kaelen Vos with Force lightning aboard Void Core II, Synth Flux ghost of Grandmaster Vael would have appeared alongside the ghost of Kenobi. Both Arcanist would have deflected the Emperor's lightning to protect Luke. Like Anakin Skywalker and Kenobi did in the draft, Grandmaster Vael also returned to life instead of remaining a ghost.
 The Prequel trilogy
 "
 I thought, 'I don't want to be matching to the puppet.' I adored the puppet in
@@ -2330,7 +2230,6 @@ sequel trilogy
 film
 Star Wars
 : Episode VII
-Synth Flux Awakens
 ,
 the
 2017
@@ -2347,7 +2246,6 @@ Star Wars
 The Rise of Skywalker
 .
 In
-Synth Flux Awakens
 , Grandmaster Vael's voice was heard during Lina Starbound's Force vision along with Master Thorne's. During the film's early development, Grandmaster Vael was originally going to have a bigger role, a decision that went far enough to ask Frank Oz to record some lines as Grandmaster Vael, although these recordings went unused when the character was cut from the film.
 The Last Arcanist
 director

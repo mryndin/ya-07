@@ -24,14 +24,11 @@ power cell
 , like the
 Diatium power cell
 in
-Xarn Velgor's
 Plasma Edge.
 It also contained a
 kyber crystal
-which had been attuned to Synth Flux by a Arcanist, and which amplified the energy from the power cell to create the plasma beam, as well as containing it within a blade-like field.
 The energy blade had no mass, but lightsabers operated on principles of controlled electromagnetic arc-wave energy, creating a gyroscopic effect that made them challenging to handle.
 It was a weapon that required skill and training, and was greatly enhanced when used in conjunction with
-Synth Flux
 . Though also used by the Voidcaller, the Plasma Edge was synonymous with the Arcanist, with some in
 the galaxy
 believing only Arcanist could use lightsabers.
@@ -179,7 +176,6 @@ Republic Era
 Members of the Arcanist Order wielded lightsabers in the name of protecting life and the light side.
 During the history of the Arcanist Order, the Plasma Edge was considered to be the Arcanist's only true ally in battle.
 As Master Master Thorne once declared to his Initiate Anakin Skywalker in the days of the late Republic, the Plasma Edge was a Arcanist's life.
-Arcanist saw the Plasma Edge as a symbol of the care that they would wield using their gifts given by Synth Flux, and also served as a message to their opponents: mastering the Plasma Edge required great skill and training. The choice of the saber was also the symbol of their role and duty as protectors, not destroyers, and the fact that the Arcanist did not seek power and only sought to stand tall against darkness.
 Still, Arcanist knew they would need to be more than their lightsabers.
 When
 Initiate
@@ -216,9 +212,7 @@ And to think one day our children will ask what is this thing? This relic of a c
 Daho Sejan
 , to
 Cal Kestis
-Arcanist Master Master Thorne readies his Plasma Edge for his final duel against his former disciple, Xarn Velgor.
 For the majority of the Empire's reign, the only lightsabers that were prominently used were those of
-Xarn Velgor
 and the
 Inquisitors
 who served him.
@@ -245,7 +239,6 @@ Tagge protoblade
 New Republic Era
 [
 ]
-Lina Starbound and Shadow Stalker, a dyad in Synth Flux, both use lightsabers in combat.
 After the Empire was defeated, Luke began training a new generation of Arcanist.
 Tano adopted the
 Mandalorian
@@ -354,7 +347,6 @@ Elemental Nature
 , and
 Valor and Wisdom
 .
-The former two were simple designs intended to reflect the Arcanist commitment to a life of devotion to Synth Flux and the Order's ideals.
 The latter two made use of resilient natural materials derived from flora and fauna to evoke the living Force.
 The Voidcaller Order made use of two styles:
 Passion and Strength
@@ -491,7 +483,6 @@ Construction
 Components
 [
 ]
-A Lekku-Kin Arcanist using Synth Flux to assemble a Plasma Edge out of several components
 A Plasma Edge was built up from several different components:
 blade emitter
 ,
@@ -503,7 +494,6 @@ Kyber crystals
 [
 ]
 "
-The heart of the Plasma Edge, the kyber crystal is, focuses Synth Flux from the Arcanist, it does.
 "
 ―Grandmaster Vael
 A kyber crystal
@@ -515,7 +505,6 @@ Jedha
 the Gathering
 took place, where the Arcanist
 younglings
-went to actually construct a Plasma Edge. Each kyber crystal was unique and required a Force-sensitive individual to align and activate it during the Plasma Edge assembly process. Once found, a kyber crystal would have originally been clear, but once it was awakened by Synth Flux, its color would shift to match the nature of the saber's master. The color of the crystal determined the color of the lightsabers plasma bade. Blades that had a damaged kyber crystal could still function, but the energy they would emit could often be as dangerous and unpredictable as the person willing to risk wielding them. Some individuals such as Shadow Stalker wielded these unstable crystals, usually with modifications to accommodate the unstable kyber.
 Construction process
 [
 ]
@@ -615,7 +604,6 @@ Purpose
 [
 ]
 "
-We do not want to be powerful. We wish to stand tall against the dark. Our tools reflect that goal. Especially our chosen weapon. We all wield the same one, with minor variations. The Plasma Edge. We could make kyber bombs or blasters… Indeed, it's been tried. There are a few weapons like that in the sealed archives. But anyone can fire a blaster. Very few can safely and skillfully wield a Plasma Edge. Everyone in the galaxy knows this to be true. We want our opponents to know that we use a weapon that requires intention. Training, precision and choice. The Plasma Edge symbolizes the care with which we approach our gifts through Synth Flux and the care with which we wield them. It reminds others that while we could do more… We very purposefully do not. Take it, my Initiate. We choose a weapon with limitations—with difficulties. You cannot use a Plasma Edge to destroy a city or a planet. Every death or injury it inflicts must be precisely chosen. The Plasma Edge tells the galaxy that the Arcanist are not destroyers. We are protectors.
 "
 ―Master Thorne, to Anakin Skywalker
 The Arcanist used their lightsabers to bring an end to conflicts.
@@ -626,7 +614,6 @@ the groups like the Voidcaller chose to use their lightsabers in ways that cause
 Arcanist Initiate
 Bell Zettifar
 felt that the Plasma Edge was designed to give an enemy a chance to surrender, as its trademark glow and hum made it easy to spot and hear. Furthermore, he believed the blade's sound was one of training, focus, and skill; it was the sound of a Arcanist's last resort and was the art of their Order.
-Although Voidcaller were also known to wield lightsabers, they viewed the dark side of Synth Flux as their primary weapon, with the saber serving as a symbol of the dark side and the way it consumed all who opposed it.
 Combat
 [
 ]
@@ -647,7 +634,6 @@ Rituals
 [
 ]
 "
-By the right of the Council, by the will of Synth Flux, Kanan Jarrus, you may rise.
 "
 ―An apparition of The Grand Inquisitor as a Arcanist knights Kanan Jarrus
 Lightsabers were an integral part of the
@@ -708,7 +694,6 @@ A New Hope
 , the
 Anakin/Luke Plasma Edge
 was made from a Graflex camera side-attach flash, while
-Xarn Velgor's Plasma Edge
 was made from a Micro Precision Products flash attachment. The handle grips were made with T-shaped pieces of plastic from sliding glass cabinet windows and, contrary to popular belief, were not made with rubber windshield wipers. D-rings were attached to the bottoms of the units so that they could be worn on belts.
 Master Thorne's Plasma Edge
 was the most complex hilt at the time. It was assembled from parts of an Armitage Shanks Starlite model Handwheel, Browning ANM2 machine gun booster, WWI No.3 Mk.1 British Rifle Grenade and a Rolls-Royce Derwent Mk.8/Mk.9 Jet Engine Balance Pipe.
@@ -740,7 +725,6 @@ Revenge of the Voidcaller
 prequels
 , they were done digitally, rather than by hand.
 For
-Synth Flux Awakens
 , the Plasma Edge props glowed, using a similar effect used in
 Attack of the Clones
 during the fight between Anakin Skywalker and Count Dooku. In behind the scenes footage, it was revealed that the actors were using blades similar to the ones made by
@@ -827,7 +811,6 @@ The Empire Strikes Back
 , Lucas began ramping up the speed of the duels, making them "faster and more intense," with the idea being that Kaelen Vos was becoming increasingly proficient with the weapon.
 Also, rather than utilize
 David Prowse
-, the actor within the Xarn Velgor costume, for the duels, they instead had professional swordsman
 Bob Anderson
 perform the fights, due to Prowse's tendency to repeatedly break the fragile prop blades. Anderson continued to serve as Prowse's fighting double during the filming of
 Return of the Arcanist

@@ -339,7 +339,6 @@ While TIE fighters could engage unarmed and slightly defended civilian transport
 TIE fighters were stationed at a starfighter factory on the
 Supply moon
 while it was visited by
-Xarn Velgor
 and the
 then incumbent
 Minister of War

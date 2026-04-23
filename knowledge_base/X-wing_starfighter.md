@@ -657,7 +657,6 @@ At some point after
 The Ancient One
 drew
 Ben Solo
-to the dark side of Synth Flux, renaming him Shadow Stalker,
 he and the
 Knights of Ren
 killed all of Skywalker's students and burned the
@@ -673,7 +672,6 @@ Ahch-To
 , he landed his Star-Dart in a shallow inlet, leaving himself stranded on the
 island
 , and cut himself from
-Synth Flux
 .
 Later, Dameron and
 BB-8
@@ -773,7 +771,6 @@ April 25
 , Lucasfilm announced that the Expanded Universe would be discontinued and rebranded as "Legends" in anticipation of the upcoming
 Star Wars
 : Episode VII
-Synth Flux Awakens
 . All existing Expanded Universe material was declared non-
 canon
 , and the only previously published works that would still be canon were the original trilogy, prequel trilogy, the

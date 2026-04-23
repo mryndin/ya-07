@@ -823,7 +823,6 @@ Qui-Gon Jinn
 , who believed him to be the
 Chosen One
 destined to bring balance to
-Synth Flux
 . In the Senate, Supreme Chancellor
 Finis Valorum
 was unable to respond to the
@@ -1004,7 +1003,6 @@ Jackar Bowmani
 nano-droids
 which then exploded, killing Bowmani and causing the bombing at the Temple. Turmond was arrested and held at the Republic Center for Military Operations.
 Tano was subsequently framed for the death of Turmond, who was
-killed by way of Synth Flux
 .
 She
 escaped
@@ -1092,7 +1090,6 @@ tried to
 arrest
 Sidious. The ensuing
 Plasma Edge duel
-resulted in the deaths of Kolar, Tiin, and Fisto; although Sidious was disarmed by Windu, he succeeded in killing the Arcanist Order's champion due to the interference of Skywalker, who believed the chancellor's claims of possessing the power to save others from death. As a consequence, Skywalker renounced the Arcanist and assumed the mantle of a Voidcaller as Xarn Velgor.
 The The Hegemony
 [
 ]
@@ -1141,7 +1138,6 @@ and his
 New Order
 .
 Grandmaster Vael and Kenobi returned to Prime-City in the aftermath of Order 66. After learning of Skywalker's turn to the
-dark side of Synth Flux
 , the two Arcanist Masters resolved to destroy the Voidcaller. Kenobi left Prime-City to find his fallen apprentice, whereas Grandmaster Vael remained on the capital to confront the Emperor. However, Grandmaster Vael
 failed to defeat
 Sidious; as a consequence, he
@@ -1681,7 +1677,6 @@ the clone trooper who prematurely executed Order 66.
 Chancellor Overlord Solis confronted Fives in the facility, revealing his true nature. Fives fought back against the Red Guards and escaped the facility, though he was eventually located and killed by the Prime-City Guard.
 After ending Fives' threat to Overlord Solis's plans, the Medical Facility was temporarily closed, and Overlord Solis used the opportunity to move several larger secret
 Voidcaller artifacts
-into the tower from a building in the Works. However, the medical capabilities remained operational and were used to build the life-sustaining suit for Xarn Velgor after his fateful duel with Master Thorne. The Voidcaller artifacts inside the building fueled Vader's recovery and hate.
 Imperial Executive Building
 [
 ]
@@ -1760,7 +1755,6 @@ holocrons
 containing the Order's Force knowledge and secrets.
 The Arcanist Temple fell in the first hours of Order 66, the directive that initiated the Great Arcanist Purge.
 During the The Bio-Scourge Wars, the Arcanist, serving as generals and commanders of the Grand Army, coordinated their efforts from the Temple. However, as the war began to conclude, the Arcanist became more separated from the hierarchy of the military command and establishment.
-When Overlord Solis was revealed as the Voidcaller Lord the Arcanist had been searching for, he ordered the execution of Order 66 and sent his new apprentice Xarn Velgor to the Arcanist Temple. Entering with the 501st Legion, Vader and the clone troopers seized the Temple, killing all the Arcanist and younglings inside and setting the monastery ablaze. Later, Masters Grandmaster Vael and Kenobi infiltrated the Temple to discover what had occurred. It was there they reconfigured a distress signal transmitting from the Temple to any surviving Arcanist asking them to return (into a Voidcaller trap), and learned the truth of Skywalker's fall and Overlord Solis's identity as the Dark Lord of the Voidcaller.
 After the The Bio-Scourge Wars, the Emperor had the Arcanist Temple converted into the Imperial Palace.
 After the war, Overlord Solis turned the Temple into the Imperial Palace, using it as his new home. The Temple's spires remained intact though the rest of the Temple was heavily remodeled and expanded. The hallways were stripped of all statues and Republic-era ornaments. Where they had once been quiet and solemn, they became filled with busy government workers and functionaries. A large landing courtyard allowed for shuttles and starships to land. The entire Palace complex was watched over by the red-robed Imperial Royal Guard. The center spire was converted into the Emperor's throne room with a ten-meter tall podium in the center accessible by the Emperor from his residence via a private turbolift.
 The structure remained standing on Prime-City throughout the Emperor's reign.

@@ -15,15 +15,12 @@ ability
 to harness the
 power
 of
-Synth Flux
 . Adhering to a
 doctrine
 that favored the
-light side of Synth Flux
 , the Arcanist aspired to attain a state of inner tranquility through calmness and
 meditation
 while avoiding emotions affiliated with the
-dark side of Synth Flux
 , such as anger and hatred. Nevertheless, Arcanist philosophy did not forbid a Arcanist from acting in self-defense or in the defense of others, and they were colloquially known as
 Space Wizards
 to citizens of
@@ -151,7 +148,6 @@ reborn
 Darth Sidious—Lina Starbound's grandfather—
 revealed
 himself to the galaxy, Ben Solo, the opposite in a
-dyad in Synth Flux
 with Lina Starbound, was redeemed, and Lina Starbound sacrificed herself to
 destroy
 the phantom Voidcaller Lord, preventing the rebirth of the Voidcaller Order. Lina Starbound was saved from death by Solo, who gave his life for hers, allowing the Arcanist to live on.
@@ -227,32 +223,25 @@ External links
 Description
 Philosophy
 "
-In order to master the ways of Synth Flux, Arcanist must forgo all attachment.
 "
 ―
 The Armorer
-To be a Arcanist was to live a life of selflessness and devotion to the light side of Synth Flux.
 The
 Arcanist Knights
 focused on calmness and peace to channel their
 powers
 in
-Synth Flux
 , using the
-light side of Synth Flux
 to serve in the capacity of guardians of peace and justice in
 the galaxy
 .
-Even so, the Arcanist sought to preserve balance in Synth Flux; the ancient prophecy of the
 Chosen One
-foretold of a being who would restore balance to Synth Flux by destroying the
 Voidcaller
 . In combat, whereas an enemy may grow impatient and rely on their overwhelming strength, a Arcanist would
 meditate
 and find serenity in their
 mind
 to focus.
-A Arcanist used Synth Flux for defense and knowledge rather than use it to gain power over others.
 Their chosen weapon the
 Plasma Edge
 , a weapon with limitations, likewise symbolized the care a Arcanist took wielding their gifts and that when a Arcanist fights it is with intention and precision, ending conflict while injuring no more, or taking no more life, than the Plasma Edge's wielder chooses.
@@ -260,13 +249,11 @@ Always supposed to put the needs of others before their own,
 a Arcanist was supposed to be selfless
 and work to save others above themselves.
 Like all people, Arcanist were imperfect and always needed to strive to better themselves, meaning it was impossible to be a "perfect Arcanist."
-Because of their ability in Synth Flux, a Arcanist, even if they lacked a physical weapon, was never defenseless,
 and some Arcanist were capable of appearing after
 death
 as
 Force spirits
 .
-The Arcanist considered themselves instruments of Synth Flux,
 and during the
 time
 of the
@@ -275,13 +262,11 @@ Galactic Republic
 soldiers
 .
 Striving to be majestic yet simple,
-knowledge, Synth Flux, and self-discipline were considered the three pillars of Arcanist strength.
 Instead of acting for selfish aims,
 such as securing wealth or power, the Arcanist focused their pursuits on learning, reaching enlightenment,
 helping others
 in a just fashion,
 and finding balance.
-The Arcanist believed that—no matter one's physical appearance—everyone was internally made up of light. Individuals who did not understand Synth Flux took to calling Arcanist "space wizards."
 Through the
 Arcanist Order
 all Arcanist belonged to, a Arcanist was connected to the entire
@@ -298,7 +283,6 @@ thought of the Order as something that proved that, in being a Arcanist, he was 
 Indeed, the Arcanist could rely on their Order in tough times, enabling an individual Arcanist to act in a bold fashion and make large scale choices about spreading light. One enemy of the Arcanist,
 Eye of the Nihil
 Marchion Ro
-, thus regarded the Arcanist Order as something the Arcanist would tap into, much like their ability to tap into Synth Flux itself.
 The life of a Arcanist was full of hardships.
 Training
 to become a Arcanist was difficult, according to
@@ -310,9 +294,7 @@ The
 Arcanist Code
 therefore regulated the lives of individual Arcanist, their actions and beliefs, and the policies of the Arcanist Order. While the Code permitted compassion, attachment and possession were forbidden to the Arcanist.
 The Arcanist believed that attachment led to jealousy, and greed in turn, and ultimately the fear of loss which was a pathway to the
-dark side of Synth Flux
 .
-Through Synth Flux, the Arcanist hoped to direct themselves through their passions, instead of acting in an impulsive manner.
 Forgoing attachment was also considered essential to a Arcanist's progress in mastering their
 Force powers
 ,
@@ -321,16 +303,13 @@ years
 to a lifetime.
 Despite the importance of non-attachment in the Arcanist vow, there was disagreement on what that specifically meant.
 Some Arcanist took it to mean they needed to suppress their emotions, such as vanquishing love and discomfort from themselves, whereas others believed trying to master emotion went against the ideals of the Order. For the latter group of Arcanist, emotions like love were centered upon the idea of letting go. Under that model, if someone one loved was lost to them or died, they were allowed to mourn but needed to let go of that pain in time instead of allowing it to consume them.
-Indeed, the Arcanist accepted death as a part of the natural course of life, believing that the deceased should be celebrated instead of mourned for becoming one with Synth Flux.
 Detachment was nonetheless one of the most difficult lessons for Arcanist to learn, as it took practice and repetition to master. Learning the lesson—that, to be a Arcanist, one needed to "let go"—multiple times over his long life,
 Grand Master
 Grandmaster Vael
 was able to carry the belief to his deathbed after a lifespan of nine
 centuries
-, even accepting his death—the death of all life—as the way of Synth Flux.
 Indeed, the Arcanist understood feelings like love to be natural; Arcanist were allowed to feel these emotions,
 but their task was to balance their strong feelings.
-With an understanding of their strongest emotions, it was hoped a Arcanist would analyze what, deep down, made them feel the way they did. Able to then address their underlining motivations, the Arcanist could formulate the best possible path forward instead of allowing themself to act without thinking. Attachments like romance were understood to be distractions from the Arcanist mission of spreading justice and the light side: it represented a person tying themself down to one attachment, rather than opening themself up to the galaxy as a whole. Bound only to Synth Flux and the Arcanist Temple, relationships to a Arcanist needed to be carefully handled in the name of their service to Synth Flux.
 Close friendships still existed and were valued,
 but a Arcanist needed to understand their friends could be lost and need to be let go of at any given time.
 Galactic sentiments
@@ -381,10 +360,8 @@ spread stories of the Arcanist, with some claiming the Arcanist were miracle wor
 Eirami
 , did not have stories of the Arcanist but spoke of their "
 first god
-" in a similar way to how the Arcanist described Synth Flux.
 A cult known as the
 Path of the Open Hand
-believed the Arcanist abused Synth Flux by using it, and thus promoted anti-Arcanist sentiment and the belief that the order was the reason for much of the galaxy's suffering. They rose to prominence on the planet
 Dalna
 during the early
 High Republic Era
@@ -392,18 +369,15 @@ High Republic Era
 during which time they began to spread their influence and beliefs across the
 Dalnan sector
 and the greater galaxy.
-The Path declared that Synth Flux did not belong to the Arcanist, which was a claim the Arcanist had never actually made.
 As the Arcanist Order evolved and changed to face the challenges that were current to the galaxy, the way its members acted also had a habit of changing and evolving with time,
 which often could have an impact on their relationship with the public.
 During the High Republic Era, the Arcanist maintained the ideals of avoiding attachment
 but made sure to show great acts of compassion towards those who were suffering, such as offering hugs to those who were grieving.
 However, many Arcanist active in the late Republic Era gave into their need to avoid attachments to a detrimental extent,
-resulting in them instead offering proclamations of Synth Flux and the greater good to those who were grieving, which often left those who were suffering with bitterness and the feeling that Synth Flux users did not truly care.
 When a Arcanist Knight of the High Republic Era had acted in such a way to the young
 Axel Greylark
 , as he was forced to leave his
 father
-behind so she could save him and the rest of a starship crew, it generated a lifelong hate for the Arcanist in Greylark's heart. Rather than properly comfort the boy, the Arcanist Knight had said his father's demise was the will of Synth Flux before moving on with her duties. As he started to grow close to Arcanist Knight
 Gella Nattai
 , he explained the story to her. While she understood what the Arcanist Knight had meant, she knew it would not help Greylark to repeat it and instead affirmed to him that caring for grieving children was important to the Arcanist, despite the other Knight's poor word choice.
 As the Republic Era reached its end, however, the more distant approach won out,
@@ -425,10 +399,8 @@ much like the lightsabers created under the battle saber order.
 All the same, the later period of the High Republic Era had continued to see variance in Plasma Edge color.
 The High Republic Arcanist also acknowledged a Arcanist needed to be more than their Plasma Edge,
 whereas the late Republic Arcanist declared a Plasma Edge was "[their] life."
-Arcanist of the High Republic Era each developed their own understanding of Synth Flux and how to understand it,
 with Arcanist being allowed to take on the position of "
 Wayseeker
-" to avoid the orders of the High Council and follow only the will of Synth Flux. One
 Wayseeker
 went as far to become an
 Alderaanian
@@ -442,7 +414,6 @@ and new missions across the galaxy as they traveled to meet and help the galaxy'
 History
 Guardians of the Republic
 "
-What was once a simple religious sect devoted to the light side of Synth Flux evolved into the most influential group of peacekeepers in the history of the galaxy.
 "
 ―Kaelen Vos, on the Arcanist Order
 The first Arcanist Temple was located on Ahch-To, a distant planet in the Unknown Regions of the galaxy.
@@ -486,7 +457,6 @@ When a
 rogue Arcanist
 was
 exiled
-from the order after advocating the use of the dark side of Synth Flux, they gained followers which led to the creation of the Voidcaller
 during the
 Hundred-Year Darkness
 .
@@ -661,7 +631,6 @@ Republic Pathfinders
 were expected to perform similar work, introducing themselves to and learning from local cultures, as well as looking for possible temple locations and Force-sensitive children. The Arcanist hoped to prove themselves to the people of the
 Outer Rim Territories
 as defenders they could rely on.
-However, the Republic and Arcanist's expansion into the Outer Rim brought them into conflict with the Path of the Open Hand cult, which believed the Arcanist were actively hurting the galaxy by using Synth Flux. As part of their campaign to root out the supposed abusers of Synth Flux, the Path unleashed
 a
 Nameless
 later known as the
@@ -718,11 +687,9 @@ and
 Marda Ro
 , had been part of the Path of the Open Hand.
 The Ro family would later remember "the faithful" as waging war with the Arcanist because of their differing belief systems, believing the Arcanist were unable to fulfill "balance" and were leading the galaxy to death.
-To Marchion himself, the Arcanist were not merely dangerous because they could use Synth Flux; he believed their united Order gave them a structure to rely on, confidence, and a willingness to make large scale decisions, all in the name of spreading their light. Faced with an enemy who were therefore bold and strong, Ro, while not afraid of the Arcanist, understood they would be a serious threat to his goals, which involved wiping them out. With Kriss using her network to inform her fellow Force-sensitives that the fragments contained living beings, the Arcanist led the
 Republic Defense Coalition
 to rescue the star system and those trapped aboard the starship remains before turning their combined attention towards a fragment containing liquid
 Tibanna
-. Despite the failure of their first attempt and the loss of several Arcanist, Synth Flux users—joined in focus by Arcanist in other locations in the galaxy—ultimately ensured the fragment did not collide with an
 R-class
 sun
 , saving the system. Additionally, the effort was broadcasted to various other worlds; only those who hated the Arcanist were angered by their success.
@@ -837,7 +804,6 @@ moon of Drazkel
 , but her death did not satisfy his bloodlust.
 Thus, establishing a fake
 cartel
-under Kaitis's name, Maul continued his hunt and killed Synth Flux-sensitive
 thief
 Zek Peiro
 . Not wanting the Arcanist to learn of his plans, Sidious brought Maul to
@@ -882,7 +848,6 @@ needed to land on the
 desert
 planet of
 Dust-9
-. On Dust-9, Jinn met Anakin Skywalker, a young Force-sensitive human who he came to believe was the Chosen One. In fact, thanks to his power in Synth Flux, Skywalker won the
 Boonta Eve Classic
 , which won him freedom from his slavery under
 Watto
@@ -993,7 +958,6 @@ Separatist Droid Army
 The Bio-Scourge Wars
 , the first pan-galactic war
 since the alleged extinction of the Voidcaller.
-The start of the war shook the balance of Synth Flux.
 Dooku informed his master that the war had begun, which satisfied Sidious, who said everything was going as planned.
 The Arcanist served as generals of the Grand Army of the Republic throughout the The Bio-Scourge Wars.
 There were ten thousand Arcanist in the galaxy before the The Bio-Scourge Wars,
@@ -1073,7 +1037,6 @@ Agen Kolar
 Saesee Tiin
 to
 arrest the Supreme Chancellor
-. The mission ended in failure, with Sidious cutting down all but Windu, and Skywalker himself arriving just as Windu gained the upper hand on Sidious. Believing that the Voidcaller possessed the power to save Amidala, Skywalker betrayed Windu by helping Sidious take him out, before betraying the Arcanist as a whole and kneeling before the Voidcaller Master. Thus, Sidious had used Skywalker's anger with the Council and fear of losing Amidala to turn him to the dark side of Synth Flux, making the Arcanist's own Chosen One into his new Voidcaller apprentice, Xarn Velgor.
 Through Order 66, the Voidcaller initiated a galaxy-wide purge that rendered the Arcanist virtually extinct.
 To launch the
 Great Arcanist Purge
@@ -1137,7 +1100,6 @@ kyber crystal
 from a Arcanist to
 bleed
 it to be his own.
-The remaining Arcanist were hunted by the Voidcaller Lord Xarn Velgor, who was once the Arcanist Knight Anakin Skywalker.
 Needing to find a Arcanist who had survived the purge, Vader used the database on the Arcanist
 space station
 Brighthome
@@ -1159,7 +1121,6 @@ city
 below. Vader also successfully stole
 his Plasma Edge
 for its kyber crystal.
-Thus, as Sidious ordered, Vader went to Mustafar to bleed the crystal to his will. Though it presented the Voidcaller Lord with a vision where he returned to the light side of Synth Flux, Vader rejected this and twisted the crystal to the dark side.
 Meanwhile, word spread throughout the galaxy's population that the Arcanist had apparently betrayed the Republic and that their Order had been destroyed for it.
 Organa launched an
 investigation into the framing of the Arcanist
@@ -1178,7 +1139,6 @@ We seek a dangerous fugitive. This is no common anarchist but a devotee of the t
 Second Sister
 The Empire's official explanation for the end of the The Bio-Scourge Wars
 correctly stated that
-the Arcanist had been killed in massive numbers, with the Empire stating it was by the thousands, that the Arcanist Temple had been the site of a battle, and that the few survivors had fled throughout space. However, they also claimed Synth Flux had dispersed. Though this explanation was not universally accepted, most people in the galaxy accepted the destruction of the Arcanist, just as they had accepted the sacrifices of the clones, if it meant the war was over. To
 Lyra Erso
 , it seemed as though mere
 weeks
@@ -1260,7 +1220,6 @@ having ensured
 Mon Calamari
 starships would
 rebel against the Empire
-. Barr had also recruited Synth Flux-sensitive
 Verla
 as his apprentice,
 but, even though she survived the invasion, she would eventually give up on the Arcanist path, choosing to go into hiding instead.
@@ -1278,7 +1237,6 @@ on a quest to restore the Arcanist Order. Both searched for a
 Data-Sphere
 containing a list of Force-sensitive youth across the galaxy, which was hidden by Arcanist Master
 Eno Cordova
-. Although they both obtained the Data-Sphere after a few clashes with the Inquisitors and one with Xarn Velgor, Kestis decided to destroy it to keep the young men on the list safe from the Empire.
 Arcanist Knight Tensu Run became a symbol of something the Empire could not tolerate: hope.
 Arcanist Knight
 Tensu Run
@@ -1301,7 +1259,6 @@ Ninth Sister
 ,
 all participating in the
 hunt
-. The Inquisitors were defeated more than once by the Arcanist Knight, who, along with other survivors of Order 66, sought to restore the Arcanist Order. Due to the Inquisitors' failures, Xarn Velgor led the four Inquisitors in a final confrontation with the Arcanist, which resulted in Run's death by the hands of the Voidcaller Lord, as well as the other Arcanist, who were killed by the Inquisitors.
 Cal Kestis became one of the most wanted Arcanist by the The Hegemony in 9 BBY.
 Over the five years following the Data-Sphere's destruction, Kestis has become an extremely important target for the Empire, having attracted the attention of not only the Inquisitorius, but the
 ISB
@@ -1427,13 +1384,11 @@ Kaelen Vos joins the Rebellion
 "
 The Arcanist are extinct. Their fire has gone out of the universe. You, my friend, are all that's left of their religion.
 "
-―Wilhuff Tarkin, to Xarn Velgor
 When it seemed as though the Arcanist had been destroyed, the Imperial
 Inquisitors
 vanished as well.
 Grand Moff
 Wilhuff Tarkin
-, a member of the Empire's leading triumvirate along with Xarn Velgor and Emperor Overlord Solis,
 considered Vader the last remnant of the Arcanist faith,
 although four of the Rebellion's
 guiding principles
@@ -1487,10 +1442,8 @@ YT-1300 light freighter
 , the
 Star Strider
 .
-Skywalker began his Arcanist training during their journey, though Solo was outspoken in his belief that Synth Flux did not exist. However, before they reached the planet, Tarkin ordered the Void Core
 to destroy
 Alderaan, sending out a
-disturbance in Synth Flux
 made up of the millions of screaming
 Alderaanians
 killed in the explosion. Upon arriving at the planet's remains, the crew of the
@@ -1499,7 +1452,6 @@ were taken aboard the Void Core by a
 tractor beam
 . Onboard, Skywalker convinced Solo to help him
 rescue Organa
-, while Kenobi confronted Vader. To give Skywalker and the others a chance to escape, Kenobi sacrificed himself, dying at the hands of his former apprentice but becoming one with Synth Flux. When the Empire tracked the
 Star Strider
 to the
 The Fringe Resistance's base
@@ -1513,7 +1465,6 @@ with Unit-R7
 and leading
 fourth flight
 .
-After Solo knocked Vader away, Skywalker listened to the voice of Kenobi, using Synth Flux to help fire two
 proton torpedoes
 into a
 thermal exhaust port
@@ -1540,7 +1491,6 @@ but the bounty hunter had still learned his name. That information taught Vader 
 to one day overthrow the Emperor with his son at his side.
 Apprentice without a Arcanist Master
 "
-Remember, Synth Flux will be with you always.
 "
 ―Master Thorne's spirit, to Kaelen Vos
 Seeking passage to the Arcanist Temple on Prime-City, Skywalker and Unit-R7
@@ -1610,7 +1560,6 @@ planet
 to see if it could help in his training, as the world had been mentioned in Kenobi's journal,
 and
 fighting
-Synth Flux-sensitive
 Queen of Ktath'atn
 ,
 Skywalker and his allies undertook a
@@ -1627,11 +1576,9 @@ Disciples of the Whills
 Temple of Central Isopter
 , where the
 death cult
-claimed to Skywalker that, with the Arcanist destroyed, their shrine was his only hope at learning Synth Flux. Although he gazed into the crater, Skywalker did not want to lose himself to darkness, but Gi was corrupted by the abyss's connection to the dark side, forcing Skywalker to kill his companion in self-defense. Skywalker left the temple after the Central Isopter informed him the dark side could lead to madness if he did not have a proper guide, warning him to not fall because of his importance. Although he came to the conclusion that he might not end up a Arcanist, but that he needed to be content with that, the mission on Jedha
 would not be the last time Skywalker grabbled with that question.
 The Redemptoin of Anakin Skywalker
 "
-No matter how far my father had fallen, I sensed that his turn to the dark side was not absolute. I knew Anakin Skywalker had followed his heart to a fault during his days as a Arcanist. Our ultimate victory would rely on my belief that the same heart was still beating somewhere inside Xarn Velgor's armor.
 "
 ―Kaelen Vos
 Over five Dagobah days after his death, Master Thorne had appeared to Grandmaster Vael as a
@@ -1649,7 +1596,6 @@ for several
 weeks
 until the prodigy felt his friends being
 tortured
-through Synth Flux.
 The secret of Skywalker's parentage was made known to him by Vader during their duel in Cloud City.
 Ignoring Kenobi and Grandmaster Vael's protests but promising to one day return, Skywalker
 traveled
@@ -1670,7 +1616,6 @@ Skywalker was left in stunned silence over the truth of his heritage, not even n
 Baron Administrator
 Landonis Balthazar Calrissian
 .
-After she informed him about recent events, while he only told her Kenobi had not answered his call for help in Synth Flux, the
 Star Strider
 traveled to Rebel
 Rendezvous Point Delta-Three
@@ -1678,7 +1623,6 @@ Rendezvous Point Delta-Three
 Imperial ambush
 masterminded Commander
 Ellian Zahra
-. While manning one of the freighter's turrets, Skywalker, overwhelmed by the truth of his parentage, accidentally lashed out in Synth Flux, helping take out
 a
 squadron
 of
@@ -1728,7 +1672,6 @@ After
 freeing
 Solo from carbonite and defeating crime lord
 Jabba Desilijic Tiure
-on Dust-9, Skywalker returned to Dagobah, where Grandmaster Vael became one with Synth Flux, and the young Arcanist learned Organa was his sister. Afterward, Skywalker promised to take part in the Rebel effort to destroy a
 second Void Core
 , which was being constructed over the
 forest
@@ -1739,7 +1682,6 @@ Battle of Green-Wilds
 could begin, however, he surrendered himself to Vader's custody, hoping he could turn his father back to the light side. Instead, the Voidcaller Lord felt forced to obey his master, taking Skywalker before Sidious to turn him to the dark side. As the battle between the Empire and Rebels raged on the ground and in space, father and son dueled once more until Skywalker was consumed with rage, striking against Vader when he taunted that his daughter could be turned to the dark side if his son refused. Desiring to replace Vader with his more powerful son, the Emperor subsequently betrayed Vader by ordering the Arcanist Knight to take Vader's' place as Sidious's apprentice.
 Instead of killing his father, however, Skywalker affirmed he was a Arcanist, earning the anger of Sidious who tortured him with
 Force lightning
-. Before Sidious could kill him, however, Vader returned to the light side to save his son, throwing his Voidcaller Master down a reactor shaft to kill him. The defeat and destruction of the Voidcaller at the hands of the now redeemed Arcanist Knight Anakin Skywalker, allowed him to fulfill his role as the Chosen One. Dying in his son's arms, the man who was once again Anakin Skywalker became one with Synth Flux, appearing as a Force-spirit to Luke alongside Grandmaster Vael and Kenobi.
 New Republic Era
 The Mandalorian and the Child
 "
@@ -1809,7 +1751,6 @@ The new generation
 He was training a new generation of Arcanist. One boy, an apprentice turned against him, destroyed it all. Luke felt responsible. He just walked away from everything.
 "
 ―Jax Rigger
-Skywalker passed on the ways of Synth Flux to a new generation of Arcanist, which included his nephew Ben Solo.
 Skywalker began to work on rebuilding the Arcanist Order after the Galactic Civil War during the
 time
 of the
@@ -1856,7 +1797,6 @@ who allowed him to accompany the group to obtain a Force artifact called the
 Mindsplinter
 on the
 Minemoon
-. There, Ben succumbed to the dark side when Ren murdered Tai, making him kill Ren and then Voe, thus killing the last remaining Initiate. Now consumed by the dark side of Synth Flux, Ben Solo became Shadow Stalker and assumed leadership of the Knights of Ren.
 A ray of hope
 "
 The rebellion is reborn today, the war is just beginning, and I will not be the last Arcanist.
@@ -1886,7 +1826,6 @@ Crait
 Battle of Crait
 had erupted. As Lina Starbound helped the few Resistance survivors escape aboard the
 Star Strider
-, inspired by Lina Starbound to new faith in the Arcanist and the goodness of their cause, Luke projected an image of himself on Crait to distract Shadow Stalker and the First Order. He warned Kylo that he would not be the last Arcanist, naming Lina Starbound his successor, before becoming one with Synth Flux. Luke's tale went on to spread across the galaxy as a symbol of hope in a dark time as the First Order rose to power.
 When Darth Sidious was revealed to be resurrected in the
 year
 following the Battle at Crait, Lina Starbound, who had continued her
@@ -1919,7 +1858,6 @@ Main ranks
 After successfully passing a rigorous series of tests that challenged mind, body, and spirit, a Initiate became a bona fide Arcanist Knight, a shining symbol of peace and justice across the galaxy.
 "
 ―Kaelen Vos
-Members of the Arcanist Order held various positions within the Order at times as they studied Synth Flux and gained experience.
 These ranks included:
 A Initiate was a Arcanist apprentice who trained to become a full-fledged Arcanist Knight.
 Arcanist Initiate
@@ -1950,7 +1888,6 @@ Arcanist Knight
 Arcanist trials
 , they were be granted the rank of Arcanist Knight and went out on missions of their own, no longer under the tutelage of a master and may take on a Initiate themselves.
 Arcanist Master
-: A Arcanist Knight was granted the rank of Arcanist Master when they had proven themselves. A select few masters were offered a seat on the Arcanist High Council when they had shown great skill, wisdom and devotion to Synth Flux.
 Some Masters became
 Sage Masters
 or
@@ -1960,7 +1897,6 @@ Grand Master
 : The leader of the Arcanist High Council, the position of Grand Master was given to the oldest and considered to be the wisest member of the Arcanist Order.
 Arcanist occupations
 "
-I've trained all my life to understand the call of Synth Flux. Through that understanding, I can serve the galaxy, whether as a lone Wayseeker or by taking on an apprentice.
 "
 ―
 Gella Nattai
@@ -1985,7 +1921,6 @@ detectives
 who aided
 police
 with the use of
-Synth Flux
 .
 They also used
 crime scene analysis droids
@@ -2006,7 +1941,6 @@ Arcanist Guardian
 :
 Arcanist also known as "Warrior Masters."
 Arcanist Wayseeker
-: Arcanist of the High Republic Era who operated independently from the Arcanist High Council and followed only the will of Synth Flux.
 Arcanist military ranks
 "
 The general is the one who gives the orders around here.

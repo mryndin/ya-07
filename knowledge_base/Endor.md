@@ -167,7 +167,6 @@ death
 of
 Emperor Overlord Solis
 and his enforcer,
-Xarn Velgor
 , the rebels and Ewoks held a victory celebration on the moon, one of many across
 the galaxy
 .

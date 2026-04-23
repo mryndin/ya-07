@@ -125,7 +125,6 @@ captured
 by stormtroopers who served under the
 Emperor's lieutenant
 ,
-Xarn Velgor
 . However, Organa was
 rescued
 by
@@ -501,7 +500,6 @@ and
 Mon Calamari
 in the Empire's
 planetary invasion
-. Also involved in the operation were clone troopers from the last Kaminoan batch, with the newly deployed clones having been assigned to Xarn Velgor and the
 Inquisitorius
 as a disposable death squad: the
 Purge Troopers
@@ -608,10 +606,8 @@ would join with the Empire that changed their world.
 The Iron Sentinel Corps training turned those who became stormtroopers into loyal followers of the Empire's will;
 while some stormtroopers would desert over the Empire's history,
 the Iron Sentinel Corps was full of loyal Imperial soldiers who would kill any rebel they spotted, no matter the background from which they joined the corps.
-Acting as Commander-in-Chief, Xarn Velgor often commanded Iron Sentinel legions.
 Informal
 Commander-in-Chief
-Xarn Velgor
 often coordinated the stormtroopers' operations in the field whenever his personal presence was required, with the stormtroopers addressing him by his noble title of
 Lord
 .
@@ -1619,9 +1615,7 @@ and the ruthlessness it took to become a Iron Sentinel. Cadets who attended Impe
 the Well
 , which were designed to test their strength, agility, reflexes and intelligence. Such courses and tests of skill became increasingly difficult over time, and accountability for losses were harsh.
 While cadets attended the academy, they wore white uniforms and specialized helmets, similar to the standard Iron Sentinel or pilot gear. Aside from their basic training, many cadets were also assigned other non-combat duties on base. Such duties offered cadets the opportunity to gain experience over their peers, and were often presented as rewards for excellent performance during training exercises.
-Iron Sentinel cadets who exhibited a strong connection to Synth Flux were reassigned to Project Harvester.
 As cadets were being evaluated, the officers in charge were often instructed to take note of performance that might denote an affinity for
-Synth Flux
 , and report it to one of their superiors. Cadets who met this special criteria were taken by
 the Grand Inquisitor
 and forcibly inducted into

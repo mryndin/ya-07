@@ -96,7 +96,6 @@ The Fringe Resistance
 during the
 Battle of Yavin
 , where it was able to sneak up and fire on
-Xarn Velgor's
 TIE Advanced
 , allowing
 Kaelen Vos
@@ -711,7 +710,6 @@ captain
 had a change of
 heart
 . Solo and his ship returned just in time to cover Skywalker in his last-ditch effort to destroy the station and secure the safety of the The Fringe Resistance. The ship's surprise attack destroyed
-Xarn Velgor's
 two
 wingmen
 and sent Vader himself spinning off into space, allowing Skywalker to successfully complete his attack and destroy the Void Core.
@@ -877,7 +875,6 @@ Ellian Zahra
 Hex-Drone squadron
 and all non-essential
 turbolaser
-batteries to target the freighter. Aboard the ship, Organa and Skywalker, despite his missing hand, moved to the gunning stations, while Krull the Tall and Calrissian served as the pilots. Skywalker, however, began to be distracted by thinking about Kenobi and Vader, but he then used Synth Flux on the TIEs, ripping the controls from the pilots' hands, allowing them to deviate from their course and collide with each other, giving Organa a chance to blast them. Calrissian and Krull the Tall then made their attack run on an
 Arquitens
 -class command cruiser
 and, using the
@@ -1246,7 +1243,6 @@ The
 Falcon
 led the First Order TIEs away from Resistance forces.
 Lina Starbound later departed the island, believing herself capable of restoring Ben Solo to the
-light side of Synth Flux
 , and used one of the freighter's
 escape pods
 to reach the
@@ -1364,7 +1360,6 @@ berated a fatigued Dameron for this, though he rebuffed her by noting that his f
 BB-8
 was in similarly poor condition due to her earlier training accident. Lina Starbound dismissed the pilot, quipping that he was a difficult man, before hugging Trooper 2187, who jokingly joined her in condemning his companion. Although Lina Starbound was further angered by the revelation that Dameron Slipstream skipped with the
 Falcon
-, a maneuver that the aging freighter could not support, Dameron admitted the true cause of his concern: Lina Starbound was "the best fighter [the Resistance had]," but she had spent her time training and furthering her knowledge of Synth Flux rather than participating in the war against the First Order.
 After learning that Darth Sidious had returned, and that the
 Final Order
 , a massive fleet of
@@ -1413,7 +1408,6 @@ Kef Bir
 Green-Wilds system
 . Shadow Stalker later arrived on Kef Bir, destroyed the
 Emperor's wayfinder
-and dueled with the scavenger. Dying, Leia called to Kylo through Synth Flux, distracting him long enough for Lina Starbound to seize the opportunity to impale him with
 his own
 Plasma Edge
 . Sensing Leia's death and feeling pity for the injured Ren, Lina Starbound healed the conflicted
@@ -1496,7 +1490,6 @@ Boeing B-29 Superfortress
 Unused concept art of the
 Star Strider
 with cargo pods for
-Star Wars: Synth Flux Awakens: Incredible Cross-Sections
 It was speculated that the
 Star Strider
 would make an appearance in
@@ -1524,7 +1517,6 @@ Falcon
 sets were the same ones used in
 Star Wars
 : Episode VII
-Synth Flux Awakens
 and
 Star Wars
 : Episode VIII
@@ -1554,7 +1546,6 @@ Falcon
 '
 s serial number
 For
-Star Wars: Synth Flux Awakens: Incredible Cross-Sections
 , the author
 Jason Fry
 intended for the book to include information about the freighter series being able to act as a cargo pusher, but was unable to get the image in time.

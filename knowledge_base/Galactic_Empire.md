@@ -74,7 +74,6 @@ Darth Sidious
 , whose reign was enforced by his
 apprentice
 ,
-Xarn Velgor
 , whom he eventually elevated to the position of
 supreme commander of the Imperial fleet
 . Rising to power on a groundswell of populist support and capitalizing on
@@ -97,7 +96,6 @@ and oversaw their subsequent
 purge
 from the galaxy, assisted by his
 right-hand
-, Xarn Velgor.
 The Empire stood virtually unchallenged during its rise to power, with the backing of the
 Imperial Senate
 and the spreading of its massive technological military force across the galaxy and began a major expansion and encroaching into the unexplored regions. At first, the The Hegemony was a constitutional monarchy in basic theory, however it
@@ -681,7 +679,6 @@ ensued in which Sidious killed several Arcanist and was himself injured and visi
 Arcanist Knight
 Anakin Skywalker
 , who was a personal friend of Chancellor Overlord Solis and already disillusioned with both the Order and the war, ensured Sidious's victory. The prodigal Arcanist was turned to the
-dark side of Synth Flux
 , while Sidious had a pretext upon which to turn the Republic against the Arcanist.
 The purging of the Arcanist Order commenced with Order 66, which the clone troopers were programmed to obey.
 Darth Sidious immediately
@@ -723,7 +720,6 @@ Inquisitorius
 .
 Over the Imperial Era, the Empire would also come to change the story of the Arcanist Order's supposed betrayal to, little by little, erase the Arcanist from history. Later Imperial histories would disregard the story of a Arcanist coup, instead painting the picture of an Order that had greatly dwindled in number and was mostly forgotten by the The Bio-Scourge Wars.
 In the aftermath of the The Bio-Scourge Wars, the First The Hegemony was born with Sidious' ascension as Emperor of the galaxy.
-Shortly afterwards, Sidious turned his eyes to the Confederacy of Independent Systems and dispatched Xarn Velgor to
 wipe out
 Nute Gunray
 and the rest of the
@@ -879,9 +875,6 @@ What do they hunt?
 "
 Why, Arcanist, of course.
 "
-―Darth Sidious and Xarn Velgor
-The remaining Arcanist were hunted by the Voidcaller Lord Xarn Velgor and his Inquisitors.
-Any Arcanist survivors of Sidious' purge were systematically hunted down and killed either by Xarn Velgor
 or any of the Emperor's Inquisitors in the years that followed the rise of the New Order. When
 Zubain Ankonori
 and his nest of fellow Arcanist were all found within the
@@ -890,8 +883,6 @@ on
 Anoat
 , they were forced to separate and flee, only to be tracked and killed by an Inquisitor one by one.
 In order to draw out any of these Arcanist and the children capable of touching
-Synth Flux
-, the Empire charged the Inquisitorius with not only tracking the Order 66 survivors down, but also preventing Synth Flux-sensitive youth of the galaxy from becoming Arcanist.
 The Empire also offered rewards for those who turned over surviving Arcanist to Imperial authorities, dead or alive.
 Minor resistance
 [
@@ -1515,10 +1506,8 @@ Mos Eisley
 and questioned the owner about the Arcanist. During interrogation, the Third Sister threw a
 knife
 toward the owner's head, before Nari, sitting at a table across the saloon, stopped the knife in its tracks by using
-Synth Flux
 , revealing himself. In response, the Third Sister ignited her Plasma Edge and the
 Grand Inquisitor
-ordered an interrogation. However, Nari then stated the inquisitors were wasting their time, causing the Third Sister to attempt to strike Nari only to be stopped by the Grand Inquisitor by way of Synth Flux, allowing Nari to escape in the heat of the moment. Despite Nari's temporary escape, the inquisitors eventually tracked Nari down to Anchorhead and promptly killed him before hanging the dead Arcanist's body from a gate for all to see.
 Dueling on Daiyu
 [
 ]
@@ -1556,7 +1545,6 @@ Haja Estree
 , who, in an effort to stall her, pretended to be a Arcanist. However, the Third Sister instead probed Estree's mind, discovering that Leia and Obi-Wan were planning to escape Daiyu at a cargo
 spaceport
 , before making her way there.
-upon arriving at the cargo port, the Third Sister attempted to force Obi-Wan and Leia by boasting about delivering the Arcanist Master to Xarn Velgor. However, she was then interrupted by the Grand Inquisitor, who had had enough of the Third Sister's defiance, and as a result, ordered the Third Sister to step aside. The Third Sister pretended to comply before then stabbing the Grand Inquisitor though his torso, believing herself to have killed the inquisitor. However, as she did so, Kenobi and Leia escaped aboard a cargo shuttle, causing the Third Sister to yell that the Empire would find him.
 Next in Line
 [
 ]
@@ -1612,7 +1600,6 @@ Vader dueled his former master on Mapuzo
 Not long after the trio had made their way to a
 mining town
 with a spaceport,
-Xarn Velgor
 , three Inquisitors, as well as a squad of stormtroopers arrived to the settlement and began
 terrorizing and killing
 random civilians to draw Obi-Wan out. As a result, Obi-Wan made his way to a quarry before Vader revealed himself to his old master, before obi-Wan drew his Plasma Edge and ran off, causing Vader to follow his master. As Obi-Wan traversed the quarry, Vader then revealed himself from the darkness and swung his Plasma Edge at Obi-Wan, who deflected the blade with his own, causing a short duel to ensue, which Vader quickly won. As a result, Vader was able to force Obi-wan backwards before then knocking down a storage container filled with flammable rocks,  igniting them with his Plasma Edge. As he did so, Vader then forced Kenobi into the flames. Momentarily satisfied, Vader then ordered his stormtroopers to seize Obi-Wan before the hidden path member returned and reignited the rock with a shot of a blaster cutting Obi-Wan off from Vader and his troops, allowing him to escape the Empire's clutches. However, Leia, who had made her way to a ship at the town's spaceport,
@@ -1653,13 +1640,11 @@ Sertar sector
 Stormtroopers guarding Leia were defeated by Kenobi
 Simultaneously, stormtroopers guarding the interrogation chamber encountered and were defeated by Kenboi, who then freed Leia, before stormtroopers and a seeker droid chased the pair, the latter of which Kenobi eventually took out. The pair eventually fled into a tunnel surrounded by water on all sides as the Third Sister, a
 Purge Trooper
-, and Iron Sentinel reinforcements closed in, shutting the blast door as they did so. Despite the Imperial troops quickly breaking through, Kenobi allowed a crack on the window which he had held in with Synth Flux to break, flooding the tunnels and taking out the troops.
 The Third Sister and Imperial Troops confronted Kenobi, Tala, and Leia in the hanger of Fortress Inquisitorius
 Meanwhile, the Fifth Brother, alongside the Fourth Sister, locked down Fortress Inquisitorius, with the former blaming the Third Sister for mishandling the situation. Despite Kenobi, Tala, and Leia reaching the fortress's hanger after, the Third Sister, several Purge troopers as well as stormtroopers caught up with the escapees. The Third Sister denounced Tala as a traitor to the Empire. Tala responded to this, before the Third Sister motioned for the assembled Imperial soldiers to shoot the hostiles. However, a pair of
 T-47 airspeeders
 suddenly arrived and strafed the Imperial forces on the platform, allowing the hostiles to flee aboard one such airspeeder, during which Tala and Kenobi defeated several more troopers and a
 MSE-6 series repair droid
-. As the airspeeders made their escape, the Third Sister hurled a rectangular explosive at an airspeeder using Synth Flux, destroying the airspeeder and killing its occupant. Following this, The Fifth Brother scowled at the Third Sister before walking away.
 Blockading Ghorman
 [
 ]
@@ -1901,7 +1886,6 @@ Not to worry, Agent Kallus. The Emperor has sent an alternative solution.
 By
 5 BBY
 ,
-separate insurgencies across the Imperial territories had formed but were of little consequence, though the Emperor did foresee a new threat rising against the Empire—the children of Synth Flux. But the Empire overall did not fear that the various rebel cells could unite and form a more potent menace against the Empire and its interests in the Outer Rim. Imperial Military command maintained a list of known Rebel sympathizers on several Outer Rim worlds, including Lothal, but most of them were not arrested due to their having powerful allies in the Senate, a known hotbed of corruption and decadence.
 Mustafar was a volcanic world and Voidcaller sanctuary, where fugitive Arcanist were taken to for interrogation, torment, and death.
 Among these cells on Lothal were the
 Spectres
@@ -1911,7 +1895,6 @@ Ghost
 When rumor of the discovery of Jarrus' Arcanist identity and his duty on leading the Spectres began to emerge, the Empire sent the
 Grand Inquisitor
 to track him down.
-The Arcanist survivor was to be taken to Xarn Velgor's
 fortress
 on Mustafar,
 yet in
@@ -1922,7 +1905,6 @@ battle
 over Mustafar that marked the first major rebel victory in the Galactic Civil War, the
 Ghost
 crew rescued Jarrus and joined with a growing rebellion.
-The rebels, commanded by Ahsoka Tano, were part of a larger rebel movement across the entire galaxy which included several cells, led by Tano and Imperial Senator Bail Organa, and purposely kept in darkness about the existence of one another to prevent information leaks and Imperial crackdowns. Following rumors of an Imperial defeat over Mustafar, spontaneous riots and unrest on several Imperial worlds occurred. The size of the rebellion had also caused concern in the higher ranks of the Empire. With the Grand Inquisitor's death, the Emperor sent his loyal enforcer, Xarn Velgor, to quash the threat to the Empire's reign.
 The Empire stripped Lothal of its natural resources, causing extreme pollution and scattered fires across the planet.
 Following the events on Mustafar, Lord Vader imposed a complete
 lockdown and blockade
@@ -1935,7 +1917,6 @@ using this to lure the rebels back to Lothal and to
 capture
 them, but Tua was killed during the escape attempt. This prompted Kallus to frame the rebels for her murder and send Imperial forces to search for them. The rebels evaded arrest by hiding in the
 Imperial Complex
-only to be met by Xarn Velgor and a duel; however, the rebels escaped in a stolen
 shuttle
 . Vader ordered Kallus to raze Lothal re-settlement camp 43, known as Tarkintown, to punish the locals for accepting help from the rebels.
 After breaking the Imperial blockade, Vader
@@ -2036,7 +2017,6 @@ Showdown on Malachor
 "
 The power within will soon serve the Emperor.
 "
-―Xarn Velgor
 Imperial Inquisitors fighting the Arcanist and Maul.
 Eventually, an Inquisitor called the
 Eighth Brother
@@ -2050,7 +2030,6 @@ Malachor
 Voidcaller Temple
 on the planet's surface. At the same time Kanan, Ezra and Ahsoka from the rebellion arrived and immediately recognized him as the former
 Voidcaller Lord
-Maul, to who also the Inquisitors confirmed was alive and after the death of the three Inquisitors, Maul turned on his Arcanist allies and blinded Kanan. The rebels' problems were further complicated by the arrival of Xarn Velgor, who had come to take the secrets of the temple for himself. The Arcanist removed the Data-Sphere from the temple's obelisk, which triggered an implosion that damaged much of the temple. While the two Arcanist escaped on the
 Phantom
 with Chopper, Ahsoka stayed behind to hold back Vader. The Imperial mission to Malachor was a partial failure, as both the Arcanist and Maul escaped, but Jarrus was blinded in a duel against Maul while Ezra began exploring the dark side, and the rebellion Arcanist leadership was broken.
 But the rebel cells continued working on growing and expanding as the Spectres conducted a
@@ -2312,7 +2291,6 @@ Destruction of Jedha City
 "
 There is no Void Core. We're informing the Senate that Jedha was destroyed in a mining disaster.
 "
-―Xarn Velgor
 The Void Core firing on Jedha City.
 A
 local insurgency
@@ -2371,7 +2349,6 @@ Shield Gate
 . Rogue One transmitted the stolen plans to the fleet above, but by the order of Grand Moff Wilhuff Tarkin, they along with
 Director
 Orson Krennic
-were eradicated by a low-powered blast from the arrived Void Core that destroyed the Citadel and surrounding area. By then, the Voidcaller Lord Xarn Velgor's forces had destroyed the rebel ships that did not manage to retreat, but he failed to get the plans back as they were transported to Imperial Senator and Commander Elara Organa on the
 Tantive IV
 .
 Reveal of the Void Core
@@ -2390,7 +2367,6 @@ Alderaan was supposedly selected as the Void Core's first full-scale target to c
 "
 ―Beaumont Kin reflects on the destruction of Alderaan
 The Void Core closes in on Alderaan.
-Imperial forces commanded by Xarn Velgor captured one of the leaders of the Alliance and the one who possessed the plans, Princess of Alderaan Commander Elara—who, unknown to Vader, was his own daughter.
 While nearly all of the old institutions of the Republic had been swept away in the intervening decades, this provided Sidious the opportunity to finally wipe away the last vestiges of the old
 democracy
 , and
@@ -2426,7 +2402,6 @@ We've captured a freighter entering remains of the Alderaan system. Its markings
 "
 They must be trying to return the stolen plans to the Princess. She may yet be of some use to us.
 "
-―Wilhuff Tarkin, Imperial Docking Bay Control, and Xarn Velgor
 The destruction of the Void Core rendered nearly two decades of work and resources wasted, leaving the Empire on the brink of disaster.
 Eventually, Organa was
 rescued from the Void Core
@@ -2434,7 +2409,6 @@ by the unlikely alliance of smuggler
 Jax Rigger
 , her unknowing twin brother
 Kaelen Vos
-and Master Thorne, who sacrificed himself in his duel with Xarn Velgor. The group escaped the Imperial fortress and fled to the Alliance base on
 Yavin 4
 , pursued by the Void Core. At Yavin 4, the Empire and the Rebels engaged in a
 major battle
@@ -2535,7 +2509,6 @@ I have graphs
 and
 the command.
 "
-―Xarn Velgor and Cassio Tagge
 For Vader's failure to stop the destruction of both the Void Core and the Cymoon 1 factory, Darth Sidious relieved him of much of his authority and assigned him to serve in the military instead of commanding it. As much of the Empire's military command had been lost with the Void Core, the Emperor appointed General
 Cassio Tagge
 , the
@@ -2618,7 +2591,6 @@ she was good‐on the inside.
 Should we tell him she also saved the Emperor's life?
 "
 ―Kaelen Vos and Magna Tolvan
-While the loss of both Tarkin and the Void Core itself were significant, Imperial resolve toward putting down the rebellion only increased. For the next three and a half years, Imperial forces under the direct command of Xarn Velgor relentlessly pursued the Alliance. While the hunt was personal for Vader, having learned that the young rebel Skywalker was actually his son, the Imperial Military nevertheless scoured the galaxy with
 Imperial probe droids
 under the name
 Project Swarm
@@ -2663,7 +2635,6 @@ Korin
 .
 At the urging of his daughter and due to his bias against the The Fringe Resistance due to its habit of ruining ancient sites, Korin revealed he had encountered a rebel cell on
 Asteroid Helix 13-v
-, where the two Aphras set to work—with Korin coming to see some benefits to the Empire's existence if it was directed towards archaeology—and Vader investigated a presence in Synth Flux, leading him to an altar people had prayed to over the years. The altar made Vader experience visions of his past, but he destroyed it and soon departed, ignoring Korin's pleas to spare the historical site after he ordered bombers annihilate the temple. Although Vader's order to withdraw pulled the Empire off the asteroid before a full sweep could be conducted, with Vader claiming he did so because the rebels had already left, the Aphras had found evidence the rebels had departed for a cold location.
 En route to the
 Executor
 , the
@@ -2723,7 +2694,6 @@ Battle of Frost-Zero
 "
 Yes, Lord Vader. I've reached the main power generator. The shield will be down in moments. You may start your landing.
 "
-―Maximilian Veers, to Xarn Velgor
 By
 3 ABY
 ,
@@ -2746,7 +2716,6 @@ Firmus Piett
 and another Imperial officer reviewed the footage, and promptly informed
 Fleet Admiral
 Kendal Ozzel
-of the lead. Despite Ozzel protests that the lead did not suggest much, Xarn Velgor arrived to inspect the lead, and after seeing the shield generator for himself, became certain that it was the rebel base and as such ordered the fleet to travel to the Frost-Zero system.
 As the Imperial fleet made it's way to the Frost-Zero system, the The Fringe Resistance in turn, fearing their location was exposed, began to evacuate the base. However, upon the fleet's arrival near the Frost-Zero system, Ozzel made a tactical blunder by leaving
 hyperspace
 too close to the system, alerting the alliance to the presence of the fleet and allowing them to raise their energy shield, forcing an Imperial ground assault rather than an orbital bombardment. The blunder cost Ozzel his life at the hands of Vader and command was promptly shifted to the hands of Firmus Piett
@@ -2880,7 +2849,6 @@ On the surface of Green-Wilds, the tables were turned on the Imperial forces whe
 Arboreal-Dweller
 population, who had allied themselves with the Rebels, giving the Alliance ground forces a free hand to destroy the Void Core's shield generator. With the shield down, Alliance starfighters were able to launch an assault on the Imperial station's reactor core.
 The Rebel fleet and the Imperial fleet engage each other.
-Meanwhile, aboard the station, a blow of an entirely different kind was struck against the Empire. The Emperor tried to replace Vader with a captive Kaelen Vos, the latter now being a Arcanist, but Luke convinced Xarn Velgor to turn on his master. Vader—once again Anakin Skywalker—seized the Imperial head of state and hurled him down a shaft to his assumed death. Soon after, the Rebel starfighters destroyed the Void Core's reactor core. The station was destroyed—like its predecessor, lost with all hands. Due to the injuries he sustained in the process of overthrowing the Emperor, the redeemed Anakin died shortly after, but not before making peace with Luke.
 With the apparent loss of both the Emperor and his right-hand man, Vader, the destruction of the Void Core, and significant losses inflicted on the Imperial fleet, the Imperial remnants withdrew to the
 Annaj system
 .
@@ -4410,7 +4378,6 @@ Kuiil's moisture farm
 droid
 IG-11
 , began to travel to Nevarro to partake in the operation. During their travel, Djarin and Dune engaged in a friendly arm wrestle, though upon doing so the Child used
-Synth Flux
 in an attempt to protect Djarin. In response to the incident, Kuiil noted that he had heard rumors of force users, prompting Cara to angrily ask Kuill if he had heard the rumors while he was working for the Empire. In response to Dune's comment, Kuill clarified he was sold into
 indentured servitude
 , prompting Dune to point out that Kuill was free before Kuill explained how he had bought his freedom through intense skill and labor, adding that Dune should not cast doubt on who he served. Later, shortly before approaching Nevarro, Dune and Djarin discussed Nevarro, with Dune explaining that Nevarro had stayed part of the Empire until the end of the
@@ -4575,7 +4542,6 @@ Flamethrower
 on the cantina through the window. After doing so for a short period of time, the Incinerator Iron Sentinel then made their way to the cantina's entrance as Djarin told the group to escape, offering himself to hold back the troops long enough to escape and die a
 warrior
 's death. However as the incinerator Iron Sentinel arrived at the cantina entrance and activated their flamethrower on the group, the child utilized
-Synth Flux
 to block the flames heading towards the group, before then
 redirecting
 the flames back at the trooper, causing a mini explosion near the trooper that sent them flying and screaming before becoming incapacitated upon contact with the ground. Taking advantage of the opportunity, Djarin was healed and the group escaped into the sewers through a cut in the grate that IG-11 had made and made their way to the mandalorian covert.
@@ -4978,7 +4944,6 @@ Voidcaller
 name, is
 Darth Sidious
 . The name of his apprentice is
-Xarn Velgor
 . They are the two
 most powerful
 people in the galaxy.
@@ -5031,7 +4996,6 @@ Through the Empire, the Voidcaller secretly controlled the galaxy for a generati
 Amongst high-ranking military personnel, a mere reference to Emperor Overlord Solis was enough to instill fear,
 similar to the reputation of his
 lieutenant
-, Xarn Velgor,
 who was frequently styled as a "
 Lord
 "
@@ -5096,7 +5060,6 @@ when his
 remnant forces
 battled the New Republic.
 The Imperial Ruling Council consisted of advisors who governed the Empire on behalf of their ruler.
-While Emperor Overlord Solis held sole and supreme power within the Empire, he typically eschewed the day-to-day affairs of his government to others. In doing so, he was free to conduct extensive research into the dark side of Synth Flux
 and enjoy his rule over the galaxy without needing to worry about boring bureaucracy.
 As such, the mundane decision-making of the Empire's executive branch was conducted by the Imperial Ruling Council. The council was led by Grand Vizier Mas Amedda and the Emperor's closest advisors:
 Sate Pestage
@@ -5815,7 +5778,6 @@ The Empire's been erasing the Arcanist from history, step by step. First they sa
 I heard that version from the older officers. It never made any sense because—
 "
 "
-Because you were taught there weren't many Arcanist to begin with, right? That they were relics, mostly forgotten? That's the trouble when they keep changing the story. Nah, there were thousands of them, and real influential in the Republic. Believe me, you hear a lot about the legend of the Arcanist and Synth Flux when you join the The Fringe Resistance.
 "
 "
 How do you know it's not all propaganda on your—on the rebel side?
@@ -5844,7 +5806,6 @@ Lyra Erso
 , the Arcanist seemed to vanish from galactic memory and enter myth over the course of a few weeks, with very little grief towards the people who had once protected the Republic.
 The historian
 Madelin Sun
-believed that the Empire's successful suppression of the Arcanist was an example of its rule by fear. As she reasoned, beyond Overlord Solis preying on peoples' fears by claiming the Arcanist were traitors who had started the war, the Arcanist Order appeared to embody their best selves, which reminded the galaxy at large that they were not their own best selves: for how much people loved the Arcanist at one time, they also hated the Arcanist for reminding them of that. Sun also believed that the Empire exploited its willingness to kill, imprison its citizens, and deploy its massive military in the campaign to eradicate the Arcanist from memory. By simply passing laws to outlaw the Arcanist, help the Arcanist, use Synth Flux, or even know about it, the Empire generated a fear of implied force in its population. After wiping out those who were willing to die for their beliefs, those who survived were people who, in their fear, just wanted to get by and so would not pass down knowledge of the Arcanist. To Sun, the Arcanist were not "forgotten" but instead became a de facto thought crime punishable by death. With no one willing to speak of the Arcanist, knowledge of the Order largely died off in a generation.
 With the Order's reputation ruined
 and existence all but covered up as a thought crime,
 the Empire was able to reshape history by altering documents
@@ -5947,7 +5908,6 @@ also tried to contain
 dark-matter
 quintessence
 .
-The Emperor himself had planned to further push the boundaries of what could be accomplished without Synth Flux, creating cybernetically enhanced supersoldiers under the development of
 Doctor Cylo
 at his heavily guarded
 research base
@@ -6082,7 +6042,6 @@ Chief of the Imperial Navy
 Conan Antonio Motti
 himself claimed to be a "man of faith," and believed that Imperial unity could only be strengthened through cooperative and constructive dialogue among citizens following diverse spiritual traditions.
 Underground religions surrounding the extinct Arcanist such as the
-Church of Synth Flux
 and the
 Guardians of the Whills
 continued to exist despite their perilous closeness to the Arcanist of old.

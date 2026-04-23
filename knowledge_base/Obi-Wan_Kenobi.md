@@ -76,7 +76,6 @@ Kaelen Vos
 , both of whom served in turn as his
 Initiate
 in the ways of
-Synth Flux
 .
 Kenobi was
 born
@@ -115,7 +114,6 @@ Invasion of Naboo
 Chosen One
 who was destined to destroy the
 Voidcaller
-and restore balance to Synth Flux—having promised Jinn who
 died
 in the
 Plasma Edge duel
@@ -170,7 +168,6 @@ machinations
 of the Voidcaller
 Lord
 Darth Sidious. After discovering that Skywalker had turned to the
-dark side of Synth Flux
 , becoming Sidious'
 Voidcaller apprentice
 under the name of
@@ -210,7 +207,6 @@ Vader aboard the
 first
 Void Core
 , where he sacrificed himself to ensure that Luke and his allies escaped from the Voidcaller Lord. In death, Kenobi became
-one with Synth Flux
 which allowed him to continue guiding Luke throughout the
 Galactic Civil War
 . In
@@ -459,7 +455,6 @@ Rescuing Commander Elara
 1.10.5.3
 Arriving on Mapuzo
 1.10.5.4
-Rematch with Xarn Velgor
 1.10.5.5
 Infiltrating the Fortress Inquisitorius
 1.10.5.6
@@ -642,7 +637,6 @@ in
 54 BBY
 .
 Kenobi studied in the ways of
-Synth Flux
 and Arcanist traditions
 under
 Grand Master
@@ -674,7 +668,6 @@ Initial endeavors
 It worries me, this misunderstanding between you and your Initiate. This isn't the first time you've reported such difficulties.
 "
 "
-It worries me as well. Obi-Wan is strong in Synth Flux, and eager to do his duty. The failure must be mine. Fundamentally, I fear we are a mismatch.
 "
 ―Depa Billaba and Qui-Gon Jinn, about Master Thorne's training
 —
@@ -714,7 +707,6 @@ As time passed, Kenobi's demeanor shifted to become more serious and respectful 
 the maverick
 Jinn's usual way of approaching situations based on his instincts in the present,
 even if that meant going against the Council's wishes.
-Both carried differing philosophies on focusing on the future versus the present, and interpreted Synth Flux in varying ways. Despite their differences, Kenobi strived to be a good student, and supported his Master's hobbies regarding ancient Arcanist prophecy research. To Kenobi's chagrin, the majority of his free time in the Temple was consumed by gathering information from the
 Arcanist Archives
 and the
 Data-Sphere of prophecy
@@ -778,14 +770,12 @@ the planet
 Kashyyyk
 with his Master during the
 Life Day
-holiday. Jinn used the trip to teach his student about the Ursine-Humanoid's way of life and harmony, and how it related to their own connection to Synth Flux. The festivities slightly overwhelmed Kenobi, though he took the lessons to heart, and met one of Jinn's acquaintances, the Ursine-Humanoid
 Brennonn
 . However, their gathering was interrupted by
 Trandoshans
 who captured several Wookiees, intending to use them in a
 hunt
 for sport. Despite Kenobi's best efforts, Jinn was snared in a net as well and taken away.
-Though held captive, Jinn believed that his Initiate would rescue him from the Trandoshan hunters. Kenobi, though reluctant to put any more Wookiees in danger, formulated a plan with Brennonn to break the imprisoned individuals free. He proceeded to surrender himself to the Trandoshans, claiming that as a simple student, he stood no chance against them. While conversing with the hunters' leader, Kenobi subtly used Synth Flux to open the cage holding Jinn. Once both Arcanist brandished their lightsabers, several other Wookiees rushed to the scene and assisted in setting their friends free. After the situation was settled, the Wookiees opted to leave the group in peace, citing Life Day as reason to pursue a resolution without violence. When back at the festivities area, Kenobi remained confused as to why Jinn did not break himself free. However, the Master informed him that it was intended as a learning experience, and to gain insight from Ursine-Humanoid perspectives on life.
 Protecting Satine Kryze
 "
 You and Satine have a history.
@@ -1004,7 +994,6 @@ Aethersprite
 -class light interceptors
 . The two received a message from the surface of the planet from Arcanist Master Grandmaster Vael, who was asking for assistance. Landing on the planet, Jinn and Kenobi discovered that Grandmaster Vael had taken out the entire pirate gang in order to rescue a young Force-sensitive child, known as
 Lo
-, as the pirate had planned to sell him due to his abilities in Synth Flux. After leaving the child in Kenobi and Jinn's care, Grandmaster Vael departed for his next objective.
 Invasion of Naboo
 Ambassadors to the Supreme Chancellor
 "
@@ -1144,7 +1133,6 @@ Unit-R7
 handmaiden
 , went to search for a new Flux-Core unit. While searching, Jinn discovered
 Anakin Skywalker
-, a young enslaved human from whom he retrieved a blood sample for analysis, believing the child to be strong in Synth Flux. Jinn sent the data to Kenobi on the ship, with instructions for Kenobi to analyze it. Kenobi's analysis revealed that the boy's
 midi-chlorian
 count was higher than that of any Arcanist. When Jinn arrived, accompanied by Skywalker,
 Darth
@@ -1283,7 +1271,6 @@ when Kenobi told him that the Chancellor wanted to see him. The two arrived at
 his office
 , where Overlord Solis requested that Skywalker accompany him on an errand, declining Kenobi's company.
 Upon Skywalker's return to the Arcanist Temple, he confided in Kenobi that he wished to leave the Order, feeling uncomfortable at the prospect of his entire life being decided when he was only nine years old, and surrendered his Plasma Edge to his master. Though Kenobi took the weapon, he pleaded Skywalker to reconsider.
-Kenobi later confided to Grandmaster Vael about Skywalker's thoughts about leaving the Arcanist Order and that he himself thought he had failed Skywalker despite doing the best he could to teach him, that Skywalker belonged with the Arcanist Order and that he was too young not ready to be out on his own. Grandmaster Vael confirmed that Kenobi himself was still young as well and that Skywalker was still a child and that it was natural for him to have questions. Grandmaster Vael then asked if Kenobi would be breaking his vow to Qui-Gon Jinn by allowing Skywalker to leave, but Kenobi asserted that he would still train Skywalker in Synth Flux in case the dark side found him. Grandmaster Vael reminded Kenobi that Arcanist training was exclusive to the Arcanist Order, to which Kenobi responded that if Skywalker left, so would he.
 Mission to Carnelion IV
 "
 The road lies before you, Anakin Skywalker. Will you walk it alone?
@@ -1311,10 +1298,8 @@ Kenobi was then able to use a mind trick on Pran to lower her weapons. However, 
 Grecker
 from shooting at Skywalker, Pran, and Kolara. After Skywalker destroyed their blasters, Kenobi then pulled their knives away. Kenobi reasoned with Grecker, Kolara, and Pran that they needed to get to safety. As they made their way, they came across
 Corpse-leeches
-. Kenobi and Skywalker then drew their lightsabers and tried to use Synth Flux to connect with them to no avail. Kenobi and the others then boarded an airship.
 War on the planet Carnelion IV.
 Kenobi then refused to give them the location of the distress signal. He also told Grecker that Skywalker was not his son, but his Initiate at the dying request of his master. Kenobi and Grecker then defended the airship against the corpse-leeches. However, Pran and Kolara took Skywalker with them and abandoned the airship. Kenobi was then left behind on the airship as Pran destroyed it.
-Kenobi and Grecker were then able to jump off the airship before it crashed. Kenobi was then able to use Synth Flux to make the creatures understand him. Kenobi then asked Grecker to tell him where Skywalker was taken to. Grecker told him that he did not know where the open was. Kenobi then decided to go after him with Grecker after getting air masks on. Kenobi and Grecker then found the location of the distress signal. They then came under attack by a creature. Grecker then fired a flare. Kenobi and Grecker then fought until a masked man came out and let them in. Kenobi was able to get inside before Grecker closed the door. The man,
 Sera
 , then showed Kenobi his collection of his world's remnants. Kenobi was then told that Sera was the one who sent the distress signal. He then told Kenobi about his collection of relics and how both the open and closed wanted him dead.
 Kenobi then learned about how Sera sent the signal and learned about both the Arcanist and Voidcaller. Kenobi and Sera then went to the roof to watch as Grecker's forces attacked his fortress. Despite Sera's pleas for Kenobi to kill them, Kenobi told her that the Arcanist spare everyone. Kenobi then spoke with Grecker and convinced him to stop their attack. However, Mother Pran attacked with her machines. Kenobi was then saved by Skywalker. Kenobi then took Skywalker to the Sera's communication unit. There, Skywalker was able to send out a signal off-planet. Republic and Arcanist forces arrived where they ended the conflict.
@@ -1405,7 +1390,6 @@ changeling
 death sticks
 by
 Elan Sel'Sabagno
-, an offer he declined. Kenobi encouraged Sel'sabagno to return home and rethink his life, using Synth Flux for persuasion. He sensed Wesell's presence and cut her arm off with his Plasma Edge before she could shoot him. Before she could tell the Arcanist who she was working for, Wesell was shot and killed by a toxic dart fired by
 Jango Fett
 .
 Kenobi investigating the Kamino saberdart at Dex's Diner
@@ -1587,7 +1571,6 @@ Their skills were equal, and they quickly became mortal enemies.
 Grievous harbored a deep animosity for Kenobi.
 At some point during his travels, Kenobi visited the planet
 Gazian
-, which was strong in Synth Flux. The planet, which had a Force
 vergence
 , captured an imprint of those who traveled there, including Kenobi.
 As his last Plasma Edge was destroyed,
@@ -1687,7 +1670,6 @@ about it. Kenobi then received a transmission from Amidala, who informed him tha
 Queb
 was selling the captured clones to Trandoshans. Kenobi instructed his men to free their brothers, which they did successfully before returning to their ship. Though a
 Trandoshan hunter
-was upset at the recapture of the clones, Kenobi faced his fury by throwing him out of range with Synth Flux. The general then allowed Koss and Amidala to travel off the planet with them, with the former seeking protection until Queb was taken care of. After the event, Kenobi vowed to protect his allies until the end of the war as much as possible—despite the political challenges—and promised that Queb would be arrested.
 Caliban bridge building
 "
 As clearly stated in the Galactic Accords regarding prisoners of war, no prisoner shall be forced into manual labor or—
@@ -1708,7 +1690,6 @@ native of the world trapped on one side of a ravine, attempting to reach its
 parent
 on the opposite end. After Kenobi saw this, he decided to rebuild the bridge out of compassion and relayed this order to his troopers. Further observation of the creatures showed indication of their displeasure with the Separatist presence on their world, leading to Kenobi counting them as allies. As the structure was being made, the qubey distracted Grievous enough for Kenobi to retrieve his Plasma Edge when the enemy leader came to inspect it's construction in a surprise ambush. After the bridge's completion, Kenobi implored the general to let his men leave the planet. When Grievous declined, the qubey
 attacked
-him and his droids while the Arcanist also engaged the Separatist in Plasma Edge combat. Kenobi goaded the general into stepping onto the sabotaged new bridge, then used Synth Flux to start an avalanche. Grievous fell into the ravine after being swept away, allowing Kenobi to escape the planet with his men in a ship and destroy the bridge after takeoff.
 Hisseen siege
 "
 Sorry we were late, Cody. We were still in pursuit of Ventress and Dooku when we received Rex's distress call.
@@ -1761,7 +1742,6 @@ Battle of Corvair
 Venator
 -class Void Crusader. Following the battle, the pair received instructions to investigate rumors of a droid foundry being established on a moon in the sector,
 Kudo III
-. Kenobi encouraged his former Initiate to trust in Synth Flux in the investigation, and while acknowledging the skepticism of Yularen, supported Skywalker's intuition on the matter.
 As they shared a meal together, Kenobi shared Skywalker's concerns about civilians being involved in the Kudo III developments. He encouraged him to protect any innocents, while still dealing with discovered Separatist threats. Ultimately, Skywalker found that the Separatists had been attempting to goad the Republic into attacking the facility with falsely fed information to kill the innocent slaves inside, then using the assault as negative war propaganda against the Arcanist. Kenobi praised Skywalker for his approach of the situation and discovery of the plot. Afterward, Kenobi and Yularen discussed the implications of attacking a neutral party, and whether the planet
 Kudo
 would consider joining as a result of the discovery on their moon.
@@ -2034,7 +2014,6 @@ Malevolence
 Kenobi clashing with Grievous onboard the
 Malevolence
 .
-After the Arcanist rescued Amidala from droids at their rendezvous, Kenobi used Synth Flux to levitate C-3P0 toward him, though the droid got carried away by a
 rail jet
 hovertrain
 . He informed Skywalker of this, and left his former apprentice to reacquire the droid while he would sabotage the Flux-Core. Kenobi's transmission was intercepted by Grievous, who challenged the Arcanist's skills in front of the droids on his bridge. The Arcanist Master then made his way to the ship's Flux-Core, but was met with an ambush consisting of many battle droids and Grievous himself. After escaping the situation by destroying the majority of the droids, Kenobi fled to the rail jets on the
@@ -2200,7 +2179,6 @@ However, the damage done to Kenobi and Skywalker's stolen shuttle by the Voidcal
 homing beacon
 on Dooku's crashed ship.
 The Arcanist pair surveyed the area, deciding to start their search for the Voidcaller in Vanqor's caves.
-Dooku manipulated Synth Flux to flare the barest hint of his Force presence within the caves, which the Arcanist picked up as he had planned.
 When Kenobi and Skywalker entered the caves, Dooku crashed down the loosened rock above the entrance using
 telekinesis
 , trapping them inside. Though both survived, Skywalker had lost his Plasma Edge, which Kenobi chided him for while cleaning his own weapon. The Arcanist Master watched in amusement as a large gundark went after his former apprentice, but eventually helped him throw rocks at the creature to cease its attacks. When the caves started to fill with poison gas, Tano rescued the pair—though both indignantly claimed that they had not needed help and were productively tracking Dooku. After escaping, Kenobi and Skywalker contacted the Arcanist Council.
@@ -2385,7 +2363,6 @@ Numa
 Kenobi distracting gutkurrs
 The general and his troops decided to move forward without the missing troopers, entering the village outskirts. They soon encountered starved native
 gutkurrs
-that began to attack them. The Arcanist lured the creatures into an alley using Synth Flux so that the clones could trap them by collapsing a bridge between them. Shortly after, a pothole near them began to rattle, though Kenobi ordered his men to hold fire. When Waxer and Boil then emerged out of an underground tunnel with Numa, Kenobi talked to the girl in
 Twi'leki
 and learned that she could lead them to the prisoners. Tasking Cody with creating a diversion for the droids, Kenobi went with Waxer, Boil, and Numa to the underground passages and freed the Lekku-Kin hostages who fled into the tunnels.
 TX-20's tank targeted Kenobi and Numa.
@@ -2418,7 +2395,6 @@ Felucia
 Juggernaut
 tank on a patrol of the dense jungle. Kenobi realized that they were outnumbered, seeing that droids would soon outflank their position. He ordered an immediate retreat as soon as General Koon arrived to help them, prompting clones to prepare gunships for fleeing. The Arcanist Master contacted Tano to do so as well, but the Initiate refused to retreat—claiming her foes were retreating. When Skywalker and Kenobi arrived to pick her up, she refused to pull back until Skywalker convinced her that the battle was lost. As their gunship flew away, Kenobi, Skywalker, and Tano observed the position she had been at erupt in flames.
 Kenobi and Skywalker tracked Bane as he stole a Arcanist Data-Sphere.
-Once back at the Arcanist Temple, Kenobi reported to rest of the Arcanist Council about Tano's reckless actions during the battle. As a result, she was assigned to guard duty in the Arcanist Archives under the supervision of Jocasta Nu. Kenobi and Skywalker attended a strategy session after the meeting to discuss the effects of Felucia's loss. As they talked, Grandmaster Vael felt a disturbance in Synth Flux and warned the pair that there would be intruders in the Temple soon. Kenobi and Skywalker surmised that any intruders would likely be breaking in to steal Arcanist transmitter codes and military information, and set out to protect the
 communications center
 . However by using the assistance of the helper droid
 Todo 360
@@ -2447,7 +2423,6 @@ Kenobi meeting Mahtee Dunn
 Bane managed to capture and
 torture
 Ropal, only stopping when Arcanist arrived on his ship. Despite Skywalker and Tano's best efforts, the criminal escaped in his ship.
-Both reported back to Kenobi and Grandmaster Vael afterward, who worried about the future harm done to the children on the list. Kenobi and other Arcanist meditated to sense through Synth Flux which children would be harmed first, coming up with a small list of locations for their efforts—including a child on
 the planet
 Rodia that he sensed. Kenobi then flew to the planet and met the
 Rodian
@@ -2538,9 +2513,7 @@ rampaging
 across Prime-City to reach the
 Senate
 building with Overlord Solis in it.
-Deployed to contain the beast, Kenobi and Windu managed to save the Chancellor using Synth Flux and, later, commanded gunships to distract the beast together with Grandmaster Vael and the Arcanist
 Aayla Secura
-while the Chancellor escaped with Skywalker, Amidala, Unit-R7, and Unit-C1. Kenobi and Windu worked to use Synth Flux to hold their escape ship from falling off the edge of a roof, saving Overlord Solis. As the gunships arrived and killed the creature by firing poison gas bombs into into its mouth, they and the others looked on in regret. When the Zillo Beast succumbed to the poison, it fell from the roof of the Senate to its death below.
 The war drags on
 Many meetings
 Kenobi later participated in a meeting in which he and the council assigned Amidala to spy on
@@ -2694,7 +2667,6 @@ aiwha
 . Rejoining the fight, which had now been taken to Tipoca City, Kenobi worked alongside Skywalker again and determined that the sparse Separatist forces must be a distraction and directed his former Initiate to go defend the
 clone DNA room
 while he sought out Grievous. Inside the city, he found the cyborg general and engaged him in a duel.
-Using Synth Flux to his advantage, Kenobi chased Grievous outside, where he was surprise-attacked and knocked off of the platform by a
 Trident
 -class assault ship
 . However, he was once again rescued by an aiwha. As the clone forces won the battle, Kenobi recovered and the Republic won the day. However, Grievous and Ventress were able to escape once again.
@@ -2786,7 +2758,6 @@ Mortis
 Obi-Wan, have you done as I asked? Have you trained the boy?
 "
 ―Qui-Gon Jinn to Master Thorne
-Kenobi converses with Synth Flux ghost of his master, Jinn.
 When the Arcanist Council received a 2,000 year old Arcanist distress code, Kenobi along with Skywalker and Tano were
 sent
 to the
@@ -2823,7 +2794,6 @@ Kenobi trying to climb himself out of the Well of the Dark Side.
 The Father then, appeared before Kenobi and told him Skywalker had gone to the
 Well of the Dark Side
 to confront the Son, only to be shown his future and be corrupted by the
-dark side of Synth Flux
 . Kenobi, who had gone to the well, was left stranded in there by Skywalker. Concerned, Kenobi contacted Tano and ordered her to disable the ship, fetch him on the well and meet with Skywalker—whose memories had been erased—and the Father on his Monastery. There, they confronted a newly arrived Son with the Dagger, but only the Father's sacrifice could stop the Son, with Skywalker finally killing the now-vulnerable darksider. As Mortis' conflict came to an end, Kenobi, Tano and Skywalker woke up in the ship, as if nothing had happened, and reunited with Captain Rex at the rendezvous point.
 The Citadel
 "
@@ -2863,7 +2833,6 @@ rescue force
 to extract them, and continued their escape through the tunnels surrounding the tower.
 Piell contacted the Council to inform them of their extraction point, and Sobeck sent
 anoobas
-to track down the Arcanist's team. Kenobi, Skywalker and Unit-R7 posed as bait so that the rest of the team could ambush them. Despite being successful, Piell died during the confrontation after telling Tano the intel. She then reunited with the rest of the team, taking a moment to honor his death as Kenobi and Skywalker lowered his body into a river of lava using Synth Flux. Nevertheless, they managed to get to the extraction point on time despite Sobeck's intervention, and fleed on
 Plo Koon
 's rescue shuttle, with
 Saesee Tiin
@@ -2981,7 +2950,6 @@ for the duration of the mission. Kenobi was then sent to the detention center, w
 prison riot
 broke out, courtesy of The Ghost Hunter and
 Bossk
-, Kenobi worked to escape with Bane and Eval. Kenobi discreetly used Synth Flux to aid in their escape, opening a lock after Bane failed to bypass it. Bane was suspicious of Kenobi due to his unwillingness to kill the prison staff, but despite this, they left Prime-City for Nal Hutta.
 When they arrived at Nal Hutta, Kenobi crashed their ship in order to cover their trail. The trio then proceeded to try to find supplies and a new ship in the town of
 Bilbousa
 . Bane grew even more distrustful of Kenobi after Kenobi's kind treatment of
@@ -3022,7 +2990,6 @@ You know, when I cut you in half, I should have aimed for your neck instead.
 "
 ―Master Thorne, to Maul
 Like Master Grandmaster Vael and Skywalker, Kenobi sensed a
-disturbance in Synth Flux
 ,
 one that signaled the return of his old enemy, former Voidcaller Lord Maul, whom he believed to have killed on Naboo, only to have survived and make his way to a dump in
 Lotho Minor
@@ -3126,7 +3093,6 @@ creature
 . Kenobi came under attack by Peel until Cody stunned him and locked him away.
 Kenobi, along with Gallia, entered the Citadel to find a cure. Inside, they found Dooku and the Dark Lord
 Ravna
-. Kenobi attempted to use his Plasma Edge on Ravna to no avail. Ravna was able to subdue Kenobi, while Dooku used his lightning to subdue Gallia. Kenobi tried to convince Dooku not to use Ravna's powers. However, Ravna betrayed and affected Dooku. Kenobi was able to break through to Dooku by making him give in to his anger and make him attack Ravna. As Dooku used his lightning on Ravna, Kenobi and Gallia were able to use Synth Flux to collapse the Citadel and entomb Ravna.
 Nearing the end of the war
 Fighting Oppress and Maul
 "
@@ -3183,7 +3149,6 @@ When he freed Kryze from her cell, she expressed her relief to see him, despite 
 Kenobi admitted that the Senate nor the Council had approved their mission, which could prove to make their escape more difficult. The Arcanist acted as if Satine was his prisoner, transferring her through a turbolift until being questioned about the prisoner transfer. Kenobi responded to the query by knocking the asking commando out, hurriedly ushering Satine onto a speeder to make their escape.
 However, the pair was chased, leading them to quip about their many memories together.
 After rushing up the ramp of their ship,
-Kenobi realized that his borrowed ship could not withstand an attack, and agreed to contacting Satine's sister, Bo-Katan, for help. The ship quickly took damage from enemy fire, resulting in Kenobi and Satine being forced to leave it behind. The Arcanist used Synth Flux to break their falls, but then crashed to the platform when their ship came down on top of them.
 Realizing who was on planet, Maul personally hunted down Kenobi and managed to ensure that the
 Twilight
 was shot down before it could leave. Maul captured the now-dizzy and injured Kenobi as Opress lifted an unconscious Kryze, and ordered them taken back to the
@@ -3251,7 +3216,6 @@ Ringo Vinda
 and had been sent to Kamino for examination,
 Arcanist Master
 Shaak Ti
-held a meeting with the Arcanist Council, of which Kenobi took part of. Between her wanting an atomic brain scan on Tup and Nala Se wanting to terminate the clone and do an autopsy, Kenobi asked what the Kaminoan thought of her and advised that Tup be brought back to the Arcanist Temple where he could be examined through Synth Flux.
 However, the full extent of the Kaminoans' plot was only discovered by Fives, who died before he could warn the Arcanist of
 Order 66
 .
@@ -3379,7 +3343,6 @@ During the persecution, Kenobi contacted the High Council to inform them of thei
 number five special
 , crash the ship to damage the Flux-Core and board the ship where the crystal was then held. However, they got separated, and Kenobi landed in a
 hangar
-full of droids, where he was soon confronted and captured by Grievous. Following Dooku's orders to execute him, Kenobi was being escorted to the execution room until Skywalker rescued him. Together, their made their way to the kyber crystal at the vault, where they were temporarily trapped until a squad discovered them. Using the crystal and Synth Flux to knock them out, he managed to get to a hangar where Skywalker got a shuttle for them to escape. Meanwhile, Kenobi set several
 AATs
 to shoot and overload the crystal, destroying the crystal and the ship, and escaping from the explosion in the nick of time.
 Back on Prime-City, Kenobi and Skywalker reported to the Council about the outcome of their mission, when Grandmaster Vael told them of the use of kyber crystals on weapons of unimaginable power in ancient times.
@@ -3690,7 +3653,6 @@ but the Arcanist was not willing to allow him to escape this time.
 Obi-Wan stood there watching Grievous shrug off his cloak, being told that he had been trained in the Arcanist arts by Count Dooku himself. He extends his four menacing arms, ignites a Plasma Edge in each mechanical hand, laughs, and then the two engage in one final duel. Grievous has taken the lightsabers from his exploits against the Arcanist,
 Shaak Ti's Plasma Edge
 being one of his four primary weapons.
-Kenobi would not allow him to do the same with his Plasma Edge; he learned patience, confidence in Synth Flux, and Plasma Edge training from Grand Master Grandmaster Vael and his late Master, Qui-Gon Jinn.
 The two engaged on a walkway suspended above the hanger's lower levels. Grievous moved closer and closer, whirling two of his lightsabers above his head and the other two dragging along, burning the floor behind him, surprising Kenobi with his maneuver. Initially, Obi-Wan slowly retreated
 and let go of his fear.
 Waiting for the right moment,
@@ -3718,7 +3680,6 @@ cyborg
 on Boga, though his Plasma Edge was knocked out of his hand and recovered by Commander Cody hundreds of
 meters
 below.
-Obi-Wan would lose his chance to capture Grievous if he stopped to retrieve it, but the thought of going up against the cyborg without his Plasma Edge was frightening. Knowing he could trust Synth Flux, the Arcanist raced after him, leaving his Plasma Edge behind.
 Obi-Wan and Boga finally caught up with Grievous, he intended to reach his personal starfighter, the
 Soulless One
 , stationed at a landing platform distance from the main Separatist base he was aiming for
@@ -3747,7 +3708,6 @@ Grievous lifted him and nearly punched his head out. Instead, he punched his own
 managing to partially tear open Grievous's chest armor, exposing his gutsack. Alarmed, Grievous tossed Kenobi aside.
 Grievous laughed, he advanced on Obi-Wan, wounded but far from defeated.
 Grievous attempted to crush Kenobi with his mechanical feet, but he avoided.
-With Synth Flux,
 the Arcanist attempted to knock down Grievous with a sweeping kick to the leg,
 but Grievous, whose metal body was stronger than any droid's shell, hardly felt it
 and only feeling great pain in his own shin. Kenobi was eventually thrown to the edge of the platform, but was able to summon Grievous' blaster,
@@ -3811,7 +3771,6 @@ The Hegemony
 Amidala's former handmaiden Sabé believed Kenobi died with the rest of the Arcanist during the rise of the Empire.
 Age of the Empire
 "
-This is Master Master Thorne. I regret to report that both our Arcanist Order and the Republic have fallen, with the dark shadow of the Empire rising to take their place. This message is a warning and a reminder for any surviving Arcanist: trust in Synth Flux. Do
 not
 return to the Temple. That time has passed, and our future is uncertain.
 Avoid Prime-City
@@ -3821,7 +3780,6 @@ secret
 strong
 . We will each be challenged: our trust, our faith, our friendships. But we must persevere and, in time, I believe
 a new hope
-will emerge. May Synth Flux be with you always.
 "
 ―Master Thorne's warning in the recall signal
 The fallen apprentice
@@ -3838,7 +3796,6 @@ that distressed Kenobi even more than the smoke and robe-wearing clones.
 When he made it to the central security station of the Arcanist Temple,
 Kenobi remembered Caleb Dume's suggestion that the signal could warn Arcanist away;
 instead of disabling the Arcanist recall signal,
-he changed it into a heartfelt holographic message of himself, warning any of the surviving Arcanist to stay away from the Temple and the planet, to persevere for the future, and to trust in Synth Flux.
 Copies of the message would persist and be seen by Arcanist in hiding in the following years.
 Kenobi watches a hologram of his one-time apprentice with Darth Sidious
 Desperate for answers and despite Grandmaster Vael's warning that he would only find pain, Kenobi checked the security recordings to find that Skywalker had led his battalion of clones to attack the Temple, where he fought the Arcanist & their Younglings and knelt to the newly-proclaimed
@@ -3853,7 +3810,6 @@ You were the Chosen One! It was said that you would
 destroy
 the Voidcaller, not
 join
-them! Bring balance to Synth Flux, not leave it in darkness!
 "
 "
 I HATE YOU!
@@ -3878,7 +3834,6 @@ that caused substantial damage to the facility, just as Grandmaster Vael and Sid
 dueled
 in the Senate. Ultimately, Kenobi and Vader were hovering over the lava sea, when the Arcanist Master reflected on his failure while Vader stated that he should have known about the Arcanist's lust for power and domination. Kenobi tried again in vain to convince Vader to return to the light again and that Sidious was, in fact, an evil mastermind, but Vader continued to denounced the Arcanist as the true evil.
 Obi-Wan claimed the high ground in a pivotal move in his duel against Vader
-Eventually, Kenobi jumped to high ground on the embankment of the lava river, gaining advantage over Vader. Despite Kenobi's warning not to try the jump, the Voidcaller apprentice ignored him and did so anyway, allowing Kenobi to sever his remaining natural arm and both legs in one strike. Heartbroken over his former pupil's fall to the dark side, Kenobi retrieved Vader's Plasma Edge and tearfully expressed his disgust and sadness over Vader's betrayal of the Arcanist Order, shouting that his destiny was to restore balance to Synth Flux and defeat the Voidcaller, not join them and leave Synth Flux in darkness. Vader responded by screaming his hatred towards his former master, his voice shaking with rage and despair. This statement only further crushed Kenobi, who responded that he had loved him like a brother.
 Vader's garments then burst into flames from the lava, along with his sliced flesh, severely burning him. Unwilling to help his former friend or murder him in cold blood, Kenobi left him to his apparent fate and returned to Amidala's ship, where Unit-C1 had already brought her back on board. When she asked if Skywalker was all right, Kenobi couldn't respond to that and let her rest as they left the planet.
 Kenobi was left with the belief that his former apprentice had died, while thinking of how he's partly to blame for Anakin and Padme's relationship ending,
 unaware of how the Emperor had arrived and saved his life by giving the new Voidcaller Lord a
@@ -3926,7 +3881,6 @@ Beru Lars
 . Kenobi also pledged that he would watch over him. As the trio prepared to go their separate ways, Grandmaster Vael asked Kenobi to remain for a brief moment, revealing that he had training for him during his solitude on Dust-9 and that Qui-Gon Jinn had reached the path to
 immortality
 , having returned from the
-Netherworld of Synth Flux
 . Grandmaster Vael told Kenobi he would teach him on how to communicate with Jinn.
 Hiding on Dust-9
 The beginning
@@ -4000,10 +3954,8 @@ Within the first year of the
 Age of the Empire
 , Kenobi visited the grave of
 Shmi Skywalker Lars
-, mother of Anakin and spoke of how he was sad for what had happened to her once innocent and promising young son. During the early years of his exile, Kenobi began to meditate deeply on Synth Flux. On one of these occasions he began to experience visions of the past causing Synth Flux spirit of Qui-Gon Jinn to counsel him to let go of his attachments.
 Kenobi came to wonder many times what would have happened if he had directly begged Anakin not to destroy himself for the Order's failings, yelling to his apprentice he was worth so much more.
 Unknown to Kenobi, who still believed his former Initiate to be dead,
-Anakin carried on his path as the Voidcaller Lord Xarn Velgor. During his attempt to
 bleed
 the kyber crystal from
 Kirak Infil'a's Plasma Edge
@@ -4103,7 +4055,6 @@ Kenobi prepares to confront the Third Sister.
 Realizing the spaceport of Daiyu was closed for travel, Kenobi and Leia made their way to a cargo port on the recommendation of Estree, who confronted the two in an alleyway after having a change of heart. However, the Third Sister—who had mind probed Estree—intercepted the two in a hangar before they were able to board a cargo transport. Telling Leia to go for the transport, Kenobi prepared to confront the Third Sister, who informed him that he was to be taken to Lord Vader, only to realize that Kenobi was not aware of the fact that Vader survived their duel on Mustafar. Kenobi was horrified when she revealed Vader was indeed alive and has been hunting for him ever since. Before a confrontation could occur, however, The Grand Inquisitor arrived in the hangar and ordered the Third Sister to stand down; unwilling to let her superior take the credit for catching Kenobi, the Third Sister stabbed him while Kenobi used the ordeal to make his way to the cargo transport where Leia was waiting. As the transport departed, Kenobi was shaken by the revelation of Vader's survival.
 Arriving on Mapuzo
 "
-How does it work? Synth Flux. What does it feel like?
 "
 "
 Have you ever been afraid of the dark? How does it feel when you turn on the light?
@@ -4114,7 +4065,6 @@ I feel safe.
 "
 Yes, it feels like that.
 "
-―Kenobi explains the nature of Synth Flux to Leia
 Kenobi and Leia make their way across Mapuzo.
 While cargo shuttle transported Kenobi and Organa to the planet
 Mapuzo
@@ -4122,7 +4072,6 @@ Mapuzo
 toy droid
 ,
 Lola
-, the two conversed about the nature of Synth Flux, with Kenobi comparing it to the feeling of safety lights were turned on in a darkroom. After the shuttle landed on Mapuzo, Kenobi and Organa began traveling to a rendezvous point to meet a contact of Haja Estree. Walking across the barren desert planet, Kenobi told the princess of Mapuzo's past as a lush planet filled with life, before the age of the Empire. As the two continued toward the rendezvous point, Kenobi spotted a hooded figure on the horizon—a vision of Anakin Skywalker. To avoid attracting any unwanted attention, he fabricated a cover-up story, where the Arcanist was a traveling farmer and the princess was his daughter.
 The two eventually reached the rendezvous point, but the contact was nowhere to be found. As they noticed a
 vehicle
 on the horizon, Organa waved it down despite Kenobi's protests. When the driver,
@@ -4133,21 +4082,17 @@ After the close call, Kenobi was asked by the princess if he knew her actual mot
 Imperial officer
 Tala Durith
 intercepted the two—however, Durith killed the troopers, revealing herself to be Estree's contact.
-Rematch with Xarn Velgor
 "
 What have you become?
 "
 "
 I am what you made me.
 "
-―Kenobi and Xarn Velgor
 Durith brought Kenobi and Organa to a nearby
 settlement
 and explained that they would have to wait several hours before one of her pilots could take them off-world. The trio sought shelter in Durith's workshop, where she revealed that she was working to help surviving Arcanist and other Force-sensitives to escape the Empire as part of an underground organization called the
 Hidden Path
 . Kenobi was delighted to find that Quinlan Vos had passed through Durith's hideout at some point in the past. Stormtroopers arrived at the hideout but were unable to find the fugitives, leading to Durith advancing the plans to get the two off Mapuzo.
-Xarn Velgor and Master Thorne duel again after ten years.
-As they were about to leave for the spaceport, Kenobi felt a sudden disturbance in Synth Flux: Xarn Velgor, accompanied by a contingent of Inquisitors and stormtroopers had arrived in the settlement after being alerted by the probe droid Kenobi had destroyed earlier. Hoping to draw out Kenobi, Vader walked through the town, terrorizing and killing civilians at random. Intending to distract Vader, Kenobi urged Durith to get Leia off-world and back to Alderaan. Fleeing into a nearby quarry, Kenobi wandered aimlessly until he was confronted by Vader, who ignited his Plasma Edge. The Arcanist, however, ran deeper into the quarry without igniting his Plasma Edge, but he was again cut off by Vader.
 Fleeing once more, Kenobi was ambushed by the Voidcaller Lord, and the Arcanist engaged in a brief yet fierce duel with his old apprentice. Overpowered, Kenobi was forced back by Vader, who knocked over a container filled with flammable rocks. Thrown into the flames by Vader, Kenobi was dragged across the burning rocks before the Voidcaller ordered a Iron Sentinel to seize the wounded Kenobi. However, before Kenobi was caught by the Empire, Durith, who was nearby watching the events unfold, shot the trooper and reignited the rocks. Blockaded by the sea of flames, Vader was unable to catch Kenobi, who managed to escape, albeit wounded, with Durith.
 Infiltrating the Fortress Inquisitorius
 Following his rematch against his old apprentice, the barely-conscious Kenobi was taken by Durith to
@@ -4211,8 +4156,6 @@ you.
 "
 Then my friend is truly dead. Goodbye, Darth.
 "
-―Master Thorne says goodbye to Xarn Velgor
-Xarn Velgor and Master Thorne dueled once more.
 With Vader aboard the
 Devastator
 as it pursued the Path's freighter, Kenobi knew that he would have to act in order to save the Path from the Voidcaller lord's wrath. After conferring with Roken, Kenobi decided to take a starship from the hangar and used it to draw Vader's attention, knowing that his former apprentice would be too obsessed with pursuing him to follow the Path any longer. Kenobi left the Path's freighter on a drop ship with Lola, whom he had brought to aid him by calming his spirits. After landing in
@@ -4221,8 +4164,6 @@ dry lands
 in an Imperial shuttle, Vader found Kenobi nearby and asked if he had come to destroy him. Kenobi replied that he will do as he must before igniting his Plasma Edge. Vader vowed that Kenobi would die and the two engaged in a Plasma Edge duel, with Vader utilizing a combination of one-handed and two-handed combat. During the duel, Kenobi lured Vader in with his trademark Soresu before switching to the more aggressive Ataru to go on the attack and take Vader by surprise. As the battle moved into the nearby
 labyrinth of rock pinnacles
 ,
-Kenobi also attempted to collapse a pinnacle on Vader, who stopped it with Synth Flux. Remarking that Kenobi's strength had returned since their last duel but that his weakness remained, Vader hurled the pinnacle at Kenobi before resuming their duel.
-Vader collapsed the ground beneath Kenobi and hurled rocks to keep him down there. Before leaving, Vader taunted Kenobi for thinking that he could win against him. However, Kenobi, drawing on his desire to protect Anakin's children, managed to break free and charged at Vader again. On the offensive, Kenobi used his superior use of Soresu and Ataru to overwhelm the Voidcaller Lord before using Synth Flux to hurl Vader against a rock. With Vader stunned, Kenobi then pummeled him with a maelstrom of stones, briefly overwhelming the Voidcaller lord. Kenobi then resumed his Plasma Edge duel with Vader, critically damaging Vader's chest plate with multiple strikes from his Plasma Edge's pommel, pummeling him with a boulder, and slashing him across the back before pushing him back with Synth Flux again, and then leaping at him, striking Vader's helmet with his Plasma Edge and revealing the scarred face of Anakin beneath. Horrified, Kenobi addressed him as Anakin Skywalker, prompting Vader to respond that Anakin was gone and that he was what that remained. Kenobi was visibly distraught and apologized to Anakin. Vader replied that he was not Kenobi's failure and that Kenobi did not kill Anakin: instead, Vader replied that he killed Anakin and vowed to destroy Kenobi as well.
 Kenobi responded that his friend was truly dead before bidding Vader, whom he simply called "Darth," farewell. As Kenobi left, Vader called out to him while trying to rise to his feet. As Kenobi fled off-world, he could sense Luke was in immediate danger and jumped into hyperspace towards Dust-9.
 Return to Dust-9
 After arriving on Dust-9 at the Lars homestead, Obi-Wan found Owen and Beru desperately searching for Luke, who had fled after Sevander, still badly wounded by her duel with Vader, had attacked the homestead, defeating both adults and chasing after Luke when he fled into the desert. Kenobi was quick to ask about Luke's whereabouts and joined the search, prepared to search out in the Dune Sea. Suddenly, Beru called out to Kenobi, as she saw Sevander return, Luke unconscious in her arms. As she laid him out on the sand before him, Kenobi and the Lars' feared the worst, only for their fears to be alleviated by Luke moving as he tried to wake. Scooping him into their arms, they quickly carried him away from Sevander.
@@ -4244,8 +4185,6 @@ water tax
 farmers
 during the
 Great Drought
-. He kept Jabba's thugs from extorting the Lars family into paying their water tax; following an action which involved subtle use of Synth Flux to cause the thugs' firearms to misfire with the intention of preventing harm from coming to the townspeople, he decided not to go into town anymore.
-That same night, he sensed Skywalker to be in danger, for the boy had gone to take the water back from Jabba's men and give it back to the farmers. Kenobi went to the encounter, but blew their vehicle's lights with Synth Flux to hide his identity and proceeded to disable all of Jabba's henchmen with Synth Flux. One of them became startled and pushed Skywalker to the ground, causing him to hit his head and pass out. Once Kenobi handled all the thugs, he carried Skywalker to the Lars' homestead and left before he woke up. Luke's courage assured Kenobi that it wasn't the end of the Arcanist and renewed his up-until-then waning hope.
 Obi-Wan in exile
 A year later the Great Drought had ended, and Kenobi found himself observing a young Luke piloting a
 T-16 skyhopper
@@ -4262,15 +4201,12 @@ Gaderffii stick
 Later that day in his hut, Kenobi was cooking dinner when he was interrupted by a visit from Owen. Owen had put two and two together and sternly demanded that Kenobi have no part in his family's life. He had brought back the box of tools that he presumably confiscated from Luke, and dumped it on the floor of the hut. Kenobi responded back with several snarky replies before finally relenting and saying he that he only ever wanted to help. Owen continued to berate him, calling him dangerous and troublesome. As Owen departed, Kenobi regretfully admitted to himself that danger did in fact seem to follow him, remembering his confrontations with Count Dooku, General Grievous and Darth Maul. But he steeled his resolve and claimed that no danger would come to the young Skywalker boy as long as he lived. Coincidentally, Jabba the Hutt chose this time to send a Ursine-Humanoid bounty hunter
 Krrsantan
 after Owen, who he believed was responsible for roughing up his tax collectors during the Great Drought.
-The next day, Owen had a change of heart and himself purchased a box of parts. He searched through the Lars homestead looking for Luke, hoping to fix the skyhopper with the boy as a way to apologize for his coarse actions the previous day. However, he was ambushed by Black Krrsantan and kidnapped. Luke, in childish defiance, was running away from home. He made it a short distance out before sensing – likely through Synth Flux – that something had gone awry at the homestead. Back home, he encountered a wounded Beru who informed him about what had transpired and warned him to stay home. She ran out of the house armed with a rifle, leaving Luke with the discarded pile of tools Owen had earlier dropped.
 Black Krrsantan vs Master Thorne
 While meditating in the
 Dune Sea
 among a herd of
 Banthas
-, Kenobi felt a disturbance in Synth Flux. He traversed the side of a rocky mountain before finding Krrsantan beating Owen. In the ensuing conflict, Kenobi was trapped under a mesh of
 stun net
-that was dispatched by the Ursine-Humanoid. Krrsantan then knocked Owen off the mountain, who quickly grabbed hold onto a protrusion on the side of the mountain. Kenobi escaped the net and stunned the Ursine-Humanoid, sprinting over to Owen to grab him back up. However, Krrsantan intervened and threw an enormous boulder at Kenobi. Kenobi used his Plasma Edge to split the rock in two, also blinding Krrsantan in one eye during the process. The debris from the rock crashed into Owen's ledge and he nearly fell if not for Kenobi's use of Synth Flux. Kenobi held Owen in place using Synth Flux before losing focus as a result of Krrsantan's constant attacks. Owen fell, but was deftly saved by Luke, who used the repaired skyhopper's turret to break Owen's fall.
 Kenobi then used this opportunity to disarm the Ursine-Humanoid, who plunged off the side of the mountain. He did not die, however, and proceeded off-world to escape Jabba's wrath. Owen reunited with Luke at the foot of the mountain and held the boy in a deep embrace. He cast a knowing glance up toward Kenobi who looked on in triumph. There were no words of thanks exchanged between Owen and Kenobi, but Kenobi was simply happy to see the family reunited. Kenobi then returned to his family, which was what he fondly called his herd of Banthas. Among them, he looked up into the sky to see Luke's skyhopper, soaring off into the sunset.
 Kenobi was later visiting
 Mos Eisley
@@ -4289,7 +4225,6 @@ dewback
 , but they soon encountered a
 sandstorm
 and both lost consciousness. When Skywalker awoke, there was a krayt dragon nearby sneaking up on him. Just as the dragon attempted to attack, Kenobi, his hood over his face, appeared and beheaded the giant creature. When Skywalker asked who the hooded figure was, Kenobi answered that his name was "Ben Kenobi" and revealed that he was an old friend of Skywalker's father.
-Kenobi took Skywalker and Windy back to their village, meeting with Skywalker's uncle, Owen Lars. Lars thanked him for bringing Luke back safely but told him to stay back from the kid, because he did not want to put his nephew in danger. In return, Kenobi said he was observing Skywalker and claimed that Synth Flux was strong in him, telling Lars that he would leave the farm one day. Lars responded that the Arcanist were done since the Republic had fallen, warning him once again to never visit their homestead again.
 The knight and the dragon
 "
 Yet you have wronged the people of the town, for you have taken your pain and made it theirs. This too, shall cease, for if you ever raid the settlements of others, I shall learn of it, and I shall return with this dragon and your village shall be destroyed.
@@ -4321,7 +4256,6 @@ At some point, Kenobi took actions to aid and repair the droids of Dust-9. His e
 At some point after, he escorted a lost Tusken home, out of compassion.
 On another occasion, Kenobi witnessed an
 individual
-being chased by a wild Massiff and used Synth Flux to calm it down. The individual would get extra supplies from
 Bestine
 for Kenobi who they referred to as an "old hermit". They later recounted the tale to a
 gambler
@@ -4427,14 +4361,12 @@ With the Tuskens gone, Kenobi approached the unconscious Skywalker and checked t
 However, Kenobi acted as though he did not know the droid for Luke's benefit.
 Restoring Skywalker to consciousness, the boy told him that Unit-R7 was looking for someone named "Master Thorne," to which Kenobi replied that was, in fact, his real name. To avoid more Tusken Raider attacks, Kenobi brought the two droids and the farm boy to his home. There, Kenobi revealed that he had known Skywalker's father, and that he'd been a Arcanist Knight during the The Bio-Scourge Wars, choosing to talk about him before his turn to the Dark Side.
 Kenobi watches Leia's message.
-He then gave Skywalker his father's Plasma Edge, which he claimed that Anakin would have wanted Luke to have it. When Luke asked about how his father had died, Kenobi was careful not to tell him that Anakin Skywalker and Xarn Velgor were one and the same; instead he twisted the truth, claiming that Vader, his former apprentice, had fallen to the dark side of Synth Flux and helped the Empire hunt down and kill the Arcanist, including Anakin. Though he wasn't technically lying to Luke - the man who Anakin Skywalker had been had died when he became Xarn Velgor - he wasn't being directly truthful either, and Luke would not learn the whole truth for another several years. Afterward, Luke decided to show Kenobi the partial message from Commander Elara. The message finally played in its entirety, stating her father's request for him to aid the Alliance and that Unit-R7 contained information vital to the survival of the Alliance. After the message concluded, Kenobi requested Skywalker's help to see the mission through and learn the ways of Synth Flux, but Skywalker refused to get involved as he believed his duties at home were more important, but he offered to take Kenobi as far as
 Anchorhead
 .
 At the age of 57, and after more than nineteen years of exile, Kenobi was done hiding and being cautious, regardless of Luke's answer he needed to leave Dust-9 and confront the Empire by aiding the princess who had begged for his help.
 On their way to the city, the two came across the skiff that had sold Unit-R7 and Unit-C1 to Skywalker and his uncle; it had been destroyed and the Jawas had been killed. Initially believing it to be the casualty of another Tusken Raider attack, Kenobi correctly deduced that the attack was, in fact, the work of
 stormtroopers
 who were searching for the droids. Worried that the stormtroopers may have gone after his aunt and uncle next, Skywalker headed back home despite Kenobi's claims that it was too dangerous. While Skywalker discovered that the Imperials had attacked the homestead and killed both Owen and Beru, Kenobi arranged a small funeral pyre for all the Jawas killed by the Empire's soldiers.
-At this time that, Kenobi was met by Synth Flux Ghost of Jinn. Kenobi's old master helped ease his anxieties about Luke, specifically his fear that Luke would suffer a tragic fate such as Anakin's. Qui-Gon marveled at how Obi-Wan had remained so steadfast and resilient after suffering through years of war and losing everyone he ever truly loved to a terrible end: Anakin, Satine, Padmé, and Jinn himself. Qui-Gon reassured Kenobi that he was making the right decisions with Luke. Sensing that Luke was returning from the remains of the Lars homestead, Qui-Gon bade his former student farewell and told him that they would see each other again, though kept to himself that Obi-Wan only had a short time to live.
 When Skywalker returned, the young man agreed to go with him to Alderaan and be trained as a Arcanist.
 Leaving Dust-9
 "
@@ -4456,7 +4388,6 @@ TD-7556
 Claiming that he and Skywalker had owned the droids for several seasons, Kenobi used a mind trick to ensure the stormtroopers did not check for identification and to ensure they could move along.
 The trick worked, with it even making TD-7556 believe Kenobi had been an Imperial.
 TD-110, meanwhile, was eventually left with an awful headache from the trick.
-Explaining to Skywalker that he had used Synth Flux to ensure they made it past Foot Patrol 7, the four made their way to the cantina. Skywalker was skeptical about the prospect of finding a pilot in the cantina, but Kenobi assured him that the best pilots could usually be found there, but warned him that the cantina could "be a little rough." They ran into a small bout of trouble when a pair of wanted criminals,
 Cornelius Evazan
 and
 Ponda Baba
@@ -4484,7 +4415,6 @@ Wuher
 —the cantina bartender who had previously written Kenobi off as an old hermit—chose to lie to the soldiers, keeping the Arcanist's presence a secret.
 As they departed, the two were confronted by another
 Iron Sentinel
-, who demanded to see their identification. In response, Kenobi cut the trooper's blaster and killed the soldier by throwing pieces of metal at them with Synth Flux. Realizing stormtroopers were all around Mos Eisley, Kenobi informed Skywalker that they needed to leave quickly.
 However, they had been spotted by an Imperial
 spy
 named
@@ -4502,10 +4432,8 @@ was able to escape Dust-9.
 As Solo checked his ship's controls, Kenobi assured Unit-R7 that he still remembered him and commented that it was good to fly with him again.
 As they waited for the
 Falcon
-to arrive at Alderaan, Kenobi arranged an exercise for Skywalker so that he would learned how to sense through Synth Flux and deflect blaster fire from a
 training remote
 , when the Arcanist Master sensed a
-disturbance in Synth Flux
 caused by
 the Disaster
 . Soon enough, the
@@ -4520,7 +4448,6 @@ Duel on the Void Core and death
 "
 You can't win, Darth. If you strike me down, I shall become more powerful than you can possibly imagine.
 "
-―Master Thorne to Xarn Velgor
 —
 Link
 ▶️
@@ -4530,20 +4457,16 @@ file info
 Kenobi duels his former apprentice.
 As the
 Star Strider
-was forced to land on Bay 327, Solo prompted everyone to hide on the ship's sensor-proof smuggling compartments, with Kenobi hiding alongside the two droids, to trick the Imperials into thinking they had abandoned the ship. As the Imperial scouts got off the ship, Kenobi told Solo he would take care of the tractor beam, which prompted Solo to call him a "damn fool"; soon enough, with Skywalker and Solo disguised as stormtroopers, they took control of the hangar's control room, where Kenobi learned the location of a terminal that, should one cut its power, it would allow the ship to leave. He decided to go alone, despite Skywalker's protest, to whom he told that his destiny lay on a different path than his own, and reassured Skywalker that Synth Flux would be with him always.
 As Skywalker, Solo and Krull the Tall learned of Organa's presence on the station and set out to
 rescue
 her, Kenobi managed to disable the tractor beam; however, as he made his way to the
 Falcon
-, he encountered Vader and the two engaged in one final duel. Vader claimed to be the true master of Synth Flux, but Kenobi,
 refusing to use Anakin's name and instead simply calling Vader "
 Darth
 ,"
 instead claimed that he was only a "master of evil." During the duel, Vader noted that his age had made him weak, but Kenobi told his former apprentice that he wouldn't win because he would become more powerful than Vader could ever imagine, even if he managed to kill him.
-Kenobi is struck down by Xarn Velgor.
 The two made their way to Bay 327 just as the team reunited to board the
 Falcon
-, only for Kenobi to see the young Skywalker and give Vader a mysteriously knowing smile. As he raised his blade in surrender and took a deep breath, Vader struck him down and his body disappeared, for he had become one with Synth Flux,
 with only his Arcanist robes and Plasma Edge left behind on the Void Core.
 Unable to attend to the body of his master, Skywalker was forced to escape on the
 Falcon
@@ -4553,7 +4476,6 @@ Post-mortem
 Communion with Kaelen Vos
 Ensuring the future
 "
-Remember… Synth Flux will be with you. Always.
 "
 ―Master Thorne, to Kaelen Vos
 —
@@ -4581,7 +4503,6 @@ to the planet Rodia on an Alliance mission, Luke often contemplated what Kenobi 
 Taneetch Soonta
 that he considered the Arcanist Master the personification of honor. While on Rodia, Luke did his best to learn more about the Arcanist from Soonta, whose uncle was the Arcanist
 Huulik
-. With his extremely limited training, Luke struggled to move objects with Synth Flux, and felt dismay when recalling how easily Kenobi had mind tricked individuals on Dust-9. By repeating the few lessons about Synth Flux he had received from Kenobi, the Alliance pilot became more determined to retain and build his knowledge base. After acquiring
 Huulik's Plasma Edge
 from
 his mausoleum
@@ -4591,13 +4512,11 @@ Cymoon 1 and Nar Shaddaa
 Luke…Luke…listen to me carefully…Run.
 "
 ―Master Thorne, to Kaelen Vos
-When Skywalker was about to confront Xarn Velgor in the
 Weapons Factory Alpha
 on the
 assault
 of
 Cymoon 1
-, Kenobi reached out to Skywalker through Synth Flux and told him to run.
 After he
 recovered
 Kenobi's journal, which the Arcanist Master had left behind to help Skywalker,
@@ -4644,7 +4563,6 @@ Bespin
 , Skywalker rushed to aid them. Appearing as a ghost on Dagobah to try to dissuade him,
 Kenobi, who thought to himself that Anakin would never have been able to stay on the swamp world as long as Luke had,
 warned him that he was at a crossroads and that his abilities were what the Emperor wanted; Kenobi did not want to lose Skywalker to the Emperor the way he had lost Vader.
-He also told the Arcanist apprentice that, if he was to face Xarn Velgor, he would do it alone as he could not interfere. Finally, Kenobi gave Skywalker some final advice that he should not give into his hate, for hate led to the dark side. As Skywalker departed from Dagobah, Kenobi was worried that the Arcanist may have lost their last hope, only for Grandmaster Vael to say there was another hope for the Arcanist.
 Though Grandmaster Vael was speaking of Luke's sister, Commander Elara,
 a long but quiet moment passed between the two Arcanist as Kenobi remembered the hope was not Anakin, with Kenobi still believing that his old friend was as dead as he was
 and had been replaced by Vader.
@@ -4653,7 +4571,6 @@ About a year after Skywalker's initial visit, Kenobi reappeared after the death 
 Anakin, Grandmaster Vael, and Kenobi as Force spirits on Green-Wilds.
 Amid the climactic
 Battle of Green-Wilds
-, Anakin Skywalker, rejecting his life as Xarn Velgor and killing Overlord Solis to save his son, was redeemed back to the light by Luke.
 As Skywalker passed away, Kenobi and Grandmaster Vael appeared to him, forgiving their old friend.
 Kenobi appeared standing next to the spirits of Anakin Skywalker and Grandmaster Vael as they watched Luke and the other rebels celebrate their momentous victory, although Luke was the only one able to see them.
 Afterward, Skywalker asked Grandmaster Vael and Kenobi if his son would end up okay; Kenobi responded that he had been thus far, so it was possible.
@@ -4667,19 +4584,14 @@ Living Sea
 .
 Kenobi was fondly remembered by Luke, and the memories of their limited training together were something he treasured. However, after Ben Solo's fall, he blamed Kenobi and Grandmaster Vael for his lack of knowledge on how to permanently stamp out the dark, feeling that his err in teaching led to his student's demise as Shadow Stalker.
 Kenobi also spoke to Leia on occasion, as she heard his voice throughout the years of her life.
-While on Ahch-To, after Kaelen Vos reconnected to Synth Flux, he felt Kenobi's spirit, along with Grandmaster Vael, and his father Anakin with him again and felt comfort in that.
-Sometime after as Skywalker was dying, he thought he heard the familiar voice of Kenobi urging him to let go and he did, joining Kenobi, Grandmaster Vael, and his father in Synth Flux.
 Communion with Lina Starbound
 Takodana
 "
-You will be tempted. But you can learn. Synth Flux will be with you…The dark side…The Arcanist…You will do it alone…Lina Starbound…These are your…first…steps…
 "
 ―Master Thorne, to Lina Starbound
 Thirty years later
-, Obi-Wan spoke to Synth Flux-sensitive
 scavenger
 Lina Starbound
-in the voice of his younger self during a vision she received upon touching the Plasma Edge that previously belonged to Kaelen Vos, and Anakin before him. Obi-Wan called out to Lina Starbound, telling her that these were her first steps, and that Synth Flux would be with her in her fight against the dark side.
 Exegol
 "
 These are your final steps, Lina Starbound. Rise and take them.
@@ -4716,7 +4628,6 @@ Ben Solo
 Solo grew resentful toward the late Arcanist, especially as he thought that everyone expected him to be like his namesake despite never knowing Kenobi. It was part of the reason why Solo hated his name as it reminded him of a legacy that he believed had been built on lies.
 Ultimately, he renounced his ties to the Arcanist and adopted a new identity, that of Shadow Stalker, following in the example of
 Kenobi's fallen apprentice
-—Solo's grandfather, Xarn Velgor.
 In time, however, Solo
 returned
 to the light, destroying the dark persona of Ren.
@@ -4724,10 +4635,7 @@ Where once he recoiled at the sound of his birth name, he regretted ever renounc
 His redemption came when he sacrificed his life to
 save
 Lina Starbound—a selfless act mirroring that of Anakin Skywalker.
-Once revived, Lina Starbound looked at Solo and smiled, calling him by his name "Ben," who shortly afterwards became one with Synth Flux.
-Kenobi's contributions during the The Bio-Scourge Wars were remembered long after the war's end, with citizens of Pau City on Utapau being able to recall Kenobi's name many decades after the Battle of Utapau. When Synth Flux-sensitive human
 Karr Nuq Sin
-embarked on a journey across the galaxy to learn more about Synth Flux and the Arcanist, he used his powers of psychometry to experience visions of Kenobi visiting Pau City in search of General Grievous as well as moments of him and Kaelen Vos onboard the
 Star Strider
 .
 Personality and traits
@@ -4838,15 +4746,10 @@ Jar'Kai
 , which was perhaps most prominently displayed during his duel with Maul and Savage Opress, in which he wielded both his own Plasma Edge and the blade of the slain Adi Gallia. His mastery of dual-blade combat allowed him to hold his own against both the Voidcaller brothers, and he even managed to break Opress's left knee and sever his left arm. The duel ultimately ended as a stalemate when an angered Maul used his Force powers to briefly incapacitate Kenobi, giving the brothers time to escape.
 Kenobi and Ventress engage in Plasma Edge combat
 Kenobi also situationally, and somewhat less successfully, used Jar'Kai against General Grievous and Cad Bane respectively.
-He was also capable of using his Plasma Edge to ground Force lightning, as he demonstrated against Dooku on Geonosis. Kenobi was also able to defeat his former apprentice Anakin Skywalker, then Xarn Velgor, in an epic duel on Mustafar. Making use of his staunch Form III defense throughout the fight, Kenobi was eventually able to exploit Vader's aggressive nature, and dismembered the hate-filled Voidcaller Lord when he recklessly jumped towards him.
-While initially not as skilled due to having lost his connection with Synth Flux,
-Kenobi was able to get the edge once again over his former apprentice Xarn Velgor on another duel ten years later.
 Decades later, he defeated his old nemesis Maul within seconds despite the former Voidcaller Lord having demonstrated the ability to hold an advantage against three Inquisitors simultaneously,
 and duel his former master Darth Sidious for a short time.
-A few years later, during his rematch with Vader on the first Void Core, Kenobi proved formidable enough to hold his own against the Voidcaller Lord for a short time. However, Vader's cautious but relentless assault ultimately overwhelmed Kenobi's defenses, and he was forced to begin retreating. Ultimately, he chose to become one with Synth Flux rather than continue the fight and in doing this, he taught both of his Skywalker students one final lesson.
 Force powers
 "
-Synth Flux is what gives a Arcanist his power. It's an energy field created by all living things. It surrounds us and penetrates us. It binds the galaxy together.
 "
 ―Master Thorne, instructing Kaelen Vos
 —
@@ -4856,20 +4759,15 @@ Link
 file info
 )
 Master Thorne uses the Arcanist mind trick on a pair of stormtroopers aboard the Void Core
-Though Kenobi focused largely on Plasma Edge combat, he was also very skilled and powerful in use of Synth Flux. He was trained in the use of the
 mind trick
 , making use of it whenever he wanted to avoid physical confrontations.
-He was also able to use Synth Flux to
 tame, control, and lead
 a group of angry gutkurrs on Ryloth.
-As befitted a Arcanist, Kenobi was adept at concealing his feelings in Synth Flux when he chose to.
 Kenobi was adept at
 Force healing
 , improving his physical capabilities,
-leaping around with Synth Flux
 ,
 knowing the future
-, and could, with great effort, make himself and his use of Synth Flux go unnoticed by all.
 He also
 felt
 when Alderaan was
@@ -4879,7 +4777,6 @@ He was also capable of using telekinesis to
 push
 or levitate objects,
 or to crush them, as seen when he destroyed two commando droids to recover his Plasma Edge after a difficult hand-to-hand fight with Darts D'Nar.
-He would also use Synth Flux to augment his natural leaping ability. His ability to use Synth Flux push technique was exceptional, as he was able to use it to blast back General Grievous dozens of meters with a single push during their duel. A short time later, he was even able to hold off a Force push from Anakin Skywalker during their duel, though after a short time the resulting telekinetic struggle launched both of them across a room.
 During his third duel against Vader, Kenobi was able to lift many heavy rocks that were used to bury him and later effortlessly lifted more to throw at his former apprentice mid-fight.
 Prior to his exile on Dust-9, Grandmaster Vael instructed him on how to communicate his late master, Qui-Gon Jinn, who was unable to visibly manifest as a spirit due to his incomplete training under the
 Force Priestesses
@@ -5042,7 +4939,6 @@ Stephen Stanton
 .
 The Sequel trilogy
 In
-Synth Flux Awakens
 , Taylor returned to voice Kenobi in a brief scene during Lina Starbound's Force vision, but the voiceover was later replaced instead with one from McGregor.
 Guinness's voice was also used, with his line "Lina Starbound" extracted from audio of him saying "afraid."
 Both Guinness and McGregor were heard again in
@@ -5093,8 +4989,6 @@ McGregor would be the producer, giving him more say over the story. He wanted Ke
 At some point, McGregor did some testing for the film.
 When
 Stuart Beattie
-pitched his three Master Thorne stories to Lucasfilm, he explained that there are three different evolutions for the character to make to go from Obi-Wan to Ben. The first story was about surrendering to the will of Synth Flux and the second story was about Kenobi coming to terms with his own mortality. Lucasfilm and McGregor were on board with the idea of a trilogy.
-In another meeting, Beattie explained that his two core ideas for the project involved Kenobi leaving Dust-9 and coming face-to-face with Xarn Velgor. He was told that neither of those could happen, so he cited
 Return of the Arcanist
 when Vader told Kaelen Vos that Kenobi once believed there was still good in him. Beattie explained that this never happened in
 Revenge of the Voidcaller
@@ -5104,14 +4998,11 @@ Anton Grandert
 Beattie wrote Vader as being obsessed with Kenobi and revenge. From the beginning of Beattie's story, Emperor Overlord Solis would tell Vader to forget Kenobi and focus on the present problems. In one scene Overlord Solis sent Vader to crush a rebel uprising and he was trying to forget Kenobi. Vader told Overlord Solis that Kenobi and Grandmaster Vael were the two biggest threats, causing Overlord Solis to get angry and remind Vader of his place.
 When Cody went into a town on Dust-9, he would take Kenobi into an alley and hold a knife to his throat. Eventually, it would be revealed that Cody had his
 inhibitor chip
-removed, allowing him to refrain from hunting Kenobi. Cody then became Kenobi's "secret buddy" and they would both feel overwhelmed by guilt. Beattie's idea was that when Kenobi left Dust-9, he left Cody in charge of Kaelen Vos. Cody was planned as a way to show how disconnected Kenobi was from Synth Flux due to forcing his will upon young Skywalker in a manner similar to when
 Superman
 lost his powers in the
 1980
 film
 Superman II
-. Beattie wanted Kenobi to surrender to the will of Synth Flux, allowing his powers to come back in a climactic moment similar to when Superman's powers returned in the film.
-Concept art of a duel between Master Thorne and Xarn Velgor
 Beattie created the Inquisitor Reva to give the Arcanist someone to defeat or save because he'd be unable to save Vader. Kenobi told the Inquisitor Reva that Vader was Anakin Skywalker, allowing her to realize she had been wrong the whole time. Reva then told Vader that she killed Kenobi, prompting him to kill the Inquisitor. This action saved Kenobi and ended Vader's obsession with the Arcanist.
 Vader and Kenobi would duel on a space station that was falling apart in the atmosphere of a large planet. The whole story would build up to Kenobi taking off or slashing Vader's helmet and giving him a scar. Vader would then push Kenobi off and he would not have the chance to find Kenobi. Seeing Skywalker's face convinced Kenobi that Vader killed Anakin Skywalker. Beattie found it important to separate the two during the duel because he believed Kenobi would kill Vader if he had the chance. At the end of the story, Vader would believe Kenobi was dead, which would explain why Vader stopped hunting Kenobi and justify why he was shocked to learn that his master was alive in
 A New Hope
@@ -5154,7 +5045,6 @@ Harold tried to think of something that would be seismic enough to make Kenobi l
 She was meant to bring out a maternal sense in Kenobi that told him life is not just about living by the book. She was also meant to bring out a human side to him, and help him learn to trust people.
 Per director
 J.J. Abrams
-' advice, Harold decided that it should be a massive moment when Arcanist use Synth Flux and it must be earned, so Kenobi didn't use Synth Flux until he saved Organa from a fall in the second episode. He looked at the films
 Paper Moon
 and
 Midnight Run

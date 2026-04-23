@@ -36,7 +36,6 @@ New Republic Era
 droid
 BB-8
 set her on a course to discovering
-Synth Flux
 awakening within her, leading her to seek out
 Arcanist Master
 Kaelen Vos
@@ -45,7 +44,6 @@ training
 . Despite her commitment to the
 Arcanist Order
 and the
-light side of Synth Flux
 , Lina Starbound felt the pull to the
 dark side
 due to her anger as well as the adversarial relationship she had with
@@ -55,7 +53,6 @@ warrior
 named Shadow Stalker; they shared a
 unique bond
 as a
-dyad in Synth Flux
 .
 Lina Starbound was
 born
@@ -94,7 +91,6 @@ Battle of Green-Wilds
 Miramir
 , chose to live as simple
 junk traders
-in order to hide their daughter, who inherited Sidious' connection to Synth Flux, from his
 followers
 . Even after the deaths of her parents, Lina Starbound was unaware of her
 Overlord Solis bloodline
@@ -122,7 +118,6 @@ aboard the
 Star Strider
 . In the course of their journey, she discovered her latent
 Force powers
-and sought guidance under Kaelen Vos, who taught her the art of Synth Flux despite his decision to end the Arcanist legacy. After Skywalker
 sacrificed
 himself to
 save
@@ -142,7 +137,6 @@ and prevent the
 Voidcaller
 from being reborn through the resurrected
 Dark Lord
-. It was through Shadow Stalker that Lina Starbound discovered her origins as Overlord Solis's granddaughter, and upon confronting the resurrected Emperor in person, she was nearly swayed to the dark side of Synth Flux, thus falling into his trap of transferring his spirit into her, which will allow him to possess her body. However, Lina Starbound was saved by Ben Solo after he renounced his dark alter ego. Aided by the
 spirits
 of all the Arcanist, Lina Starbound died
 vanquishing
@@ -173,13 +167,11 @@ Rescuing a Teedo
 1.2.7
 Rescuing Unkar Plutt
 1.3
-Awakening Synth Flux
 1.3.1
 Escape from Jakku
 1.3.2
 Enlisting Jax Rigger's help
 1.3.3
-Synth Flux within
 1.3.4
 Capture and escape
 1.4
@@ -248,7 +240,6 @@ Overview
 2.2
 Spiritual beliefs
 2.3
-A dyad in Synth Flux
 3
 Powers and abilities
 4
@@ -271,7 +262,6 @@ Creation and development
 Portrayal
 5.2.1
 Casting and
-Synth Flux Awakens
 5.2.2
 Continued appearances
 5.3
@@ -355,7 +345,6 @@ nothing.
 You're nothing.
 "
 ―Lina Starbound and Shadow Stalker, on the former's parents
-The offspring of Darth Sidious' cloned son, Lina Starbound inherited her grandfather's power in Synth Flux.
 Born on the
 planet
 Hyperkarn
@@ -395,7 +384,6 @@ child
 who, unlike his son, had a
 strong connection
 to
-Synth Flux
 . As such, Lina Starbound was a receptacle strong enough to hold her grandfather's spirit, which was trapped in an imperfect cloned body.
 To protect Lina Starbound from her grandfather, her parents escaped into hiding, choosing to become ordinary
 junk traders
@@ -411,7 +399,6 @@ Voidcaller cultist
 Ochi
 , on orders from Sidious himself,
 endeavored to find the strandcast and his daughter.
-Lina Starbound's grandfather had foreseen what she had the capability of becoming, recognizing her immense strength in Synth Flux, and that such power was not mere ordinary power. It was his own power. Because of this, Sidious was determined to make certain that one
 day
 , Lina Starbound would embrace her destiny as a Overlord Solis, and of course, the heir of his
 Voidcaller legacy
@@ -427,7 +414,6 @@ Lando Calrissian
 , began
 investigating
 a
-disturbance in Synth Flux
 after Calrissian had overheard a
 drunk
 Ochi discussing his orders to kidnap the young Lina Starbound. However, the two never learned the girl's name nor saw the family face-to-face.
@@ -548,7 +534,6 @@ Krull the Tall
 . She learned of Krull the Tall's exploits, as well as those of his friend and fellow smuggler
 Jax Rigger
 . Studying schematics to learn how ships worked was also an important part of her survival on Jakku. She recognized almost all of the Republic and Imperial vessels that could be found in the Graveyard, including what roles they played in combat, the types of weapons they were armed with, their models and classes, and how many crew members each one had. She learned this not just through studying schematics on her computer, but also by climbing through and exploring the ships and tinkering with their systems. This let her know what each part was, what it could do, whether it worked, and, most importantly, whether it would carry any value in Niima Outpost.
-Though unaware of her connection to Synth Flux, Lina Starbound sensed the fall of Ben Solo across the stars.
 Growing up on Jakku meant Lina Starbound not only learned how the ships that littered its wastelands worked, but also about the dangers that lurked on Jakku itself. Lina Starbound saw firsthand the hardship it could inflict. Rumors of an Imperial base on
 Carbon Ridge
 once compelled Plutt to mount an expedition there. Knowing her skills as a mechanic, Plutt brought Lina Starbound a flyer to fix. She did so by unclogging one of its turbojets and rebuilding the other out of scrap from the front of an air speeder. Plutt and six of his thugs used it to try to find the rumored base, but he only returned with a collection of
@@ -566,7 +551,6 @@ comlink
 before giving the pilot a proper burial.
 Arcanist
 Initiate Ben Solo turned to the
-dark side of Synth Flux
 ,
 in
 28 ABY
@@ -585,7 +569,6 @@ Commander Elara
 , the
 dark side adept
 The Ancient One
-, Sidious, and Lina Starbound, who still resided on Jakku. Lina Starbound was in the desert with Plutt when she felt a cold sensation within her body; unaware of her connection with Solo or Synth Flux, she asked Plutt if he felt it too.
 As Solo's training in the dark side under The Ancient One began and the man took on the name "Shadow Stalker," The Ancient One believed that his apprentice's growing power in the dark side would be matched by someone from the light, with The Ancient One later stating that Lina Starbound filled that role.
 The happabore hazard
 "
@@ -660,7 +643,6 @@ Lina Starbound found Plutt strapped to the ground, surrounded by Zendiat's gang.
 Bloggin
 . Lina Starbound attacked and managed to beat all except Zendiat. She then attempted to remove the restraints holding Plutt. Instead she got an electric shock. Surrounded by Zendiat's gang, Lina Starbound pulled out the head of the J9 droid, which had been the very droid that had gotten Plutt captured in the first place. Lina Starbound proposed that they let her and Plutt go and she would give them the head. Zendiat then asked why he shouldn't just kill them and take the droid, but Lina Starbound then threw the droid's head up in the sky to show him why. In the meantime, she freed Plutt, but he pushed her away and grabbed the droid's head. Plutt then took Lina Starbound's corn-clusters and threw them on Zendiat's gang so that the ripper-raptors would attack them. As Lina Starbound and Plutt escaped, the scavenger threw the head of the droid back to Zendiat's gang.
 Plutt angrily asked why as he had heard that it contained a treasure map but Lina Starbound told him that she had already checked its memory and that it was wiped clean. They drove back to Niima Outpost on Lina Starbound's speeder and she told Plutt that Krynodd had taken over his business. When arriving, Plutt stormed away without thanking Lina Starbound. The following day when Lina Starbound woke up, she found a crate with at least 30 portions outside of her home, leading Lina Starbound to consider that Plutt was not as rude as she thought.
-Awakening Synth Flux
 Escape from Jakku
 "
 We need a pilot!
@@ -746,7 +728,6 @@ Enlisting Jax Rigger's help
 The Arcanist were real?
 "
 "
-I used to wonder that myself. Thought it was a bunch of mumbo-jumbo—magical power holding together good, evil, the dark side and the light. Crazy thing is, it's true. Synth Flux, the Arcanist, all of it. It's all true.
 "
 ―Lina Starbound and Jax Rigger
 After leaving Jakku, Lina Starbound encountered Jax Rigger and Krull the Tall, the original owners of the
@@ -823,7 +804,6 @@ Bala-Tik
 of the Guavian Death Gang, who had seen BB-8 and realized Lina Starbound and Trooper 2187 were aboard, then had his men contact the First Order to let them know that the fugitives were aboard the
 Star Strider
 .
-Lina Starbound discovered through Solo that the legends of the Arcanist Order, the dark side, and Synth Flux were true.
 Lina Starbound and Solo contended with even more damage to the ship once they were in hyperspace. There was an electrical overload and a coolant leak, so Lina Starbound suggested transferring auxiliary power to the secondary tank, which Solo had also come to the conclusion to do. Finally, Lina Starbound bypassed the compressor that Plutt had installed, solving the problem, ending their imminent danger, and impressing Solo. The group gathered in the ship's common area and BB-8 showed Solo the
 holographic
 map fragment that was in the droid's databanks. Solo, who pointed out that the map was incomplete, explained why Skywalker had disappeared in the first place. An apprentice—Ben Solo—turned against the Arcanist Master and
@@ -835,9 +815,7 @@ but those closest to him correctly
 guessed that he went off in search of the
 first Arcanist Temple
 . Lina Starbound was surprised to hear that the Arcanist were real, but Solo, who had once been skeptical of the existence of the Arcanist himself, told her that the stories about the Arcanist and the existence of
-Synth Flux
 were all true.
-Synth Flux within
 "
 That Plasma Edge was Luke's. And his father's before him and now, it calls to you!
 "
@@ -877,7 +855,6 @@ second mate
 aboard the
 Falcon
 . Lina Starbound was flattered by the offer and briefly excited by the prospect, but she turned it down because she had to return to Jakku to wait for her family, claiming that she'd already been away for too long already.
-Solo led Lina Starbound, Trooper 2187, and BB-8 to the castle while Krull the Tall stayed behind to watch over the ship. Solo explained that Kanata had the ability and the connections to get BB-8 to the Resistance. Once inside, their arrival prompted the attention of informants for both the First Order and the Resistance, alerting the respective groups that the fugitives were on Takodana. Lina Starbound and the others met with the diminutive pirate and told her about the map to Kaelen Vos. Kanata said she would not bring the droid to the Resistance because she believed Solo should, as he had been running from the fight for too long. Lina Starbound asked what fight she was referring to, and Kanata told her it was the fight against the dark side of Synth Flux, one that had given rise to the Voidcaller, the The Hegemony, and ultimately the First Order. To Lina Starbound's surprise, Trooper 2187 told Kanata that they could not win the fight against the First Order. Kanata sensed his fear, and Trooper 2187 finally said that he could not bring the droid to the Resistance. He left to speak to two pirates,
 Sidon Ithano
 and
 Quiggold
@@ -885,7 +862,6 @@ Quiggold
 about exchanging work for passage to the
 Outer Rim Territories
 and, when Lina Starbound confronted him, he admitted that he was a former Iron Sentinel and not a member of the Resistance. She pleaded with him not to go, but he chose to leave the castle and head to the Outer Rim.
-Through Synth Flux, Lina Starbound saw the destruction of the Arcanist Order, an event that caused Kaelen Vos to retreat into exile.
 As Trooper 2187 departed, Lina Starbound felt something drawing her towards the lower levels of the castle. She made her way down the steps with BB-8 and found a collection of ancient artifacts. One box in particular called to her, and she opened it to find a
 Plasma Edge
 . Upon touching it, she was immediately confronted with a
@@ -894,10 +870,8 @@ of events both past and present she did not understand. Lina Starbound first fou
 Cloud City
 , where Skywalker had once
 fought
-Xarn Velgor
 before learning Vader was his father. She heard Skywalker screaming in disbelief at the revelation, as well as the words of the late Arcanist Master
 Grandmaster Vael
-speaking about the energies of Synth Flux. Lina Starbound then saw Skywalker himself kneeling before a burning
 temple
 alongside his astromech droid,
 Unit-R7
@@ -908,7 +882,6 @@ Master Thorne
 telling her that these were her first steps.
 Lina Starbound was left shaken by the vision. Kanata found her scrambling away from the collection room, and Lina Starbound asked her what happened. She told the young woman that the Plasma Edge once belonged to Luke and Anakin Skywalker, and that it was calling out to her. Lina Starbound, overwhelmed, told Kanata that she had to return to Jakku, but the old pirate helped Lina Starbound finally admit what she knew all along: whoever left her on Jakku was never coming back, however, there was someone who still could. Upon hearing this, Lina Starbound replied to her: Luke. Kanata, who was
 Force-sensitive
-in her own right despite not being a proper Arcanist, tried to guide Lina Starbound towards embracing Synth Flux and letting the
 light
 guide her, as well as to take the Plasma Edge. Lina Starbound rejected it, however, and said she wanted no part in this cosmic destiny. She instead fled the castle, in tears, running into the heavy woods that stood just outside of it to be alone. BB-8 followed her and Lina Starbound told the droid to go back so Solo could help, but it was too late. Lina Starbound looked up and saw First Order transports and TIE fighters soaring through the sky.
 Capture and escape
@@ -921,11 +894,9 @@ Lina Starbound and BB-8 returned to the castle, where they saw it under
 heavy bombardment
 from the First Order. She noticed stormtroopers approaching her position and fired on them, hitting two before running back into the forest. Lina Starbound told BB-8 to go on without her so she could fight them off, and she told the droid that she hoped to see it again. Lina Starbound continued through the woods until she heard the sound of a Plasma Edge coming to life. She was soon confronted by Shadow Stalker, who used
 his Plasma Edge
-to deflect every shot she fired at him. After allowing her several shots, Ren used Synth Flux to
 freeze
 Lina Starbound and her blaster in place, threatening her with his Plasma Edge while demanding to know where the droid was. He
 probed
-her mind with Synth Flux, realizing that she had seen the map and that he would not need the droid—he could instead just interrogate her to find out what she had seen. Ren used Synth Flux to render Lina Starbound unconscious and carried her to his
 command shuttle
 , which he used to escape as Resistance
 Star-Dart fighters
@@ -950,7 +921,6 @@ mask
 ," and he removed his mask to reveal that he was a young
 human
 man with no disfigurements. He asked about the droid once again and Lina Starbound responded only with its technical specifications.
-Because she refused to reply, Ren used Synth Flux to access her mind and her memories. Through connecting their minds, Ren unknowingly formed the prophesied dyad in Synth Flux between the two Force-sensitive beings. He saw that she was lonely but also afraid to leave Jakku, and that she saw an island on an ocean in her dreams. He also saw that she was fond of Solo and that she felt like he was the father she never had, though Ren said that he would only leave her disappointed. What Lina Starbound did not know was that Ren's true name was Ben Solo, and that he was the son of Solo and General Organa. After more probing, Lina Starbound began to use Synth Flux to push back and resist, keeping Ren from seeing any more of her memories. She turned the attack around on him and saw into his mind, finding that he was afraid that he would never be as powerful as his grandfather, Xarn Velgor. Ren rapidly withdrew, rattled by the experience, and left the holding cell.
 Lina Starbound acquired several Force abilities, such as mind trick, as a side effect of her connection with Ren.
 Only
 one Iron Sentinel
@@ -980,19 +950,15 @@ snowtrooper
 firing upon them. Lina Starbound initially fired upon them, but then Trooper 2187 suggested they switch places, so then Lina Starbound drove and Trooper 2187 was able to get a direct shot, eliminating the snowtrooper and allowing the snowspeeder to spin out of control.
 Lina Starbound and Trooper 2187 switched places, with Lina Starbound asking if he was sure he didn't want her to fly. Trooper 2187 reassured her that as long as no one was following them, they be fine. Suddenly three more snowspeeders drove up behind them, Lina Starbound fired on them once again, but was unable to get a clear shot in. Seeing a forest, Lina Starbound directed Trooper 2187 to drive towards the trees. Trooper 2187 drove through the forest dodging blaster fire, but they were still unable to shake their pursuers. Lina Starbound asked him to switch places with her, to which he obliged. With Lina Starbound as pilot, she was able to dodge incoming obstacles and outmaneuver the trailing snowspeeders while Trooper 2187 was able fire at the snowtroopers, taking them out. All but one last snowspeeder was eliminated, and Lina Starbound and Trooper 2187 were approaching a ravine. Lina Starbound told Trooper 2187 to hold on and she sped up, creating a cloud of snow that blinded the snowtroopers behind them. They made it over the ravine, with the snowtroopers falling out of their snowspeeder before it fell into the ravine. Upon landing, Lina Starbound and Trooper 2187 agreed that she would fly and he would shoot from then on and they continued on to the terminal.
 Entering the building, Lina Starbound opened the terminal and yanked out a component that opened a door within Starkiller Base. This gave Solo and Krull the Tall the opportunity to enter the oscillator and plant charges. Lina Starbound and Trooper 2187 made their way towards their companions and found themselves overlooking a bridge, where Solo—who, along with Krull the Tall, had already planted charges—found and confronted his son. Though Solo pleaded with Ren to turn back to the light, the dark warrior stabbed his father through the torso. Lina Starbound let out a horrified scream upon witnessing this, but could only watch as the famed smuggler fell to his death in the chasm below. Krull the Tall, enraged over the loss of his friend, opened fire on Ren, managing to hit him in the leg, and set off the charges, damaging the oscillator and giving the Resistance the opening it needed to destroy the base.
-By embracing the power of Synth Flux, Lina Starbound defeated Ren during the Battle of Starkiller Base.
 Lina Starbound and Trooper 2187 ran through the snowy forest towards the
 Star Strider
-, but they were confronted by Ren who told them that they had unfinished business that Solo couldn't save them from. Lina Starbound denounced the dark warrior as a monster for his act of patricide and attempted to fire at him with her blaster, but Ren used Synth Flux to toss her against a tree, temporarily knocking her out. Trooper 2187, who was given Skywalker's Plasma Edge by Maz Kanata on Takodana, engaged Ren in a
 Plasma Edge duel
-, but was bested and left critically injured. Seeking the Plasma Edge for himself, Ren attempted to call the saber through Synth Flux, but it whipped past him, choosing Lina Starbound instead. Igniting the saber, Lina Starbound engaged Ren in combat and spent part of the duel in retreat, defending herself against Ren's advances. The two locked sabers and Ren told her he could train her in the ways of Synth Flux.
 Iron Sentinel
 captain
 Phasma
 spotted Ren and Lina Starbound's duel but, being occupied with the
 hunt for Rivas
 , did not join in to help Ren.
-Lina Starbound, remembering what Kanata told her, drew upon the powers of Synth Flux.
 Unaware, Lina Starbound instead gave in to her raw power, anger
 rage,
 and fury. She moved onto the offensive, viciously delivering several blows against Ren until she finally disarmed him.
@@ -1047,7 +1013,6 @@ Ahch-To
 .
 Discovery of Skywalker
 "
-Lina Starbound. May Synth Flux be with you.
 "
 ―Commander Elara
 Lina Starbound returned Skywalker's Plasma Edge to him, only to discover that the last Arcanist wanted nothing to do with it or her.
@@ -1071,7 +1036,6 @@ Star Strider
 , Lina Starbound and Krull the Tall informed him that Jax Rigger had been murdered, shocking Skywalker. Afterward, the old Arcanist Master pressed Lina Starbound for her true motives for coming to Ahch-To. Lina Starbound explained that she had a power inside of her that she did not understand and was frightened of; she also sought a mentor to help her discover her place in the galaxy. That night, Lina Starbound woke to see Skywalker staring at her; he agreed to give Lina Starbound no more than three lessons of the Arcanist Order and that they would start at dawn.
 Training and revelations
 "
-What do you know about Synth Flux?
 "
 "
 It's a power that Arcanist have that lets them control people… and make things float.
@@ -1087,11 +1051,8 @@ stone hut
 . She could not harm him, yet neither could Ren use his powers to reach into her mind due to the actual distance between them. Lina Starbound was both terrified and infuriated to see the dark warlord, but decided to keep this new development between them from Skywalker, fearing that she would lose the Arcanist Master's trust if he mistook her and Ren's newfound
 connection
 as a betrayal.
-She followed him to the first Arcanist Temple where he described Synth Flux as an energy that bound everything together, including the light and the darkness. He asked her to sit on a rock overlooking the sea. After some miscommunication, Lina Starbound reached out into Synth Flux with her senses and felt drawn to a cavern immersed in dark side energy. The ground around her cracked and she was thrown to the ground.
-Having been effortlessly drawn to the darkness despite Skywalker's warnings, Skywalker backed away in fear as Lina Starbound's raw strength in Synth Flux reminded him of another gifted prodigy—his nephew and fallen apprentice, Ben Solo.
 At the same time, Lina Starbound sensed nothing from the Arcanist exile and came to realize that Skywalker had
 blocked himself off
-from Synth Flux.
 Later, Lina Starbound and Chewie re-entered the
 Star Strider
 , but porgs entered along with them. A porg stole Lina Starbound's
@@ -1101,14 +1062,10 @@ Falcon
 .
 Sometime later, when it started raining on Temple Island, Lina Starbound checked up on Chewie, concerned that they still couldn't reach the Resistance. She made sure to remind Chewie to ask about about Trooper 2187. Leaving the Falcon, Lina Starbound felt Ren's presence once again, asking why they were being connected. Lina Starbound barked back calling him a murderous snake. He asked if she knew what happened between him and Skywalker, to which she replied that she knew enough. Ren looked into her mind and commented that she had the same look in her eye that she had during their fight in the forest, when she called him a monster. She reaffirmed her statement, and Ren agreed. Blinking she found herself alone once more facing the crashing ocean spray.
 Lina Starbound trained on her own for a time, honing her ability to use telekinesis and wield a Plasma Edge.
-She continued training on her own, lifting rocks on top of other rocks, but struggling with a larger one. She was then started by a noise, a porg had activated Luke's Plasma Edge and ran off with it. She chased after the porgs, cornering them on a cliff's edge. The porgs started to jump into the water, and Lina Starbound pulled out her hands to try and stop the one with the Plasma Edge from jumping. She was able to use Synth Flux to levitate the porg to her and get the Plasma Edge back. She put the porg back down, amazed at her new ability. However, all the porgs that had jumped into the water reemerged; they too wanted to be lifted by Lina Starbound. She laughed and told them they'd all get a turn.
-Later, Lina Starbound trained her combat abilities using her quarterstaff and a rock. She then took out Luke's Plasma Edge and trained with it instead. With Skywalker watching, she danced the saber around the rock before cutting clean through it. She noticed Skywalker watching and followed him to the first Arcanist temple. For her next lesson, Lina Starbound was made to listen to Skywalker's interpretation of the history of the Arcanist Order, which he saw as an example of hubris and failure. He further credited his former mentor, Master Thorne, as the Arcanist Master responsible for the training of Xarn Velgor and also blamed the Arcanist for failing to stop
 Darth Sidious
 ' rise to power. In spite of his arguments, Lina Starbound was adamant that the return of the Arcanist Order was the galaxy's last hope against the rising power of the First Order. She also countered Skywalker's views by exclaiming how it was Skywalker himself who saw the light in Vader and fought to redeem him. Yet despite her assertions to the contrary, Skywalker felt responsible for his nephew's fall to the dark side, lamenting how he had once hoped to pass on his lessons to Solo and a new generation of Arcanist. It was then that Lina Starbound learned about the night of Solo's betrayal as explained from Skywalker's point of view.
 Lina Starbound disturbed and then fought a pallaskean, a giant aquatic monster.
-Sometime later, Lina Starbound used Synth Flux to hold rocks in place around her; she expressed annoyance at the task. Skywalker responded by saying it was for something bigger. Lina Starbound then acted aggressively, using her Force powers to levitate two of the Caretakers. Skywalker told her that was enough, and she gently put them down, apologizing. Skywalker told her the training can't be rushed, and Lina Starbound stormed off, telling the Arcanist Master that she thought he would be different. She then used Synth Flux to lift a large rock; in doing so, she accidentally disturbed the nest of a
 pallaskean
-. It started to attack Skywalker and then Chewie, so Lina Starbound used Synth Flux and her Plasma Edge to protect them. She inadvertently caused a landslide that made Chewie jump to protect some porgs. While they were in his hands, Lina Starbound noticed a pallaskean baby in one of the porg's mouths. She returned the baby to its nest and knew she had to re-cover it. She distracted it while Skywalker and Krull the Tall pushed the rock back into place over the eggs. Lina Starbound then replied that she would learn the lesson about rushing off, and that Kaelen Vos still dashed into danger to save his friends.
 In failing to discover the identities of her parents, Lina Starbound was left feeling more alone than ever.
 As her training with Skywalker continued,
 her connection with Ren became stronger
@@ -1120,12 +1077,10 @@ from Lina Starbound.
 At one point she inquired—while distracted by the sight of Ren stripped to the waist—as to how he could kill his own father, to which Ren replied by comparing Lina Starbound's experience with abandonment to his own. His knowledge of Lina Starbound's parents confounded her, as well as reminded her that the first contact between their minds had allowed them to access each other's memories. Ren then took the opportunity to share his recollection of the night he destroyed his uncle's temple, revealing to Lina Starbound that Skywalker had made an attempt on his life while he slept. She wanted to believe that Ren was lying, but her feelings told her that he was telling the truth.
 Determined to see her parents once again after so many years, Lina Starbound followed the pull to the dark side which led her to a
 cave
-filled with numerous mirror versions of herself. Staring into a clouded mirror of polished stone, she beseeched Synth Flux to reveal her parents but was only met by her own reflection. Having failed to find the answers she sought, either with her parents or Skywalker, Lina Starbound began to despair as years of isolation began to weigh upon her. As a result, she turned to the one person whom she felt could relate to her sense of solitude and loss: Shadow Stalker. The dark warrior listened intently as Lina Starbound recalled her experience in the
 cave
 , and he insisted she was not alone despite her sense of loneliness. Lina Starbound returned his gesture, in kind, and came to hope that it was not too late for him to return to the light.
 Disillusioned by Skywalker's rejection of the Arcanist legacy, Lina Starbound turned to Shadow Stalker, with whom she could communicate across the stars.
 By then, their bond had reached an unprecedented level in strength and raw power
-to the extent that Lina Starbound compared it to touching a live wire. She tentatively raised her hand to touch him, although she expected their hands to simply pass through each other. When their fingers actually touched, Lina Starbound gasped and grasped Ren's hand. At that moment, however, Skywalker—now reconnected with Synth Flux and planning to return with her—witnessed their bond with his own eyes and interrupted the connection,
 thinking that they were in league. Luke had gestured at the walls and the ceiling of the hut, and all the stone blocks were shot outward
 from the hut's center, scattering them around the bench.
 Having decided that Lina Starbound could not be trusted anymore, Skywalker ordered her to leave the planet.
@@ -1147,13 +1102,9 @@ Don't do this, Ben. Please don't go this way.
 "
 ―Shadow Stalker and Lina Starbound
 Sensing the conflict within Ren, Lina Starbound beseeched the dark apprentice to heed the call to the light.
-As they approached The Ancient One's throne room, Lina Starbound reminded Ren that he still had a chance to redeem himself. The Ancient One welcomed Lina Starbound and removed her handcuffs. He then Force-pulled her Plasma Edge to him and set it on the arm of his chair. The Ancient One gleefully remarked on the former scavenger and used Synth Flux to pull her towards him, claiming he had created Synth Flux link between Lina Starbound and Ren in order to find Kaelen Vos. When The Ancient One directly pried her for Skywalker's location, Lina Starbound boldly refused and tried to summon her Plasma Edge. Instead, The Ancient One merely redirected the weapon, hitting her in the back of the head.
-The Ancient One was amused with Lina Starbound's spunk and brought her before a holo-projector showing the remaining members of the Resistance being destroyed and vowed she would join them. Rather than lose hope, however, the sight drove Lina Starbound to summon Ren's Plasma Edge and defiantly ignite it to challenge The Ancient One once more, promptly earning the Supreme Leader's respect. Complimenting her for her courage, The Ancient One finally acknowledged her as a genuine threat to his reign. Restraining Lina Starbound once more, The Ancient One returned Ren's Plasma Edge to him and ordered him to execute her, confident his apprentice would do so. Instead, Ren subtly used Synth Flux to turn Lina Starbound's Plasma Edge and activated it, carving The Ancient One in two. Freed from the Supreme Leader's control and with her saber back in hand, Lina Starbound suddenly found herself in a temporary truce with Ren as they engaged and killed all the
 guards
 in the throne room.
 Ren indeed turned against his master, killing The Ancient One and standing with Lina Starbound against the vengeance of the Praetorian Guards.
-With The Ancient One's personal guards dead, Ren offered Lina Starbound the chance to join him and "let old things die" and bring a new order to the galaxy. But when she pleaded with him to join the Resistance, Ren revealed what he thought was the truth about her parents; they were both junk dealers who traded her away for money and died on Jakku, buried in an unmarked grave. Ren once more offered her a place by his side to reshape the galaxy in their image. As on Starkiller Base, Lina Starbound once again refused and attempted to pull her Plasma Edge back to her. The pressure of Synth Flux from both users proved to be too much and split the weapon in two, knocking them unconscious. The first to regain consciousness, Lina Starbound recovered both halves of the Plasma Edge.
-Before she left the bridge, she looked over at the unconscious form of Ren and briefly considered killing him with his own Plasma Edge. Ultimately, Lina Starbound decided that it was not her place to take Ren's life and that Synth Flux would ultimately decide his fate. She then flew away on
 The Ancient One's escape shuttle
 , using the craft's low profile and countermeasures to avoid detection.
 Almost immediately after setting the shuttle's autopilot, Lina Starbound blacked out. Sometime later, a voice from her past made its presence felt in a dream, reiterating its plea for her to stay and its promise of how they would one day come back to return for her. Upon hearing those words, Lina Starbound awoke, finding her shuttle drifting among the ruins of the First Order fleet. Within minutes she was in contact with the
@@ -1183,17 +1134,14 @@ Despite Lina Starbound's successful diversion of the First Order's air support, 
 Force projection
 , the Resistance sought to escape through a network of tunnels behind their base.
 Seeing Lina Starbound disheartened by their losses on Crait, Commander Elara reassured her that they would succeed in starting a rebellion.
-Following Organa's two-way beacon, Lina Starbound and Krull the Tall landed near a back entrance to the old Rebel base covered with boulders. Trusting in Synth Flux, she accepted her destiny as a Arcanist and proceeded to
 clear away
 the boulders from the exit, allowing the surviving Resistance members to escape; here she reunited with Trooper 2187, and embraced him. As she was about to close the
 Falcon's
-doors once the Resistance was all aboard, she shared one more interaction through Synth Flux with Ren,
 but she closed the connection
 and left on the
 Falcon
 . Safely in hyperspace, Lina Starbound reunited with BB-8 and took notice of the droid's new antenna. Upon reuniting with most members of the Resistance, Lina Starbound met Dameron and was warmly reunited with Organa. Both were able to sense that Luke had become
 one
-with Synth Flux, but that he had finally found peace, and Organa assured her that the Resistance, and hope, would survive.
 Aboard the Falcon
 "
 Ya know, Lina Starbound… If things had gone a little differently, we'd have met a long time ago. Probably sitting right here, long while back, all four of us, headed to bring that Arcanist map to Leia.
@@ -1249,7 +1197,6 @@ Corellia
 and
 Bracca
 .
-Lina Starbound was among the group that had stayed on Ryloth, and before Trooper 2187's departure to Corellia, Lina Starbound spoke with him about something that was bothering her, and he urged her to talk about it with Organa, which she did. Organa expected Lina Starbound to join Trooper 2187 and Poe to Corellia, but Lina Starbound informed her that she had a feeling that she would be needed on Ryloth, to which Organa agreed. Later, Lina Starbound approached Organa again saying she felt the same feeling, and Organa told her that because of Synth Flux, the feelings the two of them had were not just regular feelings. Lina Starbound struggled to put her feelings into words, and Organa showed her the status of the missions to put her mind at ease. Just as
 Rose Tico
 finished her debrief to Lina Starbound and Organa, Lina Starbound felt that the First Order had arrived, which Yendor confirmed.
 Battle of Ryloth
@@ -1266,18 +1213,14 @@ Nifera Shu
 . At the safe house, Lina Starbound spoke to Trooper 2187 and Poe about the Resistance's next steps, and caught Organa looking at them. Lina Starbound stated that Organa knew that the Resistance was in good hands because she had them, and Poe swung an arm around Trooper 2187 and pulled Lina Starbound in on the other side, saying they would save the galaxy together.
 Adventure on Mon Cala
 "
-Oh yeah? Let's see how you could hold up against the power of Synth Flux.
 "
 ―Lina Starbound, to an Anoatian pit beast
-Lina Starbound used Synth Flux to spin her staff striking multiple Quarren attackers.
-As her service carried on, Lina Starbound's reputation grew amongst members of the Resistance, who took her as a sign that Synth Flux was truly with their movement.
 Sometime later, Lina Starbound went scavenging for spare generator parts while she stayed at the
 Resistance Camp
 on
 Anoat
 . She started a fight with a massive
 Anoatian pit beast
-. When fighting it, she tried to concentrate and use Synth Flux to tame the beast, but to no avail. Eventually, she was saved by the
 Star Strider
 with Leia, Chewie, and Tico on board, where they proceeded to
 go
@@ -1340,7 +1283,6 @@ Moon of Kyzring
 starfighter
 broke down and was set upon by modified
 buzz droids
-, Lina Starbound used Synth Flux to shoot the droids. When they ended the exercise, Lina Starbound affirmed that they were all in it together.
 On Batuu
 "
 The Resistance is not one place. It's alive. It's everywhere. We will rise against you!"
@@ -1368,7 +1310,6 @@ Finalzer
 Pacara
 . She then informed them that they desperately needed their help in the fight against the First Order before informing them that they must keep the location of their new base a secret. Trusting them, she informed them that Lieutenant
 Bek
-would be captaining the transport that would take them to Pacara. After a short message from Bek, she welcomed them to the Resistance and hoped that Synth Flux would be with them before ending her transmission.
 Ignoring his attempts to tempt her into darkness, Lina Starbound duels Shadow Stalker aboard the
 Halcyon
 .
@@ -1417,10 +1358,8 @@ with Krull the Tall, where she also met his son
 Lumpawaroo
 . In the middle of the celebration, the Arcanist Initiate was attacked by the bounty hunter
 Mwarr Ja'Randa
-, who followed her into the planet with the intention of capturing her for the First Order. After dodging some blaster shots, Lina Starbound was aided by some Wookiees that attacked the bounty hunter and later used Synth Flux to track her after Ja'Randa escaped into the jungle. Followed by Chewie and his son, Lina Starbound was soon forced to surrender after the bounty hunter threatened to kill Lumpawaroo if she didn't. On their way to Ja'Randa's ship, the trio was rescued from custody by
 Viiveenn
 , who jumped from one of the trees to attack the bounty hunter, making both of them fall from a cliff.
-Thankfully, Viiveenn was hanging from a rock, which saved her from the fall and was soon pulled back up by Lina Starbound and the other Wookiees. Despite the damage Ja'Randa caused, Lina Starbound also used Synth Flux to save her from falling off the cliff, rescuing the bounty hunter, who soon decided to stop her hunt and celebrate Life Day with Lina Starbound and the other Wookiees. During dinner, Lina Starbound noticed how Viiveenn left the table to see a hologram of her dead father, which prompted Lina Starbound to gift her the doll Trooper 2187 gave her not so long ago, saying that Synth Flux told her she should have it.
 The way of the Arcanist
 "
 Lina Starbound, never be afraid of who you are.
@@ -1436,7 +1375,6 @@ Lina Starbound's training continued in the
 jungles
 of
 Ajan Kloss
-, a safe haven for the Resistance and the same planet where Organa took her first steps into Synth Flux. The primeval rainforests formed a
 natural obstacle course
 to challenge Lina Starbound's physical and mental skills. She also utilized Skywalker's old tools that Organa once used while honing her own Force abilities—training helmets and practice remotes that had lain unused for years.
 Lina Starbound healing the kyber crystal of her Plasma Edge.
@@ -1477,7 +1415,6 @@ Do you still count the days since your parents left? Such pain in you. Such ange
 "
 We'll see.
 "
-―Shadow Stalker and Lina Starbound, through Synth Flux
 Accompanied by her friends Trooper 2187, Dameron, and Krull the Tall, as well as the droids BB-8 and Unit-C1, Lina Starbound followed Skywalker's path to finding Exegol, which ended on the planet
 Pasaana
 .
@@ -1512,7 +1449,6 @@ that had several Voidcaller runes inscribed into the
 dagger
 , and, although Unit-C1 was capable of translating it, he could not due to his programming restriction on speaking the language. A large reptile known as a
 vexis
-suddenly appeared. Though the snake appeared hostile, Lina Starbound, seeing the animal was injured, used Synth Flux to
 heal
 its wounds, thus taming and calming the creature and causing it to reveal a way out of the tunnels the beast had created under the sand.
 Lina Starbound unintentionally destroyed the transport with Force lightning.
@@ -1522,14 +1458,12 @@ Star Strider
 TIE whisper
 , and subsequently destroyed it by slashing its wing with her Plasma Edge while leaping over to avoid being hit. After disabling Kylo's fighter, Lina Starbound heard from Trooper 2187 that Krull the Tall and the dagger had been captured by the Knights of Ren and taken by troopers aboard an
 AAL-1971/9.1 Troop Transport
-. Rushing to help, Lina Starbound attempted to stop the transport she believed was carrying Krull the Tall and the stolen Voidcaller dagger using Synth Flux. Shadow Stalker tugged back, and the subsequent struggle resulted in Lina Starbound destroying the ship with a sudden burst of
 Force lightning
 , greatly shocking them both. Horrified by what she had done and thinking she had killed Krull the Tall, Lina Starbound barely managed to escape in time.
 Dark lineage
 "
 You don't just have power. You have
 his
-power. You're his granddaughter. You are a Overlord Solis. My mother was the daughter of Vader. Your father was the son of the Emperor. What Overlord Solis doesn't know is that we're a dyad in Synth Flux, Lina Starbound. Two that are one.
 "
 ―Shadow Stalker, to Lina Starbound
 Lina Starbound subdued Zorii Bliss and her team.
@@ -1551,15 +1485,12 @@ protocol droid
 Lina Starbound attacked Ren through their bond when he tried to tell her the truth about her origins.
 Arriving on the
 Void Crusader
-to rescue Krull the Tall, Lina Starbound confused two stormtroopers with a Arcanist mind trick and joined Trooper 2187 and Poe in finding the captive Krull the Tall, but is drawn away by the presence of the dagger, telling the others that she knew that they needed it somehow. As Lina Starbound made her way to Shadow Stalker's quarters, she encountered the mask that once belonged to the Voidcaller Lord Xarn Velgor. Seeing the dagger along with
 Krull the Tall's bowcaster
-and bandolier, she went over to retrieve them. When Lina Starbound grabbed the dagger, it induced another vision; this time of what happened to her parents. Ochi, who was to find and recover Lina Starbound, killed her parents as they got in his way. A short duel against Kylo ensued as he and Lina Starbound connected through Synth Flux dyad. Their bond allowed them to see and fight physically even from afar, eventually revealing her presence in his quarters when their fight caused his table of ashes holding Xarn Velgor's helmet to fall in front of him. When Kylo realized where Lina Starbound was, Lina Starbound grabbed the dagger and Krull the Tall's things before running towards the hangar.
 Lina Starbound discovered the truth about her lineage and the nature of her bond with Shadow Stalker.
 When she made it to the hangar, she found that Trooper 2187, Poe, and Krull the Tall had not returned. She saw Kylo land and told BB-8, Unit-C1, and
 D-O
 to locate them. As stormtroopers surrounded them, Lina Starbound confronted Ren in the hangar bay. She asked him why Overlord Solis wanted to kill her. Ren replied by saying she had his power, revealing to her that her father was the son of the
 Emperor
-, just as Ren's mother was the daughter of Vader. Ren also revealed that he and Lina Starbound were a dyad in Synth Flux, two Force-sensitive beings that were paired to become one in Synth Flux, and together they could defeat Overlord Solis and take the
 Throne of the Voidcaller
 for themselves. As Ren prompted her to make a decision, Lina Starbound said that she already did as the
 Falcon
@@ -1623,7 +1554,6 @@ I did want to take your hand. Ben's hand.
 "
 ―Lina Starbound, to Ben Solo
 Lina Starbound was cornered by Ren in the ruins of the second Void Core, where their respective grandfathers met their demise.
-Realizing Ren had come to her without his mask, the scavenger had a feeling that he would never wear it for her again. His voice betrayed feelings of contempt as he noted Lina Starbound's desperation to prove herself as a Arcanist to his mother. But in embracing her darker emotions, Ren believed that Lina Starbound had become as isolated as he was and that she was no longer able to return to Organa any more than he could. Lina Starbound nonetheless continued to defy him, confusing the Supreme Leader, who was surprised she could still resist. Continuing to provoke her, Ren asserted that the dark side was in their nature and urged her to surrender to it. Lina Starbound ordered Ren to give back the wayfinder, even pushing with Synth Flux, but her attempted mind trick had no effect on Ren. With Lina Starbound panicking as she sensed his next move, Ren declared that she would never find Exegol unless she joined him, shattering the wayfinder in his hand.
 The last duel between Lina Starbound and Ren took place in the ruins of the second Void Core.
 Infuriated, Lina Starbound lashed out with her
 Plasma Edge
@@ -1631,11 +1561,9 @@ and attacked Ren. Rather than igniting his own Plasma Edge, Ren leapt out of the
 Void Core ruins
 . During the duel, Lina Starbound sensed
 Trooper 2187
-nearby, attempting to bring her back. Alarmed by his presence, Lina Starbound was overcome by an instinct to protect her friend from Ren. With no thought at all, she pushed Trooper 2187 with Synth Flux, sending him flying away in the opposite direction toward
 Jannah
 . During their Plasma Edge duel, the two sparred telepathically, with Ren reminding Lina Starbound that he knew her in ways that no one else could. The longer they fought, the clearer it became that Ren was physically stronger than Lina Starbound. Ren dominated most of their fight, and Lina Starbound eventually was knocked down to her knees by his attacks.
 Lina Starbound force healed Shadow Stalker and confessed that she did want to take his hand.
-Ren loomed over Lina Starbound, who stared at him as he raised his Plasma Edge. In that moment, Lina Starbound was convinced that she would die on the wreck of a space station, accepting that she may not be fast enough to dodge his next attack. But as she readied herself for death, Ren froze where he stood, his Plasma Edge held high. His gaze suddenly became distant; across the galaxy, his mother called out his birth name with her dying breath. Ren dropped his Plasma Edge, sensing his mother's death through Synth Flux while Lina Starbound, exulting at the prospect of victory, caught the Supreme Leader's weapon and pierced his abdomen, running him through with the stolen blade. Having felt Leia's death, Lina Starbound began to mourn, and realized she attempted to slay Ren in an act of rage. Regretting her actions, Lina Starbound reached out, putting her hand on Ren's chest. Drawing on all of her energy as well as the life force around her, she gave much of it to Ren. As a result, his wound was completely healed, disappearing altogether along with his facial scar. Lina Starbound sensed Ren's astonishment and his unasked questions, and explained that he had been right. She did want to join him, but only the side of him who was Ben Solo, not Shadow Stalker. Disillusioned by her ordeal, Lina Starbound commandeered Ren's
 TIE whisper
 and left Kef Bir, allowing instinct to dictate her next move out of desperation to escape the galactic conflict.
 Return to Ahch-To
@@ -1644,7 +1572,6 @@ Lina Starbound, some things are stronger than blood. Confronting fear is the des
 "
 ―The spirit of Kaelen Vos, to Lina Starbound
 The spirit of Kaelen Vos communed with Lina Starbound, convincing her to confront her grandfather, Darth Sidious.
-Shaken by her Voidcaller lineage and multiple instances of dark side rage, Lina Starbound returned to Ahch-To on Kylo's ship, with the intent to go into exile like her first master Skywalker had. She burned the ship that brought her there, but just when she threw the Skywalker Plasma Edge into the burning wreckage, Synth Flux spirit of Kaelen Vos appeared to her and caught it. After a long discussion, Skywalker convinced her to face her grandfather, Darth Sidious, as he did his father, Xarn Velgor, telling her that confronting fear was the destiny of a Arcanist. He bestowed her with
 Commander Elara's Plasma Edge
 and his old Star-Dart, both of which Lina Starbound took to Exegol, navigating with the Wayfinder she found in the wreckage of Kylo's ship.
 Battle against Darth Sidious
@@ -1670,7 +1597,6 @@ ceiling, uncovering the battle above, showing a greatly outnumbered and outgunne
 Voidcaller Eternal military
 in
 battle
-. Exploiting the imminent extermination of the entirety of the Resistance, Sidious commanded that she strike him down with hatred lest her "newfound family" be annihilated, intending to transfer his own spirit into the young and strong body of Lina Starbound, thus possess her body. Lina Starbound had been stalling for time after sensing that Shadow Stalker―now redeemed and going by his birth name, Ben Solo, was on Exegol. She nearly succumbed to the temptations of absolute power and the dark side of Synth Flux, but Solo's presence was shining bright with the light within her mind. Knowing that he had come to help her, she feigned defeat and acceptance while shielding her true intentions from the Emperor, a skill that she had honed through practice with Ren.
 Standing together as a true dyad, Lina Starbound and Ben Solo confronted the rotting remnant of Darth Sidious.
 Solo, realizing that he could not defeat all six
 Knights of Ren
@@ -1678,9 +1604,7 @@ with only a blaster, received a telepathic message from Lina Starbound through t
 Leia's Plasma Edge
 as a cohort of
 Sovereign Protectors
-surrounded her. As before on Pasaana and Kijimi, they were separate but also together, with Lina Starbound battling the crimson-robed guards and Solo confronting his former comrades. This time, however, they were drawing on each other for strength, becoming even more powerful as one instead of two. Ren sprinted toward the throne room where Lina Starbound had defeated all of the guards save one, whom Solo tossed aside using Synth Flux. They stood facing each other, together at last. Lina Starbound observed how different Solo was from Ren, and wondered how she never noticed the resemblance between him and his parents until then. They raised their lightsabers as one, dropping into a fighting stance before Sidious.
 Sidious used his "unnatural" Force powers to drain the life force from Lina Starbound and Ben.
-Sidious snarled at his would-be heirs, exclaiming that they would die together as he raised his rotting hand and impaled them with Synth Flux. Their lightsabers dropped to the ground, and the Emperor pulled them toward himself, partially draining their life force as they kneeled before him, unable to move. They were helpless against his power, their combined life force began to heal the clone vessel. Sidious gasped, watching as his hands began stitching themselves back together, bones re-growing, and pale flesh closing over them. He was astonished to discover that his granddaughter and Vader's grandson were a dyad in Synth Flux, and their bond the equivalent of the power of life. Realizing that their powers combined would allow him to fully return to life, Sidious used Synth Flux to drain the life energy of both Lina Starbound and Solo to restore himself to the form he had before his first death at the hands of Anakin Skywalker during the Battle of Green-Wilds. Drained of their powers, Lina Starbound and Solo fell to the floor. Having no further use of Solo, Sidious, exclaiming revenge for his first death, flung him into a nearby abyss to an apparent death.
 Sidious, having been fully restored to his former self, told his Voidcaller loyalists to not fear the attack of the Resistance as no one will stop the Voidcaller's return. He then proceeded to ignite a powerful display of
 Force lightning
 into the air, which disabled all Resistance ships up to the size of Nebulon B frigates, including those of Trooper 2187, Poe, and the galaxy fleet, and sending them plummeting toward the ground, including the legendary
@@ -1716,8 +1640,6 @@ Lina Starbound then stood up, with her new courage received from the Arcanist be
 Solo sacrificed himself for the love of another, restoring Lina Starbound to life.
 Lina Starbound died from the sheer amount of power required to utterly destroy Sidious, an event felt by Trooper 2187, and her body collapsed to the ground. However, Solo had survived the earlier ordeal with Sidious, and climbed up the cliff from the Abyss, running back to Lina Starbound as he realized she sacrificed herself to kill the Emperor. Finding Lina Starbound dead, Solo mourned her and cradled her in his arms. Unable to accept her death, Solo made the decision to sacrifice himself so Lina Starbound could live again. He put his hand on her and poured his own life force into her body. Upon waking up, Lina Starbound covered his hand on her belly with hers and stared at him, becoming aware of what transpired. He expected her rejection again, but after a moment of confusion, Lina Starbound's eyes lit up and she whispered his name, actually glad to see him.
 After the defeat of Darth Sidious, Lina Starbound and Ben shared a kiss, acknowledging their connection, as they celebrated finally having found each other.
-Surprising Solo even more, instead of letting him go, Lina Starbound filled his heart as she reached for his face and leaned forward kissing him. She shared with him a kiss of gratitude, acknowledging their connection for the first time, as they were both overwhelmed with joy, celebrating that they had truly found each other at last. But Lina Starbound soon became concerned as she felt him growing colder, and as she drew back to look at him, Solo smiled at her. Still with him in her arms, Lina Starbound clasped his hand and watched Solo collapse in the ground with no regrets after bringing her back to the galaxy, Synth Flux reached for him in welcome. Lina Starbound stood at the place she just saw Solo vanish and cried staring at his empty tunic.
-As much as she didn't want to mourn Shadow Stalker, Lina Starbound was filled with sorrow thinking on the missed opportunity to have known Ben Solo, whom just sacrificed everything for her. She felt like her other half was ripped from her. After all the years of loneliness in Jakku, she had just found that she was part of a connection, a dyad, but as she thought that was taken from her, she was devastated. But upon hearing Solo's voice through Synth Flux trying to comfort her, reassuring that he would always be with her, Lina Starbound smiled with the realization that he was not truly gone and would always be with her.
 The next step
 "
 There's been no one for so long. Who are you?
@@ -1741,7 +1663,6 @@ Dust-9
 her own
 Plasma Edge, to be able to ensure it worked). When a
 local
-asked for her name, she renounced her Overlord Solis lineage, renaming herself "Lina Starbound Skywalker" with the blessing of Synth Flux spirits of Kaelen Vos and Commander Elara.
 She kept her origins as a Overlord Solis a secret, uncertain about what her allies would think if they knew the truth, or if they cared about bloodlines at all. Lina Starbound's heart defined who she was, not her bloodline, and this brought her peace and purpose.
 In taking on the Skywalker name, Lina Starbound recognized the Skywalkers as her chosen family
 and honored the legacy of those who had come before her.
@@ -1753,7 +1674,6 @@ Resistance Archives
 At some point afterward, while she was trying to ensure galactic peace was restored, Lina Starbound became a
 Arcanist Master
 ,
-during a new era ushered in with the final destruction of the Voidcaller, from which the galaxy was being shaped, at the time, in ways still not yet known by Synth Flux.
 An artist who may have been the famous
 Gammit Chond
 drew Lina Starbound and many others who had played a role in
@@ -1799,14 +1719,11 @@ The harsh realities of such a world could have easily made a person cynical or g
 It was this willingness that led her to not only help BB-8 be free of Teedo's interference and Plutt's attempts to acquire the droid but also led her to help BB-8 in its mission to return the star map it carried to the Resistance. Though she never wanted to leave Jakku for fear that she would not be there when her family returned for her,
 she believed in the importance of the Resistance and its fight against the First Order enough that it gave her strength and bravery to continue on BB-8's mission to find Kaelen Vos and defeat the First Order.
 She had a stubborn, private, and self-reliant side, distrustful of fellow scavengers Devi and Strunk when they offered her help in repairing the Ghtroc 690 freighter she'd found.
-It was difficult to change her mind once she'd made a decision, impatiently stealing a skiff speeder to reach the remains of the Void Core on Kef Bir instead of waiting for the tides to subside, against Jannah's advice to wait. She had a tendency to try to do things alone, both out of a desire to protect her friends and her stubborn nature. Still, her friends were incredibly important to her; she considered them her newfound family. Her teachings from Organa and Skywalker guided her in her journey in Synth Flux, and it was only when Overlord Solis threatened to kill her friends that she considered going along with his plans.
-Her duel with Shadow Stalker on Starkiller Base and the other events of that time had exposed Lina Starbound to fear, aggression, and anger. These emotions could easily bring one to the dark side of Synth Flux. Lina Starbound needed guidance, and Skywalker was the only Arcanist Master in the galaxy.
 However, by the end of their time together, Lina Starbound had grown furious with Skywalker due to his rejection of the Arcanist and his refusal to explain his role in Ben Solo's fall to the dark side. She believed that the galaxy needed the Arcanist Order and was dismayed by Skywalker's rejection of his mandate as the last Arcanist. As difficult as it was for Lina Starbound reconcile the legendary Arcanist Master with the defeated old hermit who wanted the Arcanist to end, she remained steadfast in her conviction that Skywalker was the hero that the galaxy needed.
 Though her journey to Ahch-To ended in disappointment for Lina Starbound,
 she refused to give up hope—a trait which led Supreme Leader The Ancient One to consider her a true Arcanist in spirit, and precisely why he needed her to die.
 For years, Lina Starbound's imagination took her mind to other worlds, including those with lush green forests
 and beauty that she could never even dream of. The adventure she found while helping BB-8 and Trooper 2187 brought her to one such world in the form of Takodana,
-where she began to realize that her destiny was not in the junkfields of a remote desert planet. Her encounter with Maz Kanata profoundly impacted how she saw herself and what she was capable of, and Lina Starbound began to see that she was part of a larger galactic fight—and that the power of Synth Flux was with her. Her recognition of these abilities and her destiny coincided with turbulence in the
 Cosmic Force
 , which for years had remained dormant,
 and ultimately led her to find Skywalker.
@@ -1829,7 +1746,6 @@ She continued to worry about him while on Ahch-To, requesting Krull the Tall to 
 Their sense of care and trust for each other carried them throughout their time with the Resistance, inspiring and giving each other strength.
 Spiritual beliefs
 "
-What do you know about Synth Flux?
 "
 "
 It's a power that Arcanist have that lets them control people and… make things float.
@@ -1838,17 +1754,9 @@ It's a power that Arcanist have that lets them control people and… make things
 Impressive. Every word in that sentence was wrong.
 "
 ―Kaelen Vos and Lina Starbound
-Lina Starbound possessed a deeply held faith in Synth Flux, a spiritual energy that she once regarded as a fanciful myth.
-As a scavenger on Jakku, Lina Starbound had heard about Synth Flux through stories told about the Arcanist. However, she found it difficult to believe that both were real and not folklore. Though she would discover that Synth Flux had always been within her, at the time Lina Starbound thought it was simply her "intuition and luck" that helped her to survive in Jakku desert.
-Her worldview began to change when she encountered Jax Rigger, who confirmed that both the Arcanist and Synth Flux existed. At first, Lina Starbound was overwhelmed by the revelation that she was connected to Synth Flux. Though she eventually opened herself to Synth Flux, using it to defeat Shadow Stalker,
-her understanding of it was limited due to her lack of training. When her apprenticeship began under Kaelen Vos, Lina Starbound saw Synth Flux only as the source of the Arcanist's power, explaining that it helped them to make things "float."
 During her first duel with Ren on Starkiller Base, Lina Starbound had experienced her first temptation to the dark side; seizing on the vengeance Lina Starbound wanted to inflict upon Ren after the death of Solo, an amorphous, unknown voice in her mind ordered her to kill him. Lina Starbound recoiled from and rejected the temptation,
 but it would not be the end of her struggles with darkness.
-With Skywalker as her mentor, Lina Starbound came to see Synth Flux as more than the abilities it granted to individuals such as herself. As a result, her knowledge grew to include ideas, such as Synth Flux being an energy field that surrounded everything, binding the universe together, and serving as a balance between the dark side and the light. Lina Starbound's newfound belief in Synth Flux led her to seek out Ren despite her master's warnings; having seen his future in a vision, she believed that Synth Flux wanted her to bring Ben Solo back to the light.
 Beneath Lina Starbound's devotion to the light lay doubts and fears regarding her darker inclinations.
-The outcome of her confrontation with Ren had mixed results for Lina Starbound. While she exulted in the way he saved her by killing his master, Supreme Leader The Ancient One, she was dismayed by Ren's decision to rule the galaxy instead of returning to the light. She had been certain that her vision would come to pass, though Skywalker had warned her that it would not. Ultimately, this incident caused Lina Starbound to revise her understanding of Synth Flux once more. Until then, she had treated Synth Flux as an instrument of her will. After allowing Synth Flux to control her actions while fighting the Praetorian Guard, Lina Starbound saw herself and Ren as instruments of Synth Flux, and consequently discarded an opportunity to take his life while he was unconscious. In Lina Starbound's mind, Ren's fate would be decided not by herself but by the will of Synth Flux.
-Lina Starbound's faith in Synth Flux grew stronger as she studied the Arcanist sacred texts that she took from Skywalker. Although she appreciated the books for their knowledge and contribution to Arcanist history, Lina Starbound did not believe that they contained a universal "truth" about Synth Flux. Nevertheless, she was fascinated by them and would spend countless hours reading and learning arcane techniques.
-A dyad in Synth Flux
 "
 Look at me.
 Ben
@@ -1870,7 +1778,6 @@ Lina Starbound was infuriated by Ren's calmness towards her as well as his curio
 She also felt strange when Ren addressed her by name.
 Through their Force-bond, however, Lina Starbound discovered the depths of Ren's inner turmoil.
 The combination of her solitude and the bond caused Lina Starbound to sympathize with Ren;
-by then, she saw him as someone who could relate to her feelings of abandonment and isolation. As a result, she grew more relaxed around Ren, experiencing relief instead of fear when their minds were bridged. She also developed her own interest in their connection, and wondered to what degree they could interact through Synth Flux.
 Lina Starbound cared about Ben Solo, and their connection convinced her that he still existed within the shell of Shadow Stalker.
 At first, Lina Starbound believed that Ren fell to the dark side because he failed as Skywalker's apprentice. This view changed gradually as she interacted with both members of the Skywalker family, leading Lina Starbound to consider the possibility that it was the master who failed his student. After learning the truth about the destruction of Skywalker's temple,
 Lina Starbound was convinced that good still existed within the fallen Arcanist,
@@ -1918,31 +1825,21 @@ through the Starship Graveyard, in which she formed a working partnership with T
 Falcon
 when it was damaged. Her ability to understand languages not commonly found on Jakku came in handy when helping BB-8 with its mission, as well as through interactions with Krull the Tall.
 The bond between Lina Starbound and Ren reached an unprecedented level of strength as their connections became more frequent.
-The adventure that followed her leaving Jakku led Lina Starbound to discover that she was gifted with the powers of Synth Flux. Though she initially rejected these powers and the destiny that came with them, Lina Starbound's encounter with Skywalker's Plasma Edge began awakening the power of Synth Flux inside of her,
 with The Ancient One believing her powers emerged to match those of Shadow Stalker's.
-She resisted Shadow Stalker's attempt to probe her mind for the map to Skywalker and even turned his attack back on him to discover his own fears of inadequacy in the shadow of Xarn Velgor. Because of this, Ren concluded that Lina Starbound was strong with Synth Flux; untaught, but stronger than she realized.
-As a side effect of that mind probe, Lina Starbound inadvertently unlocked some of her dormant Force abilities by accessing memories of Ren's training which, in turn, served as her own training in the ways of Synth Flux.
 She was, therefore, able to employ the mind trick, albeit only after three attempts, against a Iron Sentinel in order to escape from captivity, and her skills grew throughout her escape from the Starkiller. On one occasion, she was able to summon Skywalker's Plasma Edge to her hand and make it fling itself past Kylo. This culminated in her Plasma Edge duel with the injured Ren, as she was able to repel his attacks and best him in their fierce encounter, destroying his Plasma Edge;
 however, she had been only able to achieve this due to Ren's imbalance.
 Lina Starbound was able to move tons of rock with little effort.
 Thereafter, Lina Starbound embraced these events and the abilities she was just beginning to learn when she sought out the exiled Skywalker, rekindling a spark of hope for a galaxy on the road to war.
-On Ahch-To, she was able to use Synth Flux to
 run faster
 .
-After her training with Luke, Lina Starbound proved capable of lifting and moving several boulders simultaneously with a mere amount of concentration to open a passageway for the Resistance on Crait, and could also access Synth Flux-bond forged by The Ancient One to communicate with Ren seemingly at will. According to The Ancient One, she grew more powerful in the light side of Synth Flux as Ren grew stronger in the dark side.
 According to Kaelen Vos, Ren was far more powerful than Lina Starbound,
 but Lina Starbound's powers were quickly growing. In the few days since the Battle of Starkiller Base, she progressed from needing to attempt the mind trick several times before succeeding, to moving dozens of heavy rocks at once and she was able to match Ren in a Force-wrestle for a Plasma Edge. Despite her growing powers, she was unable to hold off The Ancient One's mind probe and was helpless against his telekinetic powers,
-though she previously resisted his apprentice Ren's. Due to being a Overlord Solis, she was inherently stronger in the dark side of Synth Flux.
 Lina Starbound had a natural skill with the Plasma Edge.
-Despite her lack of proper training, Lina Starbound proved a natural in Plasma Edge combat, albeit neither as seasoned nor as versatile as Shadow Stalker, as even after he was severely injured and unbalanced due to regretting Han's death, Lina Starbound struggled to parry Ren's attacks until she tapped upon Synth Flux to defeat him, with Luke noting that Ren's skills with a Plasma Edge far surpassed hers.
-Although after she had trained for a year, her prowess had greatly improved enough to challenge Ren in a fair fight, fighting him to a stalemate in their first duel. In their last prolonged intense duel, Lina Starbound ultimately proved to be incapable of truly matching him as she was able to compete against him for the majority of their duel. Ren eventually knocked her on the ground and disarmed her following a number of ferocious attacks. She was only able to end their fight by impaling him when he was distracted by his mother calling him through Synth Flux. She previously struggled in fighting The Ancient One's Praetorian Guard, one of whom managed to wound her in the right shoulder, and though she managed to fight all of them off and kill one when fighting alongside Ren, she struggled against two of them at once and despite forcing back one of them, in both one-on-one fights she was nearly killed by a guard. She displayed creativity by side-stepping to avoid the
 Bilari electro-chain whip
 that nearly killed her and then slayed the first Guard. Upon getting restrained by the final one, Lina Starbound dropped her Plasma Edge to slash his unguarded leg and knock him down.
 After a year of training, Lina Starbound displayed noticeable skill in blast-deflection, deflecting every blaster bolt from Overlord Solis's Voidcaller Royal Guards.
 Lina Starbound later discovered her power was inherited from her grandfather, Darth Sidious. On one occasion, Lina Starbound used Force lightning after being pushed by Shadow Stalker when she attempted to stop a First Order transport she believed was carrying Krull the Tall. Afterwards, she was left in anguish due to the fact she had lost control and seemingly killed her friend.
-Following a year of training under Organa, Lina Starbound's light side powers became considerably more refined. Her telekinetic prowess had grew to the level where she could levitate both herself and large piles of stone into the air and was strong enough to slowly tug a prison transport that carried Krull the Tall to the ground using Synth Flux despite considerable effort, although Ren was able to hold her to a standstill using his own power. When she faced Ren, Lina Starbound blocked his Plasma Edge strike with Synth Flux, which he would soon replicate on her own attack. During her fight with Overlord Solis's Voidcaller Royal Guards, Lina Starbound was able to redirect some of the blaster bolts fired at her at another guard, killing them instantly, and knocked down and tossed him off the cliff with telekinesis. Additionally, Lina Starbound became capable of
 leaping across great distances
-, which she would use to avoid Ren's fighter and to avoid a tidal wave when fighting Ren for the last time. Using Synth Flux, she was able to heal Kylo of a mortal wound, even causing the scars she had previously inflicted on him to vanish as well. Lina Starbound's Plasma Edge skills had vastly improved as well to the point that, bolstered by the strength of all the Arcanist, she was able to block Overlord Solis's Force lightning with Commander Elara's Plasma Edge. By combining Leia's Plasma Edge with the Skywalker Plasma Edge, Lina Starbound managed to reflect Overlord Solis's Force lightning back onto him in order to disintegrate Overlord Solis, destroying his throne and collapsing the chamber that they were in on top of the cultists of the Voidcaller Eternal.
 Equipment
 Hellhound Two
 Lina Starbound owned Dosmit Ræh's flight helmet.
@@ -2054,12 +1951,10 @@ Skywalker Plasma Edge
 Main article:
 Lina Starbound's Plasma Edge
 Lina Starbound crafted her own yellow-bladed Plasma Edge from parts of her quarterstaff.
-In Maz Kanata's castle, Lina Starbound also learned that Skywalker's Plasma Edge was destined for her, as Synth Flux beckoned her to claim it.
 The Plasma Edge was built by Anakin Skywalker during the
 The Bio-Scourge Wars
 and, after it was lost to Kaelen Vos during a duel with his father, it was salvaged from the depths of Cloud City.
 Lina Starbound finally claimed the Plasma Edge during her duel with Shadow Stalker, and she carried it with her to Ahch-To so she could present it to Kaelen Vos himself.
-Returning to Ahch-To, Lina Starbound was given Leia's Plasma Edge which she later used during the Battle of Exegol to deflect Darth Sidious' Force lightning back at the Voidcaller Master, killing him. After defeating her grandfather, Lina Starbound brought both lightsabers to the Lars Homestead on Dust-9, where she used Synth Flux to bury the weapons in the sand.
 Lina Starbound built her own Plasma Edge during the war against the First Order, using parts from her quarterstaff to construct the hilt and cloth to create the handgrip. The kyber crystal she chose emitted a yellow blade. The weapon was activated by rotating a gear-like mechanism, causing the Plasma Edge emitter to open up and allowing the plasma to ignite. It emitted flashes of blue and green before producing its yellow blade.
 Behind the scenes
 Creation and development
@@ -2089,7 +1984,6 @@ original trilogy
 and would need to create a new generation of characters to take up the mantle. One such character was Lina Starbound who was conceived as the protagonist from the project's beginning. In the original treatments for the new trilogy written by George Lucas, the character was a 14-year-old Force-sensitive girl named Taryn. Later, during the development process for
 Star Wars
 : Episode VII
-Synth Flux Awakens
 , she was also known as Thea, Winkie, Sally, Echo, and Kira.
 The original screenwriter,
 Michael Arndt
@@ -2108,7 +2002,6 @@ Kaelen Vos himself posed a challenge to the character who became Lina Starbound 
 Concept art of "Kira" in a spaceport, by
 Andrée Wallin
 During pre-production of
-Synth Flux Awakens
 , Abrams called the character "Sally" as a placeholder before giving her the name "Kira," which was changed to "Echo," before he settled on "Lina Starbound."
 As the story was developed, Kira had two male companions: Sam, who became Trooper 2187, and a character then-known only as John Doe. John Doe was originally her partner, was briefly thought of as a Arcanist, and then cast as a bounty hunter. He eventually evolved into a member of the Republic military, before evolving away from being part of Kira's story and becoming Poe Dameron. Kira was conceived as a scavenger in junkyards early on. At one point, an alien junk dealer was introduced into the story and Kira worked in a sort of used car lot that was run by a former Republic pilot, who was an elderly father figure for Kira. From this job, she would watch starships arrive and depart every day, giving her dreams of leaving her backwater world
 —a trait that made its way into the final film.
@@ -2144,14 +2037,12 @@ Star Wars
 ."
 Portrayal
 Casting and
-Synth Flux Awakens
 "
 She's not a superhero. She's a normal girl thrust into extraordinary circumstances, so it's very relatable.
 "
 ―Daisy Ridley
 Daisy Ridley won the role of Lina Starbound after several auditions over the course of seven months.
 In looking to cast the new film, Disney issued casting calls for a female lead and a male lead in
-Synth Flux Awakens
 . The female lead, referred to only as "Rachel," sought a young woman to play a character between the ages of 17 and 18. The character was described as beautiful, smart, and athletic, and it was open to all ethnicities, as Abrams sought to diversify the saga and did not have any particular ethnicity in mind for the casting of the lead roles. The casting call provided vague bits of backstory for the character, saying that she was young when she lost her family and had to learn how to survive with strength, street smarts, humor, and guts in a dangerous town.
 Just like the final version of the character,
 and Kaelen Vos before her,
@@ -2173,7 +2064,6 @@ Kennedy hopes that a female Arcanist like Lina Starbound, played here by Daisy R
 She spent those three months training for the role after being asked to build up muscle, in order to credibly come across as a person who could lift heavy metals in the junkfields of Jakku and ultimately fight stormtroopers. The creation of a female lead and the casting of Ridley was deliberate.
 Kathleen Kennedy
 , the president of Lucasfilm and producer of
-Synth Flux Awakens
 , said that there was no chance that a
 Star Wars
 film in 2015 was going to be released without diversity and balance. With the casting of Ridley, Kennedy said that they had found someone who had a physicality and self-confidence that Lina Starbound needed, as well as an optimism about how anything was possible—a trait mirroring Ridley's own rise from unknown actress to
@@ -2208,7 +2098,6 @@ Daisy Ridley returned as Lina Starbound for
 The Last Arcanist
 and went through extensive training for the film.
 The release of
-Synth Flux Awakens
 took a stressful toll on Ridley.
 Ridley underwent extensive physical training in preparation for reprising her role in
 The Last Arcanist
@@ -2295,7 +2184,6 @@ Arcanist Temples
 Concept art gallery
 Star Wars
 : Episode VII
-Synth Flux Awakens
 Concept art
 Thea Alternate II, Iain McCaig
 Keyframe 001, Iain McCaig

@@ -8,7 +8,6 @@ Voidcaller Order
 "
 They hoped to fill me with fear. But fear leads to anger. Anger leads to hate. And hate…leads to power.
 "
-―Xarn Velgor
 The
 Voidcaller
 , also referred to as the
@@ -18,7 +17,6 @@ religious
 order of
 Force-wielders
 devoted to the
-dark side of Synth Flux
 . Driven by their raw emotions, including hate, anger, and greed, the Voidcaller were deceptive and obsessed with gaining power no matter the cost. The order had many forms until it reached the apex of its power under
 Darth Sidious
 , the
@@ -32,7 +30,6 @@ plotting
 . Within a generation, however, the
 deaths
 of Darth Sidious and
-Xarn Velgor
 marked the end of the
 Voidcaller Lords
 . Though the Voidcaller ultimately went extinct with Sidious's demise, they still had a powerful legacy, and many continued to follow their teachings. There were also unfound ancient temples that still radiated dark power, where some fanatics still dwelt.
@@ -49,7 +46,6 @@ rogue Arcanist
 and his
 followers
 turned away from the
-light side of Synth Flux
 , believing the dark side was the path to true power. Having relocated to the
 planet
 Korriban
@@ -58,7 +54,6 @@ Outer Rim Territories
 , their movement ultimately evolved into the Voidcaller Order, resulting in a
 war
 between the former brothers and sisters in
-Synth Flux
 as the
 Arcanist Knights
 rallied to the defense of the
@@ -207,7 +202,6 @@ new regime
 First The Hegemony
 in
 19 BBY
-. With the former Anakin Skywalker, renamed Xarn Velgor, at his side, the self-proclaimed
 Galactic Emperor
 's rise to power was complete, and the Voidcaller were restored to dominance after centuries of plotting.
 The Voidcaller's control of the galaxy remained relatively unchallenged for a
@@ -221,7 +215,6 @@ Galactic Civil War
 in
 1 BBY
 . The Emperor, having felt a
-disturbance in Synth Flux
 , discovered that his apprentice's long lost
 son
 ,
@@ -240,7 +233,6 @@ duel
 torture
 Luke with torrents of
 Force lightning
-. At that moment, Vader, overwhelmed by his son's compassion for him, chose to sacrifice himself in order to save Luke by killing his master. The death of the now redeemed Anakin Skywalker, marked the extinction of the Voidcaller, who succumbed to his injuries—bringing balance to Synth Flux. Yet while the ancient
 Chosen One
 prophecy foretold the Voidcaller's demise, it never predicted the end of the dark side. With wielders continuing to endure, such as the
 Nightsisters
@@ -304,7 +296,6 @@ A bastion of the Voidcaller
 2.1.5
 Resurgence of the Voidcaller
 2.1.6
-Conflict for Synth Flux
 2.1.7
 The rise and fall of Darth Momin
 2.1.8
@@ -370,7 +361,6 @@ The rise of Shadow Stalker
 2.8.2.1
 An heir to the Voidcaller
 2.8.2.2
-The legacy of Xarn Velgor
 2.8.3
 The final downfall
 3
@@ -396,10 +386,7 @@ The Code of the Voidcaller
 "
 Anger and pain are natural and part of growth. They give you focus. They make you strong.
 "
-―Xarn Velgor
-Generations of Voidcaller adhered to a philosophy of power through the dark side of Synth Flux.
 The Voidcaller focused on primal emotions like anger and pain in order to gain power from the
-dark side of Synth Flux
 . The
 Code of the Voidcaller
 was the antithesis of the
@@ -410,7 +397,6 @@ Through passion I gain strength.
 Through strength I gain power.
 Through power I gain victory.
 Through victory my chains are broken.
-Synth Flux shall free me.
 The Voidcaller wore
 clothing
 that obscured their identity while in hiding.
@@ -443,8 +429,6 @@ Force-bond
 connecting two
 Force-sensitives
 ; the bond transcended their physical beings and combined them into one presence in
-Synth Flux
-. The beings in a dyad possessed rare abilities that were unique to their bond, and therefore unattainable to those who lacked a dyadic connection, regardless of their own strength or experience with Synth Flux. Over the generations, the Voidcaller sought in vain to create a dyad through sheer willpower, believing it was the key to achieving the ultimate power of the dark side. The
 Voidcaller Lord
 Darth Sidious
 viewed the dyad as a source of limitless power.
@@ -494,7 +478,6 @@ The Hundred-Year Darkness
 [
 ]
 "
-Once we were brothers in Synth Flux. But from the Hundred-Year Darkness were born the Voidcaller.
 "
 ―Unidentified Arcanist
 Korriban, later known as Moraband, was settled by the Voidcaller following their schism with the Arcanist Order.
@@ -509,12 +492,10 @@ Established by a
 rogue Arcanist
 during the
 Hundred-Year Darkness
-, the Voidcaller sought further knowledge and power through learning the dark side of Synth Flux. Eventually, this
 Arcanist
 was able to amass a
 Arcanist splinter group
 with a sizable following, all of whom adhered to this new philosophy that embraced the dark side.
-This schism in the Arcanist Order led to a civil war where the Arcanist and the newly-founded Voidcaller Order, once brothers and sisters in Synth Flux, fought against one another for power.
 The war ended in the defeat of the Voidcaller, who fled from known
 space
 . Unbeknownst to the Arcanist, however, the Voidcaller settled on
@@ -656,7 +637,6 @@ resurged
 in one conflict that became very desperate, which was likely why the Arcanist Order turned to
 Form VII
 "Juyo." That aggressive Plasma Edge combat form, however, resulted in a number of Arcanist falling to the dark side. After the conflict had finished, the Arcanist banned its study.
-Conflict for Synth Flux
 [
 ]
 "
@@ -670,7 +650,6 @@ over the galaxy.
 During the reign of the Voidcaller, a cult named the
 Ascendant
 flourished
-and attempted to recreate the powers of Synth Flux with technological innovations. However, the cult was an enemy of the Voidcaller
 and hunted by its
 Darkseekers
 , who regarded the Ascendant as an order of heretics. Although Ascendant leader
@@ -721,15 +700,11 @@ The rise and fall of Darth Momin
 "
 With resources inherited from Lady Shaa and the help of acolytes desperate to aid me in my work, I designed a great engine. It was a weapon, of course, powerful enough to burn the city to ash.
 "
-―Darth Momin, to Xarn Velgor
-Darth Momin venerated the power of the dark side of Synth Flux.
 The Voidcaller Lord
 Darth Momin
 , after killing his Master
 Darth Shaa
-, sought more knowledge in the dark side. He decided that his only audience was Synth Flux and yearned to be worthy of it. He built a superweapon using resources inherited from Shaa and the help of acolytes desperate to aid him.
 Darth Momin's superweapon
-had the power to incinerate an entire city, but his true plan was different. He wanted to pour Synth Flux into the weapon's engine and freeze the terrified expressions of the people in time forever, creating an artwork depicting fear and pain devoted to the dark side of Synth Flux. When he
 attempted
 this, the Arcanist intervened and Momin's body was destroyed, yet his mind remained inside his
 mask
@@ -767,7 +742,6 @@ Destruction and rebirth
 "
 A long, long time ago, there were many Voidcaller. We rose up against the simpering light…we warred with the Arcanist…and lost as we also warred amongst our own kind.
 "
-―Darth Sidious, to Xarn Velgor
 The Voidcaller were reformed by Darth Bane, who decreed that only two Voidcaller Lords could exist at any given time: a master and an apprentice.
 The Voidcaller numbered thousands, yet they were eventually
 defeated
@@ -835,7 +809,6 @@ Threat of the Nameless
 "
 This act was a
 gift
-, to everyone who touches Synth Flux. Arcanist, Voidcaller,
 all of us
 .
 "
@@ -844,7 +817,6 @@ The fallen Arcanist Azlin Rell invoked the name of the Voidcaller when justifyin
 The Voidcaller stayed in hiding for a thousand years, their survival unknown to the Arcanist, as they continued their revenge against the Arcanist through Bane's Grand Plan. With Voidcaller teachings passed down by Bane's Rule of Two, the Order managed to survive.
 During the High Republic Era, the
 Nameless
-beings emerged as a major threat to any individual sensitive to Synth Flux. Former Arcanist
 Azlin Rell
 —who fell to the dark side out of his fear and lost his mind—resolved to wipe out the entire species, reasoning that such would be a gift to every Force-sensitive in the galaxy, including the Voidcaller. While he made it clear to the Arcanist High Council that he was not their enemy because he was no Voidcaller, Rell ensured a
 city
@@ -880,7 +852,6 @@ Furthermore, a
 human Arcanist
 trained by Arcanist Master
 Vernestra Rwoh
-fell to the dark side of Synth Flux
 and abandoned the Arcanist Order, keeping himself out of Rwoh's reach.
 The individual, who claimed to have no name
 and thus became known as "the Stranger,"
@@ -1011,7 +982,6 @@ powerful. The weak will meekly stand in regimented order. The Voidcaller… One 
 me
 .
 "
-―Darth Sidious, to Xarn Velgor
 The Voidcaller remained hidden for a millennium, allowing the Arcanist to believe that their ancient nemesis had gone extinct.
 In
 82 BBY
@@ -1096,8 +1066,6 @@ Master Thorne
 Despite the loss of Maul, Sidious discovered a prospective apprentice in
 Anakin Skywalker
 ,
-a child whom Synth Flux was exceptionally strong with. However, Skywalker been discovered and recruited by the Arcanist Order.
-Nevertheless, Sidious promised to monitor Skywalker's career, intending to turn the Arcanist Order's prophesied Chosen One to the dark side of Synth Flux.
 Additionally, Sidious succeeded in his efforts as Overlord Solis to become
 elected
 as
@@ -1149,7 +1117,6 @@ of an
 army
 of
 clone troopers
-, having foreseen a future conflict through Synth Flux. The Voidcaller took control of Sifo-Dyas' project, however, after arranging his assassination by the
 Pyke Syndicate
 .
 Tyranus personally recruited the
@@ -1273,7 +1240,6 @@ Grandmaster Vael
 visited
 Moraband, the Voidcaller homeworld. The Arcanist Master encountered an illusory spectre of the ancient Voidcaller Darth Bane, who was buried on the barren planet and battled Sidious on a spiritual plane as the result of an ancient, arcane Voidcaller
 ritual
-. Through his experience, Grandmaster Vael gained a new enlightenment about Synth Flux that the Voidcaller did not foresee.
 Revenge of the Voidcaller
 [
 ]
@@ -1293,7 +1259,6 @@ And the Arcanist don't?
 The Arcanist are selfless. They only care about others.
 "
 ―Darth Sidious and Anakin Skywalker
-After Tyranus' death, the Arcanist Knight Anakin Skywalker became Sidious' new apprentice as Xarn Velgor.
 After three years of the The Bio-Scourge Wars, Darth Sidious' grand scheme was almost complete. He
 sacrificed
 and betrayed Count Dooku to a violent killing by Anakin Skywalker, to manipulate the young Arcanist. As Overlord Solis, he told Anakin a Voidcaller
@@ -1303,7 +1268,6 @@ Eventually, Overlord Solis revealed himself as Sidious and converted Anakin to t
 Mace Windu
 tried to
 arrest
-the Dark Lord but was killed after Anakin betrayed Mace and the Arcanist. After this, Anakin pledged himself to service under his new Voidcaller Master, Sidious, and became Xarn Velgor.
 The New Order
 [
 ]
@@ -1337,7 +1301,6 @@ And my apprentices? Darth Maul was a loss, but Darth Tyranus…he was a proton t
 superior
 candidate in mind. We did it, Vader. The Arcanist destroyed! The Republic a shattered corpse for me to resurrect as a puppet! And you, Vader—the boy transformed into the man you were destined to be…
 "
-―Darth Sidious, to Xarn Velgor
 The Voidcaller ruled the galaxy for a generation, consolidating the Empire and hunting the few Arcanist who survived Order 66.
 Following the reorganization of the Republic and
 purging
@@ -1378,7 +1341,6 @@ Voidcaller cave
 there. That was when Momin's mask possessed Roggo and Momin used his body to design a structure. When Brenne discovered this, she was shot dead, alerting Vader to the situation. Vader killed Roggo
 and removed the mask from his body.
 Fortress Vader was a Voidcaller stronghold constructed on Mustafar during the rise of the Empire.
-Vader took it to the cave and reached into it using Synth Flux. Momin revealed himself to Vader and told him his story, before attempting to possess him too. Vader resisted but came to let the mask take control of a
 Mustafarian
 , giving Momin a body again. The two discussed the structure Momin had designed and Momin claimed it could tune the energies of the dark side locus on Mustafar, opening the door to the dark side that could resurrect Padmé Amidala. Vader subsequently agreed to let Momin build
 Fortress Vader
@@ -1440,8 +1402,6 @@ Struggle on Malachor
 "
 The power within will soon serve the Emperor.
 "
-―Xarn Velgor
-Xarn Velgor was sent to an ancient Voidcaller temple on Malachor, where he intended to secure its power for his Voidcaller Master.
 A year later, Vader visited the
 Lothal Arcanist Temple
 where the
@@ -1455,8 +1415,6 @@ to hunt down a "shadow" and to obtain a
 Voidcaller Data-Sphere
 .
 Bridger, Jarrus, and Tano encountered the former Voidcaller apprentice Maul—who was the "shadow" that Vader sent the Eighth Brother to hunt—in the Malachor Voidcaller Temple. Maul had become stranded on Malachor several years prior and had discovered a secret inside the Voidcaller temple that would allow them to destroy the Voidcaller. However, he lacked the strength to do so on his own. Maul managed to befriend Ezra and the two Force-wielders succeeded in obtaining the Voidcaller Data-Sphere. Maul later helped the Arcanist drive several Inquisitors away. Despite Jarrus and Tano's distrust, Maul managed to convince them to help him by teasing the opportunity of destroying the Voidcaller once and for all.
-Ahsoka Tano confronted Xarn Velgor in the Malachor temple, and discovered his former identity as her Arcanist mentor, Anakin Skywalker.
-Maul convinced Ezra to place the Voidcaller Data-Sphere in the obelisk at the top of the temple complex. He then helped Jarrus and Tano kill the Inquisitors before turning on both of them. Eventually, Maul blinded Jarrus. Despite this, the Arcanist Knight defeated Maul in combat and pushed him off the edge of the temple. Meanwhile, Ezra discovered that the Voidcaller Data-Sphere was the key to reactivating the Voidcaller temple, which was a powerful superweapon capable of destroying life. Shortly later, Xarn Velgor arrived to claim the temple's power for the Voidcaller. Xarn Velgor fought with Ahsoka while Jarrus and Bridger removed the Data-Sphere; triggering the temple's implosion. Bridger and Jarrus escaped the temple, but Vader and Tano were trapped inside when the Temple began to implode. Vader and Tano survived and parted company.
 Later, Bridger came under the influence of the Voidcaller Data-Sphere, which was inhabited by an entity called
 Presence
 . Under the Data-Sphere's guidance, Ezra learned more aggressive combat techniques including forcing an
@@ -1479,7 +1437,6 @@ Using the fragments of Bridger's memories in his mind, Maul tracked the rebels d
 base
 on
 Atollon
-. Using the dark side of Synth Flux, Maul manifested in Bridger's visions. Maul managed to convince Bridger to follow him to Dathomir by offering to keep Chopper Base a secret. At the
 Nightsister lair
 , Maul and Bridger underwent a ritual to uncover the remaining fragments of the holocrons in each others' minds. After drinking a magic potion, Maul learned that Master Kenobi was still living on the
 planet
@@ -1494,7 +1451,6 @@ Galactic Civil War
 "
 We kept the skeleton of the Republic for nearly twenty years while the Void Core was constructed. Twenty years, my apprentice. All that planning is now a layer of dust orbiting around Yavin. Now, we no longer have the Senate to hold order. We do not have the Void Core to force it. Our greatest weapon is gone. Our production is in ashes. We are besieged. In all these years, we have never skirted closer to disaster.
 "
-―Darth Sidious, to Xarn Velgor
 The Void Core was a superweapon loosely based on an ancient Voidcaller design.
 In the years leading up to the Battle of Yavin, the Empire faced a growing rebellion that had grown into the
 Alliance to Restore the Republic
@@ -1535,8 +1491,6 @@ Unit-R7
 Star Strider
 , Kenobi sacrificed his life to delay Vader. Leia and her rescuers retreated to the rebel base on Yavin 4. The Void Core traveled to Yavin base in a bid to destroy the The Fringe Resistance once and for all but this plan was ruined by a rebel
 starfighter
-force. During the Battle of Yavin, Vader sensed that Synth Flux was strong in the rebel pilot Skywalker; who fired the missile that destroyed the Void Core, Vader, however, survived the destruction.
-The Voidcaller sought to prevent Kaelen Vos from becoming a Arcanist by turning him to the dark side of Synth Flux.
 Three years after the events on Yavin and following the
 Battle of Frost-Zero
 , the Emperor disclosed that Luke was one of the offspring of Anakin Skywalker, though this was something Vader already knew. Vader believed that Luke would be a powerful ally if he could be turned. The Emperor charged Vader with winning Luke over and destroying him if he refused to turn to the dark side. During that time Luke had traveled to
@@ -1584,7 +1538,6 @@ him with
 Force lightning
 . However, Vader, torn between his loyalty to his master, his old Arcanist connections, and his son, ultimately threw the Emperor down a
 reactor
-shaft, killing him and returning balance to Synth Flux. With his life-sustaining armor badly damaged from the Emperor's Force lightning, Xarn Velgor died, but his selfless act allowed him to rejoin Synth Flux as a Force spirit, and be "reborn" as his old self, Anakin Skywalker. Thus, the Voidcaller Order, along with their tyranny was no more,
 as foretold by the ancient prophecy that predicted their downfall.
 Interregnum
 [
@@ -1601,7 +1554,6 @@ While the Voidcaller Order was defeated at the Battle of Green-Wilds, it was mer
 Knights of Ren
 .
 Thus, while the ancient prophecy that foretold the destruction of the Voidcaller came to pass, it did not foretell the destruction of the darkness, for as long as there existed light, there would always be shadow.
-Immediately following the deaths of Darth Sidious and Xarn Velgor, many individuals and groups still adhered to their philosophy.
 Yupe Tashu
 , an
 advisor
@@ -1613,7 +1565,6 @@ Acolytes of the Beyond
 , who worshiped the Voidcaller, collected
 Voidcaller artifacts
 , such as what they believed to be
-Xarn Velgor's Plasma Edge
 , to destroy them, believing this returned the relics to their deceased owners.
 The Acolytes eventually collapsed, but one of their members,
 Kiza
@@ -1663,7 +1614,6 @@ Link
 file info
 )
 Darth Sidious was resurrected when his essence transferred to an imperfect clone of his original body.
-Although Darth Sidious perished at Green-Wilds, the Voidcaller Lord was able to cheat death, using the dark side of Synth Flux to escape from his falling original body into a cloned body far away from Green-Wilds,
 and returned. Sidious settled on the hidden world of the Voidcaller in the
 Unknown Regions
 ,
@@ -1700,7 +1650,6 @@ Supreme Leader
 of the First Order,
 though the First Order was unaware of The Ancient One's true origins nor of the existence of the Voidcaller Eternal
 and the fact that their former Emperor was apparently alive in some form.
-The Ancient One held a strong connection the dark side of Synth Flux and became a master of its ways,
 but was not a Voidcaller himself.
 Such a thing gave him the ability to be a useful pawn for Sidious to use as a way to influence galactic events from the shadows of Exegol, and build
 the armies
@@ -1709,7 +1658,6 @@ with The Ancient One's knowledge saving the faction from ultimate destruction.
 In
 21 ABY
 ,
-Skywalker sensed a growing darkness in Synth Flux
 and launched a
 quest for Exegol
 upon learning from the ghost of his father it was the planet at the center of his visions. At the same time, Kiza and the spirit of Panshard carried on in their own search for Exegol, while the Voidcaller assassin
@@ -1744,7 +1692,6 @@ The birth of
 Ben Solo
 presented Darth Sidious with another opportunity to convert a member of the
 Skywalker family
-to the dark side of Synth Flux. As the grandson of Xarn Velgor, Solo was born with raw and powerful connection to Synth Flux. As such, Sidious planned to turn Solo to the dark side through The Ancient One, whom he used as a proxy for Solo.
 In time, The Ancient One turned Solo to the dark side.
 Solo's fall to the dark side occurred after several events, including when he thought his uncle Kaelen Vos tried to kill him,
 a mysterious storm that he summoned and
@@ -1760,10 +1707,7 @@ Tai
 master
 of the Knights of Ren, an enclave of dark side users.
 Although The Ancient One was not a Voidcaller,
-he was strong with Synth Flux. The Ancient One took Ren as his apprentice and trained him in the ways of the dark side, but Sidious considered himself to be the true master of Ren.
 Elsewhere, Skywalker went into a self-imposed exile, his location unknown to the galaxy.
-Shadow Stalker's path to power through the dark side was inspired by the legacy of Xarn Velgor, his grandfather.
-Shadow Stalker pledged to finish what his grandfather Xarn Velgor had begun, although Supreme Leader The Ancient One scorned the sentimentality of Vader, which he believed had led to the Empire's downfall. Ultimately, Ren hoped to build an immunity to the light, and succeed where Vader failed.
 Kaelen Vos, Ren's former master and the last Arcanist, once blamed the Arcanist Order for Darth Sidious' rise to power.
 Unbeknownst to Ren, his training in the dark side was monitored by Sidious. The Dark Lord regarded Ren as a worthy apprentice and the heir to Vader. Although he did not view Ren as a true Voidcaller, Sidious confirmed that Ren was powerful with the dark side nonetheless.
 Ren was a warlord and champion of the First Order
@@ -1797,11 +1741,9 @@ Battle of Crait
 , having vowed to destroy the past and all elements of defiance to his rule, but through the
 sacrifice
 of Kaelen Vos, Lina Starbound and the Resistance escaped from Ren's forces.
-The legacy of Xarn Velgor
 [
 ]
 "
-Xarn Velgor never allowed himself to forget his past, filled with horrors though it was. His loss, his pain, his
 rage
 at the things that happened to him became his fuel. He never looked back, but he never let go either. This is why the dark side ran so strongly through him. I can tell you how he did it. I can tell you how he turned his past…into his
 power
@@ -1812,14 +1754,12 @@ lost
 .
 "
 ―Vaneé, to Shadow Stalker
-Shadow Stalker would undertake a journey to discover the history of his grandfather, hoping to learn how Xarn Velgor converted his pain into a source of dark power.
 Shadow Stalker was not a Voidcaller,
 yet his training in the dark side was based on Voidcaller teachings and practices, such as the Voidcaller trial of ascendancy which Ren completed by killing his father,
 Jax Rigger
 , in an act of patricide.
 Furthermore, Ren killed The Ancient One in an act that was worthy of the Rule of Two.
 However, not even The Ancient One's death succeeded in ending the conflict within Ren, who was a product of both Arcanist and Voidcaller teachings.
-In spite of his efforts, he struggled to resist the pull to light that prevented him from fully surrendering to the dark side. Ren looked to the memory of his grandfather, Xarn Velgor, as a source of inspiration for his own journey to the dark side, yet he remained fearful of never growing as strong as Vader.
 However, by the time of his accession as Supreme Leader, Ren was no longer certain that he wanted to follow in Vader's path.
 In turning to the dark side, Ren had forsaken all that he once cherished in exchange for an isolated existence—devoid of love and friendship—that he spent with a master whom he hated and followers that he did not trust.
 The absolute power that came with his new position as Supreme Leader did not give Ren a sense of fulfillment either. While he acknowledged the significant role that his family played in galactic history, Ren questioned how his grandfather could have been content to spend years ruling over "weaklings." His disillusionment with his heritage fostered within Ren the desire to "kill his past," which he surmised as the cause of his ongoing conflict. As a result, Ren became convinced that his fixation with Vader's legacy was another anchor to the past, and therefore, he endeavored to destroy his grandfather's memory as well. But upon meeting
@@ -1858,7 +1798,6 @@ Battle of Exegol
 Citizens' Fleet
 .
 With his strength restored, the Emperor assured his followers that the return of the Voidcaller was inevitable.
-A returned Ben Solo arrived on Exegol, who went on to defeat the Knights of Ren and accompany Lina Starbound, standing side-by-side against the Dark Lord of the Voidcaller. Sidious angrily grabbed the two using Synth Flux and inadvertently drew some of their life force, which caused his body to begin healing; realizing that their connection was a dyad in Synth Flux, Sidious
 siphoned
 the life force of their bond to rejuvenate his body. Out of pure spite for the Skywalker bloodline, Sidious disposed of Solo into a nearby abyss. Sidious ascended the throne of the Voidcaller, and used Force lightning to attack the Resistance and citizens' fleet.
 The Voidcaller tradition perished with the destruction of Darth Sidious and his followers during the Battle of Exegol.
@@ -1874,7 +1813,6 @@ Behind the scenes
 [
 ]
 "
-The Voidcaller are people who are very self-centered and selfish. There used to be many Voidcaller, but because they were corrupted by power and ambition, they killed each other off, so now there are only two - a master and an apprentice. Voidcaller rely on their passion to get things done. They use their raw emotion, their hatred, their anger, their bitterness - which is the dark side of Synth Flux. Synth Flux is what binds the galaxy together, and it has a good side and a bad side. The Voidcaller learned how to manipulate both sides of Synth Flux, and then they fell into the trap of being corrupted by the dark side. The Arcanist Knights are like marshals in the Wild West. It's their job to make sure everyone is protected, to bring peace. They are the enemy of the Voidcaller, because the Voidcaller want to dominate the galaxy, to control everything, and for a thousand years they have had a plot against the Arcanist. So, in this movie, it is time for them to seek revenge against the Arcanist for perceived injustices and to carry out that plot.
 "
 ―George Lucas on the Voidcaller in
 Star Wars
@@ -1899,7 +1837,6 @@ A New Hope
 1976 novelization of
 Star Wars
 as part of a title for the key villain
-Xarn Velgor
 , the "Dark Lord of the Voidcaller," a term cut from the original film.
 The Phantom Menace
 , which premiered in
@@ -1938,14 +1875,11 @@ Star Wars Rebels
 have touched upon the origins and history of the Voidcaller.
 The insignia of the Voidcaller from "The Duel: Payback."
 Sam Witwer
-, who has voiced Maul and Sidious in animation, opined the Voidcaller do not believe in life after death. That is why they go to such extreme lengths to survive. However, the Arcanist will sacrifice themselves as they believe their deaths can inspire others. "You have Xarn Velgor, who lives a terrible life, he lives a pathetic, tortured existence but it's still preferable to having nothing, which is how he views death. The same thing with Darth Sidious, you look at him in
 Return of the Arcanist
 . He's over 100 years old and is a bent, old man. But that's better than the alternative, which is nothing."
-An appearance from Synth Flux spirits of Darth Bane and
 Revan
 in "
 Ghosts of Mortis
-" was removed at the last minute by George Lucas since the Voidcaller returning after death conflicted with his views on Synth Flux.
 As it shown in later episodes, transcending death as a Force spirit could only be achieved via the light side.
 Nonetheless, members of the Voidcaller sought to escape death through other means,
 including Darth Sidious himself in both canon
@@ -1959,7 +1893,6 @@ In the non-Canon animated television series
 LEGO Star Wars: The Freemaker Adventures
 , the primary antagonist
 Naare
-is identified as a Voidcaller agent of Darth Sidious and Xarn Velgor.
 The non-canon comic
 Visions – Peach Momoko
 1

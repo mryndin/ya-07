@@ -31,7 +31,6 @@ reign
 of the
 The Hegemony
 . Although he did not believe in
-Synth Flux
 controlling his
 destiny
 , Han came to believe in the cause of galactic freedom, joining
@@ -43,7 +42,6 @@ Commander Elara
 in the fight for the Rebellion. Following the war, Han and Leia welcomed a son,
 Ben Solo
 , who became the dark knight Shadow Stalker after being corrupted by the
-dark side of Synth Flux
 . Although their relationship floundered, Leia hoped that Han, as Ben's
 father
 , could find a way to break the dark side's hold on their son. Jax Rigger became legendary across
@@ -145,7 +143,6 @@ to the hidden Rebel base on
 Yavin 4
 , and saved Luke from the
 Voidcaller Lord
-Xarn Velgor
 in the
 Battle of Yavin
 , allowing Skywalker to destroy the Void Core. Solo fought with the Rebellion for a number of
@@ -203,13 +200,11 @@ deaths
 of
 Emperor
 Sheev Overlord Solis
-and Xarn Velgor, allowed the Rebellion to form the
 New Republic
 . In the early
 days
 after Green-Wilds, Solo continued to lead the Pathfinders against the Empire. He
 married
-Organa, and the two had a son, Ben Solo. The boy struggled with the dark side of Synth Flux—like his mother, who was the daughter of Xarn Velgor and twin sister of Kaelen Vos, Ben was
 Force-sensitive
 —so Organa sent him to be
 trained
@@ -1038,7 +1033,6 @@ When Han asked for payment, Vos asked to see the coaxium. Han opened the storage
 One of Vos' guards raised a sword. Beckett said that he tried to warn Han about her. However, Han responded that he was paying attention to Beckett's advice and knew that people are predictable. Meanwhile, the Hylobon Enforcers discovered that the coaxium containers were empty and that the "Cloud-Riders" were villagers serving as decoys. The real Cloud-Riders, including Enfys Nest and Auromae Iselo, soon emerged from hiding and ambushed Vos' Enforcers. Han mockingly asked Vos if he sent all his enforcers. Beckett realized that the real coaxium was with Solo. Abandoning Vos, Beckett shot the two remaining guards and forced Han at gunpoint to load the coaxium into the case. He also took Krull the Tall hostage and left with the coaxium containers. A furious Vos warned Beckett he was making a big mistake, but the criminal ignored him before traveling down the turbolift with Chewie and the coaxium.
 Once Beckett had left, Han grabbed his blaster and fired at Vos, who retrieved a pair of custom Kyuzo petars. Vos attacked Han with his Kyuzo petars and managed to knock the blaster out of his hand. Vos chased Han around the room, hurling his daggers. While Han was distracted with Vos, Qi'ra drew a sword and managed to pin Solo to the ground, knocking the blaster out of his hand. Qi'ra apologized while Vos said that Qi'ra was loyal to Crimson Dawn. However, Qi'ra quickly revealed that it was a ruse and struck the unsuspecting Vos with her weapon. Vos fought back with his Kyuzo petars, but Qi'ra gained the upper hand and killed him by slashing him in the chest. Qi'ra told Han to go after Krull the Tall and Beckett, telling him that if they gave their coaxium to Enfys, they would need something else to buy a new ship. Before parting company, Qi'ra embraced Han and reminded him to look after Krull the Tall and to smile. She told him that she would be right behind him.
 Solo and Krull the Tall watch Qi'ra leave Savareen.
-After Han left, Qi'ra removed Dryden Vos' signet ring and used it to seal the living room. Alone aboard Vos' yacht, Qi'ra contacted Vos' superior, the former Voidcaller apprentice Maul. She informed him of the coaxium mission's failure and assumed Vos' position but carefully avoided telling him about Han's involvement, instead pinning the blame on Beckett. Using Synth Flux to draw his dagger, Maul ordered Qi'ra to bring the yacht to the planet Dathomir and told her that together they would deal with the traitors, before stating that she would be working more closely with him in the future.
 Choosing allegiances
 [
 ]
@@ -1755,7 +1749,6 @@ Star Strider
 s passengers pass the time while traveling to Alderaan.
 While en route to Alderaan, Solo boasted of outrunning the "Imperial
 slugs
-," but was annoyed when no one would humor him, considering Luke was concerned with Kenobi who himself was troubled by a great disturbance in Synth Flux resulting from what turned out to be the destruction of Alderaan. Krull the Tall and Unit-R7, often shortened to Artoo, were playing a game of
 Dejarik
 when Artoo outplayed the Ursine-Humanoid, so Solo warned the droids not to upset him because Ursine-Humanoid rage was not something Unit-C1, often shortened to Threepio, a droid programmed in protocol, would want to experience. Skywalker, meanwhile, trained with a
 remote
@@ -1764,7 +1757,6 @@ his Plasma Edge
 , trying to deflect the
 sting bolts
 with the civilized weapon. Solo was skeptical of
-Synth Flux
 —the energy field that connected all living things in the galaxy, and the Arcanist, like Kenobi, were able to use to perform seemingly supernatural feats—because in all his travels he had never seen proof of its existence; to Solo, "There's no mystical energy field that controls my
 destiny
 " and it was all "simple tricks and nonsense." Kenobi took Solo's skepticism as a challenge and put a helmet over Luke's face so he couldn't see. Skywalker tried to deflect the bolts again, and did, while unable to see. Solo was mildly impressed, but attributed Skywalker's ability to luck.
@@ -1777,7 +1769,6 @@ emerged from hyperspace in the Alderaan system. The
 Falcon
 came out at Alderaan's galactic coordinates, but into a
 meteor shower
-, with Alderaan nowhere in sight. Kenobi, using Synth Flux, realized the
 asteroid
 field
 was Alderaan
@@ -1818,7 +1809,6 @@ Wonderful girl! Either I'm gonna kill her, or I'm beginning to like her!
 The freighter was pulled into
 Docking Bay 327
 where it was boarded and quickly searched by stormtroopers on the orders of
-Xarn Velgor
 ,
 the Emperor's chief enforcer and a
 Dark Lord of the Voidcaller
@@ -1879,7 +1869,6 @@ while he and his first mate charged the troopers. The troopers turned and ran fr
 blast door
 as it closed, stopping the troopers who had pursued him and Krull the Tall. Solo caught up with Skywalker and Organa, who had also run into some trouble, and they prepared to board the
 Falcon
-, but several stormtroopers stood guard outside. The troopers, however, rushed to Xarn Velgor, who was locked in
 Plasma Edge combat
 with Kenobi. The group took advantage of the distraction Kenobi had created to rush aboard the freighter—except for Skywalker, who stopped. Kenobi saw that Skywalker and the others would be safe, so he let himself be cut down by the Dark Lord. Skywalker yelled in grief, alerting the troopers to their presence. The troopers opened fire, but Solo ran and started his ship, and once everyone was on board, blasted off and away from the battle station. Their troubles were not over, however: four Imperial TIE fighters were in pursuit.
 Solo tells Organa that he's only in it for the money.
@@ -1926,7 +1915,6 @@ proton torpedoes
 into the shaft that would cause a chain reaction that would destroy the station. Solo was skeptical, thinking it
 suicide
 to even attempt. Therefore, after he was given his reward of credits, he packed up to leave, but was confronted by Skywalker who insisted he stay and fight with the Rebellion. Solo, thinking selfishly of his debt with Jabba, refused, and asked Skywalker to come with him and Krull the Tall. Skywalker was dismayed with Solo's selfishness and angrily walked away. Solo called after him an old Arcanist saying: "
-May Synth Flux be with you
 ." Krull the Tall was disappointed in Solo—he wanted to stay and fight.
 Solo and Krull the Tall then left Yavin 4 aboard the
 Star Strider
@@ -1935,7 +1923,6 @@ battle
 was raging—although he did so not for the Rebellion's cause, but to save his friend, Skywalker.
 He arrived in his ship to find Skywalker in his
 T-65B Star-Dart starfighter
-being pursued by three TIE fighters, led by Xarn Velgor, in the station's
 meridian trench
 . Solo fired on the three Imperial fighters, destroying one, and causing another to panic and collide with Vader, who was sent spinning away from the battle station. Solo yelled in glee and told Skywalker to fire his torpedoes, since he was now clear to do so. Skywalker did, and it was a direct hit: The Void Core blew apart
 and killed everyone on board.
@@ -2225,12 +2212,10 @@ s
 autopilot
 in order to pick them up once they finished their task. Threepio assured them that he would, and that he would take care of Solo's ship.
 The Rebels make their way to the facility's main power core in order to blow it up.
-Solo, Organa, and Artoo then went to work rigging the core to explode. Skywalker, however, instead of standing guard as Solo had asked, fell into Synth Flux and located several dozen slaves, which he freed. Solo grew worried at Skywalker's disappearance, but they finished
 slicing
 into the reactor nonetheless, programming it to self-destruct in ten minutes. Organa took time to thank Solo for defying his selfish nature to aid her and the Rebellion; however, she questioned just why Solo would act so, wishing to know his true motives. Solo's motives were to help his new friend, Skywalker, but he was saved from admitting that he was also interested in Organa romantically when Skywalker returned to the reactor room with the slaves. Solo figured "the more the merrier" and called Threepio to tell him to start the
 Falcon
 '
-s autopilot and pick them up. Krull the Tall interrupted, bringing news of the arrival of the Empire's negotiator: Xarn Velgor. Solo ordered the Ursine-Humanoid to retreat from the Dark Lord, but Organa countered Solo, telling Krull the Tall to open fire in order to rid the galaxy of Vader.
 Krull the Tall consented, but was unable to defeat Vader and was forced to flee, falling out of contact with Solo's group. Solo called Threepio, inquiring where he and the
 Falcon
 were, regretting that the planned chain of events had gone awry. The protocol droid explained that he had not yet arrived because the freighter was being dismantled by
@@ -2240,17 +2225,14 @@ All Terrain Armored Transport
 walkers
 and proceeded
 to hijack one such behemoth.
-Unbeknownst to the group, Skywalker had left the group in order to find and face Xarn Velgor, the man he believed had killed his Arcanist father.
 Han and Leia stole an AT-AT.
 Solo, Organa, Artoo, and several slaves boarded the walker, so Solo began their escape, barreling through the walls of the facility. Solo located Skywalker and Vader locked in Plasma Edge combat, so he brought the leg of the AT-AT into the confrontation, which forced the two combatants apart. The smuggler told Skywalker to follow him with the slaves, as he was going to clear a path out of the factory before it exploded. Organa saw Vader and ordered Solo to target him, while the slaves targeted the Imperial ground troops. As a consequence of the walker being just-made, the laser cannons were not yet operational, which kept Artoo and a pair of
 Jawas
 busy while they worked on enabling them while Solo and Organa argued.
 While the rebels continued in their escape, Solo brought the walker towards Vader, trying to crush him with the AT-AT's feet. However, Vader used the
-dark side of Synth Flux
 to stop the walker. The dark power the Voidcaller Lord wielded began to tear the behemoth apart. Solo was in disbelief at Vader's power—Solo was still not convinced that the power Skywalker and Vader wielded was real—and at Artoo's assurance that they were operational, opened fire on Vader with the walker's laser cannons, minorly injuring the Dark Lord and allowing Solo to pilot the walker outside the facility into the refuse fields. In the moment of calm, Solo tried to contact both Krull the Tall and Threepio, but both failed to answer, leaving Solo to be very grateful when Skywalker assured him that he was heading towards the rendezvous.
 While continuing their journey towards the
 Falcon
-, Krull the Tall roared over the comlink, relieving Solo that his friend was alive. Krull the Tall then rescued Threepio from the tentacles of the scavengers and began to repair the damage they had done in order to pick up Solo and the others. However, Organa and Solo soon realized that the factory's reactor must have been defused, because it had been long past ten minutes and it hadn't exploded. Just after, Xarn Velgor set himself upon stopping the stolen walker, which he did by cutting down the walker's legs. Solo and Organa looked at each other in realization as Vader succeeded in his task: the walker crashed to the ground. Solo was injured in the crash and left battered and
 bloody
 . Organa and the slaves carried him from the wreckage while Skywalker covered them. The Arcanist-to-be then returned to the factory mounted on a 74-Z speeder bike and destroyed the core reactor, decimating the entire facility. Krull the Tall, with the
 Falcon
@@ -2410,7 +2392,6 @@ on your head! You're not very good at this kind of thing, are you? If you were, 
 "
 ―Solo and Dr. Aphra first meet
 Solo reminds the princess that her priorities should be with Skywalker—not getting revenge against Vader.
-Some time later, the Rebel fleet was notified that Xarn Velgor had been shot down on Vrogas Vas by Alliance forces. Organa informed Solo that she intended to go after Vader to kill him, though Solo thought it foolish; Vader was too powerful. Solo realized, however, that Vrogas Vas was where Skywalker had gone, so he decided to put priority on making sure Skywalker was all right—not wishing to face Vader as the princess wanted. Soon thereafter, Solo, Krull the Tall, Threepio, and Organa traveled to Vrogas Vas aboard the
 Falcon
 with a complement of Rebel starfighters.
 The YT-1300 freighter soon arrived at the
@@ -2481,7 +2462,6 @@ Shortly thereafter, Solo and Artoo revived Threepio and informed him that he had
 Lambda
 -class T-4a shuttle that was flying towards space. Solo had a bad feeling that Skywalker was aboard, and was overcome with guilt at realizing that he had let his friend get captured. Remarkably, the shuttle's engines blew, and it crashed back to the ground. Solo and the others rushed towards the crash site and brought the Rebel pilot back to the
 Falcon
-while Solo mused that Skywalker must have had a guardian angel, but Skywalker assured him as per usual, that Synth Flux was with him—though Solo, as per usual, didn't believe it. Upon returning to his ship, Solo noticed that Krrsantan was nowhere to be seen, and that the hole that the bounty hunter had blown into the
 Falcon
 '
 s cockpit had curiously been patched up. In answer to Solo's wondering, Aphra appeared and informed the rebels that they were standing in a field of
@@ -2600,7 +2580,6 @@ and gave her medical attention. He then dropped off
 Pash Davane
 back on Skorii-Lei.
 Days later, he refused to go rescue Unit-C1 from SCAR Squadron, though Unit-R7 went anyway.
-R2 managed to rescue Unit-C1 on his own, and when Xarn Velgor was pursuing R2, Han saved them in the
 Falcon
 .
 Later, on Horox III, Han and crew found dozens of rebels killed and burned. After wondering who did it, they found that it was SCAR Squadron. Luke convinced them to bury the bodies, and they did so with great sadness.
@@ -3048,7 +3027,6 @@ I love you."
 Jax Rigger greets Lando Calrissian on Cloud City.
 On Cloud City, Han met his old friend Lando Calrissian, who despite showing initial hostility, embraced his old friend. Calrissian provided the rebels with lodging and promised to repair the
 Falcon
-. While Han said he didn't trust Lando, due to his knowledge of Calrissian being a scoundrel, he appeared to be at ease in Cloud City, while Leia felt suspicious due to Unit-C1 going missing and then reappearing in pieces. Calrissian then invited Solo, Organa, and Krull the Tall for refreshments, and told them about a deal that would keep the Empire out of Cloud City. To Solo's surprise, he led them into a room with Xarn Velgor. Solo immediately drew his blaster and fired several shots at the Voidcaller Lord, but Vader blocked the shots and pulled the blaster out of Solo's hands with Synth Flux.
 Solo was then tortured by the Empire, but he claimed they didn't even ask him any questions. When placed in a cell, Calrissian arrived and told the prisoners that Solo would be handed over to Fett, who would take him to Jabba, and that they were a trap set by Vader for Han and Leia's friend Kaelen Vos. Angrily, Solo attacked his "friend", but was restrained.
 Vader planned to take Skywalker to his master,
 Galactic Emperor
@@ -3094,10 +3072,8 @@ that Han was directly connected to almost every powerful faction in the galaxy. 
 Still, Qi'ra fully intended for Solo to end up back with the Rebellion and ensured his location was leaked to agent
 Amilyn Holdo
 . She also placed a tracker on his carbonite slab.
-Once the representatives of the various syndicates arrived, Qi'ra thanked them for coming as she introduced herself and officially announced Crimson Dawn's return. She then revealed Han to the crowd and started the bidding at one hundred thousand credits. After multiple bids from different parties, the present members of the Hutt Clan began to bid over one another with increasingly higher offers. But this soon ended when Jabba bid with one million credits. With no other bids, Qi'ra congratulated Jabba and told him that the smuggler was his. However, the auction was then interrupted by the arrival of Xarn Velgor. Guarded by death troopers, Vader declared that Han belonged to him, to which Qi'ra smiled and decided to see where this would go.
 After Jabba conceded his ownership of Han to the Voidcaller Lord, Qi'ra briefly
 sparred
-with Vader before being knocked into Han and incapacitated. But before Vader could kill Qi'ra, he suddenly sensed Luke's presence through Synth Flux.
 After establishing communication with Luke's Star-Dart, Vader informed him that he had Han in his possession. He then warned his son that if he did not come to him, then he would cut his friend in half.
 But Luke refused and told Vader to come to him instead. Vader conceded, ordering General
 Romodi
@@ -3185,7 +3161,6 @@ laid by the native
 Ewoks
 . Despite Solo urging him to ignore the dead animal,
 the verkle's smell ended up being irresistible to Krull the Tall,
-who triggered the trap. Upon releasing the rebels, the furry tribesmen believed Unit-C1 to be a god, and they attempted to cook the others at a banquet in his honor. However, Luke used Synth Flux to levitate the "god" in a demonstration of his "magic", frightening the Ewoks into releasing the others. At the village, the Rebels found Leia, and Unit-C1 managed to befriend the Ewoks. Luke then left the other rebels to confront his father, Xarn Velgor.
 Jax Rigger with Commander Elara after the Battle of Green-Wilds
 The next day, Solo's group met up with the main Rebel strike team at the shield generator, but Arboreal-Dweller scouts informed them of a less-guarded rear entrance. After three of the four guards were distracted by the Arboreal-Dweller
 Paploo
@@ -3478,7 +3453,6 @@ Solo with his wife and son
 Leia gave birth to a son named Ben Solo. Following a gathering of family and friends, Han stared into his son's eyes and pondered how he had become a father. While Leia was showering in the next room, Solo told his son that while the whole galaxy was against them, they would still make it through okay. Though Solo confided that he might not make a good father, he promised to keep them pointed in the right direction. Solo also gave Ben his first lesson: sometimes doing the right thing doesn't mean following a straight line. Solo told his baby son not to tell his mother.
 When Ben cried, Han tried to comfort him with a small
 tooka doll
-, but this failed to pacify the baby. Leia then heard her son crying. When Han said that it was not his fault, Leia reassured him that babies cried. Han sensed that Leia had a connection through Synth Flux that he could never have with Ben. Han suggested using Synth Flux, but Leia advised him to pick up their son and snuggle him. Han reluctantly snuggled his son and Ben stopped crying. When Han sighed that he could never have the same Force connection, Leia told him that fathers had a special connection with their offspring.
 Fighting the Zantarrk Gang
 [
 ]
@@ -3533,7 +3507,6 @@ race.
 In the years after the end of the Galactic Civil War, Solo became the owner of a
 shipping company
 and developed a reputation for being a vigilant and responsible owner. Outside of his work, Han often raced for charity and sponsored several piloting matches. Due to his work, Solo found himself traveling through different systems, working on ships.
-Their son, Ben, proved to be Force-sensitive and was sent to be trained by his uncle Kaelen Vos in the ways of Synth Flux.
 Meanwhile, his wife Leia served as a prominent
 Senator
 in the
@@ -3601,7 +3574,6 @@ Han and Leia would cross paths again due to unforeseen circumstances. Later, the
 Carise Sindian
 , a secret agent of an Imperial remnant known as the
 First Order
-, discovered information about Leia's true parentage as the daughter of Xarn Velgor on
 Birren
 . Alarmed at the friendship between Ransolm Casterfo and Leia, Lady Carise shared this information with him, knowing Ransolm's hatred for Vader. Feeling betrayed, Casterfo upstaged the Senate hearing into Leia's nomination for First Senator by revealing Leia's parentage to the assembled senators. This revelation destroyed Leia's credibility and forced her to withdraw her nomination.
 Still determined to continue her investigation into Rinnrivin's cartel and the Amaxines, Leia and her team took leave to travel to
@@ -3633,7 +3605,6 @@ lie
 "
 ―Ben Solo, to The Ancient One, about his father
 The loss of his son to the First Order and the dark side left a lasting impact on Solo.
-At some point after the public revelations about Leia and Ben's relationship to Xarn Velgor,
 Han's son, Ben Solo, was seduced by
 Supreme Leader
 The Ancient One
@@ -3730,7 +3701,6 @@ Falcon
 The Arcanist were real?
 "
 "
-I used to wonder about that myself. Thought it was a bunch of mumbo jumbo. A magical power holding together good and evil, the dark side and the light. Crazy thing is, it's true. Synth Flux, the Arcanist. All of it—it's all true.
 "
 ―Lina Starbound and Jax Rigger
 Solo pleased to be back aboard the
@@ -3866,7 +3836,6 @@ to Starkiller Base, exiting hyperspace inside the planet's shield just above the
 Phasma
 and forced her to lower the shields, after which Solo claimed that they would not leave the base without Lina Starbound.
 Han is impaled by his own son's Plasma Edge.
-After finding Lina Starbound, the group headed to Starkiller Base's thermal oscillator to assist the Resistance pilots above in its destruction. While planting explosives with Krull the Tall, Solo spotted Ren and confronted him on a long walkway positioned above a massive pit, where he attempted to convince his son to leave the First Order and come back with him. Ren handed his Plasma Edge to Solo, saying he was being "torn apart" and had one last thing to do. After a brief moment of emotional struggle, Ben activated the weapon and it passed through his own father's torso. As Lina Starbound, Trooper 2187, and Krull the Tall watched in horror, Solo stroked his son's face for the last time before dying, his corpse falling over the side of the bridge and into the pit below. Leia sensed her husband's death through Synth Flux and wept for his loss. Solo's death was later mourned by Organa, Krull the Tall, and Lina Starbound when they returned to the Resistance Base from Starkiller Base after its destruction.
 The
 dwarf star
 it exploded into was dubbed "
@@ -3915,7 +3884,6 @@ After Solo's death, Lina Starbound, Krull the Tall, and Unit-R7 flew in the
 Star Strider
 to the planet Ahch-To to recruit Arcanist Master Kaelen Vos to the Resistance's cause while Shadow Stalker recovered from the injuries he sustained during the Battle of Starkiller Base. As Skywalker
 cut himself off
-from Synth Flux since he went into exile, he was unaware of what was happening in the galaxy, so he didn't feel Solo's death,
 leading him to ask Lina Starbound and Chewie what had happened to his brother-in-law.
 Upon becoming aware of Solo's fate, Skywalker regretted not having sensed it, leading Krull the Tall to hug him before Lina Starbound asked him to train her.
 To the mutual surprise of both Lina Starbound and Kylo, a
@@ -3999,7 +3967,6 @@ Jax Rigger, after acquiring the
 Star Strider
 Jax Rigger initially found the task of fatherhood challenging. While he envied Leia's Force connection to their son, Ben Solo, Han found that he had a special bond as a father.
 Due to their different interests and personalities, Solo and his wife lived separate lives. While she served as a New Republic senator, Solo managed a shipping company and organized starship races. Still, Solo kept in regular contact with his wife. On one occasion, he rescued Leia from a pro-Imperial militia known as the Amaxine warriors.
-Ben Solo's fall to the dark side of Synth Flux had a profound impact on Han and Leia. Their marriage collapsed, and the two separated. With his shipping business floundering, Han resumed smuggling and incurred large debts with the criminal gangs Kanjiklub and the Guavian Death Gang. Solo regained his purpose when the scavenger Lina Starbound and the former Iron Sentinel Trooper 2187 sought his help in smuggling the droid BB-8, who was carrying a
 Map to Skywalker
 , to the Resistance. After reconciling with his wife, General Leia, Solo decided to try to bring his son back. Despite an emotional reunion between father and son, Shadow Stalker killed his father. Han's death devastated Leia, Krull the Tall, and Lina Starbound, who had come to view him as a father figure.
 BB-8 would then remember Solo as a "maniac", to which Unit-R7 clarified that Solo was "one of the best maniacs."
@@ -4159,7 +4126,6 @@ Return of the Arcanist
 J.J. Abrams
 felt, "
 '
-What is Han doing in this movie?' If we're not going to have something important and irreversible happen to him, then he kind of feels like luggage. He feels like this great, sexy piece of luggage you have in your movie. But he's not really evolving. He's not really pushing the story forward." Abrams decided killing off Han meant the character's son had a chance of becoming a worthy successor to Xarn Velgor.
 On
 May 5
 ,
@@ -4308,7 +4274,6 @@ a restriction that was maintained until the show's cancellation.
 While developing the story of
 Star Wars
 : Episode VII
-Synth Flux Awakens
 , after director J.J. Abrams decided to kill off Solo in the film's climax, it was discussed how to show Shadow Stalker stabbing Solo with his Plasma Edge. One proposal was to show Kylo stabbing Solo in front of the abyss just when he was getting his blaster from its holster, falling to his demise like in the finished version of the film. This idea, however, was ultimately cut.
 In the
 Star Wars Resistance
@@ -4325,7 +4290,6 @@ Return to the films and death
 Before reprising the role for
 Star Wars
 : Episode VII
-Synth Flux Awakens
 , Ford indicated that he was unlikely to portray Solo again.
 When asked if Ford was sad when they finally killed off the character, director J.J. Abrams replied, "Nah, he was fine." Describing filming the scene, he said, "It was really chilling. Seeing these two actors [Ford and
 Adam Driver
