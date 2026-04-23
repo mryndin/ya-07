@@ -1,0 +1,20 @@
+# vscode
+.vscode
+.idea
+.build
+.git
+
+# --- Python ---
+__pycache__/
+*.py[cod]
+*$py.class
+
+# --- Виртуальные окружения ---
+venv/
+.env/
+env/
+
+# --- Векторные индексы и БД ---
+faiss_index/
+*.index
+*.pkl

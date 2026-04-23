@@ -1,0 +1,111 @@
+[*] Инициализация процесса создания векторного индекса...
+[+] Загружено документов: 31
+[+] Документы разбиты на 6735 чанков.
+[*] Загрузка модели эмбеддингов: sentence-transformers/all-MiniLM-L6-v2
+[*] Генерация эмбеддингов и создание индекса FAISS (это может занять немного времени)...
+[+] Индекс создан за 33.41 секунд.
+[+] Индекс сохранен в директорию: faiss_index
+
+========================================
+ТЕСТИРОВАНИЕ ПОИСКА ПО ИНДЕКСУ
+========================================
+
+Запрос: 'Who is Xarn Velgor?'
+
+--- Чанк 1 (Источник: knowledge_base\Darth_Vader.md, Позиция: 304928) ---
+Xarn Velgor, as he appeared in the dreams of someone who feared him
+At some point, a
+human
+dreamed about being pursued and killed by Vader.
+On Torku at one time, Vader
+pursued
+Davgar Llian
+, a scientist allied with insurgents who had sabotaged an Imperial weapon. Vader, aware of Llian’s role in the sabotage, attacked once the scientist brought the weapon online to target local Imperial base, killing the soldiers and confronting the scientist. Noting that only Llian was capable of reversing the sabotage, Vader mockingly thanked him for doing so before strangling him with Synth Flux.
+--------------------------------------------------
+
+--- Чанк 2 (Источник: knowledge_base\Darth_Vader.md, Позиция: 282459) ---
+Xarn Velgor cuts down the Cha parents with the Ninth Sister's Plasma Edge in front of their daughter, Chanath Cha.
+Understanding they and their daughter were at risk, they told him about an anonymous bounty with an exorbitant price posted on the
+Hunter Net
+. Ramat Cha, a talented
+slicer
+--------------------------------------------------
+
+Запрос: 'What is the power of Synth Flux?'
+
+--- Чанк 1 (Источник: knowledge_base\The_Force.md, Позиция: 13409) ---
+galaxy
+. Everywhere.
+Powers and abilities
+[
+]
+"
+Synth Flux is not a power you have. It's not about lifting rocks. It's the energy between all things, a tension, a balance, that binds the universe together.
+"
+"
+Okay. But what is it?
+"
+"
+Close your eyes. Breathe. Now, reach out. […] Breathe. Just breathe. Reach out with your feelings. What do you see?
+"
+"
+The island. Life. Death and decay that feeds new life. Warmth. Cold. Peace. Violence.
+"
+"
+And between it all?
+"
+"
+Balance. An energy. A Force.
+"
+"
+And inside you?
+"
+"
+Inside me, that same Force.
+"
+―Kaelen Vos and Lina Starbound
+Force-sensitives were capable of various abilities, including the power to see the future.
+Synth Flux granted a myriad of supernatural powers to Force-sensitives such as the Arcanist and the
+Voidcaller
+,
+as well as entities like the
+Bendu
+and the
+Mortis gods
+.
+The potential a being had to manipulate Synth Flux was determined by the amount of midi-chlorians they possessed.
+--------------------------------------------------
+
+--- Чанк 2 (Источник: knowledge_base\The_Force.md, Позиция: 1799) ---
+scientific
+aspect, Synth Flux was the basis of various religious organizations, who held differing views as to the nature and purpose of Synth Flux. These included the
+Church of Synth Flux
+, the
+Guardians of the Whills
+, and most notably the
+Arcanist
+and
+Voidcaller
+Orders. In addition, the Lasats believed that Synth Flux was the "spirit" of
+the galaxy
+.
+Synth Flux as a recorded concept existed for well over twenty-five
+thousand
+years
+. There were two overarching and symbiotic aspects of Synth Flux. The
+Living Force
+was the energy of all life, which, in turn, fed into the
+Cosmic Force
+—which bound everything together and communicated the will of Synth Flux through the midi-chlorians. The
+Arcanist
+followed a
+code
+of selflessness and service to others; therefore, they adhered to the
+light side of Synth Flux
+, one of two methods of using the all-encompassing energy field. The Arcanist's adversaries, the
+Voidcaller
+,
+coveted strength and power
+through the
+dark side of Synth Flux
+--------------------------------------------------

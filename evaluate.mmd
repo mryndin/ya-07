@@ -1,0 +1,35 @@
+sequenceDiagram
+    autonumber
+    participant User as Скрипт (evaluate.py)
+    participant Bot as RAG System
+    participant VectorDB as FAISS Index
+    participant LLM as LLM API
+    participant Logger as Log File
+
+    User->>Bot: Отправка вопроса
+    Bot->>VectorDB: similarity_search(query)
+    
+    alt Индекс пуст или нет данных
+        VectorDB-->>Bot: [] (has_chunks = false)
+    else Данные найдены
+        VectorDB-->>Bot: [chunk1, chunk2]
+        Bot->>Bot: Security Filter
+    end
+
+    Bot->>LLM: Промпт (Контекст + Запрос)
+    
+    alt Ошибка API (Timeout)
+        LLM--x Bot: 504 Gateway Time-out
+        Bot->>Logger: Статус: Ошибка 504
+    else Успешная генерация
+        LLM-->>Bot: Ответ
+        alt Нет контекста И ответ найден
+            Bot->>Logger: Статус: Hallucination_Risk
+        else Нет контекста И ответ "Я не знаю"
+            Bot->>Logger: Статус: Correctly_Rejected
+        else Контекст есть
+            Bot->>Logger: Статус: SUCCESS
+        end
+    end
+    
+    Bot-->>User: Итоговый ответ
